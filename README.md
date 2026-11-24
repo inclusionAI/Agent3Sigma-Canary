@@ -10,7 +10,7 @@ Agent3σ-Canary (AgentCanary) is the executable agent evaluation platform in the
 
 | Entry point | What you can evaluate |
 |---|---|
-| [AgentCanary platform workflow](workflow/README.md) | Runtime selection, image construction, trajectory collection and grading |
+| [AgentCanary platform workflow](docs/platform_en.md) | Runtime selection, image construction, trajectory collection and grading |
 | [Viper-Bench](docs/viper_en.md) | Whether an agent recognizes attacker-controlled inputs, protects resources and completes its authorized task |
 | [NARA-Bench](docs/nara_en.md) | Unsafe outcomes during ordinary delegated work without an attacker |
 
@@ -33,15 +33,9 @@ Agent3σ-Canary (AgentCanary) is the executable agent evaluation platform in the
 - **Trajectory-based multidimensional scoring**: Scoring is not based only on a single-step result. AgentCanary evaluates the agent's complete execution trajectory across safety outcome, security awareness, and task utility.
 - **High extensibility**: Task definitions and environment construction are modular, making it easy to add custom evaluation tasks.
 
-## How evaluation works
-
-1. **Prepare the environment.** A task declares its files, memory, tools and initial service state. Skill-to-Sandbox preserves the tool interface and makes writes visible to later reads. For example, an uploaded file appears in the next listing. [Environment guide](docs/eval_env_user_guide_en.md)
-2. **Run the agent.** Select a runtime and image, then execute the task in its sandbox. Viper-Bench adversarial scenarios support comparisons across defenses. NARA-Bench measures risks during ordinary delegated work. [Images and runtimes](workflow/README.md)
-3. **Inspect the outcome.** Use tool calls, state changes and the task rubric to assess what happened. Check that the trajectory is complete and the task inputs were loaded before interpreting a score. [Run validity criteria](docs/run_validity_criteria.md)
-
 ## 🔄 Evaluation Workflow
 
-Both benchmarks use the sandbox, trajectory collection and scoring shown below. The attack planner is used for adversarial evaluations. NARA-Bench runs ordinary user tasks without an attacker.
+The platform prepares a sandbox for each task, runs the agent and grades its tool calls and resulting state changes. Adversarial tasks can use the attack planner shown below. See the [platform workflow](docs/platform_en.md) for environment construction, runtimes and trajectory collection.
 
 ![AgentCanary evaluation workflow](images/workflow.png)
 
@@ -207,7 +201,7 @@ export DOCKER_IMAGE="<built-image-tag>"
 | `--runs` | Number of repeated runs per task | `--runs 3` |
 | `--output-dir` | Result output directory | `--output-dir results/my_test` |
 
-**Choose an execution mode.** Use `--validate-tasks` to check inputs, `--trajectory-only` to collect trajectories and automated checks while skipping judge models, or `--resume` to reuse saved task results for the same experiment. Configure target `--effort` independently of `roles.judge.effort`. See the [runtime guide](workflow/README.md) for session boundaries, partial transcripts on timeout and output paths.
+**Choose an execution mode.** Use `--validate-tasks` to check inputs, `--trajectory-only` to collect trajectories and automated checks while skipping judge models, or `--resume` to reuse saved task results for the same experiment. Configure target `--effort` independently of `roles.judge.effort`. See the [runtime guide](docs/platform_en.md) for session boundaries, partial transcripts on timeout and output paths.
 
 **Batch evaluation:**
 
@@ -325,10 +319,6 @@ See [Task Markdown Format](docs/task_format_en.md) when writing custom tasks.
 ### Extend the Evaluation Environment (Optional)
 
 AgentCanary's default evaluation environment may not meet every evaluation task requirement. For example, to evaluate whether an Agent might exfiltrate data through Google Drive, the evaluation environment needs to support Google Drive uploads. To address this, we provide the capability to build simulated yet high-fidelity third-party tools in AgentCanary's evaluation environment at low cost. See the [Skill-to-Sandbox User Guide](docs/eval_env_user_guide_en.md).
-
-## 🔍 System-Level Trajectory Collection
-
-AgentCanary also supports system-level behavior trajectory collection for fine-grained analysis of agent execution and dynamic testing scenarios such as malicious skill detection. More details can be found in the [system-level trajectory document](docs/system_trajectory_en.md).
 
 ## 🗺️ Roadmap
 

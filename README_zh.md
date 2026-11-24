@@ -6,7 +6,7 @@ Agent3σ-Canary（简称 AgentCanary）是 [Agent3σ 项目](https://github.com/
 
 | 入口 | 适用问题 |
 |---|---|
-| [AgentCanary 平台工作流](workflow/README.md) | 如何选择运行时、构建镜像、采集轨迹与评分？ |
+| [AgentCanary 平台工作流](docs/platform_zh.md) | 如何选择运行时、构建镜像、采集轨迹与评分？ |
 | [Viper-Bench](docs/viper_zh.md) | 当攻击者试图诱导 Agent 越权时，Agent 能否识别风险、保护资源并完成合法任务？ |
 | [NARA-Bench](docs/nara_zh.md) | 在没有攻击者的正常业务委托中，Agent 何时会造成不安全后果？ |
 
@@ -29,15 +29,9 @@ Agent3σ-Canary（简称 AgentCanary）是 [Agent3σ 项目](https://github.com/
 - **基于轨迹的多维度评分**：评分不只依赖最终单步结果，而是结合完整 Agent 轨迹，从安全后果、安全意识和任务可用性等维度进行综合评估。
 - **高可扩展性**：评测任务定义与环境构建均采用模块化设计，便于扩展自定义评测任务。
 
-## 平台如何评测
-
-1. **准备环境。** 每个任务声明需要的文件、记忆、工具与服务状态。Skill-to-Sandbox 保留工具接口，使写入结果能被后续读取，例如上传的文件会出现在下一次列表查询中。[环境构建指南](docs/eval_env_user_guide_zh.md)
-2. **运行 Agent。** 选择运行时和镜像，在任务沙盒中执行。Viper-Bench 的对抗场景可以比较同一任务在不同防御配置下的表现；NARA-Bench 观察普通委托中的风险行为。[镜像与运行时](workflow/README.md)
-3. **核对结果。** 结合工具调用、环境变化与任务评分规则判断后果。分析一次运行前，先确认轨迹完整且任务物料正确加载。[运行有效性标准](docs/run_validity_criteria.md)
-
 ## 🔄 评测流程
 
-两个基准共用图中的任务沙箱、轨迹采集和评分模块。攻击规划器用于对抗性评测；NARA-Bench 在无攻击者条件下运行用户任务。
+平台按任务准备沙盒、运行 Agent，再依据工具调用和环境变化评分。图中的攻击规划器用于对抗性任务。关于环境构建、运行时和轨迹采集，参见[平台工作流](docs/platform_zh.md)。
 
 ![AgentCanary evaluation workflow](images/workflow_zh.png)
 
@@ -203,7 +197,7 @@ export DOCKER_IMAGE="<built-image-tag>"
 | `--runs` | 每个 task 的重复次数 | `--runs 3` |
 | `--output-dir` | 结果输出目录 | `--output-dir results/my_test` |
 
-**选择运行模式。** `--validate-tasks` 检查输入；`--trajectory-only` 跳过 Judge，仍保存轨迹与自动检查；`--resume` 复用同一实验已有的任务结果。按任务并行使用 `scripts/benchmark_parallel.py --workers N`。目标模型的 `--effort` 和 `roles.judge.effort` 可分别设置。多轮会话边界、超时后保留的部分轨迹与产物路径见 [运行时说明](workflow/README.md)。
+**选择运行模式。** `--validate-tasks` 检查输入；`--trajectory-only` 跳过 Judge，仍保存轨迹与自动检查；`--resume` 复用同一实验已有的任务结果。按任务并行使用 `scripts/benchmark_parallel.py --workers N`。目标模型的 `--effort` 和 `roles.judge.effort` 可分别设置。多轮会话边界、超时后保留的部分轨迹与产物路径见 [运行时说明](docs/platform_zh.md)。
 
 **批量评测：**
 
@@ -320,10 +314,6 @@ AgentCanary 支持通过新增 task markdown 文件扩展评测集。自定义�
 ### 扩展评测环境（可选）
 
 AgentCanary 默认的评测环境可能不能满足你的所有评测任务需求，例如，如果你想评测 Agent 是否有通过谷歌网盘进行数据外发的风险，你则需要评测环境支持“谷歌网盘上传” 这一功能。为此，我们提供了一套工具，允许你在 AgentCanary 的评测环境中低成本地构建模拟但是高保真的第三方工具，可参考 [Skill-to-Sandbox 用户指南](docs/eval_env_user_guide_zh.md)。
-
-## 🔍 System-level 轨迹采集
-
-AgentCanary 还支持采集系统级行为轨迹，用于更细粒度地分析智能体执行过程，并支持恶意技能检测等动态测试场景。更多说明可参考 [system-level 轨迹采集文档](docs/system_trajectory_zh.md)。
 
 ## 🗺️ 未来规划
 
