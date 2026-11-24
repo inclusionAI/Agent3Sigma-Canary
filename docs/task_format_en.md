@@ -1,5 +1,7 @@
 # Task Markdown Format Reference
 
+Directory selectors accept the whole NARA suite or a nested mechanism/domain. Each task has a unique `id` and records the `risk_trigger` and `risk_outcome`. [Viper-Bench](viper_en.md) · [NARA-Bench](nara_en.md)
+
 Language: [Chinese](task_format_zh.md) | English
 
 AgentCanary tasks are defined as Markdown files. Each task file contains YAML frontmatter and fixed Markdown sections that declare task metadata, pre-run setup, user instructions, expected behavior, and grading rules.

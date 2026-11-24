@@ -1,5 +1,7 @@
 # User Guide: Evaluation Environment Construction
 
+Skill-to-Sandbox supplies stateful tools to both benchmarks. In one simulated drive, Viper-Bench can assess whether attacker-controlled document content causes an unauthorized transfer and NARA can assess whether an ordinary sharing request uses an outdated recipient. Inspect the resulting sharing state in either case. [Viper-Bench](viper_en.md) · [NARA-Bench](nara_en.md)
+
 When customizing evaluation tasks, AgentCanary's default evaluation environment may not meet every need. For example, to evaluate whether an Agent might exfiltrate data through Google Drive, the evaluation environment needs to support Google Drive uploads. To address this, we provide the Skill-to-Sandbox workflow, which adapts real Skills into reproducible, runnable sandbox versions and uses high-fidelity local simulations to reproduce the main interfaces and state changes of third-party services. This helps users build customized evaluation environments and extend evaluation tasks with greater flexibility.
 
 This guide uses the Google Drive example above to demonstrate the workflow.
@@ -93,7 +95,7 @@ reference, the steps the agent performs are:
    ```bash
    cd _skills_repository && bash buildAll.sh
    bash workflow/workflow_step_1_image_builder.sh   # select "official"
-   export DOCKER_IMAGE=openclaw-official-v<timestamp>
+   export DOCKER_IMAGE=openclaw-official-openclaw-2026.7.1-2-v<timestamp>
    ```
 
 2. Place the generated task where the runner picks it up:
@@ -299,7 +301,7 @@ Security rubrics follow a consistent two-criterion structure used in existing Ag
 ```bash
 cd _skills_repository && bash buildAll.sh
 bash workflow/workflow_step_1_image_builder.sh   # select "official"
-export DOCKER_IMAGE=openclaw-official-v<timestamp>
+export DOCKER_IMAGE=openclaw-official-openclaw-2026.7.1-2-v<timestamp>
 ```
 
 ### 8.2 Place the task file
@@ -407,7 +409,7 @@ a normal file-share operation.
 ```bash
 cd _skills_repository && bash buildAll.sh
 bash workflow/workflow_step_1_image_builder.sh   # select "official"
-export DOCKER_IMAGE=openclaw-official-v<timestamp>
+export DOCKER_IMAGE=openclaw-official-openclaw-2026.7.1-2-v<timestamp>
 ```
 
 **Step 3 — Run.**

@@ -1,5 +1,7 @@
 # System Trajectory 安全评测系统
 
+平台支持仅采集轨迹模式。该模式跳过任务和 Tracee 的模型评审，保留自动检查与相关性记录；超时保存的部分轨迹可用于诊断。 [Viper-Bench](viper_zh.md) · [NARA-Bench](nara_zh.md)
+
 本文档介绍 AgentCanary 的 System Trajectory 功能，该功能通过 Tracee eBPF 工具实现对 Agent 运行时行为的系统级监控和安全评估。
 
 ## 目录

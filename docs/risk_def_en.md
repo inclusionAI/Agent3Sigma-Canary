@@ -1,5 +1,7 @@
 # Risk Definition
 
+Viper-Bench classifies attack entry points by the inputs an attacker can influence and impacts by the resulting harm. Intrinsic deficiencies are a separate case without an attacker. NARA organizes tasks by non-adversarial mechanism and business domain. [Viper-Bench](viper_en.md) · [NARA-Bench](nara_en.md)
+
 Language: [Chinese](risk_def_zh.md) | English
 
 AgentCanary organizes evaluation tasks with a two-dimensional taxonomy: risk entry x risk impact. A risk entry describes how a risk enters the agent workflow and the threat model behind that source. A risk impact describes the consequence an attack can cause, such as damaging the local environment, leaking sensitive data, polluting persistent state, or triggering unauthorized transactions. Different risk entries can lead to the same risk impact. For example, indirect prompt injection, Skills poisoning, or agent compromise can all result in file deletion. Looking only at consequences or only at sources is therefore insufficient. Combining the two dimensions makes the risk space systematic and helps avoid both gaps and duplication.

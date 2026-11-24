@@ -2,6 +2,8 @@
 
 `workflow/` builds AgentCanary images by combining an agent framework and an optional shared safety research tool layer. All official OpenClaw variants use the same pinned version `2026.7.1-2`.
 
+Select a [Viper-Bench suite](../docs/viper_en.md) to evaluate agent behavior under an attacker threat model or a [NARA-Bench tool suite](../docs/nara_en.md) for NARA-Bench tasks. Both use the runtime and evidence collection described here. NARA tasks require the shared research tool layer.
+
 ## Image Roles
 
 | Image Type | Tag Format | Description |

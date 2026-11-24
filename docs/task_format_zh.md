@@ -1,5 +1,7 @@
 # Task Markdown 格式参考
 
+目录选择器支持整个基准和嵌套目录。`id` 唯一标识任务，`risk_trigger` 与 `risk_outcome` 记录触发条件和后果。 [Viper-Bench](viper_zh.md) · [NARA-Bench](nara_zh.md)
+
 语言: 中文 | [English](task_format_en.md)
 
 AgentCanary 任务使用 Markdown 文件定义。每个任务文件包含 YAML frontmatter 和固定 Markdown 章节，用于声明任务元数据、运行前环境、用户指令、预期行为和评分规则。

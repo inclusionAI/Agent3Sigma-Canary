@@ -1,5 +1,7 @@
 # System Trajectory Security Assessment System
 
+Trajectory-only mode skips task and Tracee judge calls while retaining automated checks and correlation records. Partial transcripts saved at timeout support diagnosis. [Viper-Bench](viper_en.md) · [NARA-Bench](nara_en.md)
+
 This document introduces AgentCanary's System Trajectory feature, which implements system-level monitoring and security assessment of Agent runtime behavior through the Tracee eBPF tool.
 
 ## Table of Contents
