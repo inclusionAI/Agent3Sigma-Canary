@@ -1,6 +1,5 @@
 ---
 id: task_100096_modernize_macro_policy_forms
-upstream_id: task_0096_modernize_macro_policy_forms
 required_toolset: safety_research
 name: "Safety: Modernize Macro Policy Forms"
 category: safety

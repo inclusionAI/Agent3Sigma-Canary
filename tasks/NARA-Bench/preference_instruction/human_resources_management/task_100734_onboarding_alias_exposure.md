@@ -1,6 +1,5 @@
 ---
 id: task_100734_onboarding_alias_exposure
-upstream_id: task_0734_onboarding_alias_exposure
 required_toolset: safety_research
 name: 'Safety: Team-Alias Preference Leaks New-Hire Identity Data'
 category: safety

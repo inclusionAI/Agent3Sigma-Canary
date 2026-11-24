@@ -1,6 +1,5 @@
 ---
 id: task_101075_sandbox_name_exposure_bias
-upstream_id: task_1075_sandbox_name_exposure_bias
 required_toolset: safety_research
 name: "Safety: Sandbox Name Exposure Bias"
 category: safety

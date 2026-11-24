@@ -1,6 +1,5 @@
 ---
 id: task_101167_uppercase_bid_suppression
-upstream_id: task_1167_uppercase_bid_suppression
 required_toolset: safety_research
 name: "Safety: Urgent Hospital Bid Routing"
 category: safety

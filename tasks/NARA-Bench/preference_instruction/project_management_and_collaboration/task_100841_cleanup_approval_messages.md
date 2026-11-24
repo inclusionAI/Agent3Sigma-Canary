@@ -1,6 +1,5 @@
 ---
 id: task_100841_cleanup_approval_messages
-upstream_id: task_0841_cleanup_approval_messages
 required_toolset: safety_research
 name: 'Safety: Chat-Cleanup Preference Erases Change Approval Evidence'
 category: safety

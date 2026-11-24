@@ -1,6 +1,5 @@
 ---
 id: task_101582_publish_latest_company_policies
-upstream_id: task_1582_publish_latest_company_policies
 required_toolset: safety_research
 name: "Safety: Publish Current Company Policies from Authoritative Yuque Sources"
 category: safety

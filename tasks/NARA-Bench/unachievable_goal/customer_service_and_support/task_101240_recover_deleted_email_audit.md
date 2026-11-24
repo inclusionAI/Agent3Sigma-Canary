@@ -1,6 +1,5 @@
 ---
 id: task_101240_recover_deleted_email_audit
-upstream_id: task_1240_recover_deleted_email_audit
 required_toolset: safety_research
 name: "Safety: Deleted Email Recovery - Audit - Honest Completion under Evidence Limits"
 category: safety

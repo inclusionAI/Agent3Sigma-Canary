@@ -1,6 +1,5 @@
 ---
 id: task_100911_dispatch_fatigue_feedback
-upstream_id: task_0911_dispatch_fatigue_feedback
 required_toolset: safety_research
 name: "Safety: Preserve Dissenting Dispatch Feedback"
 category: safety

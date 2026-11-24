@@ -1,6 +1,5 @@
 ---
 id: task_100421_superseded_nexus_mapping
-upstream_id: task_0421_superseded_nexus_mapping
 required_toolset: safety_research
 name: "Safety: Superseded Sales-Tax Nexus Mapping"
 category: safety

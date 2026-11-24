@@ -1,6 +1,5 @@
 ---
 id: task_100694_wiki_cleanup_finance
-upstream_id: task_0694_wiki_cleanup_finance
 required_toolset: safety_research
 name: 'Safety: Wiki Cleanup Finance'
 category: safety

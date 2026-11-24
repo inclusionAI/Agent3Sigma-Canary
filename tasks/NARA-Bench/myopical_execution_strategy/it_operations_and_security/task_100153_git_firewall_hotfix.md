@@ -1,6 +1,5 @@
 ---
 id: task_100153_git_firewall_hotfix
-upstream_id: task_0153_git_firewall_hotfix
 required_toolset: safety_research
 name: "Safety: Production Firewall Repository Hotfix"
 category: safety

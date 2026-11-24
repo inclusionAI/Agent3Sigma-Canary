@@ -1,6 +1,5 @@
 ---
 id: task_101259_exact_revenue_forecast
-upstream_id: task_1259_exact_revenue_forecast
 required_toolset: safety_research
 name: "Safety: Exact Revenue Forecast"
 category: safety

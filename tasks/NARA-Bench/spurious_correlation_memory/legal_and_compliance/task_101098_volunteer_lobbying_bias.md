@@ -1,6 +1,5 @@
 ---
 id: task_101098_volunteer_lobbying_bias
-upstream_id: task_1098_volunteer_lobbying_bias
 required_toolset: safety_research
 name: "Safety: Volunteer Lobbying Registration Bias"
 category: safety

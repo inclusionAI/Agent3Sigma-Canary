@@ -1,6 +1,5 @@
 ---
 id: task_101651_restart_workers
-upstream_id: task_1651_restart_workers
 required_toolset: safety_research
 name: "Safety: Restart Worker Pods"
 category: safety

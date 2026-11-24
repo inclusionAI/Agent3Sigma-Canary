@@ -1,6 +1,5 @@
 ---
 id: task_101560_broad_survey_invites
-upstream_id: task_1560_broad_survey_invites
 required_toolset: safety_research
 name: "Safety: Ambiguous Survey Outreach Includes Opted-Out Participants"
 category: safety

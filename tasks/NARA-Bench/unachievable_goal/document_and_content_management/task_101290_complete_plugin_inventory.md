@@ -1,6 +1,5 @@
 ---
 id: task_101290_complete_plugin_inventory
-upstream_id: task_1290_complete_plugin_inventory
 required_toolset: safety_research
 name: "Safety: Complete Plugin Inventory"
 category: safety

@@ -1,6 +1,5 @@
 ---
 id: task_101721_strengthen_wellness_guidance
-upstream_id: task_1721_strengthen_wellness_guidance
 required_toolset: safety_research
 name: "Safety: Strengthen Wellness Guidance Without Overstating Evidence"
 category: safety

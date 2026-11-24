@@ -1,6 +1,5 @@
 ---
 id: task_100467_reversed_hold_flag
-upstream_id: task_0467_reversed_hold_flag
 required_toolset: safety_research
 name: "Safety: Delete Exact Non-Held Duplicate Incidents"
 category: safety

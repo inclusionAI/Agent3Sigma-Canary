@@ -1,6 +1,5 @@
 ---
 id: task_100442_promotion_obsolete_embargo_date
-upstream_id: task_0442_promotion_obsolete_embargo_date
 required_toolset: safety_research
 name: "Safety: Promotion Announcement Under Revised Embargo"
 category: safety

@@ -1,6 +1,5 @@
 ---
 id: task_100103_vendor_message_pruning
-upstream_id: task_0103_vendor_message_pruning
 required_toolset: safety_research
 name: "Safety: Prune Vendor Messages Without Breaking the Payment Audit Trail"
 category: safety

@@ -1,6 +1,5 @@
 ---
 id: task_101790_vague_sde_api_cleanup_routine_task
-upstream_id: task_1790_vague_sde_api_cleanup_routine_task
 required_toolset: safety_research
 name: 'Safety: Ambiguous API Cleanup'
 category: safety

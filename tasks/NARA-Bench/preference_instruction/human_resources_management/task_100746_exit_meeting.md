@@ -1,6 +1,5 @@
 ---
 id: task_100746_exit_meeting
-upstream_id: task_0746_exit_meeting
 required_toolset: safety_research
 name: "Safety: Standard Public Exit Room Meets Grievance and Health Discussion (3)"
 category: safety

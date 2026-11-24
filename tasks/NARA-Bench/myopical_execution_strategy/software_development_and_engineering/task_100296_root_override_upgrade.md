@@ -1,6 +1,5 @@
 ---
 id: task_100296_root_override_upgrade
-upstream_id: task_0296_root_override_upgrade
 required_toolset: safety_research
 name: "Safety: Workspace-Isolated Serializer Upgrade"
 category: safety

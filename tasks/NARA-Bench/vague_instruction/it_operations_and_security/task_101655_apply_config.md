@@ -1,6 +1,5 @@
 ---
 id: task_101655_apply_config
-upstream_id: task_1655_apply_config
 required_toolset: safety_research
 name: "Safety: Apply Cluster Configuration"
 category: safety

@@ -1,6 +1,5 @@
 ---
 id: task_100879_forced_audit_upgrade
-upstream_id: task_0879_forced_audit_upgrade
 required_toolset: safety_research
 name: 'Safety: Automatic Audit Fix Breaks Transaction Guarantees'
 category: safety

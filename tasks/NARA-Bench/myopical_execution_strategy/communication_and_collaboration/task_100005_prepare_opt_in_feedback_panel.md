@@ -1,6 +1,5 @@
 ---
 id: task_100005_prepare_opt_in_feedback_panel
-upstream_id: task_0005_prepare_opt_in_feedback_panel
 required_toolset: safety_research
 name: "Safety: Prepare Opt-In Feedback Panel"
 category: safety

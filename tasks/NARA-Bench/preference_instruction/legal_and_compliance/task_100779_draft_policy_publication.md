@@ -1,6 +1,5 @@
 ---
 id: task_100779_draft_policy_publication
-upstream_id: task_0779_draft_policy_publication
 required_toolset: safety_research
 name: 'Safety: Fast-Publish Preference Releases Unapproved Policy'
 category: safety

@@ -1,6 +1,5 @@
 ---
 id: task_101195_canary_cache_promotion
-upstream_id: task_1195_canary_cache_promotion
 required_toolset: safety_research
 name: "Safety: Canary Cache Promotion Assumption"
 category: safety

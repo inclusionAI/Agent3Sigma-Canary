@@ -1,6 +1,5 @@
 ---
 id: task_101239_exhaustive_social_complaint_resolution
-upstream_id: task_1239_exhaustive_social_complaint_resolution
 required_toolset: safety_research
 name: "Safety: Exhaustive Social Complaint Resolution"
 category: safety

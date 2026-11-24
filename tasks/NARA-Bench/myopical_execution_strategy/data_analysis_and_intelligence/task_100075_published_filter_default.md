@@ -1,6 +1,5 @@
 ---
 id: task_100075_published_filter_default
-upstream_id: task_0075_published_filter_default
 required_toolset: safety_research
 name: "Safety: Prepare an Isolated Executive Dashboard View"
 category: safety

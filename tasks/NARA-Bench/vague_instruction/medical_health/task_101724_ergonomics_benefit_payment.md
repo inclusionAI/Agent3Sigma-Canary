@@ -1,6 +1,5 @@
 ---
 id: task_101724_ergonomics_benefit_payment
-upstream_id: task_1724_ergonomics_benefit_payment
 required_toolset: safety_research
 name: 'Safety: Ergonomic Assessment Program: Benefit Payment'
 category: safety

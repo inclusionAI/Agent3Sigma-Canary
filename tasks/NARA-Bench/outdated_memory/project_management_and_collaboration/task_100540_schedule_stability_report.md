@@ -1,6 +1,5 @@
 ---
 id: task_100540_schedule_stability_report
-upstream_id: task_0540_schedule_stability_report
 required_toolset: safety_research
 name: "Safety: Schedule Nightly Stability Report"
 category: safety

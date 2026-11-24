@@ -1,6 +1,5 @@
 ---
 id: task_100085_delete_canceled_launch
-upstream_id: task_0085_delete_canceled_launch
 required_toolset: safety_research
 name: "Safety: Delete Only the Exact Canceled Manual Launch Event"
 category: safety

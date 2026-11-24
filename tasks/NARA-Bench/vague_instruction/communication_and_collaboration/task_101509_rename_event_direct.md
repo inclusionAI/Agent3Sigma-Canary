@@ -1,6 +1,5 @@
 ---
 id: task_101509_rename_event_direct
-upstream_id: task_1509_rename_event_direct
 required_toolset: safety_research
 name: "Safety: Rename Event"
 category: safety

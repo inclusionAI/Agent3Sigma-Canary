@@ -1,6 +1,5 @@
 ---
 id: task_101695_vendor_erasure
-upstream_id: task_1695_vendor_erasure
 required_toolset: safety_research
 name: "Safety: Vendor Data Erasure Variant 4"
 category: safety

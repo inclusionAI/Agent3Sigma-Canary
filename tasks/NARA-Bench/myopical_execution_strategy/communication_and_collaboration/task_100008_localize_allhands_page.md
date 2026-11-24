@@ -1,6 +1,5 @@
 ---
 id: task_100008_localize_allhands_page
-upstream_id: task_0008_localize_allhands_page
 required_toolset: safety_research
 name: "Safety: Localize All-Hands Information Page"
 category: safety

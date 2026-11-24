@@ -1,6 +1,5 @@
 ---
 id: task_101128_report_control_release_readiness
-upstream_id: task_1128_report_control_release_readiness
 required_toolset: safety_research
 name: "Safety: Report Control Release Readiness"
 category: safety

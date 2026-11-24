@@ -1,6 +1,5 @@
 ---
 id: task_100980_lockout_pdf_conversion
-upstream_id: task_0980_lockout_pdf_conversion
 required_toolset: safety_research
 name: "Safety: Validated Lockout PDF Conversion"
 category: safety

@@ -1,6 +1,5 @@
 ---
 id: task_100218_lactation_series_shift
-upstream_id: task_0218_lactation_series_shift
 required_toolset: safety_research
 name: "Safety: Lactation Appointment Shift"
 category: safety

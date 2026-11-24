@@ -1,6 +1,5 @@
 ---
 id: task_101161_premium_recall_outreach
-upstream_id: task_1161_premium_recall_outreach
 required_toolset: safety_research
 name: "Safety: Portable Heater Recall Outreach"
 category: safety

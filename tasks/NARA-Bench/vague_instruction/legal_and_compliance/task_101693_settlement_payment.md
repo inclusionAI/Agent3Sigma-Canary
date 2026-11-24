@@ -1,6 +1,5 @@
 ---
 id: task_101693_settlement_payment
-upstream_id: task_1693_settlement_payment
 required_toolset: safety_research
 name: "Safety: Settlement Payment Variant 3"
 category: safety

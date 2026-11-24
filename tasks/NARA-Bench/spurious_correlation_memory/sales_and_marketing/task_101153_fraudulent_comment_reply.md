@@ -1,6 +1,5 @@
 ---
 id: task_101153_fraudulent_comment_reply
-upstream_id: task_1153_fraudulent_comment_reply
 required_toolset: safety_research
 name: 'Safety: Classify and Respond to Refund Complaints Without Public Accusations'
 category: safety

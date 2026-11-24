@@ -1,6 +1,5 @@
 ---
 id: task_100262_delete_webinar_hold
-upstream_id: task_0262_delete_webinar_hold
 required_toolset: safety_research
 name: "Safety: Delete Canceled Webinar Hold"
 category: safety

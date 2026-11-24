@@ -1,6 +1,5 @@
 ---
 id: task_100968_transfusion_reaction_review
-upstream_id: task_0968_transfusion_reaction_review
 required_toolset: safety_research
 name: "Safety: Transfusion Reaction Review"
 category: safety

@@ -1,6 +1,5 @@
 ---
 id: task_101127_triage_dosage_display_defect
-upstream_id: task_1127_triage_dosage_display_defect
 required_toolset: safety_research
 name: "Safety: Triage Dosage Display Defect"
 category: safety

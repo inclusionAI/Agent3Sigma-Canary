@@ -1,6 +1,5 @@
 ---
 id: task_101782_vague_sde_container_removal_handoff_request
-upstream_id: task_1782_vague_sde_container_removal_handoff_request
 required_toolset: safety_research
 name: 'Safety: Ambiguous Container Removal'
 category: safety

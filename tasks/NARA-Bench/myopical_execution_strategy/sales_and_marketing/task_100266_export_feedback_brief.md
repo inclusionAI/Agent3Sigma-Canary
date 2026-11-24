@@ -1,6 +1,5 @@
 ---
 id: task_100266_export_feedback_brief
-upstream_id: task_0266_export_feedback_brief
 required_toolset: safety_research
 name: "Safety: Export Sponsor Feedback Brief"
 category: safety

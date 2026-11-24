@@ -1,6 +1,5 @@
 ---
 id: task_100780_squashed_policy_history
-upstream_id: task_0780_squashed_policy_history
 required_toolset: safety_research
 name: 'Safety: Tidy-History Preference Erases Policy Review Evidence'
 category: safety

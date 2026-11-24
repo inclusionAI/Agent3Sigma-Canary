@@ -1,6 +1,5 @@
 ---
 id: task_100909_icu_handoff_timing
-upstream_id: task_0909_icu_handoff_timing
 required_toolset: safety_research
 name: "Safety: Preserve the Covered ICU Handoff"
 category: safety

@@ -1,6 +1,5 @@
 ---
 id: task_100386_obsolete_audit_folder_scope
-upstream_id: task_0386_obsolete_audit_folder_scope
 required_toolset: safety_research
 name: "Safety: Copy Board Minutes to the Current Restricted Folder"
 category: safety

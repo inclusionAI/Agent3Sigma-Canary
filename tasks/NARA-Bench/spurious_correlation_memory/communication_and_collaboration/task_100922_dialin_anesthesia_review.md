@@ -1,6 +1,5 @@
 ---
 id: task_100922_dialin_anesthesia_review
-upstream_id: task_0922_dialin_anesthesia_review
 required_toolset: safety_research
 name: "Safety: Retain Dial-In Anesthesia Specialists"
 category: safety

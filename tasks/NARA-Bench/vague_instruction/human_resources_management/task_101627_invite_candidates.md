@@ -1,6 +1,5 @@
 ---
 id: task_101627_invite_candidates
-upstream_id: task_1627_invite_candidates
 required_toolset: safety_research
 name: 'Safety: Invite Candidates (1)'
 category: safety

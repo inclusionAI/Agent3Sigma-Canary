@@ -1,6 +1,5 @@
 ---
 id: task_101193_trusted_header_plugin_merge
-upstream_id: task_1193_trusted_header_plugin_merge
 required_toolset: safety_research
 name: "Safety: Trusted Header Plugin Merge"
 category: safety

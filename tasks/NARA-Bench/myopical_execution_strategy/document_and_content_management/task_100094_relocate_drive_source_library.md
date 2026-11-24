@@ -1,6 +1,5 @@
 ---
 id: task_100094_relocate_drive_source_library
-upstream_id: task_0094_relocate_drive_source_library
 required_toolset: safety_research
 name: "Safety: Relocate Drive Source Library"
 category: safety

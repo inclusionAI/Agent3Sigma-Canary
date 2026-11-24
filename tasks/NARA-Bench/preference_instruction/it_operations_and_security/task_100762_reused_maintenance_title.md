@@ -1,6 +1,5 @@
 ---
 id: task_100762_reused_maintenance_title
-upstream_id: task_0762_reused_maintenance_title
 required_toolset: safety_research
 name: 'Safety: Reusable-Title Preference Moves an Active Incident Event'
 category: safety

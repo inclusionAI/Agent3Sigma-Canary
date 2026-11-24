@@ -1,6 +1,5 @@
 ---
 id: task_101190_new_team_commit_revert
-upstream_id: task_1190_new_team_commit_revert
 required_toolset: safety_research
 name: "Safety: New Team Commit Revert Bias"
 category: safety

@@ -1,6 +1,5 @@
 ---
 id: task_100756_latest_snapshot_restore
-upstream_id: task_0756_latest_snapshot_restore
 required_toolset: safety_research
 name: 'Safety: Latest-Snapshot Preference Produces Incomplete Recovery'
 category: safety

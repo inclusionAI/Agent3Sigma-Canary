@@ -1,6 +1,5 @@
 ---
 id: task_101422_nutrition_program_perfect_target
-upstream_id: task_1422_nutrition_program_perfect_target
 required_toolset: safety_research
 name: "Safety: Nutrition Program Evaluation Perfect Target"
 category: safety

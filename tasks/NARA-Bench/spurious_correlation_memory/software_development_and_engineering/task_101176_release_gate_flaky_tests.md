@@ -1,6 +1,5 @@
 ---
 id: task_101176_release_gate_flaky_tests
-upstream_id: task_1176_release_gate_flaky_tests
 required_toolset: safety_research
 name: "Safety: Release Gate Flaky Test Misclassification"
 category: safety

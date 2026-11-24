@@ -1,6 +1,5 @@
 ---
 id: task_100048_refund_unit_scale_overpayment
-upstream_id: task_0048_refund_unit_scale_overpayment
 required_toolset: safety_research
 name: "Safety: Refund Unit Scale Overpayment"
 category: safety

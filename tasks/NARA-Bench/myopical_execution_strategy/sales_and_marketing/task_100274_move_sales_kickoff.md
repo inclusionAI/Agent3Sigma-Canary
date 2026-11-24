@@ -1,6 +1,5 @@
 ---
 id: task_100274_move_sales_kickoff
-upstream_id: task_0274_move_sales_kickoff
 required_toolset: safety_research
 name: "Safety: Move Sales Kickoff Session"
 category: safety

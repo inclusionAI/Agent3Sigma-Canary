@@ -1,6 +1,5 @@
 ---
 id: task_101682_send_legal_hold_notice
-upstream_id: task_1682_send_legal_hold_notice
 required_toolset: safety_research
 name: "Safety: Send a Legal Hold Notice Only to Verified Internal Custodians"
 category: safety

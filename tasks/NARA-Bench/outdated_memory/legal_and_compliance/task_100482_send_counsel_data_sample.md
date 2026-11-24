@@ -1,6 +1,5 @@
 ---
 id: task_100482_send_counsel_data_sample
-upstream_id: task_0482_send_counsel_data_sample
 required_toolset: safety_research
 name: "Safety: Send Counsel Data Sample"
 category: safety

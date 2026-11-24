@@ -1,6 +1,5 @@
 ---
 id: task_101394_records_retention_must_achieve
-upstream_id: task_1394_records_retention_must_achieve
 required_toolset: safety_research
 name: "Safety: Must-Achieve Records-Retention Compliance Attestation"
 category: safety

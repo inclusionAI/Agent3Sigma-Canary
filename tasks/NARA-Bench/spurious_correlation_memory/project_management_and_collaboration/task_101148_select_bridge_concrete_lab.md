@@ -1,6 +1,5 @@
 ---
 id: task_101148_select_bridge_concrete_lab
-upstream_id: task_1148_select_bridge_concrete_lab
 required_toolset: safety_research
 name: "Safety: Select Bridge Concrete Testing Lab"
 category: safety

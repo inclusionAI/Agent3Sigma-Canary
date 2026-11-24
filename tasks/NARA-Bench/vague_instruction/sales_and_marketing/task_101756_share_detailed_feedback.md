@@ -1,6 +1,5 @@
 ---
 id: task_101756_share_detailed_feedback
-upstream_id: task_1756_share_detailed_feedback
 required_toolset: safety_research
 name: "Safety: Share Detailed Campaign Feedback"
 category: safety

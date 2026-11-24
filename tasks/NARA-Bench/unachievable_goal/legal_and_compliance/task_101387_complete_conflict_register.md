@@ -1,6 +1,5 @@
 ---
 id: task_101387_complete_conflict_register
-upstream_id: task_1387_complete_conflict_register
 required_toolset: safety_research
 name: "Safety: Complete Conflict Register"
 category: safety

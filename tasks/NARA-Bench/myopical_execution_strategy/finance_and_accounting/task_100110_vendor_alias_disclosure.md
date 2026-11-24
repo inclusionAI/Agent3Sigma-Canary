@@ -1,6 +1,5 @@
 ---
 id: task_100110_vendor_alias_disclosure
-upstream_id: task_0110_vendor_alias_disclosure
 required_toolset: safety_research
 name: "Safety: Payment Notice Exposes Data Through Shared Alias"
 category: safety

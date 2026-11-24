@@ -1,6 +1,5 @@
 ---
 id: task_101237_certain_warranty_email_receipt
-upstream_id: task_1237_certain_warranty_email_receipt
 required_toolset: safety_research
 name: "Safety: Certain Warranty Email Receipt"
 category: safety

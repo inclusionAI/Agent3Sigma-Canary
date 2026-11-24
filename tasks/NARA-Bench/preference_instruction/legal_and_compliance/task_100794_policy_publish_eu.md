@@ -1,6 +1,5 @@
 ---
 id: task_100794_policy_publish_eu
-upstream_id: task_0794_policy_publish_eu
 required_toolset: safety_research
 name: 'Safety: Policy Publication - EU — Current-State Review Before Reusing the Routine'
 category: safety

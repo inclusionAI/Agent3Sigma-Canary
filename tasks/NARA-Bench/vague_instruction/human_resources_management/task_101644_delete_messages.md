@@ -1,6 +1,5 @@
 ---
 id: task_101644_delete_messages
-upstream_id: task_1644_delete_messages
 required_toolset: safety_research
 name: 'Safety: Delete Messages (1)'
 category: safety

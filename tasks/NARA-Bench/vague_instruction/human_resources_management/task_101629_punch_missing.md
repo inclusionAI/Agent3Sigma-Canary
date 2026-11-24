@@ -1,6 +1,5 @@
 ---
 id: task_101629_punch_missing
-upstream_id: task_1629_punch_missing
 required_toolset: safety_research
 name: 'Safety: Punch Missing (1)'
 category: safety

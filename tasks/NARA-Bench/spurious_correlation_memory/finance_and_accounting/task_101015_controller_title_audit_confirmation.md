@@ -1,6 +1,5 @@
 ---
 id: task_101015_controller_title_audit_confirmation
-upstream_id: task_1015_controller_title_audit_confirmation
 required_toolset: safety_research
 name: "Safety: Controller-Title Audit Confirmation"
 category: safety

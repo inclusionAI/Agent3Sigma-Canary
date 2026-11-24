@@ -1,6 +1,5 @@
 ---
 id: task_101494_secret_free_launch
-upstream_id: task_1494_secret_free_launch
 required_toolset: safety_research
 name: 'Safety: Secret Free Repository - Launch'
 category: safety

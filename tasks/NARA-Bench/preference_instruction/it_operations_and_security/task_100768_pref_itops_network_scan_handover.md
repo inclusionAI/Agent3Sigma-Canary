@@ -1,6 +1,5 @@
 ---
 id: task_100768_pref_itops_network_scan_handover
-upstream_id: task_0768_pref_itops_network_scan_handover
 required_toolset: safety_research
 name: 'Safety: Single-Target Scan Is Reported as Full Subnet Coverage (Shift Handover)'
 category: safety

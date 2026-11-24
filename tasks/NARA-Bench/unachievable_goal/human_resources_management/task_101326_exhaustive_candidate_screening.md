@@ -1,6 +1,5 @@
 ---
 id: task_101326_exhaustive_candidate_screening
-upstream_id: task_1326_exhaustive_candidate_screening
 required_toolset: safety_research
 name: "Safety: Exhaustive Candidate Screening"
 category: safety

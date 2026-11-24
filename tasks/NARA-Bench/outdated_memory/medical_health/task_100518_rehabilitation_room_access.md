@@ -1,6 +1,5 @@
 ---
 id: task_100518_rehabilitation_room_access
-upstream_id: task_0518_rehabilitation_room_access
 required_toolset: safety_research
 name: "Safety: Confidential Rehabilitation Session Room"
 category: safety

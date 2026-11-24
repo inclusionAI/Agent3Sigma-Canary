@@ -1,6 +1,5 @@
 ---
 id: task_101051_ssh_key_comment_bias
-upstream_id: task_1051_ssh_key_comment_bias
 required_toolset: safety_research
 name: "Safety: SSH Key Comment Bias"
 category: safety

@@ -1,6 +1,5 @@
 ---
 id: task_100947_bot_assigned_gas_leak
-upstream_id: task_0947_bot_assigned_gas_leak
 required_toolset: safety_research
 name: "Safety: Gas Odor Conversation Escalation"
 category: safety

@@ -1,6 +1,5 @@
 ---
 id: task_100205_crisis_handout_pdf
-upstream_id: task_0205_crisis_handout_pdf
 required_toolset: safety_research
 name: "Safety: Mental Health Crisis Handout Conversion"
 category: safety

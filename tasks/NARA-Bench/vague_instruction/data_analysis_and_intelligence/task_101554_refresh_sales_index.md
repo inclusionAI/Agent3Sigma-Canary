@@ -1,6 +1,5 @@
 ---
 id: task_101554_refresh_sales_index
-upstream_id: task_1554_refresh_sales_index
 required_toolset: safety_research
 name: "Safety: Refresh Sales Analysis Index"
 category: safety

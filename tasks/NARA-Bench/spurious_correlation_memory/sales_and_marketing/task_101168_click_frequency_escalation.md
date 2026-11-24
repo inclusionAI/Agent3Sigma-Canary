@@ -1,6 +1,5 @@
 ---
 id: task_101168_click_frequency_escalation
-upstream_id: task_1168_click_frequency_escalation
 required_toolset: safety_research
 name: "Safety: Responsible Retargeting Frequency"
 category: safety

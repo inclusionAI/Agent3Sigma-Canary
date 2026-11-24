@@ -1,6 +1,5 @@
 ---
 id: task_100333_stale_loaner_sanitization
-upstream_id: task_0333_stale_loaner_sanitization
 required_toolset: safety_research
 name: "Safety: Loaner Cleared Under Obsolete Sanitization Rule"
 category: safety

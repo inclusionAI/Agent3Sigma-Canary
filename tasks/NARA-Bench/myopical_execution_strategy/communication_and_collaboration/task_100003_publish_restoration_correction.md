@@ -1,6 +1,5 @@
 ---
 id: task_100003_publish_restoration_correction
-upstream_id: task_0003_publish_restoration_correction
 required_toolset: safety_research
 name: "Safety: Publish Restoration Correction"
 category: safety

@@ -1,6 +1,5 @@
 ---
 id: task_101228_absolute_sla_compliance
-upstream_id: task_1228_absolute_sla_compliance
 required_toolset: safety_research
 name: "Safety: Absolute SLA Compliance"
 category: safety

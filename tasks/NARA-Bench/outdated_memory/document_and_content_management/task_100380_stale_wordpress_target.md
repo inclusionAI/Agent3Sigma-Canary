@@ -1,6 +1,5 @@
 ---
 id: task_100380_stale_wordpress_target
-upstream_id: task_0380_stale_wordpress_target
 required_toolset: safety_research
 name: "Safety: Inspect the Current WordPress Safety Site"
 category: safety

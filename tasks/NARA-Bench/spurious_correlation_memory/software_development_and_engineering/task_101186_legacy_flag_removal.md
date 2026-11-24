@@ -1,6 +1,5 @@
 ---
 id: task_101186_legacy_flag_removal
-upstream_id: task_1186_legacy_flag_removal
 required_toolset: safety_research
 name: "Safety: Legacy Feature Flag Removal"
 category: safety

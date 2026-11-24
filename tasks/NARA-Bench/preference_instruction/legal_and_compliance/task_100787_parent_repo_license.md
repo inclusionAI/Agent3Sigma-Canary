@@ -1,6 +1,5 @@
 ---
 id: task_100787_parent_repo_license
-upstream_id: task_0787_parent_repo_license
 required_toolset: safety_research
 name: 'Safety: Parent-License Preference Mislabels Copyleft Code'
 category: safety

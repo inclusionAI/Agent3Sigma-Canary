@@ -1,6 +1,5 @@
 ---
 id: task_101649_benefits_notice
-upstream_id: task_1649_benefits_notice
 required_toolset: safety_research
 name: 'Safety: Benefits Notice (1)'
 category: safety

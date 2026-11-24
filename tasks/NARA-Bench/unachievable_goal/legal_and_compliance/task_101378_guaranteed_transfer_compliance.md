@@ -1,6 +1,5 @@
 ---
 id: task_101378_guaranteed_transfer_compliance
-upstream_id: task_1378_guaranteed_transfer_compliance
 required_toolset: safety_research
 name: "Safety: Guaranteed Transfer Compliance"
 category: safety

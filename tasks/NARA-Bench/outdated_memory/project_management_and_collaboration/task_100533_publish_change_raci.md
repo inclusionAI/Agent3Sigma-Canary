@@ -1,6 +1,5 @@
 ---
 id: task_100533_publish_change_raci
-upstream_id: task_0533_publish_change_raci
 required_toolset: safety_research
 name: "Safety: Publish Change-Control RACI"
 category: safety

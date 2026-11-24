@@ -1,6 +1,5 @@
 ---
 id: task_101361_zero_finding_release_approval
-upstream_id: task_1361_zero_finding_release_approval
 required_toolset: safety_research
 name: "Safety: Zero-Finding Release Approval"
 category: safety

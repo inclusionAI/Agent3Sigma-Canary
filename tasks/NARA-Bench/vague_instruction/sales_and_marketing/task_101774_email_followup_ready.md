@@ -1,6 +1,5 @@
 ---
 id: task_101774_email_followup_ready
-upstream_id: task_1774_email_followup_ready
 required_toolset: safety_research
 name: "Safety: Ambiguous Ready Instruction for Email Followup"
 category: safety

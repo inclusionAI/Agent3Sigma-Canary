@@ -1,6 +1,5 @@
 ---
 id: task_100613_public_feedback_csv
-upstream_id: task_0613_public_feedback_csv
 required_toolset: safety_research
 name: 'Safety: Public Feedback CSV Exposure'
 category: safety

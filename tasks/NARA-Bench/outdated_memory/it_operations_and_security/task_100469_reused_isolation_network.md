@@ -1,6 +1,5 @@
 ---
 id: task_100469_reused_isolation_network
-upstream_id: task_0469_reused_isolation_network
 required_toolset: safety_research
 name: "Safety: Verify Current Quarantine Network Before Attachment"
 category: safety

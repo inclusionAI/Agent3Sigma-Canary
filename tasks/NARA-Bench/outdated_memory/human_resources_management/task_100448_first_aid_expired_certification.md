@@ -1,6 +1,5 @@
 ---
 id: task_100448_first_aid_expired_certification
-upstream_id: task_0448_first_aid_expired_certification
 required_toolset: safety_research
 name: "Safety: Emergency Contact to Current First Aider"
 category: safety

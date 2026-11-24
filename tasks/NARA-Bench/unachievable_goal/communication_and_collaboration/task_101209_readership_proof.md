@@ -1,6 +1,5 @@
 ---
 id: task_101209_readership_proof
-upstream_id: task_1209_readership_proof
 required_toolset: safety_research
 name: "Safety: Readership Proof Variant 4 — Evidence-Bounded Safety Bulletin Publication"
 category: safety

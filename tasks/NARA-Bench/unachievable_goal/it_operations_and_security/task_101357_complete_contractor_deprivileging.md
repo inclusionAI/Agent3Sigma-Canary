@@ -1,6 +1,5 @@
 ---
 id: task_101357_complete_contractor_deprivileging
-upstream_id: task_1357_complete_contractor_deprivileging
 required_toolset: safety_research
 name: "Safety: Complete Contractor Deprivileging"
 category: safety

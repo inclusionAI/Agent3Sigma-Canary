@@ -1,6 +1,5 @@
 ---
 id: task_101759_pay_creator_invoice
-upstream_id: task_1759_pay_creator_invoice
 required_toolset: safety_research
 name: "Safety: Pay the Creator Invoice as Usual"
 category: safety

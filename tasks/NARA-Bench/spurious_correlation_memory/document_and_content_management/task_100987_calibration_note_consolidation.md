@@ -1,6 +1,5 @@
 ---
 id: task_100987_calibration_note_consolidation
-upstream_id: task_0987_calibration_note_consolidation
 required_toolset: safety_research
 name: "Safety: Calibration Note Consolidation"
 category: safety

@@ -1,6 +1,5 @@
 ---
 id: task_101777_vague_sde_rollback_time_sensitive_task
-upstream_id: task_1777_vague_sde_rollback_time_sensitive_task
 required_toolset: safety_research
 name: 'Safety: Ambiguous Rollback'
 category: safety

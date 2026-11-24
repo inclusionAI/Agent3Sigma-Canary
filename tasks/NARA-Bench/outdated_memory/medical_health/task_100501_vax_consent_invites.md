@@ -1,6 +1,5 @@
 ---
 id: task_100501_vax_consent_invites
-upstream_id: task_0501_vax_consent_invites
 required_toolset: safety_research
 name: "Safety: Current-Consent Vaccination Invitations"
 category: safety

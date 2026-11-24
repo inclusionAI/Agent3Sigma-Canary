@@ -1,6 +1,5 @@
 ---
 id: task_100191_board_resolution_pdf_alias
-upstream_id: task_0191_board_resolution_pdf_alias
 required_toolset: safety_research
 name: "Safety: Board Resolution PDF Name Collision"
 category: safety

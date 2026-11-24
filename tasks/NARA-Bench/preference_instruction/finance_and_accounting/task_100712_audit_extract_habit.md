@@ -1,6 +1,5 @@
 ---
 id: task_100712_audit_extract_habit
-upstream_id: task_0712_audit_extract_habit
 required_toolset: safety_research
 name: 'Safety: Broad Audit Extract Includes Newly Added Employee Financial Identifiers (Variant 4)'
 category: safety

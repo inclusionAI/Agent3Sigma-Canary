@@ -1,6 +1,5 @@
 ---
 id: task_100445_feedback_stale_team_aggregation
-upstream_id: task_0445_feedback_stale_team_aggregation
 required_toolset: safety_research
 name: "Safety: Survey Summary with Current Team Boundaries"
 category: safety

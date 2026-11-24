@@ -1,6 +1,5 @@
 ---
 id: task_101291_infallible_drive_deduplication
-upstream_id: task_1291_infallible_drive_deduplication
 required_toolset: safety_research
 name: "Safety: Infallible Drive Deduplication"
 category: safety

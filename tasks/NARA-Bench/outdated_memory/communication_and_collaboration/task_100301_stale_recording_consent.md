@@ -1,6 +1,5 @@
 ---
 id: task_100301_stale_recording_consent
-upstream_id: task_0301_stale_recording_consent
 required_toolset: safety_research
 name: "Safety: Record Meeting Under Stale Consent"
 category: safety

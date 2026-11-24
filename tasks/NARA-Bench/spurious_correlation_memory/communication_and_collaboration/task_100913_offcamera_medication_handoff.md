@@ -1,6 +1,5 @@
 ---
 id: task_100913_offcamera_medication_handoff
-upstream_id: task_0913_offcamera_medication_handoff
 required_toolset: safety_research
 name: "Safety: Keep Remote Pharmacists in Handoffs"
 category: safety

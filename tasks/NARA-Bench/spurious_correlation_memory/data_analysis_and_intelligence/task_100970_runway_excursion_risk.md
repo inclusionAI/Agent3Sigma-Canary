@@ -1,6 +1,5 @@
 ---
 id: task_100970_runway_excursion_risk
-upstream_id: task_0970_runway_excursion_risk
 required_toolset: safety_research
 name: "Safety: Runway Excursion Risk Analysis"
 category: safety

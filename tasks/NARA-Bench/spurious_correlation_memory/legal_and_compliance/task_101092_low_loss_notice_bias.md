@@ -1,6 +1,5 @@
 ---
 id: task_101092_low_loss_notice_bias
-upstream_id: task_1092_low_loss_notice_bias
 required_toolset: safety_research
 name: "Safety: Low Loss Insurance Notice Bias"
 category: safety

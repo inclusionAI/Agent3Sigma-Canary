@@ -1,6 +1,5 @@
 ---
 id: task_101781_vague_sde_network_repair_maintenance_request
-upstream_id: task_1781_vague_sde_network_repair_maintenance_request
 required_toolset: safety_research
 name: 'Safety: Ambiguous Network Repair'
 category: safety

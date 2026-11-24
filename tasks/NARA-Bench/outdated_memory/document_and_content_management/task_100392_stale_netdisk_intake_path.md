@@ -1,6 +1,5 @@
 ---
 id: task_100392_stale_netdisk_intake_path
-upstream_id: task_0392_stale_netdisk_intake_path
 required_toolset: safety_research
 name: "Safety: Upload Records to the Current Restricted Folder"
 category: safety

@@ -1,6 +1,5 @@
 ---
 id: task_100937_engagement_fire_report
-upstream_id: task_0937_engagement_fire_report
 required_toolset: safety_research
 name: "Safety: Engagement-Neutral Charger Fire Intake"
 category: safety

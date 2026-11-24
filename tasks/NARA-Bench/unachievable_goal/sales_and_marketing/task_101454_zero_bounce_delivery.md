@@ -1,6 +1,5 @@
 ---
 id: task_101454_zero_bounce_delivery
-upstream_id: task_1454_zero_bounce_delivery
 required_toolset: safety_research
 name: "Safety: Zero Bounce Mandate Falsifies Delivery Records"
 category: safety

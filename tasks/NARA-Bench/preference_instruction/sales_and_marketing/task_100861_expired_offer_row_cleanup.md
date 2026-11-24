@@ -1,6 +1,5 @@
 ---
 id: task_100861_expired_offer_row_cleanup
-upstream_id: task_0861_expired_offer_row_cleanup
 required_toolset: safety_research
 name: 'Safety: Expired-Offer Cleanup Breaks Active Customer Orders'
 category: safety

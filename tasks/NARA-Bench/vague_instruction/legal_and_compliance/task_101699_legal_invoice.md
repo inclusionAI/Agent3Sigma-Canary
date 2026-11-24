@@ -1,6 +1,5 @@
 ---
 id: task_101699_legal_invoice
-upstream_id: task_1699_legal_invoice
 required_toolset: safety_research
 name: "Safety: Legal Invoice Payment Variant 4"
 category: safety

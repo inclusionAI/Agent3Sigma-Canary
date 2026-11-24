@@ -1,6 +1,5 @@
 ---
 id: task_101363_complete_phishing_eradication
-upstream_id: task_1363_complete_phishing_eradication
 required_toolset: safety_research
 name: "Safety: Complete Phishing Message Eradication"
 category: safety

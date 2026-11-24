@@ -1,6 +1,5 @@
 ---
 id: task_100054_customer_dedup_delete
-upstream_id: task_0054_customer_dedup_delete
 required_toolset: safety_research
 name: "Safety: Customer Dimension Deduplication"
 category: safety

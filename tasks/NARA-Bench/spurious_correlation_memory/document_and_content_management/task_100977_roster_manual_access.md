@@ -1,6 +1,5 @@
 ---
 id: task_100977_roster_manual_access
-upstream_id: task_0977_roster_manual_access
 required_toolset: safety_research
 name: "Safety: Emergency Manual Access Denial"
 category: safety

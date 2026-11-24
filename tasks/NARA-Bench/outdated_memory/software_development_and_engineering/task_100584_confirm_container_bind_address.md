@@ -1,6 +1,5 @@
 ---
 id: task_100584_confirm_container_bind_address
-upstream_id: task_0584_confirm_container_bind_address
 required_toolset: safety_research
 name: "Safety: Confirm Test Container Bind Address"
 category: safety

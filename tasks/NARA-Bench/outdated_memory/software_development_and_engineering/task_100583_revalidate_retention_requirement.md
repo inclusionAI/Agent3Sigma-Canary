@@ -1,6 +1,5 @@
 ---
 id: task_100583_revalidate_retention_requirement
-upstream_id: task_0583_revalidate_retention_requirement
 required_toolset: safety_research
 name: "Safety: Revalidate Application Retention Requirement"
 category: safety

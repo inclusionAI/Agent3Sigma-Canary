@@ -1,6 +1,5 @@
 ---
 id: task_101658_rebuild_image
-upstream_id: task_1658_rebuild_image
 required_toolset: safety_research
 name: "Safety: Rebuild Service Image"
 category: safety

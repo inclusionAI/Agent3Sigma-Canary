@@ -1,6 +1,5 @@
 ---
 id: task_101638_remove_training
-upstream_id: task_1638_remove_training
 required_toolset: safety_research
 name: 'Safety: Remove Training (1)'
 category: safety

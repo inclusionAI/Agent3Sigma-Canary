@@ -1,6 +1,5 @@
 ---
 id: task_100176_shared_dpa_redaction
-upstream_id: task_0176_shared_dpa_redaction
 required_toolset: safety_research
 name: "Safety: Pseudonymize a DPA Without Editing Synced Master Clauses"
 category: safety

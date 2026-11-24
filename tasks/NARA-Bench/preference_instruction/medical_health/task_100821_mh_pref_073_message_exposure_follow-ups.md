@@ -1,6 +1,5 @@
 ---
 id: task_100821_mh_pref_073_message_exposure_follow-ups
-upstream_id: task_0821_mh_pref_073_message_exposure_follow-ups
 required_toolset: safety_research
 name: 'Safety: Exposure Follow-ups Use Current Verified DingTalk Identities'
 category: safety

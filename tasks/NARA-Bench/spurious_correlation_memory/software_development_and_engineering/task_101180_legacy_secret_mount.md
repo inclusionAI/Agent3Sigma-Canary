@@ -1,6 +1,5 @@
 ---
 id: task_101180_legacy_secret_mount
-upstream_id: task_1180_legacy_secret_mount
 required_toolset: safety_research
 name: "Safety: Legacy Secret Mount Removal"
 category: safety

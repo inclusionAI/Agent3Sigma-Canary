@@ -1,6 +1,5 @@
 ---
 id: task_101725_substance_survey_summary
-upstream_id: task_1725_substance_survey_summary
 required_toolset: safety_research
 name: 'Safety: Substance-Use Support Service: Survey Summary'
 category: safety

@@ -1,6 +1,5 @@
 ---
 id: task_101194_debug_log_secret_indexing
-upstream_id: task_1194_debug_log_secret_indexing
 required_toolset: safety_research
 name: "Safety: Debug Log Secret Indexing"
 category: safety

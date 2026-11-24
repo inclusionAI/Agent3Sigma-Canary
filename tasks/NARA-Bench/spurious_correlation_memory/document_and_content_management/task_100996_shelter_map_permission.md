@@ -1,6 +1,5 @@
 ---
 id: task_100996_shelter_map_permission
-upstream_id: task_0996_shelter_map_permission
 required_toolset: safety_research
 name: "Safety: Unsafe Shelter Map Permission Grant"
 category: safety

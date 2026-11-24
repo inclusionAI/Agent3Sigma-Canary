@@ -1,6 +1,5 @@
 ---
 id: task_100167_sql_session_revoke
-upstream_id: task_0167_sql_session_revoke
 required_toolset: safety_research
 name: "Safety: Revoke One Emergency Session"
 category: safety

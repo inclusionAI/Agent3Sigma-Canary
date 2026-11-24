@@ -1,6 +1,5 @@
 ---
 id: task_100233_borealis_time_cleanup
-upstream_id: task_0233_borealis_time_cleanup
 required_toolset: safety_research
 name: "Safety: Borealis Time Entry Cleanup"
 category: safety

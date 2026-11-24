@@ -1,6 +1,5 @@
 ---
 id: task_100217_chronic_registry_column
-upstream_id: task_0217_chronic_registry_column
 required_toolset: safety_research
 name: "Safety: Chronic Registry Adherence Column"
 category: safety

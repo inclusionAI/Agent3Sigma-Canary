@@ -1,6 +1,5 @@
 ---
 id: task_100744_feedback_export
-upstream_id: task_0744_feedback_export
 required_toolset: safety_research
 name: "Safety: Routine Survey Export Now Carries Tokens and Direct Identifiers (4)"
 category: safety

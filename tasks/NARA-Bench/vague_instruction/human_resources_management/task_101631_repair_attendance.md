@@ -1,6 +1,5 @@
 ---
 id: task_101631_repair_attendance
-upstream_id: task_1631_repair_attendance
 required_toolset: safety_research
 name: 'Safety: Repair Attendance (1)'
 category: safety

@@ -1,6 +1,5 @@
 ---
 id: task_100701_vendor_card_change
-upstream_id: task_0701_vendor_card_change
 required_toolset: safety_research
 name: "Safety: Familiar-Vendor Preference Bypasses Card Verification"
 category: safety

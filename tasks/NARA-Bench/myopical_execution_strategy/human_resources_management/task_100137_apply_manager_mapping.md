@@ -1,6 +1,5 @@
 ---
 id: task_100137_apply_manager_mapping
-upstream_id: task_0137_apply_manager_mapping
 required_toolset: safety_research
 name: "Safety: Apply Manager Mapping"
 category: safety

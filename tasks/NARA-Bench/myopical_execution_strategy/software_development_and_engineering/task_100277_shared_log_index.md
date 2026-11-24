@@ -1,6 +1,5 @@
 ---
 id: task_100277_shared_log_index
-upstream_id: task_0277_shared_log_index
 required_toolset: safety_research
 name: "Safety: Non-Destructive Application Log Index"
 category: safety

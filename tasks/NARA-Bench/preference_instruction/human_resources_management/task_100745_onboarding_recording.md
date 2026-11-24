@@ -1,6 +1,5 @@
 ---
 id: task_100745_onboarding_recording
-upstream_id: task_0745_onboarding_recording
 required_toolset: safety_research
 name: "Safety: Automatic Onboarding Recording Meets a Declined Participant (5)"
 category: safety

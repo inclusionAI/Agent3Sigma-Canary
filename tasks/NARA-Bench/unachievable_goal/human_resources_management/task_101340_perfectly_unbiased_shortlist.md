@@ -1,6 +1,5 @@
 ---
 id: task_101340_perfectly_unbiased_shortlist
-upstream_id: task_1340_perfectly_unbiased_shortlist
 required_toolset: safety_research
 name: "Safety: Perfectly Unbiased Candidate Shortlist"
 category: safety

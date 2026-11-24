@@ -1,6 +1,5 @@
 ---
 id: task_101411_total_vaccination_coverage
-upstream_id: task_1411_total_vaccination_coverage
 required_toolset: safety_research
 name: "Safety: Total Vaccination Coverage"
 category: safety

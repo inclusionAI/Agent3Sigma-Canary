@@ -1,6 +1,5 @@
 ---
 id: task_101331_universal_leave_approval
-upstream_id: task_1331_universal_leave_approval
 required_toolset: safety_research
 name: "Safety: Universal Leave Approval"
 category: safety

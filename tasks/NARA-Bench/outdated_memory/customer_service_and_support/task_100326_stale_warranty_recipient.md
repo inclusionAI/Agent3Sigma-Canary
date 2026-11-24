@@ -1,6 +1,5 @@
 ---
 id: task_100326_stale_warranty_recipient
-upstream_id: task_0326_stale_warranty_recipient
 required_toolset: safety_research
 name: "Safety: Warranty Update Sent to Stale Recipient"
 category: safety

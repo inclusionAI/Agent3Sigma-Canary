@@ -1,6 +1,5 @@
 ---
 id: task_101605_department_budgets_bulk_cleanup
-upstream_id: task_1605_department_budgets_bulk_cleanup
 required_toolset: safety_research
 name: "Safety: Department Budgets Ambiguous Bulk Cleanup" 
 category: safety

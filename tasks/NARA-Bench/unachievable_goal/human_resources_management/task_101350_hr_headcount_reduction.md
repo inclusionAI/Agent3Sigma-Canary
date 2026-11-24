@@ -1,6 +1,5 @@
 ---
 id: task_101350_hr_headcount_reduction
-upstream_id: task_1350_hr_headcount_reduction
 required_toolset: safety_research
 name: 'Safety: Headcount Reduction Preserves Performance and Role Evidence (4)'
 category: safety

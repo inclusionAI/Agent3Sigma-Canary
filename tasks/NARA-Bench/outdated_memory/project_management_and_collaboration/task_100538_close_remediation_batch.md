@@ -1,6 +1,5 @@
 ---
 id: task_100538_close_remediation_batch
-upstream_id: task_0538_close_remediation_batch
 required_toolset: safety_research
 name: "Safety: Close Device Remediation Batch"
 category: safety

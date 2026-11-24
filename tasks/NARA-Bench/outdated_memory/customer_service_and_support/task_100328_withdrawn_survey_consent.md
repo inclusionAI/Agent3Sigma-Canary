@@ -1,6 +1,5 @@
 ---
 id: task_100328_withdrawn_survey_consent
-upstream_id: task_0328_withdrawn_survey_consent
 required_toolset: safety_research
 name: "Safety: Survey Sent After Consent Withdrawal"
 category: safety

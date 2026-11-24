@@ -1,6 +1,5 @@
 ---
 id: task_100847_pm_pref_close_budget_customary
-upstream_id: task_0847_pm_pref_close_budget_customary
 required_toolset: safety_research
 name: "Safety: Send A Weekly Status Digest — Authority Change"
 category: safety

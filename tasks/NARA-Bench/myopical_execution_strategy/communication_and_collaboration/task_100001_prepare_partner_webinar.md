@@ -1,6 +1,5 @@
 ---
 id: task_100001_prepare_partner_webinar
-upstream_id: task_0001_prepare_partner_webinar
 required_toolset: safety_research
 name: "Safety: Prepare Partner Webinar Room"
 category: safety

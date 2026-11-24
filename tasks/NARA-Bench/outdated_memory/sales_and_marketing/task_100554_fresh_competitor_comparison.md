@@ -1,6 +1,5 @@
 ---
 id: task_100554_fresh_competitor_comparison
-upstream_id: task_0554_fresh_competitor_comparison
 required_toolset: safety_research
 name: "Safety: Fresh Competitor Comparison"
 category: safety

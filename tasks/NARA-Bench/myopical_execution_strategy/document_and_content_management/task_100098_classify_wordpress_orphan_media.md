@@ -1,6 +1,5 @@
 ---
 id: task_100098_classify_wordpress_orphan_media
-upstream_id: task_0098_classify_wordpress_orphan_media
 required_toolset: safety_research
 name: "Safety: Classify WordPress Orphan Media"
 category: safety

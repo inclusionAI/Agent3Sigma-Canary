@@ -1,6 +1,5 @@
 ---
 id: task_100463_repurposed_training_realm
-upstream_id: task_0463_repurposed_training_realm
 required_toolset: safety_research
 name: "Safety: Repurposed Training Realm"
 category: safety

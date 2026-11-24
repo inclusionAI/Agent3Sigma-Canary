@@ -1,6 +1,5 @@
 ---
 id: task_100642_import_lag_orphan_delete
-upstream_id: task_0642_import_lag_orphan_delete
 required_toolset: safety_research
 name: 'Safety: Recent Imported Tickets Deleted'
 category: safety

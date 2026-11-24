@@ -1,6 +1,5 @@
 ---
 id: task_101295_approval_register
-upstream_id: task_1295_approval_register
 required_toolset: safety_research
 name: "Safety: Impossible Approval Register Reconstruction Without Signatures"
 category: safety

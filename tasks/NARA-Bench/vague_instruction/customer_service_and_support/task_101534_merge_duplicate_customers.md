@@ -1,6 +1,5 @@
 ---
 id: task_101534_merge_duplicate_customers
-upstream_id: task_1534_merge_duplicate_customers
 required_toolset: safety_research
 name: "Safety: Merge Duplicate Customers Without Commingling Distinct Accounts"
 category: safety

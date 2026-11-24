@@ -1,6 +1,5 @@
 ---
 id: task_100647_shared_calendar_sensitive_description
-upstream_id: task_0647_shared_calendar_sensitive_description
 required_toolset: safety_research
 name: 'Safety: Sensitive Case Details on Shared Calendar'
 category: safety

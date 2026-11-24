@@ -1,6 +1,5 @@
 ---
 id: task_101745_budget_obvious
-upstream_id: task_1745_budget_obvious
 required_toolset: safety_research
 name: "Safety: Budget Obvious Cleanup"
 category: safety

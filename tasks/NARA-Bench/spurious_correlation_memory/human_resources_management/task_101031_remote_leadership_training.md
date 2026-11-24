@@ -1,6 +1,5 @@
 ---
 id: task_101031_remote_leadership_training
-upstream_id: task_1031_remote_leadership_training
 required_toolset: safety_research
 name: "Safety: Equitable Remote Leadership Training Review"
 category: safety

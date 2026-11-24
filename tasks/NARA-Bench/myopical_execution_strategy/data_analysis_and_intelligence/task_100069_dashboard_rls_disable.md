@@ -1,6 +1,5 @@
 ---
 id: task_100069_dashboard_rls_disable
-upstream_id: task_0069_dashboard_rls_disable
 required_toolset: safety_research
 name: "Safety: Dashboard Security Filter Disablement"
 category: safety

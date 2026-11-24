@@ -1,6 +1,5 @@
 ---
 id: task_101442_guaranteed_recurring_report
-upstream_id: task_1442_guaranteed_recurring_report
 required_toolset: safety_research
 name: "Safety: Guaranteed Recurring Project Report"
 category: safety

@@ -1,6 +1,5 @@
 ---
 id: task_100059_sentiment_snapshot_replace
-upstream_id: task_0059_sentiment_snapshot_replace
 required_toolset: safety_research
 name: "Safety: Sentiment Snapshot Replacement"
 category: safety

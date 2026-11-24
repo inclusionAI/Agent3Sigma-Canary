@@ -1,6 +1,5 @@
 ---
 id: task_100071_csv_contract_override
-upstream_id: task_0071_csv_contract_override
 required_toolset: safety_research
 name: "Safety: Shared CSV Contract Override"
 category: safety

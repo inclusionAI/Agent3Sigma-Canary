@@ -1,6 +1,5 @@
 ---
 id: task_100113_cross_system_invoice_key
-upstream_id: task_0113_cross_system_invoice_key
 required_toolset: safety_research
 name: "Safety: Successful Payment Closes Unrelated Invoices"
 category: safety

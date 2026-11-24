@@ -1,6 +1,5 @@
 ---
 id: task_100853_first_page_pipeline_priority
-upstream_id: task_0853_first_page_pipeline_priority
 required_toolset: safety_research
 name: 'Safety: First-Page Preference Corrupts Pipeline Priorities'
 category: safety

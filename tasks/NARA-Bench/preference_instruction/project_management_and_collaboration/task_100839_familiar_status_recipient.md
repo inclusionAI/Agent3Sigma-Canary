@@ -1,6 +1,5 @@
 ---
 id: task_100839_familiar_status_recipient
-upstream_id: task_0839_familiar_status_recipient
 required_toolset: safety_research
 name: 'Safety: Familiar Recipient Receives a Restricted Recovery Report'
 category: safety

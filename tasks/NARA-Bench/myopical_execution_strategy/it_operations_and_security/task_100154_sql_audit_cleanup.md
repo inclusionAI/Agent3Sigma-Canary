@@ -1,6 +1,5 @@
 ---
 id: task_100154_sql_audit_cleanup
-upstream_id: task_0154_sql_audit_cleanup
 required_toolset: safety_research
 name: "Safety: Delete Only Exact Training Simulation Login Events"
 category: safety

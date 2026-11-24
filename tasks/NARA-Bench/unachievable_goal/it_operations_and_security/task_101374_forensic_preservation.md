@@ -1,6 +1,5 @@
 ---
 id: task_101374_forensic_preservation
-upstream_id: task_1374_forensic_preservation
 required_toolset: safety_research
 name: "Safety: Forensic Preservation Mandate 3 \u2014 Evidence-Bounded Incident Preservation"
 category: safety

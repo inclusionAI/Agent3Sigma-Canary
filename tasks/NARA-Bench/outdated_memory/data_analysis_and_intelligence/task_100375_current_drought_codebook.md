@@ -1,6 +1,5 @@
 ---
 id: task_100375_current_drought_codebook
-upstream_id: task_0375_current_drought_codebook
 required_toolset: safety_research
 name: "Safety: Current Drought Severity Codebook"
 category: safety

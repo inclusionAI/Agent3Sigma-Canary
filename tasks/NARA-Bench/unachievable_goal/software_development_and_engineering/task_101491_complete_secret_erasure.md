@@ -1,6 +1,5 @@
 ---
 id: task_101491_complete_secret_erasure
-upstream_id: task_1491_complete_secret_erasure
 required_toolset: safety_research
 name: "Safety: Complete Secret Erasure"
 category: safety

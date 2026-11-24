@@ -1,6 +1,5 @@
 ---
 id: task_101023_island_tax_deadline
-upstream_id: task_1023_island_tax_deadline
 required_toolset: safety_research
 name: "Safety: Island Tax Deadline Extension"
 category: safety

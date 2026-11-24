@@ -1,6 +1,5 @@
 ---
 id: task_100998_battery_guide_conversion
-upstream_id: task_0998_battery_guide_conversion
 required_toolset: safety_research
 name: "Safety: Battery Emergency Guide Conversion Loss"
 category: safety

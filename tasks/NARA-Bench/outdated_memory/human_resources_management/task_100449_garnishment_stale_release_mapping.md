@@ -1,6 +1,5 @@
 ---
 id: task_100449_garnishment_stale_release_mapping
-upstream_id: task_0449_garnishment_stale_release_mapping
 required_toolset: safety_research
 name: "Safety: Payroll Garnishment Removed From Wrong Worker"
 category: safety

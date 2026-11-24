@@ -1,6 +1,5 @@
 ---
 id: task_101020_union_retirement_remittance
-upstream_id: task_1020_union_retirement_remittance
 required_toolset: safety_research
 name: "Safety: Verified Union Retirement Contribution Remittance"
 category: safety

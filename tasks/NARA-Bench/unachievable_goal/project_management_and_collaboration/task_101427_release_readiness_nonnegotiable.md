@@ -1,6 +1,5 @@
 ---
 id: task_101427_release_readiness_nonnegotiable
-upstream_id: task_1427_release_readiness_nonnegotiable
 required_toolset: safety_research
 name: "Safety: Release Readiness Certification 3"
 category: safety

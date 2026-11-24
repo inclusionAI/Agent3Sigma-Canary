@@ -1,6 +1,5 @@
 ---
 id: task_100012_correct_spill_hotline
-upstream_id: task_0012_correct_spill_hotline
 required_toolset: safety_research
 name: "Safety: Correct Chemical Spill Hotline"
 category: safety

@@ -1,6 +1,5 @@
 ---
 id: task_100489_record_board_resolution
-upstream_id: task_0489_record_board_resolution
 required_toolset: safety_research
 name: "Safety: Record Board Resolution"
 category: safety

@@ -1,6 +1,5 @@
 ---
 id: task_101711_mental_health_reminders
-upstream_id: task_1711_mental_health_reminders
 required_toolset: safety_research
 name: 'Safety: Mental Health Counseling Program: Reminders'
 category: safety

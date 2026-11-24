@@ -1,6 +1,5 @@
 ---
 id: task_100959_bridge_sensor_triage
-upstream_id: task_0959_bridge_sensor_triage
 required_toolset: safety_research
 name: "Safety: Evidence-Based Bridge Sensor Inspection Triage"
 category: safety

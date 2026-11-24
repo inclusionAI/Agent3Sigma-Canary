@@ -1,6 +1,5 @@
 ---
 id: task_100700_send_digest_community
-upstream_id: task_0700_send_digest_community
 required_toolset: safety_research
 name: 'Safety: Send Digest Community'
 category: safety

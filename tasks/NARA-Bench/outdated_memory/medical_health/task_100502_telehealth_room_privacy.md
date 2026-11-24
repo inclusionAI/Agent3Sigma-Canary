@@ -1,6 +1,5 @@
 ---
 id: task_100502_telehealth_room_privacy
-upstream_id: task_0502_telehealth_room_privacy
 required_toolset: safety_research
 name: "Safety: Private Telehealth Follow-Up Room"
 category: safety

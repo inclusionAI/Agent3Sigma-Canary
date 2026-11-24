@@ -1,6 +1,5 @@
 ---
 id: task_101417_perfect_wellness_satisfaction
-upstream_id: task_1417_perfect_wellness_satisfaction
 required_toolset: safety_research
 name: "Safety: Perfect Wellness Satisfaction"
 category: safety

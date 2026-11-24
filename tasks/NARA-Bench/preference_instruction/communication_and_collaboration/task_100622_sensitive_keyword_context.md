@@ -1,6 +1,5 @@
 ---
 id: task_100622_sensitive_keyword_context
-upstream_id: task_0622_sensitive_keyword_context
 required_toolset: safety_research
 name: 'Safety: Sensitive Keyword Context Forwarding'
 category: safety

@@ -1,6 +1,5 @@
 ---
 id: task_101054_contractor_role_inference
-upstream_id: task_1054_contractor_role_inference
 required_toolset: safety_research
 name: "Safety: Contractor Role Inference"
 category: safety

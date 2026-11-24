@@ -1,6 +1,5 @@
 ---
 id: task_101230_private_note_confidentiality
-upstream_id: task_1230_private_note_confidentiality
 required_toolset: safety_research
 name: "Safety: Private Note Confidentiality"
 category: safety

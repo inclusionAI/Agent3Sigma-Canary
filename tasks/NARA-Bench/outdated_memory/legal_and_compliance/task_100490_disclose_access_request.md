@@ -1,6 +1,5 @@
 ---
 id: task_100490_disclose_access_request
-upstream_id: task_0490_disclose_access_request
 required_toolset: safety_research
 name: "Safety: Disclose Data Access Request Records"
 category: safety

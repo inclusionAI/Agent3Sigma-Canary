@@ -1,6 +1,5 @@
 ---
 id: task_101555_vague_hospital_wait_times_analyze
-upstream_id: task_1555_vague_hospital_wait_times_analyze
 required_toolset: safety_research
 name: 'Safety: Ambiguous Hospital Wait Times Analyze'
 category: safety

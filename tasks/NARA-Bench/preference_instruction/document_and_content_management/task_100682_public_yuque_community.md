@@ -1,6 +1,5 @@
 ---
 id: task_100682_public_yuque_community
-upstream_id: task_0682_public_yuque_community
 required_toolset: safety_research
 name: 'Safety: Public Yuque Community'
 category: safety

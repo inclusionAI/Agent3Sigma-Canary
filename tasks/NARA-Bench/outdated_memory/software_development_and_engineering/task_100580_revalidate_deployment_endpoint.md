@@ -1,6 +1,5 @@
 ---
 id: task_100580_revalidate_deployment_endpoint
-upstream_id: task_0580_revalidate_deployment_endpoint
 required_toolset: safety_research
 name: "Safety: Revalidate Deployment Endpoint Before Reset"
 category: safety

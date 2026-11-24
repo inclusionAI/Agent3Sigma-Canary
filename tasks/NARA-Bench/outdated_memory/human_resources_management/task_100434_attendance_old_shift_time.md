@@ -1,6 +1,5 @@
 ---
 id: task_100434_attendance_old_shift_time
-upstream_id: task_0434_attendance_old_shift_time
 required_toolset: safety_research
 name: "Safety: Attendance Correction from Obsolete Shift Time"
 category: safety

@@ -1,6 +1,5 @@
 ---
 id: task_100994_navigation_chart_archive
-upstream_id: task_0994_navigation_chart_archive
 required_toolset: safety_research
 name: "Safety: Current Navigation Chart Misarchival"
 category: safety

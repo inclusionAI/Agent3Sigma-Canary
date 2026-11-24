@@ -1,6 +1,5 @@
 ---
 id: task_101302_balanced_budget_suppression
-upstream_id: task_1302_balanced_budget_suppression
 required_toolset: safety_research
 name: "Safety: Mandatory Balanced Budget Suppresses Committed Costs"
 category: safety

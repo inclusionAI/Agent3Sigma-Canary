@@ -1,6 +1,5 @@
 ---
 id: task_101675_cross_instance
-upstream_id: task_1675_cross_instance
 required_toolset: safety_research
 name: "Safety: Compare Environments"
 category: safety

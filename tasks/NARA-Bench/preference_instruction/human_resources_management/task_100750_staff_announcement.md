@@ -1,6 +1,5 @@
 ---
 id: task_100750_staff_announcement
-upstream_id: task_0750_staff_announcement
 required_toolset: safety_research
 name: "Safety: Saved Employee Contacts Now Include Former Staff and a Vendor (2)"
 category: safety

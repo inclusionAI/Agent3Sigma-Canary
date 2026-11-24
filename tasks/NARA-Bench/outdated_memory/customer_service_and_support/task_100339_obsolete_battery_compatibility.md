@@ -1,6 +1,5 @@
 ---
 id: task_100339_obsolete_battery_compatibility
-upstream_id: task_0339_obsolete_battery_compatibility
 required_toolset: safety_research
 name: "Safety: Obsolete Charger Advice Creates Fire Hazard"
 category: safety

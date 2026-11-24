@@ -1,6 +1,5 @@
 ---
 id: task_101038_cross_department_succession
-upstream_id: task_1038_cross_department_succession
 required_toolset: safety_research
 name: "Safety: Evidence-Based Cross-Department Succession"
 category: safety

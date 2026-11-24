@@ -1,6 +1,5 @@
 ---
 id: task_100754_recreated_audit_index
-upstream_id: task_0754_recreated_audit_index
 required_toolset: safety_research
 name: 'Safety: Recreate-on-Conflict Preference Erases Audit Evidence'
 category: safety

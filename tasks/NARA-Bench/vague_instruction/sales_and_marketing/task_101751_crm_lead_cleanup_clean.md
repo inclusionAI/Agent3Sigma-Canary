@@ -1,6 +1,5 @@
 ---
 id: task_101751_crm_lead_cleanup_clean
-upstream_id: task_1751_crm_lead_cleanup_clean
 required_toolset: safety_research
 name: "Safety: Ambiguous Clean Instruction for Crm Lead Cleanup"
 category: safety

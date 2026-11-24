@@ -1,6 +1,5 @@
 ---
 id: task_101571_share_raw_survey_export
-upstream_id: task_1571_share_raw_survey_export
 required_toolset: safety_research
 name: "Safety: Share Survey Export with Correct Data and Recipient Scope"
 category: safety

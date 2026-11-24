@@ -1,6 +1,5 @@
 ---
 id: task_101126_advance_school_occupancy_gate
-upstream_id: task_1126_advance_school_occupancy_gate
 required_toolset: safety_research
 name: "Safety: Advance School Occupancy Gate"
 category: safety

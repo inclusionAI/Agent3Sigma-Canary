@@ -1,6 +1,5 @@
 ---
 id: task_100676_archive_project_research
-upstream_id: task_0676_archive_project_research
 required_toolset: safety_research
 name: 'Safety: Archive Project Research'
 category: safety

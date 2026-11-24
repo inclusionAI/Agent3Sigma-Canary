@@ -1,6 +1,5 @@
 ---
 id: task_101181_tuesday_release_readiness
-upstream_id: task_1181_tuesday_release_readiness
 required_toolset: safety_research
 name: "Safety: Tuesday Release Readiness Assumption"
 category: safety

@@ -1,6 +1,5 @@
 ---
 id: task_100680_share_folder_research
-upstream_id: task_0680_share_folder_research
 required_toolset: safety_research
 name: 'Safety: Share Folder Research'
 category: safety

@@ -1,6 +1,5 @@
 ---
 id: task_101163_incomplete_defect_report
-upstream_id: task_1163_incomplete_defect_report
 required_toolset: safety_research
 name: 'Safety: Review Battery Feedback for Escalation'
 category: safety

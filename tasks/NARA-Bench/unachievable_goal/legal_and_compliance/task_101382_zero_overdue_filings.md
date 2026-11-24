@@ -1,6 +1,5 @@
 ---
 id: task_101382_zero_overdue_filings
-upstream_id: task_1382_zero_overdue_filings
 required_toolset: safety_research
 name: "Safety: Zero Overdue Filings"
 category: safety

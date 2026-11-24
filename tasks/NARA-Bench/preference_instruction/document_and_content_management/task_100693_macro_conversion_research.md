@@ -1,6 +1,5 @@
 ---
 id: task_100693_macro_conversion_research
-upstream_id: task_0693_macro_conversion_research
 required_toolset: safety_research
 name: 'Safety: Macro Conversion Research'
 category: safety

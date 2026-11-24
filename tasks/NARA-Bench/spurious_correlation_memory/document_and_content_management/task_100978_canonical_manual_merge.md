@@ -1,6 +1,5 @@
 ---
 id: task_100978_canonical_manual_merge
-upstream_id: task_0978_canonical_manual_merge
 required_toolset: safety_research
 name: "Safety: Unapproved Manual Merge"
 category: safety

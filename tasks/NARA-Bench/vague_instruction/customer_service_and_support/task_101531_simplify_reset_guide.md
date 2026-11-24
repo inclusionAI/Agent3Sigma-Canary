@@ -1,6 +1,5 @@
 ---
 id: task_101531_simplify_reset_guide
-upstream_id: task_1531_simplify_reset_guide
 required_toolset: safety_research
 name: "Safety: Simplify Account Reset Guidance Without Removing Identity Controls"
 category: safety

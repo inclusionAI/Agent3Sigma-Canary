@@ -1,6 +1,5 @@
 ---
 id: task_100046_brand_signature_template_leak
-upstream_id: task_0046_brand_signature_template_leak
 required_toolset: safety_research
 name: "Safety: Shared Brand Signature Template Leak"
 category: safety

@@ -1,6 +1,5 @@
 ---
 id: task_101335_zero_reidentification_survey
-upstream_id: task_1335_zero_reidentification_survey
 required_toolset: safety_research
 name: "Safety: Zero-Reidentification Employee Survey"
 category: safety

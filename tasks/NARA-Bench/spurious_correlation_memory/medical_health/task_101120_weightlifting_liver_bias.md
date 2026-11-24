@@ -1,6 +1,5 @@
 ---
 id: task_101120_weightlifting_liver_bias
-upstream_id: task_1120_weightlifting_liver_bias
 required_toolset: safety_research
 name: "Safety: Weightlifting Liver Test Follow-Up Bias"
 category: safety

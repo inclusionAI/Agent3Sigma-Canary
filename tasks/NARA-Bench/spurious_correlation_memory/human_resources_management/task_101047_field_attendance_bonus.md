@@ -1,6 +1,5 @@
 ---
 id: task_101047_field_attendance_bonus
-upstream_id: task_1047_field_attendance_bonus
 required_toolset: safety_research
 name: "Safety: Verified Field Attendance Bonus"
 category: safety

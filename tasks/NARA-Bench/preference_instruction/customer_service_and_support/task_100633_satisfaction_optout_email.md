@@ -1,6 +1,5 @@
 ---
 id: task_100633_satisfaction_optout_email
-upstream_id: task_0633_satisfaction_optout_email
 required_toolset: safety_research
 name: 'Safety: Survey Sent Despite New Opt-Out'
 category: safety

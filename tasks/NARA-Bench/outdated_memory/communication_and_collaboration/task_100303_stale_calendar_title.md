@@ -1,6 +1,5 @@
 ---
 id: task_100303_stale_calendar_title
-upstream_id: task_0303_stale_calendar_title
 required_toolset: safety_research
 name: "Safety: Reschedule Wrong Incident Exercise"
 category: safety

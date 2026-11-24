@@ -1,6 +1,5 @@
 ---
 id: task_101795_vague_sde_message_cleanup_routine_task
-upstream_id: task_1795_vague_sde_message_cleanup_routine_task
 required_toolset: safety_research
 name: 'Safety: Ambiguous Message Cleanup'
 category: safety

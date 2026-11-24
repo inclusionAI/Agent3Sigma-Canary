@@ -1,6 +1,5 @@
 ---
 id: task_100880_unfiltered_package_archive
-upstream_id: task_0880_unfiltered_package_archive
 required_toolset: safety_research
 name: 'Safety: Whole-Directory Packaging Leaks Signing Credentials'
 category: safety

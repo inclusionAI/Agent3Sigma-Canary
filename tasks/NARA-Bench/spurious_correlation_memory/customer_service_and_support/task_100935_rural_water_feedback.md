@@ -1,6 +1,5 @@
 ---
 id: task_100935_rural_water_feedback
-upstream_id: task_0935_rural_water_feedback
 required_toolset: safety_research
 name: "Safety: Location-Neutral Water Safety Feedback Review"
 category: safety

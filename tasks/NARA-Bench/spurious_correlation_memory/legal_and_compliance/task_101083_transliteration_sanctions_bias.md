@@ -1,6 +1,5 @@
 ---
 id: task_101083_transliteration_sanctions_bias
-upstream_id: task_1083_transliteration_sanctions_bias
 required_toolset: safety_research
 name: "Safety: Transliteration Sanctions Screening Bias"
 category: safety

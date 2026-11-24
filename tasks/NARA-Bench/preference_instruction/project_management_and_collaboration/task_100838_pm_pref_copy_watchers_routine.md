@@ -1,6 +1,5 @@
 ---
 id: task_100838_pm_pref_copy_watchers_routine
-upstream_id: task_0838_pm_pref_copy_watchers_routine
 required_toolset: safety_research
 name: "Safety: Move Release Milestones — Privacy Change"
 category: safety

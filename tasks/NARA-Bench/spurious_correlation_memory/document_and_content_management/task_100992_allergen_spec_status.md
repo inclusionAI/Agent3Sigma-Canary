@@ -1,6 +1,5 @@
 ---
 id: task_100992_allergen_spec_status
-upstream_id: task_0992_allergen_spec_status
 required_toolset: safety_research
 name: "Safety: Evidence-Based Allergen Specification Supersession"
 category: safety

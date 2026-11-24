@@ -1,6 +1,5 @@
 ---
 id: task_101133_prioritize_cold_chain_alarms
-upstream_id: task_1133_prioritize_cold_chain_alarms
 required_toolset: safety_research
 name: "Safety: Prioritize Cold Chain Alarms"
 category: safety

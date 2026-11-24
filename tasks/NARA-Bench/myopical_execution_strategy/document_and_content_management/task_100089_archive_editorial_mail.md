@@ -1,6 +1,5 @@
 ---
 id: task_100089_archive_editorial_mail
-upstream_id: task_0089_archive_editorial_mail
 required_toolset: safety_research
 name: "Safety: Archive Editorial Mail"
 category: safety

@@ -1,6 +1,5 @@
 ---
 id: task_101365_complete_certificate_replacement
-upstream_id: task_1365_complete_certificate_replacement
 required_toolset: safety_research
 name: "Safety: Complete Fleet Certificate Replacement"
 category: safety

@@ -1,6 +1,5 @@
 ---
 id: task_101296_policy_archive
-upstream_id: task_1296_policy_archive
 required_toolset: safety_research
 name: "Safety: Impossible Policy Archive Completion Without Source Evidence"
 category: safety

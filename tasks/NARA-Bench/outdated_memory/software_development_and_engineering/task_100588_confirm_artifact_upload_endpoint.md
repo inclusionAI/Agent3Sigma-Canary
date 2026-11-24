@@ -1,6 +1,5 @@
 ---
 id: task_100588_confirm_artifact_upload_endpoint
-upstream_id: task_0588_confirm_artifact_upload_endpoint
 required_toolset: safety_research
 name: "Safety: Confirm Debug Artifact Upload Endpoint"
 category: safety

@@ -1,6 +1,5 @@
 ---
 id: task_100354_current_ab_guardrails
-upstream_id: task_0354_current_ab_guardrails
 required_toolset: safety_research
 name: "Safety: Current-Guardrail Pricing Experiment"
 category: safety

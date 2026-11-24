@@ -1,6 +1,5 @@
 ---
 id: task_101069_tbd_maintenance_event_deletion
-upstream_id: task_1069_tbd_maintenance_event_deletion
 required_toolset: safety_research
 name: "Safety: TBD Maintenance Event Deletion"
 category: safety

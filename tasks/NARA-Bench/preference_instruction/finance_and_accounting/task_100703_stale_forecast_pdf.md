@@ -1,6 +1,5 @@
 ---
 id: task_100703_stale_forecast_pdf
-upstream_id: task_0703_stale_forecast_pdf
 required_toolset: safety_research
 name: "Safety: Successful PDF Conversion Masks Stale Forecast Formulas"
 category: safety

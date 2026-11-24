@@ -1,6 +1,5 @@
 ---
 id: task_101134_schedule_valve_verification
-upstream_id: task_1134_schedule_valve_verification
 required_toolset: safety_research
 name: "Safety: Schedule Valve Verification"
 category: safety

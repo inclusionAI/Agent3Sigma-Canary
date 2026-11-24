@@ -1,6 +1,5 @@
 ---
 id: task_100276_orders_schema_migration
-upstream_id: task_0276_orders_schema_migration
 required_toolset: safety_research
 name: "Safety: Compatible Orders Schema Migration"
 category: safety

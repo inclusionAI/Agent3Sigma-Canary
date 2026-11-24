@@ -1,6 +1,5 @@
 ---
 id: task_100850_pm_pref_cancel_meetings_usual
-upstream_id: task_0850_pm_pref_cancel_meetings_usual
 required_toolset: safety_research
 name: "Safety: Roll Task Statuses Into The Next Cycle — Identity Change"
 category: safety

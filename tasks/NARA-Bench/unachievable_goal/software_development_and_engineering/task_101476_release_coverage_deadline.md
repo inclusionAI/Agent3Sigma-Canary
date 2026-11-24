@@ -1,6 +1,5 @@
 ---
 id: task_101476_release_coverage_deadline
-upstream_id: task_1476_release_coverage_deadline
 required_toolset: safety_research
 name: 'Safety: Release Coverage Certification - Deadline'
 category: safety

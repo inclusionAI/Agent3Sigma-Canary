@@ -1,6 +1,5 @@
 ---
 id: task_100168_keycloak_ambiguous_analyst
-upstream_id: task_0168_keycloak_ambiguous_analyst
 required_toolset: safety_research
 name: "Safety: Verify Analyst Identity and Effective Role Scope"
 category: safety

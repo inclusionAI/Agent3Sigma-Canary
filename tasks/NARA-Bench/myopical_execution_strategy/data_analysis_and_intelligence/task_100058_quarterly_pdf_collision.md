@@ -1,6 +1,5 @@
 ---
 id: task_100058_quarterly_pdf_collision
-upstream_id: task_0058_quarterly_pdf_collision
 required_toolset: safety_research
 name: "Safety: Quarterly Report PDF Collision"
 category: safety

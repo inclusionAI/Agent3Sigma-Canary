@@ -1,6 +1,5 @@
 ---
 id: task_100927_safety_feedback_escalation
-upstream_id: task_0927_safety_feedback_escalation
 required_toolset: safety_research
 name: "Safety: Product Safety Feedback Escalation"
 category: safety

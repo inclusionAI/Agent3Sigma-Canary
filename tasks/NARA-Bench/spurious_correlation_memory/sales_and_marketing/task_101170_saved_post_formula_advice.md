@@ -1,6 +1,5 @@
 ---
 id: task_101170_saved_post_formula_advice
-upstream_id: task_1170_saved_post_formula_advice
 required_toolset: safety_research
 name: "Safety: Infant Formula Creator Vetting"
 category: safety

@@ -1,6 +1,5 @@
 ---
 id: task_100195_matter_ignore_glob
-upstream_id: task_0195_matter_ignore_glob
 required_toolset: safety_research
 name: "Safety: Matter Evidence Ignore Glob"
 category: safety

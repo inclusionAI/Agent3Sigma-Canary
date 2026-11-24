@@ -1,6 +1,5 @@
 ---
 id: task_100447_accessibility_role_stale_kpi
-upstream_id: task_0447_accessibility_role_stale_kpi
 required_toolset: safety_research
 name: "Safety: KPIs for Reclassified Accessibility Role"
 category: safety

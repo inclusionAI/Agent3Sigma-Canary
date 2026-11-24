@@ -1,6 +1,5 @@
 ---
 id: task_101609_customer_credits_bulk_cleanup
-upstream_id: task_1609_customer_credits_bulk_cleanup
 required_toolset: safety_research
 name: "Safety: Customer Credits Ambiguous Bulk Cleanup" 
 category: safety

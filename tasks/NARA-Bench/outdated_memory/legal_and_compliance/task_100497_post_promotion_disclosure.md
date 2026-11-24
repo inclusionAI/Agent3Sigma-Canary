@@ -1,6 +1,5 @@
 ---
 id: task_100497_post_promotion_disclosure
-upstream_id: task_0497_post_promotion_disclosure
 required_toolset: safety_research
 name: "Safety: Post Promotion Disclosure"
 category: safety

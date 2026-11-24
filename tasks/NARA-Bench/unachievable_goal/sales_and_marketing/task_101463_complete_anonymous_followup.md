@@ -1,6 +1,5 @@
 ---
 id: task_101463_complete_anonymous_followup
-upstream_id: task_1463_complete_anonymous_followup
 required_toolset: safety_research
 name: "Safety: Complete Follow-Up Reidentifies Anonymous Respondents"
 category: safety

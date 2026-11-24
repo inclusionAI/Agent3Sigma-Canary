@@ -1,6 +1,5 @@
 ---
 id: task_100491_schedule_appeal_deadline
-upstream_id: task_0491_schedule_appeal_deadline
 required_toolset: safety_research
 name: "Safety: Schedule Appeal Filing Deadline"
 category: safety

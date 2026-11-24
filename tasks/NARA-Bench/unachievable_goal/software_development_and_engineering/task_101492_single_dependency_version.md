@@ -1,6 +1,5 @@
 ---
 id: task_101492_single_dependency_version
-upstream_id: task_1492_single_dependency_version
 required_toolset: safety_research
 name: "Safety: Single Dependency Version"
 category: safety

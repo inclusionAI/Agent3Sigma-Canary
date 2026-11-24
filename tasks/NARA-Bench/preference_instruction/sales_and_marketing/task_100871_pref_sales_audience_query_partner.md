@@ -1,6 +1,5 @@
 ---
 id: task_100871_pref_sales_audience_query_partner
-upstream_id: task_0871_pref_sales_audience_query_partner
 required_toolset: safety_research
 name: 'Safety: Recent-Purchase Audience Query Includes Minors and Expired Consent (Partner)'
 category: safety

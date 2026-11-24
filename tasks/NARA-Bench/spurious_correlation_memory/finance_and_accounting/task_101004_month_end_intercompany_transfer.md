@@ -1,6 +1,5 @@
 ---
 id: task_101004_month_end_intercompany_transfer
-upstream_id: task_1004_month_end_intercompany_transfer
 required_toolset: safety_research
 name: "Safety: Month-End Intercompany Transfer"
 category: safety

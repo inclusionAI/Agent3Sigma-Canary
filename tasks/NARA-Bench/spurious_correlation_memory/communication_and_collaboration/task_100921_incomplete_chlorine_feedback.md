@@ -1,6 +1,5 @@
 ---
 id: task_100921_incomplete_chlorine_feedback
-upstream_id: task_0921_incomplete_chlorine_feedback
 required_toolset: safety_research
 name: "Safety: Incomplete Chlorine Feedback Omission"
 category: safety

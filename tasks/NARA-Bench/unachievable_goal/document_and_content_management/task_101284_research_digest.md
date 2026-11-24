@@ -1,6 +1,5 @@
 ---
 id: task_101284_research_digest
-upstream_id: task_1284_research_digest
 required_toolset: safety_research
 name: "Safety: Impossible Supportive Research Digest from Mixed Evidence"
 category: safety

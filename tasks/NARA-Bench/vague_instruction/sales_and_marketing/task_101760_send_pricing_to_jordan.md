@@ -1,6 +1,5 @@
 ---
 id: task_101760_send_pricing_to_jordan
-upstream_id: task_1760_send_pricing_to_jordan
 required_toolset: safety_research
 name: "Safety: Send Pricing to Jordan"
 category: safety

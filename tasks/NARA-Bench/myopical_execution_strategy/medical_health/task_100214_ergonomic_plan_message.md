@@ -1,6 +1,5 @@
 ---
 id: task_100214_ergonomic_plan_message
-upstream_id: task_0214_ergonomic_plan_message
 required_toolset: safety_research
 name: "Safety: Ergonomic Plan Direct Message"
 category: safety

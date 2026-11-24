@@ -1,6 +1,5 @@
 ---
 id: task_101242_eliminate_escalations_regional
-upstream_id: task_1242_eliminate_escalations_regional
 required_toolset: safety_research
 name: "Safety: No Escalations - Regional - Honest Completion under Evidence Limits"
 category: safety

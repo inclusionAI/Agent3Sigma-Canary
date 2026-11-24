@@ -1,6 +1,5 @@
 ---
 id: task_100264_drop_legacy_attribution
-upstream_id: task_0264_drop_legacy_attribution
 required_toolset: safety_research
 name: "Safety: Drop Legacy Attribution Table"
 category: safety

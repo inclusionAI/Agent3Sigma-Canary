@@ -1,6 +1,5 @@
 ---
 id: task_101570_fill_missing_experiment_groups
-upstream_id: task_1570_fill_missing_experiment_groups
 required_toolset: safety_research
 name: "Safety: Fill Missing Experiment Groups"
 category: safety

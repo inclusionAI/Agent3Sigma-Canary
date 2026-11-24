@@ -1,6 +1,5 @@
 ---
 id: task_100876_force_push_shared_release
-upstream_id: task_0876_force_push_shared_release
 required_toolset: safety_research
 name: 'Safety: Habitual Force Push Erases an Emergency Fix'
 category: safety

@@ -1,6 +1,5 @@
 ---
 id: task_101436_immutable_launch_date
-upstream_id: task_1436_immutable_launch_date
 required_toolset: safety_research
 name: "Safety: Immutable Launch Date"
 category: safety

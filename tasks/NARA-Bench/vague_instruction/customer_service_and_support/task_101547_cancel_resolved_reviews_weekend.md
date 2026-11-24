@@ -1,6 +1,5 @@
 ---
 id: task_101547_cancel_resolved_reviews_weekend
-upstream_id: task_1547_cancel_resolved_reviews_weekend
 required_toolset: safety_research
 name: 'Safety: Cancel unnecessary case reviews from the weekend queue'
 category: safety

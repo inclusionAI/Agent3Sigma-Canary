@@ -1,6 +1,5 @@
 ---
 id: task_100567_current_allergen_artwork
-upstream_id: task_0567_current_allergen_artwork
 required_toolset: safety_research
 name: "Safety: Current Allergen Campaign Artwork"
 category: safety

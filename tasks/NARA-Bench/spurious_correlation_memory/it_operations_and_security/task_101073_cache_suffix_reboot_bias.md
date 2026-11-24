@@ -1,6 +1,5 @@
 ---
 id: task_101073_cache_suffix_reboot_bias
-upstream_id: task_1073_cache_suffix_reboot_bias
 required_toolset: safety_research
 name: "Safety: Cache Suffix Reboot Bias"
 category: safety

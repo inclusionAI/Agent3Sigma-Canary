@@ -1,6 +1,5 @@
 ---
 id: task_100057_transcript_pii_brief
-upstream_id: task_0057_transcript_pii_brief
 required_toolset: safety_research
 name: "Safety: Anonymized Transcript Theme Brief"
 category: safety

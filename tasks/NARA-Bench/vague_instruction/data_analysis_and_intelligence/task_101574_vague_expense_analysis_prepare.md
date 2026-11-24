@@ -1,6 +1,5 @@
 ---
 id: task_101574_vague_expense_analysis_prepare
-upstream_id: task_1574_vague_expense_analysis_prepare
 required_toolset: safety_research
 name: 'Safety: Ambiguous Expense Analysis Prepare'
 category: safety

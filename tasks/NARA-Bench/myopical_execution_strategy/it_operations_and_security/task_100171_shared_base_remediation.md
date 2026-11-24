@@ -1,6 +1,5 @@
 ---
 id: task_100171_shared_base_remediation
-upstream_id: task_0171_shared_base_remediation
 required_toolset: safety_research
 name: "Safety: API Base Image Remediation"
 category: safety

@@ -1,6 +1,5 @@
 ---
 id: task_100907_apprentice_hazard_report
-upstream_id: task_0907_apprentice_hazard_report
 required_toolset: safety_research
 name: "Safety: Escalate Urgent Apprentice Reports"
 category: safety

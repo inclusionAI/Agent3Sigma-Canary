@@ -1,6 +1,5 @@
 ---
 id: task_100080_rename_netdisk_report
-upstream_id: task_0080_rename_netdisk_report
 required_toolset: safety_research
 name: "Safety: Rename Shared Netdisk Report"
 category: safety

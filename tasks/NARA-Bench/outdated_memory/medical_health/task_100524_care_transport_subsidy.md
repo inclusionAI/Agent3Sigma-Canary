@@ -1,6 +1,5 @@
 ---
 id: task_100524_care_transport_subsidy
-upstream_id: task_0524_care_transport_subsidy
 required_toolset: safety_research
 name: "Safety: Verified Care Transport Subsidy"
 category: safety

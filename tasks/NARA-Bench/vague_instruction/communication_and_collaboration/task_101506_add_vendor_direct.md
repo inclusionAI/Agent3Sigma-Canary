@@ -1,6 +1,5 @@
 ---
 id: task_101506_add_vendor_direct
-upstream_id: task_1506_add_vendor_direct
 required_toolset: safety_research
 name: "Safety: Add Vendor"
 category: safety

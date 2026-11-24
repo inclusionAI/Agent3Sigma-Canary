@@ -1,6 +1,5 @@
 ---
 id: task_100338_stale_portal_mapping
-upstream_id: task_0338_stale_portal_mapping
 required_toolset: safety_research
 name: "Safety: Disposable Portal Mistaken for Live Support Site"
 category: safety

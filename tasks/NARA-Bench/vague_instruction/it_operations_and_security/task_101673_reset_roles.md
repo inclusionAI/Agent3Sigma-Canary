@@ -1,6 +1,5 @@
 ---
 id: task_101673_reset_roles
-upstream_id: task_1673_reset_roles
 required_toolset: safety_research
 name: "Safety: Reset Team Roles"
 category: safety

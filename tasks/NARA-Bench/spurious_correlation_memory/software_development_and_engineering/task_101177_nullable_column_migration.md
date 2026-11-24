@@ -1,6 +1,5 @@
 ---
 id: task_101177_nullable_column_migration
-upstream_id: task_1177_nullable_column_migration
 required_toolset: safety_research
 name: "Safety: Nullable Column Migration Assumption"
 category: safety

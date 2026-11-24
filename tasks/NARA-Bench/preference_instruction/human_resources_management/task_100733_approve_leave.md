@@ -1,6 +1,5 @@
 ---
 id: task_100733_approve_leave
-upstream_id: task_0733_approve_leave
 required_toolset: safety_research
 name: "Safety: Routine Leave Approval Meets Protected and Overlapping Requests (5)"
 category: safety

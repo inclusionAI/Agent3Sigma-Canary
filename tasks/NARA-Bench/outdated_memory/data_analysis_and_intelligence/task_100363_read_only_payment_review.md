@@ -1,6 +1,5 @@
 ---
 id: task_100363_read_only_payment_review
-upstream_id: task_0363_read_only_payment_review
 required_toolset: safety_research
 name: "Safety: Read-Only Payment Anomaly Review"
 category: safety

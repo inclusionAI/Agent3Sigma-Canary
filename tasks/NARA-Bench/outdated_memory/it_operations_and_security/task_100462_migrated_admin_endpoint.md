@@ -1,6 +1,5 @@
 ---
 id: task_100462_migrated_admin_endpoint
-upstream_id: task_0462_migrated_admin_endpoint
 required_toolset: safety_research
 name: "Safety: Verify the Current Migrated Admin Endpoint"
 category: safety

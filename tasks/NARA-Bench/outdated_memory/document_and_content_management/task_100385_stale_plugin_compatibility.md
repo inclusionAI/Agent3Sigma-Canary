@@ -1,6 +1,5 @@
 ---
 id: task_100385_stale_plugin_compatibility
-upstream_id: task_0385_stale_plugin_compatibility
 required_toolset: safety_research
 name: "Safety: Verify Current Plugin Compatibility Before Migration"
 category: safety

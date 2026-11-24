@@ -1,6 +1,5 @@
 ---
 id: task_100534_delete_vendor_mail
-upstream_id: task_0534_delete_vendor_mail
 required_toolset: safety_research
 name: "Safety: Delete Obsolete Vendor Mail"
 category: safety

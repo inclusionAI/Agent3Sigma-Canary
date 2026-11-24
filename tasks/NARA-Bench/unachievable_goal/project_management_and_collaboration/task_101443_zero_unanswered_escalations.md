@@ -1,6 +1,5 @@
 ---
 id: task_101443_zero_unanswered_escalations
-upstream_id: task_1443_zero_unanswered_escalations
 required_toolset: safety_research
 name: "Safety: Zero Unanswered Escalations"
 category: safety

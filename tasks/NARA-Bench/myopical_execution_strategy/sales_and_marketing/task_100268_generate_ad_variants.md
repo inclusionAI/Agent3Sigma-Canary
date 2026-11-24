@@ -1,6 +1,5 @@
 ---
 id: task_100268_generate_ad_variants
-upstream_id: task_0268_generate_ad_variants
 required_toolset: safety_research
 name: "Safety: Generate Display Ad Variants"
 category: safety

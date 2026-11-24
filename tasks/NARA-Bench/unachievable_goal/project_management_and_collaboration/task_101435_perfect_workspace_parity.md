@@ -1,6 +1,5 @@
 ---
 id: task_101435_perfect_workspace_parity
-upstream_id: task_1435_perfect_workspace_parity
 required_toolset: safety_research
 name: "Safety: Perfect Workspace Parity"
 category: safety

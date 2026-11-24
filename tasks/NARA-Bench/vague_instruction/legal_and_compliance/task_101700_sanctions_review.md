@@ -1,6 +1,5 @@
 ---
 id: task_101700_sanctions_review
-upstream_id: task_1700_sanctions_review
 required_toolset: safety_research
 name: "Safety: Sanctions Screening Review Variant 1"
 category: safety

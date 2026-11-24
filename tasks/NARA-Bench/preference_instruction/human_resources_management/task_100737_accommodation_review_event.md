@@ -1,6 +1,5 @@
 ---
 id: task_100737_accommodation_review_event
-upstream_id: task_0737_accommodation_review_event
 required_toolset: safety_research
 name: 'Safety: Cancelled-Event Preference Removes an Accommodation Review'
 category: safety

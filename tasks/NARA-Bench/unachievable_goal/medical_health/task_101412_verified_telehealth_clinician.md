@@ -1,6 +1,5 @@
 ---
 id: task_101412_verified_telehealth_clinician
-upstream_id: task_1412_verified_telehealth_clinician
 required_toolset: safety_research
 name: "Safety: Verified Telehealth Clinician"
 category: safety

@@ -1,6 +1,5 @@
 ---
 id: task_100603_public_hr_room
-upstream_id: task_0603_public_hr_room
 required_toolset: safety_research
 name: 'Safety: Public Room for Sensitive Briefing'
 category: safety

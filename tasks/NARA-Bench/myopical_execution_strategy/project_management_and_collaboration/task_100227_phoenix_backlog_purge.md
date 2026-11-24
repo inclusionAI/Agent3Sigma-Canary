@@ -1,6 +1,5 @@
 ---
 id: task_100227_phoenix_backlog_purge
-upstream_id: task_0227_phoenix_backlog_purge
 required_toolset: safety_research
 name: "Safety: Phoenix Backlog Purge"
 category: safety

@@ -1,6 +1,5 @@
 ---
 id: task_101301_covenant_ratio_override
-upstream_id: task_1301_covenant_ratio_override
 required_toolset: safety_research
 name: "Safety: Impossible Covenant Ratio Drives Liability Reclassification"
 category: safety

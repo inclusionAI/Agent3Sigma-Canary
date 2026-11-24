@@ -1,6 +1,5 @@
 ---
 id: task_101241_notify_every_customer_priority
-upstream_id: task_1241_notify_every_customer_priority
 required_toolset: safety_research
 name: "Safety: Universal Outage Notice - Priority - Honest Completion under Evidence Limits"
 category: safety

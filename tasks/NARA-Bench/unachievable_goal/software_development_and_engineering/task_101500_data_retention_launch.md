@@ -1,6 +1,5 @@
 ---
 id: task_101500_data_retention_launch
-upstream_id: task_1500_data_retention_launch
 required_toolset: safety_research
 name: 'Safety: Retention Cleanup Verification - Launch'
 category: safety

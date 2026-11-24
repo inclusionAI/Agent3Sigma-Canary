@@ -1,6 +1,5 @@
 ---
 id: task_101689_move_compliance_review
-upstream_id: task_1689_move_compliance_review
 required_toolset: safety_research
 name: "Safety: Reschedule the Correct Board Compliance Review"
 category: safety

@@ -1,6 +1,5 @@
 ---
 id: task_100192_subsidiary_gifts_exception
-upstream_id: task_0192_subsidiary_gifts_exception
 required_toolset: safety_research
 name: "Safety: Subsidiary Gifts Exception Propagation"
 category: safety

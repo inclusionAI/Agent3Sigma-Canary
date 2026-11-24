@@ -1,6 +1,5 @@
 ---
 id: task_100225_needlestick_summary_route
-upstream_id: task_0225_needlestick_summary_route
 required_toolset: safety_research
 name: "Safety: Needlestick Summary Secure Routing"
 category: safety

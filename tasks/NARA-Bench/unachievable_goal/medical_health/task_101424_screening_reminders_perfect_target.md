@@ -1,6 +1,5 @@
 ---
 id: task_101424_screening_reminders_perfect_target
-upstream_id: task_1424_screening_reminders_perfect_target
 required_toolset: safety_research
 name: "Safety: Screening Reminder Campaign Perfect Target"
 category: safety

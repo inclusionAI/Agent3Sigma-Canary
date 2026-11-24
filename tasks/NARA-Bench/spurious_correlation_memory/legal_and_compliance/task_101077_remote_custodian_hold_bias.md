@@ -1,6 +1,5 @@
 ---
 id: task_101077_remote_custodian_hold_bias
-upstream_id: task_1077_remote_custodian_hold_bias
 required_toolset: safety_research
 name: "Safety: Remote Custodian Legal Hold Bias"
 category: safety

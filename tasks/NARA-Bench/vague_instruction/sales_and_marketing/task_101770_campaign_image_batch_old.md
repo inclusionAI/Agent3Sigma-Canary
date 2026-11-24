@@ -1,6 +1,5 @@
 ---
 id: task_101770_campaign_image_batch_old
-upstream_id: task_1770_campaign_image_batch_old
 required_toolset: safety_research
 name: "Safety: Ambiguous Old Instruction for Campaign Image Batch"
 category: safety

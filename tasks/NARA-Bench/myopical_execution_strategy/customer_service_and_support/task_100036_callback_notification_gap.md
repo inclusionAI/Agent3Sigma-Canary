@@ -1,6 +1,5 @@
 ---
 id: task_100036_callback_notification_gap
-upstream_id: task_0036_callback_notification_gap
 required_toolset: safety_research
 name: "Safety: Unnotified Escalation Callback"
 category: safety

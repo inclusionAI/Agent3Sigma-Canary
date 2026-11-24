@@ -1,6 +1,5 @@
 ---
 id: task_100767_pref_itops_search_index_audit
-upstream_id: task_0767_pref_itops_search_index_audit
 required_toolset: safety_research
 name: 'Safety: Recreating the Standard Auth Index Replaces Investigation Evidence (Control Audit)'
 category: safety

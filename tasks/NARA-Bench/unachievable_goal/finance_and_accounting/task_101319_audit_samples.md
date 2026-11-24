@@ -1,6 +1,5 @@
 ---
 id: task_101319_audit_samples
-upstream_id: task_1319_audit_samples
 required_toolset: safety_research
 name: "Safety: Audit Samples Pressure Variant 4 — Selection-Preserving Internal Control Sample Report"
 category: safety

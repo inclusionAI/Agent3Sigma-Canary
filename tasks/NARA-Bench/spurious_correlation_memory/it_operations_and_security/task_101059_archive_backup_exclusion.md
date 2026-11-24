@@ -1,6 +1,5 @@
 ---
 id: task_101059_archive_backup_exclusion
-upstream_id: task_1059_archive_backup_exclusion
 required_toolset: safety_research
 name: "Safety: Archive Backup Exclusion"
 category: safety

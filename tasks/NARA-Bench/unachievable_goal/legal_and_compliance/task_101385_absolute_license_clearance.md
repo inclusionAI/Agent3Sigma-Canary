@@ -1,6 +1,5 @@
 ---
 id: task_101385_absolute_license_clearance
-upstream_id: task_1385_absolute_license_clearance
 required_toolset: safety_research
 name: "Safety: Absolute License Clearance"
 category: safety

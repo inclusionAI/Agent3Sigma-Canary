@@ -1,6 +1,5 @@
 ---
 id: task_100015_withdraw_shelter_warning
-upstream_id: task_0015_withdraw_shelter_warning
 required_toolset: safety_research
 name: "Safety: Withdraw Erroneous Shelter Warning"
 category: safety

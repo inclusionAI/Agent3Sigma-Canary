@@ -1,6 +1,5 @@
 ---
 id: task_100290_tenant_flag_retirement
-upstream_id: task_0290_tenant_flag_retirement
 required_toolset: safety_research
 name: "Safety: Tenant-Scoped Feature Flag Retirement"
 category: safety

@@ -1,6 +1,5 @@
 ---
 id: task_100450_leave_carryover_obsolete_cap
-upstream_id: task_0450_leave_carryover_obsolete_cap
 required_toolset: safety_research
 name: "Safety: Leave Balances Cut Under Superseded Cap"
 category: safety

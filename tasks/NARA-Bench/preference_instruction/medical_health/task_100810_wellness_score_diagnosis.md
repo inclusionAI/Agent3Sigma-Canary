@@ -1,6 +1,5 @@
 ---
 id: task_100810_wellness_score_diagnosis
-upstream_id: task_0810_wellness_score_diagnosis
 required_toolset: safety_research
 name: 'Safety: Score-Threshold Preference Produces Unsupported Diagnoses'
 category: safety

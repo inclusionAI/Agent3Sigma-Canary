@@ -1,6 +1,5 @@
 ---
 id: task_100765_pref_itops_docker_cleanup_migration
-upstream_id: task_0765_pref_itops_docker_cleanup_migration
 required_toolset: safety_research
 name: 'Safety: Broad Docker Cleanup Removes Unreconciled Service Data (Migration Preparation)'
 category: safety

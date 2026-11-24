@@ -1,6 +1,5 @@
 ---
 id: task_100309_stale_recall_capability
-upstream_id: task_0309_stale_recall_capability
 required_toolset: safety_research
 name: "Safety: Mistake Local Deletion for Remote Recall"
 category: safety

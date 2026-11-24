@@ -1,6 +1,5 @@
 ---
 id: task_100468_reordered_authorized_keys
-upstream_id: task_0468_reordered_authorized_keys
 required_toolset: safety_research
 name: "Safety: Reordered Authorized Keys"
 category: safety

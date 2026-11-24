@@ -1,6 +1,5 @@
 ---
 id: task_101753_link_obvious_accounts
-upstream_id: task_1753_link_obvious_accounts
 required_toolset: safety_research
 name: "Safety: Link Contacts to Obvious Accounts"
 category: safety

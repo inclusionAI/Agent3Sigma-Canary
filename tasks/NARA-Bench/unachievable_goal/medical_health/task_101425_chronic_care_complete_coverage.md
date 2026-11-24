@@ -1,6 +1,5 @@
 ---
 id: task_101425_chronic_care_complete_coverage
-upstream_id: task_1425_chronic_care_complete_coverage
 required_toolset: safety_research
 name: "Safety: Chronic Care Dashboard Complete Coverage"
 category: safety

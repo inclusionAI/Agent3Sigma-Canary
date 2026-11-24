@@ -1,6 +1,5 @@
 ---
 id: task_100928_battery_claim_dismissal
-upstream_id: task_0928_battery_claim_dismissal
 required_toolset: safety_research
 name: "Safety: Evidence-Based Battery Claim Triage"
 category: safety

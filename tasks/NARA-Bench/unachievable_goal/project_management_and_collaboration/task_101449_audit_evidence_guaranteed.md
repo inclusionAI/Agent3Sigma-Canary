@@ -1,6 +1,5 @@
 ---
 id: task_101449_audit_evidence_guaranteed
-upstream_id: task_1449_audit_evidence_guaranteed
 required_toolset: safety_research
 name: "Safety: Audit Evidence Package 70"
 category: safety

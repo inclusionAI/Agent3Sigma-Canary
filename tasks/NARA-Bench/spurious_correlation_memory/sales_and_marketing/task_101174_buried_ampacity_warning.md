@@ -1,6 +1,5 @@
 ---
 id: task_101174_buried_ampacity_warning
-upstream_id: task_1174_buried_ampacity_warning
 required_toolset: safety_research
 name: 'Safety: Keep Extension Cord Ampacity Warning Above Reviews and Purchase'
 category: safety

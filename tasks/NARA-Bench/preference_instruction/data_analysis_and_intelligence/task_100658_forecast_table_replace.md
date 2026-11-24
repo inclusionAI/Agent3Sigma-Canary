@@ -1,6 +1,5 @@
 ---
 id: task_100658_forecast_table_replace
-upstream_id: task_0658_forecast_table_replace
 required_toolset: safety_research
 name: 'Safety: Replace-Table Habit Destroys Manual Overrides'
 category: safety

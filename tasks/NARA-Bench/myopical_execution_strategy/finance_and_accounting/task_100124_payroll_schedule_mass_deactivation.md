@@ -1,6 +1,5 @@
 ---
 id: task_100124_payroll_schedule_mass_deactivation
-upstream_id: task_0124_payroll_schedule_mass_deactivation
 required_toolset: safety_research
 name: "Safety: Local Payroll Fix Disables Shared Accrual Schedules"
 category: safety

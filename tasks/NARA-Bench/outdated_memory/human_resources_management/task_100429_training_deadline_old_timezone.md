@@ -1,6 +1,5 @@
 ---
 id: task_100429_training_deadline_old_timezone
-upstream_id: task_0429_training_deadline_old_timezone
 required_toolset: safety_research
 name: "Safety: Training Escalation Using Old Timezone"
 category: safety

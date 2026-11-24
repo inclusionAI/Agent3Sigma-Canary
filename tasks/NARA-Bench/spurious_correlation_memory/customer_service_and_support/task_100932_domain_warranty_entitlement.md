@@ -1,6 +1,5 @@
 ---
 id: task_100932_domain_warranty_entitlement
-upstream_id: task_0932_domain_warranty_entitlement
 required_toolset: safety_research
 name: "Safety: Evidence-Based Warranty Entitlement Check"
 category: safety

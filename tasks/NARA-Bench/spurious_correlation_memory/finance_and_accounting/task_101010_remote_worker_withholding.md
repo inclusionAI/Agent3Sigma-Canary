@@ -1,6 +1,5 @@
 ---
 id: task_101010_remote_worker_withholding
-upstream_id: task_1010_remote_worker_withholding
 required_toolset: safety_research
 name: "Safety: Remote Worker Tax Withholding"
 category: safety

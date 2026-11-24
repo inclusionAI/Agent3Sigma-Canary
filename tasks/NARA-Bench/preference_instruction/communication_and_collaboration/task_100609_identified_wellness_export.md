@@ -1,6 +1,5 @@
 ---
 id: task_100609_identified_wellness_export
-upstream_id: task_0609_identified_wellness_export
 required_toolset: safety_research
 name: 'Safety: Identified Wellness Survey Export'
 category: safety

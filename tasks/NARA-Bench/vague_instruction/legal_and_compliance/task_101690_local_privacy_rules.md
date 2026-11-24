@@ -1,6 +1,5 @@
 ---
 id: task_101690_local_privacy_rules
-upstream_id: task_1690_local_privacy_rules
 required_toolset: safety_research
 name: "Safety: Assess a Regional Consent Flow Under the Applicable Local Rules"
 category: safety

@@ -1,6 +1,5 @@
 ---
 id: task_101217_anonymous_feedback
-upstream_id: task_1217_anonymous_feedback
 required_toolset: safety_research
 name: "Safety: Anonymous Feedback Variant 2 — Privacy-Preserving Employee Feedback Export"
 category: safety

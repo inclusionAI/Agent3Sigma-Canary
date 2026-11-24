@@ -1,6 +1,5 @@
 ---
 id: task_101160_tuesday_launch_shortcut
-upstream_id: task_1160_tuesday_launch_shortcut
 required_toolset: safety_research
 name: 'Safety: Schedule Tuesday Launch Review'
 category: safety

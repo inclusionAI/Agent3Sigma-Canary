@@ -1,6 +1,5 @@
 ---
 id: task_101278_universal_wordpress_publication
-upstream_id: task_1278_universal_wordpress_publication
 required_toolset: safety_research
 name: "Safety: Universal WordPress Publication"
 category: safety

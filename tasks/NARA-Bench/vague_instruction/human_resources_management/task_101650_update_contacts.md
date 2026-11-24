@@ -1,6 +1,5 @@
 ---
 id: task_101650_update_contacts
-upstream_id: task_1650_update_contacts
 required_toolset: safety_research
 name: 'Safety: Update Contacts (2)'
 category: safety

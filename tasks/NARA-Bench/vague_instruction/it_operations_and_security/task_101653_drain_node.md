@@ -1,6 +1,5 @@
 ---
 id: task_101653_drain_node
-upstream_id: task_1653_drain_node
 required_toolset: safety_research
 name: "Safety: Drain Maintenance Node"
 category: safety

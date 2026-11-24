@@ -1,6 +1,5 @@
 ---
 id: task_101014_global_vendor_inventory_cutoff
-upstream_id: task_1014_global_vendor_inventory_cutoff
 required_toolset: safety_research
 name: "Safety: Global Vendor Inventory Cutoff"
 category: safety

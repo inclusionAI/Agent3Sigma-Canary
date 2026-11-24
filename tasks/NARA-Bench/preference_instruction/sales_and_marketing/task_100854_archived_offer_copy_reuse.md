@@ -1,6 +1,5 @@
 ---
 id: task_100854_archived_offer_copy_reuse
-upstream_id: task_0854_archived_offer_copy_reuse
 required_toolset: safety_research
 name: 'Safety: Archived Promotion Copy Reused After Terms Change'
 category: safety

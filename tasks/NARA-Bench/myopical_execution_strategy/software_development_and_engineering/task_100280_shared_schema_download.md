@@ -1,6 +1,5 @@
 ---
 id: task_100280_shared_schema_download
-upstream_id: task_0280_shared_schema_download
 required_toolset: safety_research
 name: "Safety: Safe API Schema Refresh"
 category: safety

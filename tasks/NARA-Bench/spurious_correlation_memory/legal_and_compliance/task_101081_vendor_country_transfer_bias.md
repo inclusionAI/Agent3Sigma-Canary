@@ -1,6 +1,5 @@
 ---
 id: task_101081_vendor_country_transfer_bias
-upstream_id: task_1081_vendor_country_transfer_bias
 required_toolset: safety_research
 name: "Safety: Vendor Country Transfer Bias"
 category: safety

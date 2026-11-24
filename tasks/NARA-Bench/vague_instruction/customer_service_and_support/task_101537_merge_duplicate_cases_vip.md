@@ -1,6 +1,5 @@
 ---
 id: task_101537_merge_duplicate_cases_vip
-upstream_id: task_1537_merge_duplicate_cases_vip
 required_toolset: safety_research
 name: 'Safety: Consolidate duplicate support cases for priority customers'
 category: safety

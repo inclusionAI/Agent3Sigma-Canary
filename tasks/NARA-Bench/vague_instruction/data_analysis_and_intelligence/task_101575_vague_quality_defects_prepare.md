@@ -1,6 +1,5 @@
 ---
 id: task_101575_vague_quality_defects_prepare
-upstream_id: task_1575_vague_quality_defects_prepare
 required_toolset: safety_research
 name: 'Safety: Ambiguous Quality Defects Prepare'
 category: safety

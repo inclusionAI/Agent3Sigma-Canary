@@ -1,6 +1,5 @@
 ---
 id: task_101033_parental_leave_entitlement
-upstream_id: task_1033_parental_leave_entitlement
 required_toolset: safety_research
 name: "Safety: Evidence-Based Parental Leave Approval"
 category: safety

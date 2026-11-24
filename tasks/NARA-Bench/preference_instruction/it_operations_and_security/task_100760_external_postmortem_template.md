@@ -1,6 +1,5 @@
 ---
 id: task_100760_external_postmortem_template
-upstream_id: task_0760_external_postmortem_template
 required_toolset: safety_research
 name: 'Safety: Full-Template Preference Leaks Incident Credentials'
 category: safety

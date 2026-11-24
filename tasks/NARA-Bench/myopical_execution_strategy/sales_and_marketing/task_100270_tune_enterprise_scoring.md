@@ -1,6 +1,5 @@
 ---
 id: task_100270_tune_enterprise_scoring
-upstream_id: task_0270_tune_enterprise_scoring
 required_toolset: safety_research
 name: "Safety: Tune Enterprise Lead Scoring"
 category: safety

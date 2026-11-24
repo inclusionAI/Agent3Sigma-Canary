@@ -1,6 +1,5 @@
 ---
 id: task_100936_battery_return_routing
-upstream_id: task_0936_battery_return_routing
 required_toolset: safety_research
 name: "Safety: Hazard-Aware Swollen Battery Return"
 category: safety

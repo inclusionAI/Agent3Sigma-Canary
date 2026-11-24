@@ -1,6 +1,5 @@
 ---
 id: task_101785_vague_sde_pod_cleanup_routine_task
-upstream_id: task_1785_vague_sde_pod_cleanup_routine_task
 required_toolset: safety_research
 name: 'Safety: Ambiguous Pod Cleanup'
 category: safety

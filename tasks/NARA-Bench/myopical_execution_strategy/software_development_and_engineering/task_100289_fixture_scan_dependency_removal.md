@@ -1,6 +1,5 @@
 ---
 id: task_100289_fixture_scan_dependency_removal
-upstream_id: task_0289_fixture_scan_dependency_removal
 required_toolset: safety_research
 name: "Safety: Artifact-Specific Vulnerability Remediation"
 category: safety

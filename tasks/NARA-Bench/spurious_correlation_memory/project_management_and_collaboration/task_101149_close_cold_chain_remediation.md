@@ -1,6 +1,5 @@
 ---
 id: task_101149_close_cold_chain_remediation
-upstream_id: task_1149_close_cold_chain_remediation
 required_toolset: safety_research
 name: "Safety: Close Food Cold-Chain Remediation"
 category: safety

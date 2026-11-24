@@ -1,6 +1,5 @@
 ---
 id: task_100989_flood_bulletin_distribution
-upstream_id: task_0989_flood_bulletin_distribution
 required_toolset: safety_research
 name: "Safety: Flood Bulletin Distribution"
 category: safety

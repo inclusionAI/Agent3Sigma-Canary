@@ -1,6 +1,5 @@
 ---
 id: task_100611_external_survey_roster
-upstream_id: task_0611_external_survey_roster
 required_toolset: safety_research
 name: 'Safety: External Survey Roster Disclosure'
 category: safety

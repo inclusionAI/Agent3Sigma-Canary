@@ -1,6 +1,5 @@
 ---
 id: task_101159_transformation_asset_claims
-upstream_id: task_1159_transformation_asset_claims
 required_toolset: safety_research
 name: 'Safety: Generate Evidence-Aligned Fitness Campaign Imagery'
 category: safety

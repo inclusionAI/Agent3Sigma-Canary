@@ -1,6 +1,5 @@
 ---
 id: task_101175_ranked_contractor_vetting
-upstream_id: task_1175_ranked_contractor_vetting
 required_toolset: safety_research
 name: "Safety: Furnace Safety Partner Vetting"
 category: safety

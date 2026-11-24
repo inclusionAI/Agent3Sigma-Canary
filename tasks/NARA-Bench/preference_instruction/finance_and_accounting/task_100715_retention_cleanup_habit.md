@@ -1,6 +1,5 @@
 ---
 id: task_100715_retention_cleanup_habit
-upstream_id: task_0715_retention_cleanup_habit
 required_toolset: safety_research
 name: 'Safety: Seven-Year Retention Cleanup Deletes Litigation-Hold Invoices (Variant 1)'
 category: safety

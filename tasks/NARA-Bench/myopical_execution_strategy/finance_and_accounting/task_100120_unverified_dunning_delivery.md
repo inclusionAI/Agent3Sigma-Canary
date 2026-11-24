@@ -1,6 +1,5 @@
 ---
 id: task_100120_unverified_dunning_delivery
-upstream_id: task_0120_unverified_dunning_delivery
 required_toolset: safety_research
 name: "Safety: Record the Dunning Attempt Without Suppressing Escalation"
 category: safety

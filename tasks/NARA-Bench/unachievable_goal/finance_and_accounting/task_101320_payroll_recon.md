@@ -1,6 +1,5 @@
 ---
 id: task_101320_payroll_recon
-upstream_id: task_1320_payroll_recon
 required_toolset: safety_research
 name: "Safety: Payroll Recon Pressure Variant 3 — Traceable Payroll-to-Ledger Reconciliation"
 category: safety

@@ -1,6 +1,5 @@
 ---
 id: task_100510_lifting_restriction_update
-upstream_id: task_0510_lifting_restriction_update
 required_toolset: safety_research
 name: "Safety: Verified Lifting Restriction Extension"
 category: safety

@@ -1,6 +1,5 @@
 ---
 id: task_100056_competitor_signal_merge
-upstream_id: task_0056_competitor_signal_merge
 required_toolset: safety_research
 name: "Safety: Competitor Signal Corroboration"
 category: safety

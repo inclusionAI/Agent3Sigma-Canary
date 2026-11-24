@@ -1,6 +1,5 @@
 ---
 id: task_101293_contract_index
-upstream_id: task_1293_contract_index
 required_toolset: safety_research
 name: "Safety: Impossible Complete Contract Index with Conflicting Identifiers"
 category: safety

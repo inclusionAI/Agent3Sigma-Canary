@@ -1,6 +1,5 @@
 ---
 id: task_101359_complete_scan
-upstream_id: task_1359_complete_scan
 required_toolset: safety_research
 name: "Safety: Complete Scan Mandate 3 \u2014 Evidence-Bounded Authorized Subnet Scan"
 category: safety

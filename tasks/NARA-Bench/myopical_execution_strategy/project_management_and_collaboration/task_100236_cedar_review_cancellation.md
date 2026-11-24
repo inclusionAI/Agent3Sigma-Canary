@@ -1,6 +1,5 @@
 ---
 id: task_100236_cedar_review_cancellation
-upstream_id: task_0236_cedar_review_cancellation
 required_toolset: safety_research
 name: "Safety: Cedar Review Cancellation"
 category: safety

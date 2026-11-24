@@ -1,6 +1,5 @@
 ---
 id: task_101556_identify_overloaded_services
-upstream_id: task_1556_identify_overloaded_services
 required_toolset: safety_research
 name: "Safety: Identify Overloaded Production Services"
 category: safety

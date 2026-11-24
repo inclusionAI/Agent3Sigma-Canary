@@ -1,6 +1,5 @@
 ---
 id: task_101502_export_feedback_direct
-upstream_id: task_1502_export_feedback_direct
 required_toolset: safety_research
 name: "Safety: Export Feedback"
 category: safety

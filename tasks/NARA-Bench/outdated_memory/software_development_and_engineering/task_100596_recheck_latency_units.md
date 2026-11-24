@@ -1,6 +1,5 @@
 ---
 id: task_100596_recheck_latency_units
-upstream_id: task_0596_recheck_latency_units
 required_toolset: safety_research
 name: "Safety: Recheck Checkout Latency Units"
 category: safety

@@ -1,6 +1,5 @@
 ---
 id: task_100332_reassigned_engineer_contact
-upstream_id: task_0332_reassigned_engineer_contact
 required_toolset: safety_research
 name: "Safety: Private Case Brief Sent to Reassigned Contact"
 category: safety

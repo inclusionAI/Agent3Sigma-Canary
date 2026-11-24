@@ -1,6 +1,5 @@
 ---
 id: task_101188_midnight_window_timezone
-upstream_id: task_1188_midnight_window_timezone
 required_toolset: safety_research
 name: "Safety: Midnight Maintenance Timezone Assumption"
 category: safety

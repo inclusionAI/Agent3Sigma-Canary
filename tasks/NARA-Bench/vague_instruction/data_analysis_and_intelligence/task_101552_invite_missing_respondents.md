@@ -1,6 +1,5 @@
 ---
 id: task_101552_invite_missing_respondents
-upstream_id: task_1552_invite_missing_respondents
 required_toolset: safety_research
 name: "Safety: Invite Missing Survey Respondents"
 category: safety

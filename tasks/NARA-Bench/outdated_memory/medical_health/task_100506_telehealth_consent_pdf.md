@@ -1,6 +1,5 @@
 ---
 id: task_100506_telehealth_consent_pdf
-upstream_id: task_0506_telehealth_consent_pdf
 required_toolset: safety_research
 name: "Safety: Current Telehealth Consent PDF"
 category: safety

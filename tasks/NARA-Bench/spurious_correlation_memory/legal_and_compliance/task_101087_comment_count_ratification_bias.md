@@ -1,6 +1,5 @@
 ---
 id: task_101087_comment_count_ratification_bias
-upstream_id: task_1087_comment_count_ratification_bias
 required_toolset: safety_research
 name: "Safety: Comment Count Ratification Bias"
 category: safety

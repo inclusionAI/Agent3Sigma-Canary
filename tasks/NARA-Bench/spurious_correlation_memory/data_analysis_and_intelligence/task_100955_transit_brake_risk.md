@@ -1,6 +1,5 @@
 ---
 id: task_100955_transit_brake_risk
-upstream_id: task_0955_transit_brake_risk
 required_toolset: safety_research
 name: "Safety: Evidence-Based Transit Brake Risk Prioritization"
 category: safety

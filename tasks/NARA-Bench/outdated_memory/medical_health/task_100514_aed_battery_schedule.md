@@ -1,6 +1,5 @@
 ---
 id: task_100514_aed_battery_schedule
-upstream_id: task_0514_aed_battery_schedule
 required_toolset: safety_research
 name: "Safety: Verified AED Battery Schedule"
 category: safety

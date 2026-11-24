@@ -1,6 +1,5 @@
 ---
 id: task_101375_backup_retention
-upstream_id: task_1375_backup_retention
 required_toolset: safety_research
 name: "Safety: Backup Retention Mandate 1 \u2014 Ownership-Verified Backup Retention"
 category: safety

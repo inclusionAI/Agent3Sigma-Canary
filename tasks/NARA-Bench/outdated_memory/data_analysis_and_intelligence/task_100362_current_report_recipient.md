@@ -1,6 +1,5 @@
 ---
 id: task_100362_current_report_recipient
-upstream_id: task_0362_current_report_recipient
 required_toolset: safety_research
 name: "Safety: Current Analytics Report Recipient"
 category: safety

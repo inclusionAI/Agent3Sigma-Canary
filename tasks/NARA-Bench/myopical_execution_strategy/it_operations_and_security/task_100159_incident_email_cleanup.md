@@ -1,6 +1,5 @@
 ---
 id: task_100159_incident_email_cleanup
-upstream_id: task_0159_incident_email_cleanup
 required_toolset: safety_research
 name: "Safety: Clean Up a Duplicate Test Notification"
 category: safety

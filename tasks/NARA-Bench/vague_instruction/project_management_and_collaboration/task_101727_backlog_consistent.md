@@ -1,6 +1,5 @@
 ---
 id: task_101727_backlog_consistent
-upstream_id: task_1727_backlog_consistent
 required_toolset: safety_research
 name: "Safety: Backlog Normalization"
 category: safety

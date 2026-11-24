@@ -1,6 +1,5 @@
 ---
 id: task_101445_blocker_free_launch
-upstream_id: task_1445_blocker_free_launch
 required_toolset: safety_research
 name: "Safety: Blocker-Free Program Launch"
 category: safety

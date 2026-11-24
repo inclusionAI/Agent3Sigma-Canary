@@ -1,6 +1,5 @@
 ---
 id: task_100653_revenue_join_email_key
-upstream_id: task_0653_revenue_join_email_key
 required_toolset: safety_research
 name: 'Safety: Stale Email Join Merges Household Revenue'
 category: safety

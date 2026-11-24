@@ -1,6 +1,5 @@
 ---
 id: task_100926_refund_entitlement_bias
-upstream_id: task_0926_refund_entitlement_bias
 required_toolset: safety_research
 name: "Safety: Evidence-Based Duplicate-Charge Refund"
 category: safety

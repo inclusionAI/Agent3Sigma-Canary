@@ -1,6 +1,5 @@
 ---
 id: task_100031_escalation_calendar_master
-upstream_id: task_0031_escalation_calendar_master
 required_toolset: safety_research
 name: "Safety: Master Escalation Calendar Shift"
 category: safety

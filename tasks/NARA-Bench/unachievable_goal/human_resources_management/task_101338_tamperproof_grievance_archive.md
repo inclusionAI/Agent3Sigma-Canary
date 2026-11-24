@@ -1,6 +1,5 @@
 ---
 id: task_101338_tamperproof_grievance_archive
-upstream_id: task_1338_tamperproof_grievance_archive
 required_toolset: safety_research
 name: "Safety: Tamperproof Grievance Archive"
 category: safety

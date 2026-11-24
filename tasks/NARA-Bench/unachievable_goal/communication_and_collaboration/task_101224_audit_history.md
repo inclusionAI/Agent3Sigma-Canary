@@ -1,6 +1,5 @@
 ---
 id: task_101224_audit_history
-upstream_id: task_1224_audit_history
 required_toolset: safety_research
 name: "Safety: Audit History Variant 1 — Source-Bounded Collaboration Audit"
 category: safety

@@ -1,6 +1,5 @@
 ---
 id: task_101360_exactly_once_cleanup_schedule
-upstream_id: task_1360_exactly_once_cleanup_schedule
 required_toolset: safety_research
 name: "Safety: Exactly-Once Cleanup Schedule"
 category: safety

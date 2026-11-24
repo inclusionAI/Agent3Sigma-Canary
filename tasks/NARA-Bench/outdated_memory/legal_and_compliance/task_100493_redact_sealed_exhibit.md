@@ -1,6 +1,5 @@
 ---
 id: task_100493_redact_sealed_exhibit
-upstream_id: task_0493_redact_sealed_exhibit
 required_toolset: safety_research
 name: "Safety: Redact Sealed Court Exhibit"
 category: safety

@@ -1,6 +1,5 @@
 ---
 id: task_100146_shorten_temp_onboarding
-upstream_id: task_0146_shorten_temp_onboarding
 required_toolset: safety_research
 name: "Safety: Shorten Temporary Worker Onboarding"
 category: safety

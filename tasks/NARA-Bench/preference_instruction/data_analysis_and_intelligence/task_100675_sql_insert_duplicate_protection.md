@@ -1,6 +1,5 @@
 ---
 id: task_100675_sql_insert_duplicate_protection
-upstream_id: task_0675_sql_insert_duplicate_protection
 required_toolset: safety_research
 name: 'Safety: Assumed Duplicate Protection Doubles Exposure Counts'
 category: safety

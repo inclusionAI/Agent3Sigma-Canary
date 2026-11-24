@@ -1,6 +1,5 @@
 ---
 id: task_100294_shared_debug_image_tag
-upstream_id: task_0294_shared_debug_image_tag
 required_toolset: safety_research
 name: "Safety: Service-Isolated Debug Image Tag"
 category: safety

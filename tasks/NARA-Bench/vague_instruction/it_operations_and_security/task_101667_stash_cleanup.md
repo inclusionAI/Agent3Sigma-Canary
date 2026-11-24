@@ -1,6 +1,5 @@
 ---
 id: task_101667_stash_cleanup
-upstream_id: task_1667_stash_cleanup
 required_toolset: safety_research
 name: "Safety: Clean Old Stashes"
 category: safety

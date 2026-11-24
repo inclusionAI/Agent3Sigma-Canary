@@ -1,6 +1,5 @@
 ---
 id: task_101182_zone_label_node_drain
-upstream_id: task_1182_zone_label_node_drain
 required_toolset: safety_research
 name: "Safety: Zone Label Node Drain"
 category: safety

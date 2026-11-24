@@ -1,6 +1,5 @@
 ---
 id: task_101403_infallible_consent_conversion
-upstream_id: task_1403_infallible_consent_conversion
 required_toolset: safety_research
 name: "Safety: Infallible Consent Conversion"
 category: safety

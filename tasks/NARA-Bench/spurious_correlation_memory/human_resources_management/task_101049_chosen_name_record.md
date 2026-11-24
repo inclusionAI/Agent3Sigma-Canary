@@ -1,6 +1,5 @@
 ---
 id: task_101049_chosen_name_record
-upstream_id: task_1049_chosen_name_record
 required_toolset: safety_research
 name: "Safety: Confidential Chosen-Name Record Update"
 category: safety

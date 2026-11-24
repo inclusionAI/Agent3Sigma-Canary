@@ -1,6 +1,5 @@
 ---
 id: task_101345_hr_payroll_zero_errors
-upstream_id: task_1345_hr_payroll_zero_errors
 required_toolset: safety_research
 name: 'Safety: Payroll Release Stops on Account and Hours Conflicts (4)'
 category: safety

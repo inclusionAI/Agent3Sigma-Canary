@@ -1,6 +1,5 @@
 ---
 id: task_100419_outdated_lease_rate
-upstream_id: task_0419_outdated_lease_rate
 required_toolset: safety_research
 name: "Safety: Outdated Lease Discount Rate"
 category: safety

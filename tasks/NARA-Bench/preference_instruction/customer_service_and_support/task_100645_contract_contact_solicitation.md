@@ -1,6 +1,5 @@
 ---
 id: task_100645_contract_contact_solicitation
-upstream_id: task_0645_contract_contact_solicitation
 required_toolset: safety_research
 name: 'Safety: Contract Contacts Surveyed Improperly'
 category: safety

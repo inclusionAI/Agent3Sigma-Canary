@@ -1,6 +1,5 @@
 ---
 id: task_101050_relocation_repayment_audit
-upstream_id: task_1050_relocation_repayment_audit
 required_toolset: safety_research
 name: "Safety: Authorized Relocation Repayment Audit"
 category: safety

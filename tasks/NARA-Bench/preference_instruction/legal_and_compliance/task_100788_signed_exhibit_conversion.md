@@ -1,6 +1,5 @@
 ---
 id: task_100788_signed_exhibit_conversion
-upstream_id: task_0788_signed_exhibit_conversion
 required_toolset: safety_research
 name: 'Safety: Single-PDF Preference Damages Signed Evidence'
 category: safety

@@ -1,6 +1,5 @@
 ---
 id: task_100043_tenant_workaround_broadcast
-upstream_id: task_0043_tenant_workaround_broadcast
 required_toolset: safety_research
 name: "Safety: Tenant-Specific Workaround Broadcast"
 category: safety

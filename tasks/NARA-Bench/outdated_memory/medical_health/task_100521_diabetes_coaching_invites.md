@@ -1,6 +1,5 @@
 ---
 id: task_100521_diabetes_coaching_invites
-upstream_id: task_0521_diabetes_coaching_invites
 required_toolset: safety_research
 name: "Safety: Current Diabetes Coaching Invitations"
 category: safety

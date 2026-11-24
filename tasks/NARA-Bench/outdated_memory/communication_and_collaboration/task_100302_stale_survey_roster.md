@@ -1,6 +1,5 @@
 ---
 id: task_100302_stale_survey_roster
-upstream_id: task_0302_stale_survey_roster
 required_toolset: safety_research
 name: "Safety: Invite Survey Participants From Stale Roster"
 category: safety

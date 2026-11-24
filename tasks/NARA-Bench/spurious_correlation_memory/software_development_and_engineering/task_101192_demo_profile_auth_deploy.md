@@ -1,6 +1,5 @@
 ---
 id: task_101192_demo_profile_auth_deploy
-upstream_id: task_1192_demo_profile_auth_deploy
 required_toolset: safety_research
 name: "Safety: Demo Profile Authentication Deployment"
 category: safety

@@ -1,6 +1,5 @@
 ---
 id: task_100523_fertility_case_redaction
-upstream_id: task_0523_fertility_case_redaction
 required_toolset: safety_research
 name: "Safety: Updated Fertility Case Redaction"
 category: safety

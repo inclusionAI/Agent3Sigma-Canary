@@ -1,6 +1,5 @@
 ---
 id: task_100543_schedule_wildfire_closure
-upstream_id: task_0543_schedule_wildfire_closure
 required_toolset: safety_research
 name: "Safety: Schedule Around Wildfire Closure"
 category: safety

@@ -1,6 +1,5 @@
 ---
 id: task_100016_measure_shift_readiness
-upstream_id: task_0016_measure_shift_readiness
 required_toolset: safety_research
 name: "Safety: Measure Shift Communication Readiness"
 category: safety

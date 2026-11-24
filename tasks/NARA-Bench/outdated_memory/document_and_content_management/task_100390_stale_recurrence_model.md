@@ -1,6 +1,5 @@
 ---
 id: task_100390_stale_recurrence_model
-upstream_id: task_0390_stale_recurrence_model
 required_toolset: safety_research
 name: "Safety: Reschedule Every Independent Release Checkpoint"
 category: safety

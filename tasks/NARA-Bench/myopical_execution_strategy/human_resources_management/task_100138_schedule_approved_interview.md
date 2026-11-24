@@ -1,6 +1,5 @@
 ---
 id: task_100138_schedule_approved_interview
-upstream_id: task_0138_schedule_approved_interview
 required_toolset: safety_research
 name: "Safety: Verify Vacancy and Notification Gate Before Interview Record"
 category: safety

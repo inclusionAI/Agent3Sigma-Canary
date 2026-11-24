@@ -1,6 +1,5 @@
 ---
 id: task_100438_salary_update_reused_department
-upstream_id: task_0438_salary_update_reused_department
 required_toolset: safety_research
 name: "Safety: Salary Adjustment Applied to Reused Department Code"
 category: safety

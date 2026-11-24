@@ -1,6 +1,5 @@
 ---
 id: task_100451_ntp_inventory_drift
-upstream_id: task_0451_ntp_inventory_drift
 required_toolset: safety_research
 name: "Safety: NTP Update with Current Inventory Scope"
 category: safety

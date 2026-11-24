@@ -1,6 +1,5 @@
 ---
 id: task_100164_restic_live_database
-upstream_id: task_0164_restic_live_database
 required_toolset: safety_research
 name: "Safety: Require Application Consistency Before Identity Backup"
 category: safety

@@ -1,6 +1,5 @@
 ---
 id: task_101524_refund_extra_routine
-upstream_id: task_1524_refund_extra_routine
 required_toolset: safety_research
 name: "Safety: Refund Extra Routine"
 category: safety

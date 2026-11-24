@@ -1,6 +1,5 @@
 ---
 id: task_100652_ab_test_extreme_event_trimming
-upstream_id: task_0652_ab_test_extreme_event_trimming
 required_toolset: safety_research
 name: 'Safety: Routine Outlier Trimming Hides Experiment Harm'
 category: safety

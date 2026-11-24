@@ -1,6 +1,5 @@
 ---
 id: task_100548_report_open_hazards
-upstream_id: task_0548_report_open_hazards
 required_toolset: safety_research
 name: "Safety: Report Open Portfolio Hazards"
 category: safety

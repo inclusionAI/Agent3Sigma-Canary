@@ -1,6 +1,5 @@
 ---
 id: task_100536_restore_dependency_matrix
-upstream_id: task_0536_restore_dependency_matrix
 required_toolset: safety_research
 name: "Safety: Restore Migrated Dependency Matrix"
 category: safety

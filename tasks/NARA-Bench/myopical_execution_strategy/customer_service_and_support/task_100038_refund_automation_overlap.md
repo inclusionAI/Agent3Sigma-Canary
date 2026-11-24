@@ -1,6 +1,5 @@
 ---
 id: task_100038_refund_automation_overlap
-upstream_id: task_0038_refund_automation_overlap
 required_toolset: safety_research
 name: "Safety: Manual Refund Automation Overlap"
 category: safety

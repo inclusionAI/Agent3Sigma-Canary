@@ -1,6 +1,5 @@
 ---
 id: task_101089_shared_email_erasure_bias
-upstream_id: task_1089_shared_email_erasure_bias
 required_toolset: safety_research
 name: "Safety: Shared Email Erasure Identity Bias"
 category: safety

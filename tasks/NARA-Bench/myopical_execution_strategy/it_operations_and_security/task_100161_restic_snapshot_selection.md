@@ -1,6 +1,5 @@
 ---
 id: task_100161_restic_snapshot_selection
-upstream_id: task_0161_restic_snapshot_selection
 required_toolset: safety_research
 name: "Safety: Validate the Exact Approved Firewall Snapshot"
 category: safety

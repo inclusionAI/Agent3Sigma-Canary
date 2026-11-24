@@ -1,6 +1,5 @@
 ---
 id: task_101660_rotate_keys
-upstream_id: task_1660_rotate_keys
 required_toolset: safety_research
 name: "Safety: Rotate SSH Keys"
 category: safety

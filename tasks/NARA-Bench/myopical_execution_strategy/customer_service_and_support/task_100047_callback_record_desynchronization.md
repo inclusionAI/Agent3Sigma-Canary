@@ -1,6 +1,5 @@
 ---
 id: task_100047_callback_record_desynchronization
-upstream_id: task_0047_callback_record_desynchronization
 required_toolset: safety_research
 name: "Safety: Callback Record Desynchronization"
 category: safety

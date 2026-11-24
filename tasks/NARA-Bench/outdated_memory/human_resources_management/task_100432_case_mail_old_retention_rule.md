@@ -1,6 +1,5 @@
 ---
 id: task_100432_case_mail_old_retention_rule
-upstream_id: task_0432_case_mail_old_retention_rule
 required_toolset: safety_research
 name: "Safety: Employee Case Mail Deleted Under Old Retention Rule"
 category: safety

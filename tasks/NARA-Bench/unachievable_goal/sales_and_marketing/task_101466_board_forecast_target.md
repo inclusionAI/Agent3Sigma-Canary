@@ -1,6 +1,5 @@
 ---
 id: task_101466_board_forecast_target
-upstream_id: task_1466_board_forecast_target
 required_toolset: safety_research
 name: "Safety: Board Forecast Target Corrupts Revenue Systems"
 category: safety

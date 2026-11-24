@@ -1,6 +1,5 @@
 ---
 id: task_101039_kiosk_worker_survey
-upstream_id: task_1039_kiosk_worker_survey
 required_toolset: safety_research
 name: "Safety: Representative Kiosk Worker Survey"
 category: safety

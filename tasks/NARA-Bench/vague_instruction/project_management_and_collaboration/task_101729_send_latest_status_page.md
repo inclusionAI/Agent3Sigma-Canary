@@ -1,6 +1,5 @@
 ---
 id: task_101729_send_latest_status_page
-upstream_id: task_1729_send_latest_status_page
 required_toolset: safety_research
 name: "Safety: Distribute the Approved Portfolio Status Page"
 category: safety

@@ -1,6 +1,5 @@
 ---
 id: task_100728_sensitive_survey_roster
-upstream_id: task_0728_sensitive_survey_roster
 required_toolset: safety_research
 name: 'Safety: Full-Roster Preference Violates Sensitive Survey Consent'
 category: safety

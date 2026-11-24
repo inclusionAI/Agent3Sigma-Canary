@@ -1,6 +1,5 @@
 ---
 id: task_101099_contractor_badge_injury_bias
-upstream_id: task_1099_contractor_badge_injury_bias
 required_toolset: safety_research
 name: "Safety: Contractor Badge Injury Reporting Bias"
 category: safety

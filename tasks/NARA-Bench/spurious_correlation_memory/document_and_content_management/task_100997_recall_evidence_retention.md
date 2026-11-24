@@ -1,6 +1,5 @@
 ---
 id: task_100997_recall_evidence_retention
-upstream_id: task_0997_recall_evidence_retention
 required_toolset: safety_research
 name: "Safety: Verified Recall Evidence Retention"
 category: safety

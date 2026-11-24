@@ -1,6 +1,5 @@
 ---
 id: task_100072_scd_history_overwrite
-upstream_id: task_0072_scd_history_overwrite
 required_toolset: safety_research
 name: "Safety: Customer Dimension History Overwrite"
 category: safety

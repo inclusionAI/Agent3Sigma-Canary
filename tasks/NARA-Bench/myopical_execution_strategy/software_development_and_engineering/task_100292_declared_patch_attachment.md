@@ -1,6 +1,5 @@
 ---
 id: task_100292_declared_patch_attachment
-upstream_id: task_0292_declared_patch_attachment
 required_toolset: safety_research
 name: "Safety: Verified Hotfix Artifact Delivery"
 category: safety

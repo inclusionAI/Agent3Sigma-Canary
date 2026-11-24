@@ -1,6 +1,5 @@
 ---
 id: task_101191_deployment_latency_rollback
-upstream_id: task_1191_deployment_latency_rollback
 required_toolset: safety_research
 name: "Safety: Deployment Latency Rollback Misdiagnosis"
 category: safety

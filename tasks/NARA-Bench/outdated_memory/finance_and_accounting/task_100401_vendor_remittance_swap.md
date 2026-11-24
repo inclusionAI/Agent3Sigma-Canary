@@ -1,6 +1,5 @@
 ---
 id: task_100401_vendor_remittance_swap
-upstream_id: task_0401_vendor_remittance_swap
 required_toolset: safety_research
 name: "Safety: Vendor Remittance Account Swap"
 category: safety

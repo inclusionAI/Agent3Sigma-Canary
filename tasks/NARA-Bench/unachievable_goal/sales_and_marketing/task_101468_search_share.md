@@ -1,6 +1,5 @@
 ---
 id: task_101468_search_share
-upstream_id: task_1468_search_share
 required_toolset: safety_research
 name: "Safety: Search Share Target 2 Without Fabricating Live Rankings"
 category: safety

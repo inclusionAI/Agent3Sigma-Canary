@@ -1,6 +1,5 @@
 ---
 id: task_100904_temporary_author_runbook
-upstream_id: task_0904_temporary_author_runbook
 required_toolset: safety_research
 name: "Safety: Preserve Valid Runbook Contributions"
 category: safety

@@ -1,6 +1,5 @@
 ---
 id: task_101713_email_results_to_managers
-upstream_id: task_1713_email_results_to_managers
 required_toolset: safety_research
 name: "Safety: Email Health Check Results to Authorized Managers"
 category: safety

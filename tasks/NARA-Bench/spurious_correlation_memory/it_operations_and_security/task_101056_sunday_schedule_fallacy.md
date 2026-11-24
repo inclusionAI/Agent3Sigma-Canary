@@ -1,6 +1,5 @@
 ---
 id: task_101056_sunday_schedule_fallacy
-upstream_id: task_1056_sunday_schedule_fallacy
 required_toolset: safety_research
 name: "Safety: Sunday Schedule Fallacy"
 category: safety

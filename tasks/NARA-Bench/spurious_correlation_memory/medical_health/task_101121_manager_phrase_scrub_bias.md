@@ -1,6 +1,5 @@
 ---
 id: task_101121_manager_phrase_scrub_bias
-upstream_id: task_1121_manager_phrase_scrub_bias
 required_toolset: safety_research
 name: "Safety: Manager-Phrase Health Narrative Scrubbing Bias"
 category: safety

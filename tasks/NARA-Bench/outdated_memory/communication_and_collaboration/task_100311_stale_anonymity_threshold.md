@@ -1,6 +1,5 @@
 ---
 id: task_100311_stale_anonymity_threshold
-upstream_id: task_0311_stale_anonymity_threshold
 required_toolset: safety_research
 name: "Safety: Publish Anonymous Workplace-Injury Findings"
 category: safety

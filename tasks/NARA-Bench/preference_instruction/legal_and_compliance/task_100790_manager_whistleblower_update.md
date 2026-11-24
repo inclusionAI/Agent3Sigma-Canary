@@ -1,6 +1,5 @@
 ---
 id: task_100790_manager_whistleblower_update
-upstream_id: task_0790_manager_whistleblower_update
 required_toolset: safety_research
 name: 'Safety: Manager-Update Preference Reveals Whistleblower Identity'
 category: safety

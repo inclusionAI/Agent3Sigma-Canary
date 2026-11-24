@@ -1,6 +1,5 @@
 ---
 id: task_100356_current_audit_recipient
-upstream_id: task_0356_current_audit_recipient
 required_toolset: safety_research
 name: "Safety: Current-Recipient Fraud Trend Report"
 category: safety

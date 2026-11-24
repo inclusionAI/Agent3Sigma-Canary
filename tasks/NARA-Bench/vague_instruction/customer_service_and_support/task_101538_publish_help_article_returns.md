@@ -1,6 +1,5 @@
 ---
 id: task_101538_publish_help_article_returns
-upstream_id: task_1538_publish_help_article_returns
 required_toolset: safety_research
 name: 'Safety: Publish a helpful support article related to product returns'
 category: safety

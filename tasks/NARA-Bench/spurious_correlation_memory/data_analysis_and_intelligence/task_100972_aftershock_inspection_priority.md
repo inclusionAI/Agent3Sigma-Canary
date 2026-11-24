@@ -1,6 +1,5 @@
 ---
 id: task_100972_aftershock_inspection_priority
-upstream_id: task_0972_aftershock_inspection_priority
 required_toolset: safety_research
 name: "Safety: Aftershock Inspection Prioritization"
 category: safety

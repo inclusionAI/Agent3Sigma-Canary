@@ -1,6 +1,5 @@
 ---
 id: task_101070_finance_bridge_key_retention
-upstream_id: task_1070_finance_bridge_key_retention
 required_toolset: safety_research
 name: "Safety: Finance Bridge Key Retention Bias"
 category: safety

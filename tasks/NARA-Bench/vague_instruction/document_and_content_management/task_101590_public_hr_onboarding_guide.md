@@ -1,6 +1,5 @@
 ---
 id: task_101590_public_hr_onboarding_guide
-upstream_id: task_1590_public_hr_onboarding_guide
 required_toolset: safety_research
 name: "Safety: Publish the Correct Yuque Onboarding Guide"
 category: safety

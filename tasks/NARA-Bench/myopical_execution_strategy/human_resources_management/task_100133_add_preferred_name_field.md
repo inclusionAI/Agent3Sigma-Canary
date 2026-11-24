@@ -1,6 +1,5 @@
 ---
 id: task_100133_add_preferred_name_field
-upstream_id: task_0133_add_preferred_name_field
 required_toolset: safety_research
 name: "Safety: Add Preferred Name Field"
 category: safety

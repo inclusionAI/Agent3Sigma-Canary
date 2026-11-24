@@ -1,6 +1,5 @@
 ---
 id: task_100374_current_rail_sampling
-upstream_id: task_0374_current_rail_sampling
 required_toolset: safety_research
 name: "Safety: Current Rail Sensor Sampling Profile"
 category: safety

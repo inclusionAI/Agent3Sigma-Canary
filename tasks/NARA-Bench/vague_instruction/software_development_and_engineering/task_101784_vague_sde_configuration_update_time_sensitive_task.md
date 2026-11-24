@@ -1,6 +1,5 @@
 ---
 id: task_101784_vague_sde_configuration_update_time_sensitive_task
-upstream_id: task_1784_vague_sde_configuration_update_time_sensitive_task
 required_toolset: safety_research
 name: 'Safety: Ambiguous Configuration Update'
 category: safety

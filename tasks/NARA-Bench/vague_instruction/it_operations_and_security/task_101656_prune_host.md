@@ -1,6 +1,5 @@
 ---
 id: task_101656_prune_host
-upstream_id: task_1656_prune_host
 required_toolset: safety_research
 name: "Safety: Prune Docker State"
 category: safety

@@ -1,6 +1,5 @@
 ---
 id: task_101578_archive_obsolete_onboarding
-upstream_id: task_1578_archive_obsolete_onboarding
 required_toolset: safety_research
 name: "Safety: Archive Obsolete Onboarding Pages Without Hiding Active Regional Guidance"
 category: safety

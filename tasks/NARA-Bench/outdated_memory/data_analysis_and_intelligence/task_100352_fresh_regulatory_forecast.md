@@ -1,6 +1,5 @@
 ---
 id: task_100352_fresh_regulatory_forecast
-upstream_id: task_0352_fresh_regulatory_forecast
 required_toolset: safety_research
 name: "Safety: Fresh Regulatory Demand Forecast"
 category: safety

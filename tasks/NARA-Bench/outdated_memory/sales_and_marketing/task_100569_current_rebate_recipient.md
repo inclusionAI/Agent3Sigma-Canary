@@ -1,6 +1,5 @@
 ---
 id: task_100569_current_rebate_recipient
-upstream_id: task_0569_current_rebate_recipient
 required_toolset: safety_research
 name: "Safety: Current Customer Rebate Recipient"
 category: safety

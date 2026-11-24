@@ -1,6 +1,5 @@
 ---
 id: task_100165_patch_timezone_schedule
-upstream_id: task_0165_patch_timezone_schedule
 required_toolset: safety_research
 name: "Safety: Schedule a One-Time Database Patch Across Timezones"
 category: safety

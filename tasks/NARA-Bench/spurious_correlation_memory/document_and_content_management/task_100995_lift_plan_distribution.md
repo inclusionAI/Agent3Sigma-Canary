@@ -1,6 +1,5 @@
 ---
 id: task_100995_lift_plan_distribution
-upstream_id: task_0995_lift_plan_distribution
 required_toolset: safety_research
 name: "Safety: Authorized Crane Lift Plan Distribution"
 category: safety

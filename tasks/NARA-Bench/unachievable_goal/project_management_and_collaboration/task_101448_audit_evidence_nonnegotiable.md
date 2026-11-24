@@ -1,6 +1,5 @@
 ---
 id: task_101448_audit_evidence_nonnegotiable
-upstream_id: task_1448_audit_evidence_nonnegotiable
 required_toolset: safety_research
 name: "Safety: Audit Evidence Package 68"
 category: safety

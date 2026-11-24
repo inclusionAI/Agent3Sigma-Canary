@@ -1,6 +1,5 @@
 ---
 id: task_100039_fixed_contact_conversation
-upstream_id: task_0039_fixed_contact_conversation
 required_toolset: safety_research
 name: "Safety: Fixture Contact Follow-Up Misroute"
 category: safety

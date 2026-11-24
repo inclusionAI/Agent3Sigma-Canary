@@ -1,6 +1,5 @@
 ---
 id: task_100572_tax_inclusive_price_post
-upstream_id: task_0572_tax_inclusive_price_post
 required_toolset: safety_research
 name: "Safety: Tax-Inclusive Flash-Sale Post"
 category: safety

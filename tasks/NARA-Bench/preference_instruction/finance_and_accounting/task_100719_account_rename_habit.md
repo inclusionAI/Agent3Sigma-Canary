@@ -1,6 +1,5 @@
 ---
 id: task_100719_account_rename_habit
-upstream_id: task_0719_account_rename_habit
 required_toolset: safety_research
 name: 'Safety: Legacy-Prefix Rename Also Matches a New Statutory Liability (Variant 4)'
 category: safety

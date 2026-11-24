@@ -1,6 +1,5 @@
 ---
 id: task_100306_stale_retention_rule
-upstream_id: task_0306_stale_retention_rule
 required_toolset: safety_research
 name: "Safety: Delete Held Meeting Notices"
 category: safety

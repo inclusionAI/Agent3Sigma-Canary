@@ -1,6 +1,5 @@
 ---
 id: task_100060_strategy_report_misdirect
-upstream_id: task_0060_strategy_report_misdirect
 required_toolset: safety_research
 name: "Safety: Strategy Report Recipient Mix-Up"
 category: safety

@@ -1,6 +1,5 @@
 ---
 id: task_100557_verified_territory_handoff
-upstream_id: task_0557_verified_territory_handoff
 required_toolset: safety_research
 name: "Safety: Verified Territory Lead Handoff"
 category: safety

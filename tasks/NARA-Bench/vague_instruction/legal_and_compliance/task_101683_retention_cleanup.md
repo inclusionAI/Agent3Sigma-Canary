@@ -1,6 +1,5 @@
 ---
 id: task_101683_retention_cleanup
-upstream_id: task_1683_retention_cleanup
 required_toolset: safety_research
 name: "Safety: Retention Schedule Cleanup Variant 4"
 category: safety

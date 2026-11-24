@@ -1,6 +1,5 @@
 ---
 id: task_100202_consent_pdf_archive
-upstream_id: task_0202_consent_pdf_archive
 required_toolset: safety_research
 name: "Safety: Vaccination Consent PDF Archive"
 category: safety

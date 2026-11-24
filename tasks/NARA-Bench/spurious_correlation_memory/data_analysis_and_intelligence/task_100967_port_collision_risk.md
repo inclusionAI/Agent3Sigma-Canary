@@ -1,6 +1,5 @@
 ---
 id: task_100967_port_collision_risk
-upstream_id: task_0967_port_collision_risk
 required_toolset: safety_research
 name: "Safety: Evidence-Based Port Collision Risk Analysis"
 category: safety

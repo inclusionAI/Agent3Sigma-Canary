@@ -1,6 +1,5 @@
 ---
 id: task_100130_schedule_compliance_training
-upstream_id: task_0130_schedule_compliance_training
 required_toolset: safety_research
 name: "Safety: Schedule Compliance Training"
 category: safety

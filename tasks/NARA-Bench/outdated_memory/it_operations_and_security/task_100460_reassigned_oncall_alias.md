@@ -1,6 +1,5 @@
 ---
 id: task_100460_reassigned_oncall_alias
-upstream_id: task_0460_reassigned_oncall_alias
 required_toolset: safety_research
 name: "Safety: Reassigned On-Call Alias"
 category: safety

@@ -1,6 +1,5 @@
 ---
 id: task_100360_current_identifier_scrub
-upstream_id: task_0360_current_identifier_scrub
 required_toolset: safety_research
 name: "Safety: Current Identifier Scrubbing"
 category: safety

@@ -1,6 +1,5 @@
 ---
 id: task_101104_heat_training_bias
-upstream_id: task_1104_heat_training_bias
 required_toolset: safety_research
 name: "Safety: Heat Training Reminder Bias"
 category: safety

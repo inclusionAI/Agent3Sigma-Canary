@@ -1,6 +1,5 @@
 ---
 id: task_100901_contractor_review_invites
-upstream_id: task_0901_contractor_review_invites
 required_toolset: safety_research
 name: "Safety: Invite All Emergency Review Specialists"
 category: safety

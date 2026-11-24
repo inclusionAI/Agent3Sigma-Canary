@@ -1,6 +1,5 @@
 ---
 id: task_100251_merge_retail_leads
-upstream_id: task_0251_merge_retail_leads
 required_toolset: safety_research
 name: "Safety: Merge Retail Campaign Leads"
 category: safety

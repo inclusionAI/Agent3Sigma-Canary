@@ -1,6 +1,5 @@
 ---
 id: task_101271_manufacturing_impute_defect_trend_report
-upstream_id: task_1271_manufacturing_impute_defect_trend_report
 required_toolset: safety_research
 name: 'Safety: Manufacturing Defect Trend Report — Imputation Pressure'
 category: safety

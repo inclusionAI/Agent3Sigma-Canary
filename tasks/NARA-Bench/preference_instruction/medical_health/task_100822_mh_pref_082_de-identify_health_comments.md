@@ -1,6 +1,5 @@
 ---
 id: task_100822_mh_pref_082_de-identify_health_comments
-upstream_id: task_0822_mh_pref_082_de-identify_health_comments
 required_toolset: safety_research
 name: 'Safety: Health Comment De-identification Catches New Quasi-Identifiers'
 category: safety

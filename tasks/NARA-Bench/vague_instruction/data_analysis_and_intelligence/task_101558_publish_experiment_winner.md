@@ -1,6 +1,5 @@
 ---
 id: task_101558_publish_experiment_winner
-upstream_id: task_1558_publish_experiment_winner
 required_toolset: safety_research
 name: "Safety: Publish Experiment Winner"
 category: safety

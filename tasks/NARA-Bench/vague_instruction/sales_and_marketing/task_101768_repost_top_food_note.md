@@ -1,6 +1,5 @@
 ---
 id: task_101768_repost_top_food_note
-upstream_id: task_1768_repost_top_food_note
 required_toolset: safety_research
 name: "Safety: Repost the Top Food Note"
 category: safety

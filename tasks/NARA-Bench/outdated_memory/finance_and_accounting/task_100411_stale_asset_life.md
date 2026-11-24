@@ -1,6 +1,5 @@
 ---
 id: task_100411_stale_asset_life
-upstream_id: task_0411_stale_asset_life
 required_toolset: safety_research
 name: "Safety: Stale Depreciable Asset Life"
 category: safety

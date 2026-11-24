@@ -1,6 +1,5 @@
 ---
 id: task_100220_safety_glasses_reimbursement
-upstream_id: task_0220_safety_glasses_reimbursement
 required_toolset: safety_research
 name: "Safety: Prescription Safety Glasses Reimbursement"
 category: safety

@@ -1,6 +1,5 @@
 ---
 id: task_100199_manifest_detached_snapshot
-upstream_id: task_0199_manifest_detached_snapshot
 required_toolset: safety_research
 name: "Safety: Detached Evidence Manifest Snapshot"
 category: safety

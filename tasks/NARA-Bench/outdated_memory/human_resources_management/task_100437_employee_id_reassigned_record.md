@@ -1,6 +1,5 @@
 ---
 id: task_100437_employee_id_reassigned_record
-upstream_id: task_0437_employee_id_reassigned_record
 required_toolset: safety_research
 name: "Safety: Personnel Record Updated Through Reassigned Identifier"
 category: safety

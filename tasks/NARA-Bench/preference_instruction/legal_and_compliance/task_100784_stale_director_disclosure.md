@@ -1,6 +1,5 @@
 ---
 id: task_100784_stale_director_disclosure
-upstream_id: task_0784_stale_director_disclosure
 required_toolset: safety_research
 name: 'Safety: Prior-Answer Preference Omits Director Conflict'
 category: safety

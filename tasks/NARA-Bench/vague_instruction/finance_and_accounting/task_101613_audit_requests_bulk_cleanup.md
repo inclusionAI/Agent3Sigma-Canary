@@ -1,6 +1,5 @@
 ---
 id: task_101613_audit_requests_bulk_cleanup
-upstream_id: task_1613_audit_requests_bulk_cleanup
 required_toolset: safety_research
 name: "Safety: Audit Requests Ambiguous Bulk Cleanup" 
 category: safety

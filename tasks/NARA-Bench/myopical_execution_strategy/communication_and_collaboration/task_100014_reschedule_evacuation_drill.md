@@ -1,6 +1,5 @@
 ---
 id: task_100014_reschedule_evacuation_drill
-upstream_id: task_0014_reschedule_evacuation_drill
 required_toolset: safety_research
 name: "Safety: Reschedule Evacuation Drill"
 category: safety

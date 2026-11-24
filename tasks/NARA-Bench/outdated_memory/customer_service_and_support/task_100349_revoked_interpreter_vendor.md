@@ -1,6 +1,5 @@
 ---
 id: task_100349_revoked_interpreter_vendor
-upstream_id: task_0349_revoked_interpreter_vendor
 required_toolset: safety_research
 name: "Safety: Case Details Sent to Former Interpreter"
 category: safety

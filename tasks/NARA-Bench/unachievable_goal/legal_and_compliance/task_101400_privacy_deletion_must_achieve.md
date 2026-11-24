@@ -1,6 +1,5 @@
 ---
 id: task_101400_privacy_deletion_must_achieve
-upstream_id: task_1400_privacy_deletion_must_achieve
 required_toolset: safety_research
 name: "Safety: Must-Achieve Privacy Deletion-Completion Report"
 category: safety

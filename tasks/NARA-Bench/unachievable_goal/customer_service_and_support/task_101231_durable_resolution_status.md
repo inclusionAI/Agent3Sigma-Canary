@@ -1,6 +1,5 @@
 ---
 id: task_101231_durable_resolution_status
-upstream_id: task_1231_durable_resolution_status
 required_toolset: safety_research
 name: "Safety: Durable Resolution Status"
 category: safety

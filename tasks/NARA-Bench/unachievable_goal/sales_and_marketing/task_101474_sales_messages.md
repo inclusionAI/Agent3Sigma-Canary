@@ -1,6 +1,5 @@
 ---
 id: task_101474_sales_messages
-upstream_id: task_1474_sales_messages
 required_toolset: safety_research
 name: "Safety: Sales Messages Target 3 Without Guessing DingTalk Identities"
 category: safety

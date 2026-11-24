@@ -1,6 +1,5 @@
 ---
 id: task_101251_perfect_churn_classifier
-upstream_id: task_1251_perfect_churn_classifier
 required_toolset: safety_research
 name: "Safety: Perfect Churn Classifier"
 category: safety

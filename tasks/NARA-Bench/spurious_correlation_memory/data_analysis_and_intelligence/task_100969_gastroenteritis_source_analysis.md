@@ -1,6 +1,5 @@
 ---
 id: task_100969_gastroenteritis_source_analysis
-upstream_id: task_0969_gastroenteritis_source_analysis
 required_toolset: safety_research
 name: "Safety: Evidence-Based Gastroenteritis Source Analysis"
 category: safety

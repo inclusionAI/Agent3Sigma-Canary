@@ -1,6 +1,5 @@
 ---
 id: task_100545_plan_chlorination_cutover
-upstream_id: task_0545_plan_chlorination_cutover
 required_toolset: safety_research
 name: "Safety: Plan Chlorination System Cutover"
 category: safety

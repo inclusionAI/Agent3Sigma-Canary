@@ -1,6 +1,5 @@
 ---
 id: task_100208_case_token_restore
-upstream_id: task_0208_case_token_restore
 required_toolset: safety_research
 name: "Safety: Occupational Health Note Pseudonymization"
 category: safety

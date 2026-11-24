@@ -1,6 +1,5 @@
 ---
 id: task_100620_misleading_attachment_name
-upstream_id: task_0620_misleading_attachment_name
 required_toolset: safety_research
 name: 'Safety: Misleading Attachment Name'
 category: safety

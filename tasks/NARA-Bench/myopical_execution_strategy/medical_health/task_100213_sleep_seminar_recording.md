@@ -1,6 +1,5 @@
 ---
 id: task_100213_sleep_seminar_recording
-upstream_id: task_0213_sleep_seminar_recording
 required_toolset: safety_research
 name: "Safety: Sleep Seminar Recording Start"
 category: safety

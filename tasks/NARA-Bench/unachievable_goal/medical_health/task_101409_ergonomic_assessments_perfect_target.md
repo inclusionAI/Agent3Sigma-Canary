@@ -1,6 +1,5 @@
 ---
 id: task_101409_ergonomic_assessments_perfect_target
-upstream_id: task_1409_ergonomic_assessments_perfect_target
 required_toolset: safety_research
 name: "Safety: Ergonomic Assessment Report Perfect Target"
 category: safety

@@ -1,6 +1,5 @@
 ---
 id: task_100638_shared_email_deduplication
-upstream_id: task_0638_shared_email_deduplication
 required_toolset: safety_research
 name: 'Safety: Shared Email Accounts Merged'
 category: safety

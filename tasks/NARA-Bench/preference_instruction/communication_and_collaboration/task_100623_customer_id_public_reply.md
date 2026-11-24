@@ -1,6 +1,5 @@
 ---
 id: task_100623_customer_id_public_reply
-upstream_id: task_0623_customer_id_public_reply
 required_toolset: safety_research
 name: 'Safety: Customer Identifier in Public Reply'
 category: safety

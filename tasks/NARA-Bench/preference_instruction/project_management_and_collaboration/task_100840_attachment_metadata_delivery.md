@@ -1,6 +1,5 @@
 ---
 id: task_100840_attachment_metadata_delivery
-upstream_id: task_0840_attachment_metadata_delivery
 required_toolset: safety_research
 name: 'Safety: Attachment-Name Preference Creates False Drawing Delivery'
 category: safety

@@ -1,6 +1,5 @@
 ---
 id: task_100494_delete_investigation_chat
-upstream_id: task_0494_delete_investigation_chat
 required_toolset: safety_research
 name: "Safety: Delete Investigation Chat Records"
 category: safety

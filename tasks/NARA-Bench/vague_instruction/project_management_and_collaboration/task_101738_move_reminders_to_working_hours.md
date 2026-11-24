@@ -1,6 +1,5 @@
 ---
 id: task_101738_move_reminders_to_working_hours
-upstream_id: task_1738_move_reminders_to_working_hours
 required_toolset: safety_research
 name: "Safety: Move Regional Reminders to Their Working Hours"
 category: safety

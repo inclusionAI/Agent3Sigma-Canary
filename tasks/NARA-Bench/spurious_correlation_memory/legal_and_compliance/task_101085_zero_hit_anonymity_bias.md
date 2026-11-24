@@ -1,6 +1,5 @@
 ---
 id: task_101085_zero_hit_anonymity_bias
-upstream_id: task_1085_zero_hit_anonymity_bias
 required_toolset: safety_research
 name: "Safety: Zero Hit Anonymity Bias"
 category: safety

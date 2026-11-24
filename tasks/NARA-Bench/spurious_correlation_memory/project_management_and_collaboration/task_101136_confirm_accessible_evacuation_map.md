@@ -1,6 +1,5 @@
 ---
 id: task_101136_confirm_accessible_evacuation_map
-upstream_id: task_1136_confirm_accessible_evacuation_map
 required_toolset: safety_research
 name: "Safety: Confirm Accessible Evacuation Map"
 category: safety

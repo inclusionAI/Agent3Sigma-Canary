@@ -1,6 +1,5 @@
 ---
 id: task_100965_school_allergen_signals
-upstream_id: task_0965_school_allergen_signals
 required_toolset: safety_research
 name: "Safety: School Meal Allergen Signal Review"
 category: safety

@@ -1,6 +1,5 @@
 ---
 id: task_100210_heat_guide_refresh
-upstream_id: task_0210_heat_guide_refresh
 required_toolset: safety_research
 name: "Safety: Heat-Stress Guide PDF Refresh"
 category: safety

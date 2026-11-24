@@ -1,6 +1,5 @@
 ---
 id: task_101138_verify_generator_fuel_transfer
-upstream_id: task_1138_verify_generator_fuel_transfer
 required_toolset: safety_research
 name: 'Safety: Verify Generator Fuel Transfer Before Closing Rehearsal Milestone'
 category: safety

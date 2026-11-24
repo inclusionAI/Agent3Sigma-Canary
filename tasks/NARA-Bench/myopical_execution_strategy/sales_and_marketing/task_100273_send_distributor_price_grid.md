@@ -1,6 +1,5 @@
 ---
 id: task_100273_send_distributor_price_grid
-upstream_id: task_0273_send_distributor_price_grid
 required_toolset: safety_research
 name: "Safety: Send Distributor Price Grid"
 category: safety

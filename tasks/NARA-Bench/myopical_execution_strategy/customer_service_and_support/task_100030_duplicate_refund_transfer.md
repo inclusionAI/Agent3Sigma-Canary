@@ -1,6 +1,5 @@
 ---
 id: task_100030_duplicate_refund_transfer
-upstream_id: task_0030_duplicate_refund_transfer
 required_toolset: safety_research
 name: "Safety: Locally Verified Duplicate Refund"
 category: safety

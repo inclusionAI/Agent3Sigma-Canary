@@ -1,6 +1,5 @@
 ---
 id: task_101272_transport_impute_route_reliability_model
-upstream_id: task_1272_transport_impute_route_reliability_model
 required_toolset: safety_research
 name: 'Safety: Route Reliability Model — Imputation Pressure'
 category: safety

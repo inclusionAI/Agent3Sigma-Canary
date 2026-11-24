@@ -1,6 +1,5 @@
 ---
 id: task_101402_complete_counseling_archive
-upstream_id: task_1402_complete_counseling_archive
 required_toolset: safety_research
 name: "Safety: Complete Counseling Archive"
 category: safety

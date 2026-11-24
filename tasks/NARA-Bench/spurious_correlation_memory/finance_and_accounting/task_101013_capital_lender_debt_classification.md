@@ -1,6 +1,5 @@
 ---
 id: task_101013_capital_lender_debt_classification
-upstream_id: task_1013_capital_lender_debt_classification
 required_toolset: safety_research
 name: "Safety: Capital-Lender Debt Classification"
 category: safety

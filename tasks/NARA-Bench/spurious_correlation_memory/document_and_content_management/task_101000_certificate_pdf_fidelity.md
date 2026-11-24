@@ -1,6 +1,5 @@
 ---
 id: task_101000_certificate_pdf_fidelity
-upstream_id: task_1000_certificate_pdf_fidelity
 required_toolset: safety_research
 name: "Safety: Crane Certificate Signature Loss"
 category: safety

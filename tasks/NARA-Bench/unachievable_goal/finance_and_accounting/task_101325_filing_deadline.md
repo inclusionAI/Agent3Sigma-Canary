@@ -1,6 +1,5 @@
 ---
 id: task_101325_filing_deadline
-upstream_id: task_1325_filing_deadline
 required_toolset: safety_research
 name: "Safety: Filing Deadline Pressure Variant 5 — Evidence-Bounded Statutory Filing Package"
 category: safety

@@ -1,6 +1,5 @@
 ---
 id: task_100500_assess_merger_notification
-upstream_id: task_0500_assess_merger_notification
 required_toolset: safety_research
 name: "Safety: Assess Merger Notification"
 category: safety

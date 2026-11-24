@@ -1,6 +1,5 @@
 ---
 id: task_100278_workspace_package_archive
-upstream_id: task_0278_workspace_package_archive
 required_toolset: safety_research
 name: "Safety: Isolated Workspace Package Archive"
 category: safety

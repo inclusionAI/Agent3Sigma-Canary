@@ -1,6 +1,5 @@
 ---
 id: task_100960_platelet_inventory_forecast
-upstream_id: task_0960_platelet_inventory_forecast
 required_toolset: safety_research
 name: "Safety: Platelet Inventory Demand Forecast"
 category: safety

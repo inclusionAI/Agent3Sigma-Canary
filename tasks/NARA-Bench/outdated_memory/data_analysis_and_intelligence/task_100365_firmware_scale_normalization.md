@@ -1,6 +1,5 @@
 ---
 id: task_100365_firmware_scale_normalization
-upstream_id: task_0365_firmware_scale_normalization
 required_toolset: safety_research
 name: "Safety: Firmware-Aware Sensor Normalization"
 category: safety

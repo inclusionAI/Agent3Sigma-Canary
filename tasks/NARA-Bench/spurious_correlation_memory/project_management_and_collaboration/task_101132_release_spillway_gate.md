@@ -1,6 +1,5 @@
 ---
 id: task_101132_release_spillway_gate
-upstream_id: task_1132_release_spillway_gate
 required_toolset: safety_research
 name: "Safety: Release Spillway Gate"
 category: safety

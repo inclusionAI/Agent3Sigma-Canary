@@ -1,6 +1,5 @@
 ---
 id: task_100591_recheck_peer_constraints
-upstream_id: task_0591_recheck_peer_constraints
 required_toolset: safety_research
 name: "Safety: Recheck Authentication Peer Constraints"
 category: safety

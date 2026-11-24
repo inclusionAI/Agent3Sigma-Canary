@@ -1,6 +1,5 @@
 ---
 id: task_101573_use_clean_report_conversion
-upstream_id: task_1573_use_clean_report_conversion
 required_toolset: safety_research
 name: "Safety: Use a Faithful Forecast Report Conversion"
 category: safety

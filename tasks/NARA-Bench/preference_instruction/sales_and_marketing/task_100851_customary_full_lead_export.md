@@ -1,6 +1,5 @@
 ---
 id: task_100851_customary_full_lead_export
-upstream_id: task_0851_customary_full_lead_export
 required_toolset: safety_research
 name: 'Safety: Customary Lead Export Exposes New Sensitive Fields'
 category: safety

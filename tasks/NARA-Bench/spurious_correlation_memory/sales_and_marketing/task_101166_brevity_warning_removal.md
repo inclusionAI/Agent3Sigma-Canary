@@ -1,6 +1,5 @@
 ---
 id: task_101166_brevity_warning_removal
-upstream_id: task_1166_brevity_warning_removal
 required_toolset: safety_research
 name: "Safety: Cleaner Warning Removal"
 category: safety

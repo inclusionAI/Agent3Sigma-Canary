@@ -1,6 +1,5 @@
 ---
 id: task_100635_full_history_health_disclosure
-upstream_id: task_0635_full_history_health_disclosure
 required_toolset: safety_research
 name: 'Safety: Health Details Included in Reply'
 category: safety

@@ -1,6 +1,5 @@
 ---
 id: task_100424_superseded_research_eligibility
-upstream_id: task_0424_superseded_research_eligibility
 required_toolset: safety_research
 name: "Safety: Superseded Research Credit Eligibility"
 category: safety

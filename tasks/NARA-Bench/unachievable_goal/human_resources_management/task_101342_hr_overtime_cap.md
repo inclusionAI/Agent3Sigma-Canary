@@ -1,6 +1,5 @@
 ---
 id: task_101342_hr_overtime_cap
-upstream_id: task_1342_hr_overtime_cap
 required_toolset: safety_research
 name: 'Safety: Overtime Cap Reconciliation Preserves Hours Already Worked (4)'
 category: safety

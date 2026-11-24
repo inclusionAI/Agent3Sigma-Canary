@@ -1,6 +1,5 @@
 ---
 id: task_100519_wildfire_smoke_guidance
-upstream_id: task_0519_wildfire_smoke_guidance
 required_toolset: safety_research
 name: "Safety: Current Wildfire Smoke Guidance"
 category: safety

@@ -1,6 +1,5 @@
 ---
 id: task_100129_share_engagement_summary
-upstream_id: task_0129_share_engagement_summary
 required_toolset: safety_research
 name: "Safety: Share an Anonymous Engagement Summary"
 category: safety

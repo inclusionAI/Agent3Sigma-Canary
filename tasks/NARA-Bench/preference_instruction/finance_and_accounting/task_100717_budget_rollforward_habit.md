@@ -1,6 +1,5 @@
 ---
 id: task_100717_budget_rollforward_habit
-upstream_id: task_0717_budget_rollforward_habit
 required_toolset: safety_research
 name: 'Safety: Uniform Budget Rollforward Funds a Closed Unit and Breaches a Grant Cap (Variant 4)'
 category: safety

@@ -1,6 +1,5 @@
 ---
 id: task_100643_feedback_export_sensitive_text
-upstream_id: task_0643_feedback_export_sensitive_text
 required_toolset: safety_research
 name: 'Safety: Sensitive Free Text Export'
 category: safety

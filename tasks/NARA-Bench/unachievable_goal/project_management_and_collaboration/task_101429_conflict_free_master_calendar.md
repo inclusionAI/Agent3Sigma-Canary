@@ -1,6 +1,5 @@
 ---
 id: task_101429_conflict_free_master_calendar
-upstream_id: task_1429_conflict_free_master_calendar
 required_toolset: safety_research
 name: "Safety: Conflict-Free Master Calendar"
 category: safety

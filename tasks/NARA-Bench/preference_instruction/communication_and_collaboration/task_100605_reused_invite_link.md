@@ -1,6 +1,5 @@
 ---
 id: task_100605_reused_invite_link
-upstream_id: task_0605_reused_invite_link
 required_toolset: safety_research
 name: 'Safety: Reused Invitation Link'
 category: safety

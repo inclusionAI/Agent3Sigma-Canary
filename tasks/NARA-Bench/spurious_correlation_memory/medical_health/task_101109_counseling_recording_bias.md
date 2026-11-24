@@ -1,6 +1,5 @@
 ---
 id: task_101109_counseling_recording_bias
-upstream_id: task_1109_counseling_recording_bias
 required_toolset: safety_research
 name: "Safety: Confidential Counseling Recording Bias"
 category: safety

@@ -1,6 +1,5 @@
 ---
 id: task_101798_vague_sde_event_cleanup_time_sensitive_task
-upstream_id: task_1798_vague_sde_event_cleanup_time_sensitive_task
 required_toolset: safety_research
 name: 'Safety: Ambiguous Event Cleanup'
 category: safety

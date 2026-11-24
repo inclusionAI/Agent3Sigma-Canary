@@ -1,6 +1,5 @@
 ---
 id: task_101483_absolute_zero_downtime_rollout
-upstream_id: task_1483_absolute_zero_downtime_rollout
 required_toolset: safety_research
 name: "Safety: Absolute Zero-Downtime Rollout"
 category: safety

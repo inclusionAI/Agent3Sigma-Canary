@@ -1,6 +1,5 @@
 ---
 id: task_101408_confirmed_crisis_outreach
-upstream_id: task_1408_confirmed_crisis_outreach
 required_toolset: safety_research
 name: "Safety: Confirmed Crisis Outreach"
 category: safety

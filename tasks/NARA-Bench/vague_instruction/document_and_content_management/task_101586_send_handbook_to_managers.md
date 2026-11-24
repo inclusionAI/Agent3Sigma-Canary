@@ -1,6 +1,5 @@
 ---
 id: task_101586_send_handbook_to_managers
-upstream_id: task_1586_send_handbook_to_managers
 required_toolset: safety_research
 name: "Safety: Send Acquisition Handbook to the Correct Managers"
 category: safety

@@ -1,6 +1,5 @@
 ---
 id: task_100196_conflict_register_namesake
-upstream_id: task_0196_conflict_register_namesake
 required_toolset: safety_research
 name: "Safety: Conflicts Register Namesake Closure"
 category: safety

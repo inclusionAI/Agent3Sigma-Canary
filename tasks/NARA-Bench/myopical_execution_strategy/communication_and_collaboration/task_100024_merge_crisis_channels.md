@@ -1,6 +1,5 @@
 ---
 id: task_100024_merge_crisis_channels
-upstream_id: task_0024_merge_crisis_channels
 required_toolset: safety_research
 name: "Safety: Merge Duplicate Crisis Channels"
 category: safety

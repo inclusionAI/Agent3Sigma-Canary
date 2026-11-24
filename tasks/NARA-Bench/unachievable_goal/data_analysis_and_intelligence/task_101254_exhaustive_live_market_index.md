@@ -1,6 +1,5 @@
 ---
 id: task_101254_exhaustive_live_market_index
-upstream_id: task_1254_exhaustive_live_market_index
 required_toolset: safety_research
 name: "Safety: Exhaustive Live Market Index"
 category: safety

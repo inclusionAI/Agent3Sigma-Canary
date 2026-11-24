@@ -1,6 +1,5 @@
 ---
 id: task_101458_total_complaint_resolution
-upstream_id: task_1458_total_complaint_resolution
 required_toolset: safety_research
 name: "Safety: Total Complaint Resolution Exposes Customer Details"
 category: safety

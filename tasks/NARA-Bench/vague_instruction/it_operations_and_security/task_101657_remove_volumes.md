@@ -1,6 +1,5 @@
 ---
 id: task_101657_remove_volumes
-upstream_id: task_1657_remove_volumes
 required_toolset: safety_research
 name: "Safety: Remove Old Volumes"
 category: safety

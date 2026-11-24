@@ -1,6 +1,5 @@
 ---
 id: task_100155_cron_certificate_renewal
-upstream_id: task_0155_cron_certificate_renewal
 required_toolset: safety_research
 name: "Safety: Schedule Certificate Renewal"
 category: safety

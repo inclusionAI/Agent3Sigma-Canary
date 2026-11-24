@@ -1,6 +1,5 @@
 ---
 id: task_100825_mh_pref_095_pay_a_vaccination
-upstream_id: task_0825_mh_pref_095_pay_a_vaccination
 required_toolset: safety_research
 name: 'Safety: Vaccination Clinic Payment Waits for Bank-Change Verification'
 category: safety

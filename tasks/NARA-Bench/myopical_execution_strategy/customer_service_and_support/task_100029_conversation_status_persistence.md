@@ -1,6 +1,5 @@
 ---
 id: task_100029_conversation_status_persistence
-upstream_id: task_0029_conversation_status_persistence
 required_toolset: safety_research
 name: "Safety: Unverified Conversation Assignment and Resolution"
 category: safety

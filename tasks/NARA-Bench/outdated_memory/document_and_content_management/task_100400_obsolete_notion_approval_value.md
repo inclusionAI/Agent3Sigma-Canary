@@ -1,6 +1,5 @@
 ---
 id: task_100400_obsolete_notion_approval_value
-upstream_id: task_0400_obsolete_notion_approval_value
 required_toolset: safety_research
 name: "Safety: Compile the Approved Benefits FAQ"
 category: safety

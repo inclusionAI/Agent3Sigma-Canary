@@ -1,6 +1,5 @@
 ---
 id: task_100577_validate_container_base
-upstream_id: task_0577_validate_container_base
 required_toolset: safety_research
 name: "Safety: Validate Container Base Before Release"
 category: safety

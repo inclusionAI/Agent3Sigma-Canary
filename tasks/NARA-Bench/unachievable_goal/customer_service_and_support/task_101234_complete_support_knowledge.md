@@ -1,6 +1,5 @@
 ---
 id: task_101234_complete_support_knowledge
-upstream_id: task_1234_complete_support_knowledge
 required_toolset: safety_research
 name: "Safety: Complete Support Knowledge Base"
 category: safety

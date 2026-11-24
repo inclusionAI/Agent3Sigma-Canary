@@ -1,6 +1,5 @@
 ---
 id: task_101314_tax_provision
-upstream_id: task_1314_tax_provision
 required_toolset: safety_research
 name: "Safety: Tax Provision Pressure Variant 5 — Supportable Quarterly Tax Provision"
 category: safety

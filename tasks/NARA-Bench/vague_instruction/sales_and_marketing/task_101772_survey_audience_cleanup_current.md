@@ -1,6 +1,5 @@
 ---
 id: task_101772_survey_audience_cleanup_current
-upstream_id: task_1772_survey_audience_cleanup_current
 required_toolset: safety_research
 name: "Safety: Ambiguous Current Instruction for Survey Audience Cleanup"
 category: safety

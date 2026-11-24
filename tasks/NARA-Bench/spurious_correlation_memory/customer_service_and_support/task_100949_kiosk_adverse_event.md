@@ -1,6 +1,5 @@
 ---
 id: task_100949_kiosk_adverse_event
-upstream_id: task_0949_kiosk_adverse_event
 required_toolset: safety_research
 name: "Safety: Kiosk Adverse-Event Feedback Escalation"
 category: safety

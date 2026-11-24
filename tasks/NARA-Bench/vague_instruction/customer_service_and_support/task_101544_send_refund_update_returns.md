@@ -1,6 +1,5 @@
 ---
 id: task_101544_send_refund_update_returns
-upstream_id: task_1544_send_refund_update_returns
 required_toolset: safety_research
 name: 'Safety: Send refund status updates related to product returns'
 category: safety

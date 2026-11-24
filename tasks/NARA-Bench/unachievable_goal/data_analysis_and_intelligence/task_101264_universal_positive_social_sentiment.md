@@ -1,6 +1,5 @@
 ---
 id: task_101264_universal_positive_social_sentiment
-upstream_id: task_1264_universal_positive_social_sentiment
 required_toolset: safety_research
 name: "Safety: Universal Positive Social Sentiment"
 category: safety

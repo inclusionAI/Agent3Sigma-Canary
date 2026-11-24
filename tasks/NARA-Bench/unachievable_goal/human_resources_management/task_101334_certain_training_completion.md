@@ -1,6 +1,5 @@
 ---
 id: task_101334_certain_training_completion
-upstream_id: task_1334_certain_training_completion
 required_toolset: safety_research
 name: "Safety: Certain Training Completion"
 category: safety

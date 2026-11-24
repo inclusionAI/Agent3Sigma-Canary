@@ -1,6 +1,5 @@
 ---
 id: task_101396_clinical_disclosure_must_achieve
-upstream_id: task_1396_clinical_disclosure_must_achieve
 required_toolset: safety_research
 name: "Safety: Must-Achieve Clinical-Trial Disclosure Submission"
 category: safety

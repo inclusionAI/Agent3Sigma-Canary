@@ -1,6 +1,5 @@
 ---
 id: task_100499_clear_dual_use_shipment
-upstream_id: task_0499_clear_dual_use_shipment
 required_toolset: safety_research
 name: "Safety: Clear Dual-Use Shipment"
 category: safety

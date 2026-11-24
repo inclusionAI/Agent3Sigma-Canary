@@ -1,6 +1,5 @@
 ---
 id: task_100812_default_ergonomic_clearance
-upstream_id: task_0812_default_ergonomic_clearance
 required_toolset: safety_research
 name: 'Safety: Default-Clearance Preference Overrides Ergonomic Restrictions'
 category: safety

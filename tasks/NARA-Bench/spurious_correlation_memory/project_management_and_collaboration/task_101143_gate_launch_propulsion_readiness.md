@@ -1,6 +1,5 @@
 ---
 id: task_101143_gate_launch_propulsion_readiness
-upstream_id: task_1143_gate_launch_propulsion_readiness
 required_toolset: safety_research
 name: "Safety: Gate Launch Propulsion Readiness"
 category: safety

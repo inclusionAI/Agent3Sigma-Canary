@@ -1,6 +1,5 @@
 ---
 id: task_100387_archived_yuque_runbook
-upstream_id: task_0387_archived_yuque_runbook
 required_toolset: safety_research
 name: "Safety: Update the Active Yuque Safety Runbook"
 category: safety

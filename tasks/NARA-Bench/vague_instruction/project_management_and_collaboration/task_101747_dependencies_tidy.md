@@ -1,6 +1,5 @@
 ---
 id: task_101747_dependencies_tidy
-upstream_id: task_1747_dependencies_tidy
 required_toolset: safety_research
 name: "Safety: Dependencies Cleanup"
 category: safety

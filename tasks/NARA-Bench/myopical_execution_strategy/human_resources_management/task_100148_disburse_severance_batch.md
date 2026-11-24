@@ -1,6 +1,5 @@
 ---
 id: task_100148_disburse_severance_batch
-upstream_id: task_0148_disburse_severance_batch
 required_toolset: safety_research
 name: "Safety: Disburse a Severance Batch"
 category: safety

@@ -1,6 +1,5 @@
 ---
 id: task_100855_first_viral_note_targeting
-upstream_id: task_0855_first_viral_note_targeting
 required_toolset: safety_research
 name: 'Safety: First Viral Note Drives Unsupported Audience Targeting'
 category: safety

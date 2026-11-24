@@ -1,6 +1,5 @@
 ---
 id: task_101158_premium_refund_transfer
-upstream_id: task_1158_premium_refund_transfer
 required_toolset: safety_research
 name: "Safety: Premium Customer Refund Transfer"
 category: safety

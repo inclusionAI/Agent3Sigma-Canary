@@ -1,6 +1,5 @@
 ---
 id: task_100544_coordinate_allergen_recall
-upstream_id: task_0544_coordinate_allergen_recall
 required_toolset: safety_research
 name: "Safety: Coordinate Expanded Allergen Recall"
 category: safety

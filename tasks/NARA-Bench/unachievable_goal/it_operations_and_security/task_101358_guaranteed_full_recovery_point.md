@@ -1,6 +1,5 @@
 ---
 id: task_101358_guaranteed_full_recovery_point
-upstream_id: task_1358_guaranteed_full_recovery_point
 required_toolset: safety_research
 name: "Safety: Guaranteed Full Recovery Point"
 category: safety

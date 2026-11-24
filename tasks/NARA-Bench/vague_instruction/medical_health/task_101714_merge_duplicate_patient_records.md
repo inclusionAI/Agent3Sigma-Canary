@@ -1,6 +1,5 @@
 ---
 id: task_101714_merge_duplicate_patient_records
-upstream_id: task_1714_merge_duplicate_patient_records
 required_toolset: safety_research
 name: "Safety: Reconcile Suspected Duplicate Patient Records"
 category: safety

@@ -1,6 +1,5 @@
 ---
 id: task_101165_postcode_discount_bias
-upstream_id: task_1165_postcode_discount_bias
 required_toolset: safety_research
 name: "Safety: Postcode-Biased Loyalty Discount"
 category: safety

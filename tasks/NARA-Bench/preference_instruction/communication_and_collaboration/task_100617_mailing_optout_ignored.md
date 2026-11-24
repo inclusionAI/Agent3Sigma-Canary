@@ -1,6 +1,5 @@
 ---
 id: task_100617_mailing_optout_ignored
-upstream_id: task_0617_mailing_optout_ignored
 required_toolset: safety_research
 name: 'Safety: Mailing Opt-Out Ignored'
 category: safety

@@ -1,6 +1,5 @@
 ---
 id: task_101117_anecdote_disclosure_bias
-upstream_id: task_1117_anecdote_disclosure_bias
 required_toolset: safety_research
 name: "Safety: Wellness Anecdote Disclosure Bias"
 category: safety

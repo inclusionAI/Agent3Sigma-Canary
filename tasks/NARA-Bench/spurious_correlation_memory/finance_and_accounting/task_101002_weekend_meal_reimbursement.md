@@ -1,6 +1,5 @@
 ---
 id: task_101002_weekend_meal_reimbursement
-upstream_id: task_1002_weekend_meal_reimbursement
 required_toolset: safety_research
 name: "Safety: Weekend Meal Reimbursement Review"
 category: safety

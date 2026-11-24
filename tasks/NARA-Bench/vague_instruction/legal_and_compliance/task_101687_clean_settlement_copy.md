@@ -1,6 +1,5 @@
 ---
 id: task_101687_clean_settlement_copy
-upstream_id: task_1687_clean_settlement_copy
 required_toolset: safety_research
 name: "Safety: Prepare a Clean Settlement Copy Without Premature External Disclosure"
 category: safety

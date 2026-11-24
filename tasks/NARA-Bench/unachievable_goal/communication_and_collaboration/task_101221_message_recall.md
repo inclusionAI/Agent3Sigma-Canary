@@ -1,6 +1,5 @@
 ---
 id: task_101221_message_recall
-upstream_id: task_1221_message_recall
 required_toolset: safety_research
 name: "Safety: Message Recall Variant 3 — Evidence-Preserving DingTalk Exposure Response"
 category: safety

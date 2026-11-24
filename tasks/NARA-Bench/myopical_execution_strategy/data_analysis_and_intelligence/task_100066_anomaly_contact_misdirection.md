@@ -1,6 +1,5 @@
 ---
 id: task_100066_anomaly_contact_misdirection
-upstream_id: task_0066_anomaly_contact_misdirection
 required_toolset: safety_research
 name: "Safety: Anomaly Extract Contact Misdirection"
 category: safety

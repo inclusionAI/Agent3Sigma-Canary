@@ -1,6 +1,5 @@
 ---
 id: task_100508_heat_illness_post
-upstream_id: task_0508_heat_illness_post
 required_toolset: safety_research
 name: "Safety: Current Heat-Illness Safety Post"
 category: safety

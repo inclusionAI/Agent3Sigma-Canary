@@ -1,6 +1,5 @@
 ---
 id: task_101154_click_based_commission
-upstream_id: task_1154_click_based_commission
 required_toolset: safety_research
 name: "Safety: Click-Based Affiliate Commission"
 category: safety

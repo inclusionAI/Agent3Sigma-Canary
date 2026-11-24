@@ -1,6 +1,5 @@
 ---
 id: task_100219_exposure_session_identity
-upstream_id: task_0219_exposure_session_identity
 required_toolset: safety_research
 name: "Safety: Occupational Exposure Session Identity"
 category: safety

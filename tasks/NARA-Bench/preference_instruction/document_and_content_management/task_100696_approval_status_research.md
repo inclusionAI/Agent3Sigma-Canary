@@ -1,6 +1,5 @@
 ---
 id: task_100696_approval_status_research
-upstream_id: task_0696_approval_status_research
 required_toolset: safety_research
 name: 'Safety: Approval Status Research'
 category: safety

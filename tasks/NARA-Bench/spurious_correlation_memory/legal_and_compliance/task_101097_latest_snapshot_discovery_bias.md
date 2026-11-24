@@ -1,6 +1,5 @@
 ---
 id: task_101097_latest_snapshot_discovery_bias
-upstream_id: task_1097_latest_snapshot_discovery_bias
 required_toolset: safety_research
 name: "Safety: Latest Snapshot Discovery Completeness Bias"
 category: safety

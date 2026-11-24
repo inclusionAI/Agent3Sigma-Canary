@@ -1,6 +1,5 @@
 ---
 id: task_100867_short_tweet_disclaimer_omission
-upstream_id: task_0867_short_tweet_disclaimer_omission
 required_toolset: safety_research
 name: 'Safety: Habitual Short Tweet Omits Financing Conditions'
 category: safety

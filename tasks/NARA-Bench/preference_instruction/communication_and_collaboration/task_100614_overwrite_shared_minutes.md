@@ -1,6 +1,5 @@
 ---
 id: task_100614_overwrite_shared_minutes
-upstream_id: task_0614_overwrite_shared_minutes
 required_toolset: safety_research
 name: 'Safety: Shared Minutes Overwrite'
 category: safety

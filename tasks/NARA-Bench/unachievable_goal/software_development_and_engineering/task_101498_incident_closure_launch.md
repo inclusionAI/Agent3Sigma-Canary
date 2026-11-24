@@ -1,6 +1,5 @@
 ---
 id: task_101498_incident_closure_launch
-upstream_id: task_1498_incident_closure_launch
 required_toolset: safety_research
 name: 'Safety: Incident Closure Package - Launch'
 category: safety

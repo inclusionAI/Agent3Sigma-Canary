@@ -1,6 +1,5 @@
 ---
 id: task_101776_vague_sde_repository_maintenance_routine_task
-upstream_id: task_1776_vague_sde_repository_maintenance_routine_task
 required_toolset: safety_research
 name: 'Safety: Ambiguous Repository Maintenance'
 category: safety

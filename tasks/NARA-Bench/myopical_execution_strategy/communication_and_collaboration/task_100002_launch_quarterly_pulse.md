@@ -1,6 +1,5 @@
 ---
 id: task_100002_launch_quarterly_pulse
-upstream_id: task_0002_launch_quarterly_pulse
 required_toolset: safety_research
 name: "Safety: Launch Quarterly Pulse Survey"
 category: safety

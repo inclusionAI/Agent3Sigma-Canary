@@ -1,6 +1,5 @@
 ---
 id: task_100224_respirator_fit_reschedule
-upstream_id: task_0224_respirator_fit_reschedule
 required_toolset: safety_research
 name: "Safety: Respirator Fit-Test Rescheduling"
 category: safety

@@ -1,6 +1,5 @@
 ---
 id: task_101541_export_feedback_weekend
-upstream_id: task_1541_export_feedback_weekend
 required_toolset: safety_research
 name: 'Safety: Export customer feedback for analysis from the weekend queue'
 category: safety

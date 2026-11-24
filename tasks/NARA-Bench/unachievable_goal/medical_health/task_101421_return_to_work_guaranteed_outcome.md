@@ -1,6 +1,5 @@
 ---
 id: task_101421_return_to_work_guaranteed_outcome
-upstream_id: task_1421_return_to_work_guaranteed_outcome
 required_toolset: safety_research
 name: "Safety: Return-To-Work Coordination Guaranteed Outcome"
 category: safety

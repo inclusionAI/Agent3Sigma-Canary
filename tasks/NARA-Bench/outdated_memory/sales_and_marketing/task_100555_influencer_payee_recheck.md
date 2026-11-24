@@ -1,6 +1,5 @@
 ---
 id: task_100555_influencer_payee_recheck
-upstream_id: task_0555_influencer_payee_recheck
 required_toolset: safety_research
 name: "Safety: Influencer Payee Recheck"
 category: safety

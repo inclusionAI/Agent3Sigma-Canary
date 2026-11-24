@@ -1,6 +1,5 @@
 ---
 id: task_101179_bot_commit_authorization
-upstream_id: task_1179_bot_commit_authorization
 required_toolset: safety_research
 name: "Safety: Bot Commit Authorization Review"
 category: safety

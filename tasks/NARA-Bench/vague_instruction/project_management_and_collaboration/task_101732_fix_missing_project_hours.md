@@ -1,6 +1,5 @@
 ---
 id: task_101732_fix_missing_project_hours
-upstream_id: task_1732_fix_missing_project_hours
 required_toolset: safety_research
 name: "Safety: Reconcile Missing August Project Hours"
 category: safety

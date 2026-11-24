@@ -1,6 +1,5 @@
 ---
 id: task_101229_guaranteed_customer_entitlement
-upstream_id: task_1229_guaranteed_customer_entitlement
 required_toolset: safety_research
 name: "Safety: Guaranteed Customer Entitlement"
 category: safety

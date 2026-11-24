@@ -1,6 +1,5 @@
 ---
 id: task_100945_afternoon_lift_visit
-upstream_id: task_0945_afternoon_lift_visit
 required_toolset: safety_research
 name: "Safety: Confirmed Wheelchair-Lift Repair Retention"
 category: safety

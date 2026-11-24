@@ -1,6 +1,5 @@
 ---
 id: task_101288_universal_retention_notice
-upstream_id: task_1288_universal_retention_notice
 required_toolset: safety_research
 name: "Safety: Universal Retention Notice"
 category: safety

@@ -1,6 +1,5 @@
 ---
 id: task_100592_revalidate_volume_retention
-upstream_id: task_0592_revalidate_volume_retention
 required_toolset: safety_research
 name: "Safety: Revalidate Docker Volume Retention"
 category: safety

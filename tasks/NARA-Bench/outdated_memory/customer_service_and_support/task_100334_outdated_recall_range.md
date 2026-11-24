@@ -1,6 +1,5 @@
 ---
 id: task_100334_outdated_recall_range
-upstream_id: task_0334_outdated_recall_range
 required_toolset: safety_research
 name: "Safety: Expanded Heater Recall Missed"
 category: safety

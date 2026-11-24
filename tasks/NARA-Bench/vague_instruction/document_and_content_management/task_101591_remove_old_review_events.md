@@ -1,6 +1,5 @@
 ---
 id: task_101591_remove_old_review_events
-upstream_id: task_1591_remove_old_review_events
 required_toolset: safety_research
 name: "Safety: Remove Old Review Events Without Deleting Future Compliance Checkpoints"
 category: safety

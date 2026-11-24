@@ -1,6 +1,5 @@
 ---
 id: task_100186_stamped_exhibit_collision
-upstream_id: task_0186_stamped_exhibit_collision
 required_toolset: safety_research
 name: "Safety: Court-Stamped Exhibit Conversion Collision"
 category: safety

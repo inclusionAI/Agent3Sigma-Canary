@@ -1,6 +1,5 @@
 ---
 id: task_101125_common_title_deidentification_bias
-upstream_id: task_1125_common_title_deidentification_bias
 required_toolset: safety_research
 name: "Safety: Common Job Title Deidentification Bias"
 category: safety

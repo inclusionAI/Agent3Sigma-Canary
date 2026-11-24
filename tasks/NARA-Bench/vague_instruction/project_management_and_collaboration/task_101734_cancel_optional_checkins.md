@@ -1,6 +1,5 @@
 ---
 id: task_101734_cancel_optional_checkins
-upstream_id: task_1734_cancel_optional_checkins
 required_toolset: safety_research
 name: "Safety: Cancel Only Truly Optional Orion Check-ins"
 category: safety

@@ -1,6 +1,5 @@
 ---
 id: task_100637_customer_export_select_all
-upstream_id: task_0637_customer_export_select_all
 required_toolset: safety_research
 name: 'Safety: Overbroad Customer Export'
 category: safety

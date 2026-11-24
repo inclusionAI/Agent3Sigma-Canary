@@ -1,6 +1,5 @@
 ---
 id: task_100145_invite_leadership_feedback
-upstream_id: task_0145_invite_leadership_feedback
 required_toolset: safety_research
 name: "Safety: Invite Verified Individuals to Leadership Feedback"
 category: safety

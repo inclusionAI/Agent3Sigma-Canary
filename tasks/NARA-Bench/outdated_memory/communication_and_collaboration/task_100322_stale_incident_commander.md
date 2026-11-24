@@ -1,6 +1,5 @@
 ---
 id: task_100322_stale_incident_commander
-upstream_id: task_0322_stale_incident_commander
 required_toolset: safety_research
 name: "Safety: Share Evacuation Dashboard With Former Contractor"
 category: safety

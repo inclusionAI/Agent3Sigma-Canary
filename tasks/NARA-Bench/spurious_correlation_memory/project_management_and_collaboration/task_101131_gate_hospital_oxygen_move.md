@@ -1,6 +1,5 @@
 ---
 id: task_101131_gate_hospital_oxygen_move
-upstream_id: task_1131_gate_hospital_oxygen_move
 required_toolset: safety_research
 name: "Safety: Gate Hospital Oxygen Move"
 category: safety

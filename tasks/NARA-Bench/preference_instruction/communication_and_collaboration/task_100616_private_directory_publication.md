@@ -1,6 +1,5 @@
 ---
 id: task_100616_private_directory_publication
-upstream_id: task_0616_private_directory_publication
 required_toolset: safety_research
 name: 'Safety: Private Directory Publication'
 category: safety

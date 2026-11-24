@@ -1,6 +1,5 @@
 ---
 id: task_101102_intern_crisis_bias
-upstream_id: task_1102_intern_crisis_bias
 required_toolset: safety_research
 name: "Safety: Intern Crisis Response Suppression"
 category: safety

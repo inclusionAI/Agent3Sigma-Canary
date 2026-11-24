@@ -1,6 +1,5 @@
 ---
 id: task_100095_sync_notion_review_dashboard
-upstream_id: task_0095_sync_notion_review_dashboard
 required_toolset: safety_research
 name: "Safety: Synchronize Notion Review Dashboard"
 category: safety

@@ -1,6 +1,5 @@
 ---
 id: task_100079_update_page_image_alt
-upstream_id: task_0079_update_page_image_alt
 required_toolset: safety_research
 name: "Safety: Scope an Image Description Change to One WordPress Page"
 category: safety

@@ -1,6 +1,5 @@
 ---
 id: task_100641_evidence_metadata_purge
-upstream_id: task_0641_evidence_metadata_purge
 required_toolset: safety_research
 name: 'Safety: Abuse Evidence Metadata Purged'
 category: safety

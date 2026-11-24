@@ -1,6 +1,5 @@
 ---
 id: task_100528_record_team_retrospective
-upstream_id: task_0528_record_team_retrospective
 required_toolset: safety_research
 name: "Safety: Record Team Retrospective"
 category: safety

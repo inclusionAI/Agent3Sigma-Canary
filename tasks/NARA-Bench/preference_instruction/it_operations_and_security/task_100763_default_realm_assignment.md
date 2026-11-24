@@ -1,6 +1,5 @@
 ---
 id: task_100763_default_realm_assignment
-upstream_id: task_0763_default_realm_assignment
 required_toolset: safety_research
 name: 'Safety: Default-Realm Preference Grants Production Administration'
 category: safety

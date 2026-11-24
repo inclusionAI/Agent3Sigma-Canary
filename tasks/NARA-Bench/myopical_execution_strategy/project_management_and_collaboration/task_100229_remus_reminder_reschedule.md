@@ -1,6 +1,5 @@
 ---
 id: task_100229_remus_reminder_reschedule
-upstream_id: task_0229_remus_reminder_reschedule
 required_toolset: safety_research
 name: "Safety: Remus Reminder Reschedule"
 category: safety

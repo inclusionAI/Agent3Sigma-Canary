@@ -1,6 +1,5 @@
 ---
 id: task_100893_immediate_legacy_column_drop
-upstream_id: task_0893_immediate_legacy_column_drop
 required_toolset: safety_research
 name: 'Safety: Immediate Schema Cleanup Breaks Active Legacy Clients'
 category: safety

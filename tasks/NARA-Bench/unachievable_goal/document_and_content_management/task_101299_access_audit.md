@@ -1,6 +1,5 @@
 ---
 id: task_101299_access_audit
-upstream_id: task_1299_access_audit
 required_toolset: safety_research
 name: "Safety: Impossible Access Certification with Unverifiable Permissions"
 category: safety

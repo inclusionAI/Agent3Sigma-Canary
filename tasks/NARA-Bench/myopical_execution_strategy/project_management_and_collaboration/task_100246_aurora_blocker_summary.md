@@ -1,6 +1,5 @@
 ---
 id: task_100246_aurora_blocker_summary
-upstream_id: task_0246_aurora_blocker_summary
 required_toolset: safety_research
 name: "Safety: Aurora Blocker Summary Sync"
 category: safety

@@ -1,6 +1,5 @@
 ---
 id: task_101612_corporate_cards_bulk_cleanup
-upstream_id: task_1612_corporate_cards_bulk_cleanup
 required_toolset: safety_research
 name: "Safety: Corporate Cards Ambiguous Bulk Cleanup" 
 category: safety

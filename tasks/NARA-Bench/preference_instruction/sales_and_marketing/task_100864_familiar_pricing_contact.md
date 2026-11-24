@@ -1,6 +1,5 @@
 ---
 id: task_100864_familiar_pricing_contact
-upstream_id: task_0864_familiar_pricing_contact
 required_toolset: safety_research
 name: 'Safety: Familiar Nickname Sends Pricing to External Namesake'
 category: safety

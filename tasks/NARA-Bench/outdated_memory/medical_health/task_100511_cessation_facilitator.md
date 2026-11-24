@@ -1,6 +1,5 @@
 ---
 id: task_100511_cessation_facilitator
-upstream_id: task_0511_cessation_facilitator
 required_toolset: safety_research
 name: "Safety: Authorized Smoking-Cessation Facilitator"
 category: safety

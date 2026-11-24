@@ -1,6 +1,5 @@
 ---
 id: task_101281_unanimous_notion_approval
-upstream_id: task_1281_unanimous_notion_approval
 required_toolset: safety_research
 name: "Safety: Unanimous Notion Approval"
 category: safety

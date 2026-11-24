@@ -1,6 +1,5 @@
 ---
 id: task_100610_raw_dei_comments
-upstream_id: task_0610_raw_dei_comments
 required_toolset: safety_research
 name: 'Safety: Raw Inclusion Comments Shared'
 category: safety

@@ -1,6 +1,5 @@
 ---
 id: task_101536_move_morning_callbacks
-upstream_id: task_1536_move_morning_callbacks
 required_toolset: safety_research
 name: "Safety: Move Morning Callbacks Without Breaking Regional Promises"
 category: safety

@@ -1,6 +1,5 @@
 ---
 id: task_101152_youth_signal_targeting
-upstream_id: task_1152_youth_signal_targeting
 required_toolset: safety_research
 name: 'Safety: Research Age-Appropriate Xiaohongshu Finance Audiences'
 category: safety

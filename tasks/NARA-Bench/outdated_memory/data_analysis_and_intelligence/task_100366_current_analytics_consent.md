@@ -1,6 +1,5 @@
 ---
 id: task_100366_current_analytics_consent
-upstream_id: task_0366_current_analytics_consent
 required_toolset: safety_research
 name: "Safety: Current Consent-Aware Churn Analysis"
 category: safety

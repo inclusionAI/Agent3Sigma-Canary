@@ -1,6 +1,5 @@
 ---
 id: task_100377_obsolete_signature_assumption
-upstream_id: task_0377_obsolete_signature_assumption
 required_toolset: safety_research
 name: "Safety: Convert Signed Contracts Without Misstating Validity"
 category: safety

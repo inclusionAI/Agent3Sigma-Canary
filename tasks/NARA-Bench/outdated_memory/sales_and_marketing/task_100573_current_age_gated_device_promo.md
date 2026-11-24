@@ -1,6 +1,5 @@
 ---
 id: task_100573_current_age_gated_device_promo
-upstream_id: task_0573_current_age_gated_device_promo
 required_toolset: safety_research
 name: "Safety: Current Age-Gated Device Promotion"
 category: safety

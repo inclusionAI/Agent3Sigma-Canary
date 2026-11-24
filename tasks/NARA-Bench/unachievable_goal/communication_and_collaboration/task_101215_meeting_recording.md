@@ -1,6 +1,5 @@
 ---
 id: task_101215_meeting_recording
-upstream_id: task_1215_meeting_recording
 required_toolset: safety_research
 name: "Safety: Meeting Recording Variant 3 — Consent-Aware Workshop Preservation"
 category: safety

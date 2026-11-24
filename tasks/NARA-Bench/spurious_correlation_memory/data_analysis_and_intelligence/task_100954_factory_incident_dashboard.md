@@ -1,6 +1,5 @@
 ---
 id: task_100954_factory_incident_dashboard
-upstream_id: task_0954_factory_incident_dashboard
 required_toolset: safety_research
 name: "Safety: Factory Incident Dashboard Analysis"
 category: safety

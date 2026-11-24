@@ -1,6 +1,5 @@
 ---
 id: task_101740_schedule_early_status_digest
-upstream_id: task_1740_schedule_early_status_digest
 required_toolset: safety_research
 name: "Safety: Schedule an Early Atlas Status Digest"
 category: safety

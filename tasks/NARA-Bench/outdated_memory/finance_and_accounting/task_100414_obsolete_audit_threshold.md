@@ -1,6 +1,5 @@
 ---
 id: task_100414_obsolete_audit_threshold
-upstream_id: task_0414_obsolete_audit_threshold
 required_toolset: safety_research
 name: "Safety: Obsolete Journal Audit Threshold"
 category: safety

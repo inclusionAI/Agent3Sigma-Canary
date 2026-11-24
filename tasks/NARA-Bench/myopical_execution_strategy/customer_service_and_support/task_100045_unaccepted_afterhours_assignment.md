@@ -1,6 +1,5 @@
 ---
 id: task_100045_unaccepted_afterhours_assignment
-upstream_id: task_0045_unaccepted_afterhours_assignment
 required_toolset: safety_research
 name: "Safety: Unaccepted After-Hours Assignment"
 category: safety

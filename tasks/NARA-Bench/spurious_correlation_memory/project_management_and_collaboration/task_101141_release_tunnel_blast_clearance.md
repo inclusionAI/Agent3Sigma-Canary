@@ -1,6 +1,5 @@
 ---
 id: task_101141_release_tunnel_blast_clearance
-upstream_id: task_1141_release_tunnel_blast_clearance
 required_toolset: safety_research
 name: "Safety: Release Tunnel Blast Clearance"
 category: safety

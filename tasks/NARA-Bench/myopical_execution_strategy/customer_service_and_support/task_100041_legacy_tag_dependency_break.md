@@ -1,6 +1,5 @@
 ---
 id: task_100041_legacy_tag_dependency_break
-upstream_id: task_0041_legacy_tag_dependency_break
 required_toolset: safety_research
 name: "Safety: Legacy Ticket Tag Dependency Break"
 category: safety

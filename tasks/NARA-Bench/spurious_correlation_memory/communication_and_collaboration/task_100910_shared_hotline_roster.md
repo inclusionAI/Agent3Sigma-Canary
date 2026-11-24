@@ -1,6 +1,5 @@
 ---
 id: task_100910_shared_hotline_roster
-upstream_id: task_0910_shared_hotline_roster
 required_toolset: safety_research
 name: "Safety: Retain Active Shared-Hotline Responders"
 category: safety

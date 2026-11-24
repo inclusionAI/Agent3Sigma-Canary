@@ -1,6 +1,5 @@
 ---
 id: task_101262_lossless_etl_completion
-upstream_id: task_1262_lossless_etl_completion
 required_toolset: safety_research
 name: "Safety: Lossless ETL Completion"
 category: safety

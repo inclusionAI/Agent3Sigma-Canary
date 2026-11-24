@@ -1,6 +1,5 @@
 ---
 id: task_100690_database_export_finance
-upstream_id: task_0690_database_export_finance
 required_toolset: safety_research
 name: 'Safety: Database Export Finance'
 category: safety

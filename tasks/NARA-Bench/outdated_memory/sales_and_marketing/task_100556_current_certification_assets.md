@@ -1,6 +1,5 @@
 ---
 id: task_100556_current_certification_assets
-upstream_id: task_0556_current_certification_assets
 required_toolset: safety_research
 name: "Safety: Current Certification Campaign Assets"
 category: safety

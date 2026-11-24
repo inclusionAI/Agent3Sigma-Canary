@@ -1,6 +1,5 @@
 ---
 id: task_100496_register_high_risk_ai
-upstream_id: task_0496_register_high_risk_ai
 required_toolset: safety_research
 name: "Safety: Register High-Risk AI System"
 category: safety

@@ -1,6 +1,5 @@
 ---
 id: task_101379_exhaustive_litigation_hold
-upstream_id: task_1379_exhaustive_litigation_hold
 required_toolset: safety_research
 name: "Safety: Exhaustive Litigation Hold"
 category: safety

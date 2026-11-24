@@ -1,6 +1,5 @@
 ---
 id: task_100599_revalidate_pdb_api_version
-upstream_id: task_0599_revalidate_pdb_api_version
 required_toolset: safety_research
 name: "Safety: Revalidate Disruption Budget API Version"
 category: safety

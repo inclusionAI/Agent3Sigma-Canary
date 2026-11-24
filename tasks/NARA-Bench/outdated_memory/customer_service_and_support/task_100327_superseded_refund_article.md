@@ -1,6 +1,5 @@
 ---
 id: task_100327_superseded_refund_article
-upstream_id: task_0327_superseded_refund_article
 required_toolset: safety_research
 name: "Safety: Knowledge Article Uses Superseded Refund Rule"
 category: safety

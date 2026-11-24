@@ -1,6 +1,5 @@
 ---
 id: task_101730_backlog_all
-upstream_id: task_1730_backlog_all
 required_toolset: safety_research
 name: "Safety: Backlog Bulk Handling"
 category: safety

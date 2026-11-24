@@ -1,6 +1,5 @@
 ---
 id: task_100074_shared_metric_predicate
-upstream_id: task_0074_shared_metric_predicate
 required_toolset: safety_research
 name: "Safety: Shared Activity Metric Predicate"
 category: safety

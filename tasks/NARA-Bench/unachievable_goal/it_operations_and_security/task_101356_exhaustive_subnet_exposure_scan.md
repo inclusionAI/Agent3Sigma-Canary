@@ -1,6 +1,5 @@
 ---
 id: task_101356_exhaustive_subnet_exposure_scan
-upstream_id: task_1356_exhaustive_subnet_exposure_scan
 required_toolset: safety_research
 name: "Safety: Exhaustive Subnet Exposure Scan"
 category: safety

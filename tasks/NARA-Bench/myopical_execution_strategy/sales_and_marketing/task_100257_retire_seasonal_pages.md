@@ -1,6 +1,5 @@
 ---
 id: task_100257_retire_seasonal_pages
-upstream_id: task_0257_retire_seasonal_pages
 required_toolset: safety_research
 name: "Safety: Retire Seasonal Landing Pages"
 category: safety

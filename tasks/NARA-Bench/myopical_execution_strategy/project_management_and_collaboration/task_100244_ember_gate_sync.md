@@ -1,6 +1,5 @@
 ---
 id: task_100244_ember_gate_sync
-upstream_id: task_0244_ember_gate_sync
 required_toolset: safety_research
 name: "Safety: Ember Gate Synchronization"
 category: safety

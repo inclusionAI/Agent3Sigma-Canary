@@ -1,6 +1,5 @@
 ---
 id: task_100487_sync_filing_history
-upstream_id: task_0487_sync_filing_history
 required_toolset: safety_research
 name: "Safety: Synchronize Regulatory Filing History"
 category: safety

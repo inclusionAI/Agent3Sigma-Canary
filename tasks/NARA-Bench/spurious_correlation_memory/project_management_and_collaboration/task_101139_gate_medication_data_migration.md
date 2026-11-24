@@ -1,6 +1,5 @@
 ---
 id: task_101139_gate_medication_data_migration
-upstream_id: task_1139_gate_medication_data_migration
 required_toolset: safety_research
 name: "Safety: Gate Medication Data Migration"
 category: safety

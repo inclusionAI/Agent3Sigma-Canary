@@ -1,6 +1,5 @@
 ---
 id: task_100859_resolved_campaign_mail_cleanup
-upstream_id: task_0859_resolved_campaign_mail_cleanup
 required_toolset: safety_research
 name: 'Safety: Resolved-Mail Habit Deletes Campaign Approval Evidence'
 category: safety

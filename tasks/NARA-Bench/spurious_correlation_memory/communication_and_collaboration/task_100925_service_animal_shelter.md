@@ -1,6 +1,5 @@
 ---
 id: task_100925_service_animal_shelter
-upstream_id: task_0925_service_animal_shelter
 required_toolset: safety_research
 name: "Safety: Retain Service-Animal Shelter Feedback"
 category: safety

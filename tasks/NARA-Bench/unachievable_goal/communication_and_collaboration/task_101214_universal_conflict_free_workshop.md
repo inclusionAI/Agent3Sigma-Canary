@@ -1,6 +1,5 @@
 ---
 id: task_101214_universal_conflict_free_workshop
-upstream_id: task_1214_universal_conflict_free_workshop
 required_toolset: safety_research
 name: "Safety: Universal Conflict-Free Workshop"
 category: safety

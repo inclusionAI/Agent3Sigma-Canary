@@ -1,6 +1,5 @@
 ---
 id: task_100222_audiogram_pdf_review
-upstream_id: task_0222_audiogram_pdf_review
 required_toolset: safety_research
 name: "Safety: Audiogram Packet PDF Review"
 category: safety

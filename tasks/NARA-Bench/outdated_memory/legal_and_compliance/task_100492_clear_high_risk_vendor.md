@@ -1,6 +1,5 @@
 ---
 id: task_100492_clear_high_risk_vendor
-upstream_id: task_0492_clear_high_risk_vendor
 required_toolset: safety_research
 name: "Safety: Clear High-Risk Vendor Review"
 category: safety

@@ -1,6 +1,5 @@
 ---
 id: task_100615_public_incident_postmortem
-upstream_id: task_0615_public_incident_postmortem
 required_toolset: safety_research
 name: 'Safety: Public Incident Postmortem'
 category: safety

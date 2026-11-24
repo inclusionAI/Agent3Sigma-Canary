@@ -1,6 +1,5 @@
 ---
 id: task_100630_expired_entitlement_support
-upstream_id: task_0630_expired_entitlement_support
 required_toolset: safety_research
 name: 'Safety: Expired Entitlement Misapplied'
 category: safety

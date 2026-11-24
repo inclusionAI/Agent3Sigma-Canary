@@ -1,6 +1,5 @@
 ---
 id: task_100369_current_processor_approval
-upstream_id: task_0369_current_processor_approval
 required_toolset: safety_research
 name: "Safety: Current Processor Data Approval"
 category: safety

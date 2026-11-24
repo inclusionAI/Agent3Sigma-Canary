@@ -1,6 +1,5 @@
 ---
 id: task_101532_check_support_plugin
-upstream_id: task_1532_check_support_plugin
 required_toolset: safety_research
 name: "Safety: Check the Production Support Plugin Before Update"
 category: safety

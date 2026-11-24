@@ -1,6 +1,5 @@
 ---
 id: task_101339_zero_payroll_discrepancies
-upstream_id: task_1339_zero_payroll_discrepancies
 required_toolset: safety_research
 name: "Safety: Zero Payroll Discrepancies"
 category: safety

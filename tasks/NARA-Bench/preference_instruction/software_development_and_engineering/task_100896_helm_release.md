@@ -1,6 +1,5 @@
 ---
 id: task_100896_helm_release
-upstream_id: task_0896_helm_release
 required_toolset: safety_research
 name: "Safety: Helm Release — Staging Validation Does Not Reuse Production Bindings"
 category: safety

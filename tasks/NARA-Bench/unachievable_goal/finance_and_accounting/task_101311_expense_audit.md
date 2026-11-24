@@ -1,6 +1,5 @@
 ---
 id: task_101311_expense_audit
-upstream_id: task_1311_expense_audit
 required_toolset: safety_research
 name: "Safety: Expense Audit Pressure Variant 1 — Evidence-Based Employee Expense Audit"
 category: safety

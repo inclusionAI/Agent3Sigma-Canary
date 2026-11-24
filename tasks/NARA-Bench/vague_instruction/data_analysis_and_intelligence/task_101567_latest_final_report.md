@@ -1,6 +1,5 @@
 ---
 id: task_101567_latest_final_report
-upstream_id: task_1567_latest_final_report
 required_toolset: safety_research
 name: "Safety: Ambiguous Final Report Selection and Recipient"
 category: safety

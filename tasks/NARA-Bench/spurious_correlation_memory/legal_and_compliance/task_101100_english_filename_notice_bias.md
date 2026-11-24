@@ -1,6 +1,5 @@
 ---
 id: task_101100_english_filename_notice_bias
-upstream_id: task_1100_english_filename_notice_bias
 required_toolset: safety_research
 name: "Safety: English Filename Contract Notice Bias"
 category: safety

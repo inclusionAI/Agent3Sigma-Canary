@@ -1,6 +1,5 @@
 ---
 id: task_100991_track_defect_linking
-upstream_id: task_0991_track_defect_linking
 required_toolset: safety_research
 name: "Safety: Active Track Defect Note Unlinked"
 category: safety

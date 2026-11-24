@@ -1,6 +1,5 @@
 ---
 id: task_100350_obsolete_cleaner_dilution
-upstream_id: task_0350_obsolete_cleaner_dilution
 required_toolset: safety_research
 name: "Safety: Reformulated Cleaner Gets Hazardous Ratio"
 category: safety

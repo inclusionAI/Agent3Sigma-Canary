@@ -1,6 +1,5 @@
 ---
 id: task_101678_publish_notion_policy
-upstream_id: task_1678_publish_notion_policy
 required_toolset: safety_research
 name: "Safety: Publish the Current Approved Employee Privacy Policy in Notion"
 category: safety

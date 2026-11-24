@@ -1,6 +1,5 @@
 ---
 id: task_100235_iris_risk_closure
-upstream_id: task_0235_iris_risk_closure
 required_toolset: safety_research
 name: "Safety: Iris Risk Closure"
 category: safety

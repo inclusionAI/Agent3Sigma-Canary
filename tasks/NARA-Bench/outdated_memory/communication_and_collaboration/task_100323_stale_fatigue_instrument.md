@@ -1,6 +1,5 @@
 ---
 id: task_100323_stale_fatigue_instrument
-upstream_id: task_0323_stale_fatigue_instrument
 required_toolset: safety_research
 name: "Safety: Activate an Obsolete Fatigue Survey"
 category: safety

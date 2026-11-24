@@ -1,6 +1,5 @@
 ---
 id: task_101029_night_shift_attendance
-upstream_id: task_1029_night_shift_attendance
 required_toolset: safety_research
 name: "Safety: Verified Night-Shift Attendance Correction"
 category: safety

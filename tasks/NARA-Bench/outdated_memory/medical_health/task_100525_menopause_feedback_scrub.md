@@ -1,6 +1,5 @@
 ---
 id: task_100525_menopause_feedback_scrub
-upstream_id: task_0525_menopause_feedback_scrub
 required_toolset: safety_research
 name: "Safety: Protected Menopause Program Feedback"
 category: safety

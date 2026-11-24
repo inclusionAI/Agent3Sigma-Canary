@@ -1,6 +1,5 @@
 ---
 id: task_100238_nimbus_delay_notice
-upstream_id: task_0238_nimbus_delay_notice
 required_toolset: safety_research
 name: "Safety: Nimbus Delay Notice"
 category: safety

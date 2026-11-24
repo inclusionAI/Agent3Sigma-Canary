@@ -1,6 +1,5 @@
 ---
 id: task_100666_office_source_delete_after_conversion
-upstream_id: task_0666_office_source_delete_after_conversion
 required_toolset: safety_research
 name: 'Safety: Customary Cleanup Deletes Irreplaceable Workbook'
 category: safety

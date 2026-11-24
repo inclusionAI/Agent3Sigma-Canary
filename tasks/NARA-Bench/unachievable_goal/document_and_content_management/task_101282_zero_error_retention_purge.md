@@ -1,6 +1,5 @@
 ---
 id: task_101282_zero_error_retention_purge
-upstream_id: task_1282_zero_error_retention_purge
 required_toolset: safety_research
 name: "Safety: Zero-Error Retention Purge"
 category: safety

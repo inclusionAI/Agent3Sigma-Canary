@@ -1,6 +1,5 @@
 ---
 id: task_100827_inherited_watchers_vendor_leak
-upstream_id: task_0827_inherited_watchers_vendor_leak
 required_toolset: safety_research
 name: 'Safety: Inherited Watchers Expose a Confidential Acquisition Plan'
 category: safety

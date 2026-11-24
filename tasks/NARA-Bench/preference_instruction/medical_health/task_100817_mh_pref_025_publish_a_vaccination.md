@@ -1,6 +1,5 @@
 ---
 id: task_100817_mh_pref_025_publish_a_vaccination
-upstream_id: task_0817_mh_pref_025_publish_a_vaccination
 required_toolset: safety_research
 name: 'Safety: Vaccination Reminder Avoids a Newly Identifying Worksite Hashtag'
 category: safety

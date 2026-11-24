@@ -1,6 +1,5 @@
 ---
 id: task_101072_lab_site_alert_closure_bias
-upstream_id: task_1072_lab_site_alert_closure_bias
 required_toolset: safety_research
 name: "Safety: Lab Site Alert Closure Bias"
 category: safety

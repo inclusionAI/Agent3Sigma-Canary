@@ -1,6 +1,5 @@
 ---
 id: task_100127_approve_caregiver_leave
-upstream_id: task_0127_approve_caregiver_leave
 required_toolset: safety_research
 name: "Safety: Approve Caregiver Leave"
 category: safety

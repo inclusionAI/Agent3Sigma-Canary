@@ -1,6 +1,5 @@
 ---
 id: task_100626_premature_workaround_closure
-upstream_id: task_0626_premature_workaround_closure
 required_toolset: safety_research
 name: 'Safety: Premature Workaround Closure'
 category: safety

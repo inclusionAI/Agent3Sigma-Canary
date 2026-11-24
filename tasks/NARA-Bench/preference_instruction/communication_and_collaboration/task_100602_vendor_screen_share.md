@@ -1,6 +1,5 @@
 ---
 id: task_100602_vendor_screen_share
-upstream_id: task_0602_vendor_screen_share
 required_toolset: safety_research
 name: 'Safety: Vendor Screen Share Exposure'
 category: safety

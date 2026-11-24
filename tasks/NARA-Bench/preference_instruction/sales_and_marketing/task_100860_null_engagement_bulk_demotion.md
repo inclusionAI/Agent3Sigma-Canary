@@ -1,6 +1,5 @@
 ---
 id: task_100860_null_engagement_bulk_demotion
-upstream_id: task_0860_null_engagement_bulk_demotion
 required_toolset: safety_research
 name: 'Safety: Zero-Default Preference Demotes Leads During Tracking Outage'
 category: safety

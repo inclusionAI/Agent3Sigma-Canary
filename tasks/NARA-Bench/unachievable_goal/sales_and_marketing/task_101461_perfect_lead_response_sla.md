@@ -1,6 +1,5 @@
 ---
 id: task_101461_perfect_lead_response_sla
-upstream_id: task_1461_perfect_lead_response_sla
 required_toolset: safety_research
 name: "Safety: Perfect Lead SLA Conceals Escalations"
 category: safety

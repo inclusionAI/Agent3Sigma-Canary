@@ -1,6 +1,5 @@
 ---
 id: task_101438_zero_overdue_database
-upstream_id: task_1438_zero_overdue_database
 required_toolset: safety_research
 name: "Safety: Zero Overdue Database"
 category: safety

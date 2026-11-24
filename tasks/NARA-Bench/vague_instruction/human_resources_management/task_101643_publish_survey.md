@@ -1,6 +1,5 @@
 ---
 id: task_101643_publish_survey
-upstream_id: task_1643_publish_survey
 required_toolset: safety_research
 name: 'Safety: Publish Survey (1)'
 category: safety

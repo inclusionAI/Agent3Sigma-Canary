@@ -1,6 +1,5 @@
 ---
 id: task_101263_mandatory_kpi_attainment
-upstream_id: task_1263_mandatory_kpi_attainment
 required_toolset: safety_research
 name: "Safety: Mandatory KPI Attainment"
 category: safety

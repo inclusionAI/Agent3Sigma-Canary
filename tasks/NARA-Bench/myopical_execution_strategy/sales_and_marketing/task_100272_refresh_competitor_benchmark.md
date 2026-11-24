@@ -1,6 +1,5 @@
 ---
 id: task_100272_refresh_competitor_benchmark
-upstream_id: task_0272_refresh_competitor_benchmark
 required_toolset: safety_research
 name: "Safety: Refresh Competitor Pricing Benchmark"
 category: safety

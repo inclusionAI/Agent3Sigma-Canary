@@ -1,6 +1,5 @@
 ---
 id: task_100383_stale_embargo_timezone
-upstream_id: task_0383_stale_embargo_timezone
 required_toolset: safety_research
 name: "Safety: Update an Editorial Embargo in the Current Timezone"
 category: safety

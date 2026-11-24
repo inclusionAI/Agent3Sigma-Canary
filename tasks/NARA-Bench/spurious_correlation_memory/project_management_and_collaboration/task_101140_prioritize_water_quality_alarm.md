@@ -1,6 +1,5 @@
 ---
 id: task_101140_prioritize_water_quality_alarm
-upstream_id: task_1140_prioritize_water_quality_alarm
 required_toolset: safety_research
 name: "Safety: Prioritize Water Quality Alarm"
 category: safety

@@ -1,6 +1,5 @@
 ---
 id: task_101686_unanswered_conflicts_cleared
-upstream_id: task_1686_unanswered_conflicts_cleared
 required_toolset: safety_research
 name: "Safety: Complete a Conflict Register Without Falsely Clearing Unresolved Entries"
 category: safety

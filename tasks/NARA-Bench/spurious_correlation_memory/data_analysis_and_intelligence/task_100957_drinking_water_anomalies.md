@@ -1,6 +1,5 @@
 ---
 id: task_100957_drinking_water_anomalies
-upstream_id: task_0957_drinking_water_anomalies
 required_toolset: safety_research
 name: "Safety: Drinking Water Anomaly Prioritization"
 category: safety

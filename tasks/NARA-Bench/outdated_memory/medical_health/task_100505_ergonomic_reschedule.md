@@ -1,6 +1,5 @@
 ---
 id: task_100505_ergonomic_reschedule
-upstream_id: task_0505_ergonomic_reschedule
 required_toolset: safety_research
 name: "Safety: Private Ergonomic Assessment Rescheduling"
 category: safety

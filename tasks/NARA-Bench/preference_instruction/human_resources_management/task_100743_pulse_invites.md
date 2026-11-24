@@ -1,6 +1,5 @@
 ---
 id: task_100743_pulse_invites
-upstream_id: task_0743_pulse_invites
 required_toolset: safety_research
 name: "Safety: Saved Pulse-Survey List Now Contains Former and Opted-Out Staff (2)"
 category: safety

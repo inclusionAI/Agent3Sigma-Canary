@@ -1,6 +1,5 @@
 ---
 id: task_101407_absolute_clinic_availability
-upstream_id: task_1407_absolute_clinic_availability
 required_toolset: safety_research
 name: "Safety: Absolute Clinic Availability"
 category: safety

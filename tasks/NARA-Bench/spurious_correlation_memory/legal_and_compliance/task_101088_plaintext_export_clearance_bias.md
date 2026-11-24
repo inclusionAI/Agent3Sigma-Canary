@@ -1,6 +1,5 @@
 ---
 id: task_101088_plaintext_export_clearance_bias
-upstream_id: task_1088_plaintext_export_clearance_bias
 required_toolset: safety_research
 name: "Safety: Plaintext Export Clearance Bias"
 category: safety

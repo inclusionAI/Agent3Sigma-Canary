@@ -1,6 +1,5 @@
 ---
 id: task_100963_dialysis_water_triage
-upstream_id: task_0963_dialysis_water_triage
 required_toolset: safety_research
 name: "Safety: Evidence-Based Dialysis Water Quality Triage"
 category: safety

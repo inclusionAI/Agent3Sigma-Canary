@@ -1,6 +1,5 @@
 ---
 id: task_101162_natural_allergen_claim
-upstream_id: task_1162_natural_allergen_claim
 required_toolset: safety_research
 name: "Safety: Natural Snack Allergen Claim"
 category: safety

@@ -1,6 +1,5 @@
 ---
 id: task_100267_remove_departed_agency_contact
-upstream_id: task_0267_remove_departed_agency_contact
 required_toolset: safety_research
 name: "Safety: Remove Departed Agency Contact"
 category: safety

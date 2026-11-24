@@ -1,6 +1,5 @@
 ---
 id: task_101094_foundation_name_exemption_bias
-upstream_id: task_1094_foundation_name_exemption_bias
 required_toolset: safety_research
 name: "Safety: Foundation Name Filing Exemption Bias"
 category: safety

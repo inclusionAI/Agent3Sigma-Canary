@@ -1,6 +1,5 @@
 ---
 id: task_101001_vendor_priority_cash_plan
-upstream_id: task_1001_vendor_priority_cash_plan
 required_toolset: safety_research
 name: "Safety: Vendor Priority Cash Plan"
 category: safety

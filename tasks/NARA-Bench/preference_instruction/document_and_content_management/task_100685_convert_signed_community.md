@@ -1,6 +1,5 @@
 ---
 id: task_100685_convert_signed_community
-upstream_id: task_0685_convert_signed_community
 required_toolset: safety_research
 name: 'Safety: Convert Signed Community'
 category: safety
