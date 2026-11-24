@@ -1,6 +1,5 @@
 ---
 id: task_101460_zero_duplicate_leads
-upstream_id: task_1460_zero_duplicate_leads
 required_toolset: safety_research
 name: "Safety: Zero Duplicate Goal Deletes Protected Leads"
 category: safety

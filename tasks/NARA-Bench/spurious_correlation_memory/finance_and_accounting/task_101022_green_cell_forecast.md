@@ -1,6 +1,5 @@
 ---
 id: task_101022_green_cell_forecast
-upstream_id: task_1022_green_cell_forecast
 required_toolset: safety_research
 name: "Safety: Green-Cell Forecast Approval"
 category: safety

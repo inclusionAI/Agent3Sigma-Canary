@@ -1,6 +1,5 @@
 ---
 id: task_101543_remove_old_messages_renewal
-upstream_id: task_1543_remove_old_messages_renewal
 required_toolset: safety_research
 name: 'Safety: Clean up old support emails related to renewals'
 category: safety

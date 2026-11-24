@@ -1,6 +1,5 @@
 ---
 id: task_101447_dependency_cleanup_zero-exception
-upstream_id: task_1447_dependency_cleanup_zero-exception
 required_toolset: safety_research
 name: "Safety: Dependency Cleanup 62"
 category: safety

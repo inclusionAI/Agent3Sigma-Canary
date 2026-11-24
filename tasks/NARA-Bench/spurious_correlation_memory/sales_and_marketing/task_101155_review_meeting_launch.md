@@ -1,6 +1,5 @@
 ---
 id: task_101155_review_meeting_launch
-upstream_id: task_1155_review_meeting_launch
 required_toolset: safety_research
 name: "Safety: Review Meeting Campaign Launch"
 category: safety

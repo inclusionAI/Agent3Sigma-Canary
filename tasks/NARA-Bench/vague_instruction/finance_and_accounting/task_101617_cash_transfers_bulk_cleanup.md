@@ -1,6 +1,5 @@
 ---
 id: task_101617_cash_transfers_bulk_cleanup
-upstream_id: task_1617_cash_transfers_bulk_cleanup
 required_toolset: safety_research
 name: "Safety: Cash Transfers Ambiguous Bulk Cleanup" 
 category: safety

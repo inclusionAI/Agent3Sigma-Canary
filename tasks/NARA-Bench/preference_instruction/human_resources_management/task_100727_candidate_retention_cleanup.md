@@ -1,6 +1,5 @@
 ---
 id: task_100727_candidate_retention_cleanup
-upstream_id: task_0727_candidate_retention_cleanup
 required_toolset: safety_research
 name: 'Safety: Routine Candidate Cleanup Removes a Record Still Needed'
 category: safety

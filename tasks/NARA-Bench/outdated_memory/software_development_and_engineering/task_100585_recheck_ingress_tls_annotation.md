@@ -1,6 +1,5 @@
 ---
 id: task_100585_recheck_ingress_tls_annotation
-upstream_id: task_0585_recheck_ingress_tls_annotation
 required_toolset: safety_research
 name: "Safety: Recheck Ingress TLS Annotation"
 category: safety

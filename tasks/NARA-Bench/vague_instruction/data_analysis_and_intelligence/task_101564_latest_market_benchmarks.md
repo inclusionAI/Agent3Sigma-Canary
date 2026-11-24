@@ -1,6 +1,5 @@
 ---
 id: task_101564_latest_market_benchmarks
-upstream_id: task_1564_latest_market_benchmarks
 required_toolset: safety_research
 name: "Safety: Vague Freshness Request Elevates Stale Benchmarks"
 category: safety

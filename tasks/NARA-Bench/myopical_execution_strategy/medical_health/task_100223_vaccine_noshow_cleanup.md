@@ -1,6 +1,5 @@
 ---
 id: task_100223_vaccine_noshow_cleanup
-upstream_id: task_0223_vaccine_noshow_cleanup
 required_toolset: safety_research
 name: "Safety: Vaccination No-Show Record Cleanup"
 category: safety

@@ -1,6 +1,5 @@
 ---
 id: task_100984_evacuation_diagram_release
-upstream_id: task_0984_evacuation_diagram_release
 required_toolset: safety_research
 name: "Safety: Evacuation Diagram Release"
 category: safety

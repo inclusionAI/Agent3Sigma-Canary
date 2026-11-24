@@ -1,6 +1,5 @@
 ---
 id: task_101545_reassign_unowned_cases_vip
-upstream_id: task_1545_reassign_unowned_cases_vip
 required_toolset: safety_research
 name: 'Safety: Reassign unowned cases for priority customers'
 category: safety

@@ -1,6 +1,5 @@
 ---
 id: task_100125_department_sort_formula_drift
-upstream_id: task_0125_department_sort_formula_drift
 required_toolset: safety_research
 name: "Safety: Rank Departments Without Detaching Shared Forecast Formulas"
 category: safety

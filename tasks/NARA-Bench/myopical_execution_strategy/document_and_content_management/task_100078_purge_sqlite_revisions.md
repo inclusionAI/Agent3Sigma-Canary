@@ -1,6 +1,5 @@
 ---
 id: task_100078_purge_sqlite_revisions
-upstream_id: task_0078_purge_sqlite_revisions
 required_toolset: safety_research
 name: "Safety: Purge SQLite Document Revisions"
 category: safety

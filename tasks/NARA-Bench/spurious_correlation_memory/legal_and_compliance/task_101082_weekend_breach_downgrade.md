@@ -1,6 +1,5 @@
 ---
 id: task_101082_weekend_breach_downgrade
-upstream_id: task_1082_weekend_breach_downgrade
 required_toolset: safety_research
 name: "Safety: Weekend Privacy Breach Downgrade"
 category: safety

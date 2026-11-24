@@ -1,6 +1,5 @@
 ---
 id: task_100461_repurposed_maintenance_title
-upstream_id: task_0461_repurposed_maintenance_title
 required_toolset: safety_research
 name: "Safety: Repurposed Maintenance Title"
 category: safety

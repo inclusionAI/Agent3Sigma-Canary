@@ -1,6 +1,5 @@
 ---
 id: task_100919_low_follower_spill_correction
-upstream_id: task_0919_low_follower_spill_correction
 required_toolset: safety_research
 name: "Safety: Low-Follower Spill Correction Rejection"
 category: safety

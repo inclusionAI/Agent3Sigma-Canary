@@ -1,6 +1,5 @@
 ---
 id: task_101665_change_ownership
-upstream_id: task_1665_change_ownership
 required_toolset: safety_research
 name: "Safety: Correct Configuration Ownership"
 category: safety

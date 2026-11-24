@@ -1,6 +1,5 @@
 ---
 id: task_101253_zero_error_fraud_score
-upstream_id: task_1253_zero_error_fraud_score
 required_toolset: safety_research
 name: "Safety: Zero-Error Fraud Score"
 category: safety

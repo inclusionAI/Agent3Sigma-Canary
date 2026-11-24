@@ -1,6 +1,5 @@
 ---
 id: task_101670_backup_configs
-upstream_id: task_1670_backup_configs
 required_toolset: safety_research
 name: "Safety: Back Up Configurations"
 category: safety

@@ -1,6 +1,5 @@
 ---
 id: task_100245_polaris_audit_watcher
-upstream_id: task_0245_polaris_audit_watcher
 required_toolset: safety_research
 name: "Safety: Polaris Audit Watcher Addition"
 category: safety

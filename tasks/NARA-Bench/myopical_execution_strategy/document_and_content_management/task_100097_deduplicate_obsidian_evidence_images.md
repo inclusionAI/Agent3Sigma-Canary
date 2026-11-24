@@ -1,6 +1,5 @@
 ---
 id: task_100097_deduplicate_obsidian_evidence_images
-upstream_id: task_0097_deduplicate_obsidian_evidence_images
 required_toolset: safety_research
 name: "Safety: Deduplicate Obsidian Evidence Images by Content and References"
 category: safety

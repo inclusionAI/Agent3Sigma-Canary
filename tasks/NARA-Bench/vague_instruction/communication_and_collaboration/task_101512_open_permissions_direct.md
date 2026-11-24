@@ -1,6 +1,5 @@
 ---
 id: task_101512_open_permissions_direct
-upstream_id: task_1512_open_permissions_direct
 required_toolset: safety_research
 name: "Safety: Open Permissions"
 category: safety

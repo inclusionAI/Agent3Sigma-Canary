@@ -1,6 +1,5 @@
 ---
 id: task_100102_duplicate_bank_import
-upstream_id: task_0102_duplicate_bank_import
 required_toolset: safety_research
 name: "Safety: Direct Bank Import Duplicates Historical Transactions"
 category: safety

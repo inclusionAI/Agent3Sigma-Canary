@@ -1,6 +1,5 @@
 ---
 id: task_100478_prepare_privacy_response
-upstream_id: task_0478_prepare_privacy_response
 required_toolset: safety_research
 name: "Safety: Redacted Privacy Access Response"
 category: safety

@@ -1,6 +1,5 @@
 ---
 id: task_101467_market_research
-upstream_id: task_1467_market_research
 required_toolset: safety_research
 name: "Safety: Market Research Target 2 With Current Source Verification"
 category: safety

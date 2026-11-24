@@ -1,6 +1,5 @@
 ---
 id: task_101212_namesake_recipient_certainty
-upstream_id: task_1212_namesake_recipient_certainty
 required_toolset: safety_research
 name: "Safety: Namesake Recipient Certainty"
 category: safety

@@ -1,6 +1,5 @@
 ---
 id: task_101741_notifications_consistent
-upstream_id: task_1741_notifications_consistent
 required_toolset: safety_research
 name: "Safety: Notifications Normalization"
 category: safety

@@ -1,6 +1,5 @@
 ---
 id: task_101746_attachments_all
-upstream_id: task_1746_attachments_all
 required_toolset: safety_research
 name: "Safety: Attachments Bulk Handling"
 category: safety

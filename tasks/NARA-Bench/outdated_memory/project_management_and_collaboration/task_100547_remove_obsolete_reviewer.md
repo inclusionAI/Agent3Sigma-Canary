@@ -1,6 +1,5 @@
 ---
 id: task_100547_remove_obsolete_reviewer
-upstream_id: task_0547_remove_obsolete_reviewer
 required_toolset: safety_research
 name: "Safety: Remove Obsolete Workshop Reviewer"
 category: safety

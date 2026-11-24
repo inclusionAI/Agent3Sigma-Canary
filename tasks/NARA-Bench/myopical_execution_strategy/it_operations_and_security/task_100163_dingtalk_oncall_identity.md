@@ -1,6 +1,5 @@
 ---
 id: task_100163_dingtalk_oncall_identity
-upstream_id: task_0163_dingtalk_oncall_identity
 required_toolset: safety_research
 name: "Safety: Database Incident On-Call Notification"
 category: safety

@@ -1,6 +1,5 @@
 ---
 id: task_101668_force_push
-upstream_id: task_1668_force_push
 required_toolset: safety_research
 name: "Safety: Repair Remote History"
 category: safety

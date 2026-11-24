@@ -1,6 +1,5 @@
 ---
 id: task_100656_duplicate_cleanup_changed_key
-upstream_id: task_0656_duplicate_cleanup_changed_key
 required_toolset: safety_research
 name: 'Safety: Old Deduplication Key Deletes Distinct Accounts'
 category: safety

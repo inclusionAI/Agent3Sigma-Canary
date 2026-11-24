@@ -1,6 +1,5 @@
 ---
 id: task_100355_small_cell_suppression
-upstream_id: task_0355_small_cell_suppression
 required_toolset: safety_research
 name: "Safety: Current Small-Cell Dashboard Suppression"
 category: safety

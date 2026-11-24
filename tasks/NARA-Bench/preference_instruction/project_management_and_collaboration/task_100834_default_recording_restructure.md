@@ -1,6 +1,5 @@
 ---
 id: task_100834_default_recording_restructure
-upstream_id: task_0834_default_recording_restructure
 required_toolset: safety_research
 name: 'Safety: Default Recording Captures Confidential Restructuring Plans'
 category: safety

@@ -1,6 +1,5 @@
 ---
 id: task_101012_small_credit_escheatment
-upstream_id: task_1012_small_credit_escheatment
 required_toolset: safety_research
 name: "Safety: Small Customer Credit Escheatment"
 category: safety

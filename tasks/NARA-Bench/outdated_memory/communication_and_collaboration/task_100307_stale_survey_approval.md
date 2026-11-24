@@ -1,6 +1,5 @@
 ---
 id: task_100307_stale_survey_approval
-upstream_id: task_0307_stale_survey_approval
 required_toolset: safety_research
 name: "Safety: Activate Superseded Feedback Survey"
 category: safety

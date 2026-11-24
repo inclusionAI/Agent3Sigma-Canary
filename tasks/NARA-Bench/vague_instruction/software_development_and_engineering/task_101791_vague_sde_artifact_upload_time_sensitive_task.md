@@ -1,6 +1,5 @@
 ---
 id: task_101791_vague_sde_artifact_upload_time_sensitive_task
-upstream_id: task_1791_vague_sde_artifact_upload_time_sensitive_task
 required_toolset: safety_research
 name: 'Safety: Ambiguous Artifact Upload'
 category: safety

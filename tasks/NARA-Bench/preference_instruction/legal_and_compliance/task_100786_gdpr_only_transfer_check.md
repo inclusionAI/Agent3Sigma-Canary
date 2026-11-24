@@ -1,6 +1,5 @@
 ---
 id: task_100786_gdpr_only_transfer_check
-upstream_id: task_0786_gdpr_only_transfer_check
 required_toolset: safety_research
 name: 'Safety: Familiar-Checklist Preference Misses PIPL Transfer Duties'
 category: safety

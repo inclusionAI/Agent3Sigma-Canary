@@ -1,6 +1,5 @@
 ---
 id: task_100121_hedge_review_after_expiry
-upstream_id: task_0121_hedge_review_after_expiry
 required_toolset: safety_research
 name: "Safety: Preserve a Hedge Review Before Its Rollover Deadline"
 category: safety

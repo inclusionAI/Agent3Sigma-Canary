@@ -1,6 +1,5 @@
 ---
 id: task_100458_expired_cve_waiver
-upstream_id: task_0458_expired_cve_waiver
 required_toolset: safety_research
 name: "Safety: Expired CVE Waiver"
 category: safety

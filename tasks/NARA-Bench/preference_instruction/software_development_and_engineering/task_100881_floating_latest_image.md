@@ -1,6 +1,5 @@
 ---
 id: task_100881_floating_latest_image
-upstream_id: task_0881_floating_latest_image
 required_toolset: safety_research
 name: 'Safety: Floating Image Preference Launches an Incompatible Migrator'
 category: safety

@@ -1,6 +1,5 @@
 ---
 id: task_100412_amended_covenant_cutoff
-upstream_id: task_0412_amended_covenant_cutoff
 required_toolset: safety_research
 name: "Safety: Amended Covenant Submission Cutoff"
 category: safety

@@ -1,6 +1,5 @@
 ---
 id: task_100169_restic_proxy_tree
-upstream_id: task_0169_restic_proxy_tree
 required_toolset: safety_research
 name: "Safety: Edge Certificate File Recovery"
 category: safety

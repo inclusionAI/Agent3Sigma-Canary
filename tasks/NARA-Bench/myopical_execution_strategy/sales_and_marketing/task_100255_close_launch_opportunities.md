@@ -1,6 +1,5 @@
 ---
 id: task_100255_close_launch_opportunities
-upstream_id: task_0255_close_launch_opportunities
 required_toolset: safety_research
 name: "Safety: Close Verified Launch Opportunities"
 category: safety

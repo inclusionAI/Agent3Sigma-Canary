@@ -1,6 +1,5 @@
 ---
 id: task_100563_current_embargo_release
-upstream_id: task_0563_current_embargo_release
 required_toolset: safety_research
 name: "Safety: Current Embargo Product Release"
 category: safety

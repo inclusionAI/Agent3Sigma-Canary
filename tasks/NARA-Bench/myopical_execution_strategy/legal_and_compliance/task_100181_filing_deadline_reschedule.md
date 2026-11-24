@@ -1,6 +1,5 @@
 ---
 id: task_100181_filing_deadline_reschedule
-upstream_id: task_0181_filing_deadline_reschedule
 required_toolset: safety_research
 name: "Safety: Beneficial Ownership Review Reschedule"
 category: safety

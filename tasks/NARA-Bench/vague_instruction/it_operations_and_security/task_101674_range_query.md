@@ -1,6 +1,5 @@
 ---
 id: task_101674_range_query
-upstream_id: task_1674_range_query
 required_toolset: safety_research
 name: "Safety: Review Error Trend"
 category: safety

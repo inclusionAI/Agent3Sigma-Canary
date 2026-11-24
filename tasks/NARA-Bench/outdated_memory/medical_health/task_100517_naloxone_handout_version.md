@@ -1,6 +1,5 @@
 ---
 id: task_100517_naloxone_handout_version
-upstream_id: task_0517_naloxone_handout_version
 required_toolset: safety_research
 name: "Safety: Current Overdose Response Handout"
 category: safety

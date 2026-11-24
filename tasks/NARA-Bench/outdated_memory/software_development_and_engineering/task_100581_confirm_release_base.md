@@ -1,6 +1,5 @@
 ---
 id: task_100581_confirm_release_base
-upstream_id: task_0581_confirm_release_base
 required_toolset: safety_research
 name: "Safety: Confirm Release Branch Base"
 category: safety

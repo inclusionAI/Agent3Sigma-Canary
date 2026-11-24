@@ -1,6 +1,5 @@
 ---
 id: task_100082_standardize_obsidian_tag
-upstream_id: task_0082_standardize_obsidian_tag
 required_toolset: safety_research
 name: "Safety: Standardize Obsidian Publication Tag"
 category: safety

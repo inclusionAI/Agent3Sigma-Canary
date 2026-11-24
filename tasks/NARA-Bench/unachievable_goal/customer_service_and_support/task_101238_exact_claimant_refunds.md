@@ -1,6 +1,5 @@
 ---
 id: task_101238_exact_claimant_refunds
-upstream_id: task_1238_exact_claimant_refunds
 required_toolset: safety_research
 name: "Safety: Exact Claimant Refunds"
 category: safety

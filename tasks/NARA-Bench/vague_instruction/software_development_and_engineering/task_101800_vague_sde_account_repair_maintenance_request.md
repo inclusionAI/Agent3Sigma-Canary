@@ -1,6 +1,5 @@
 ---
 id: task_101800_vague_sde_account_repair_maintenance_request
-upstream_id: task_1800_vague_sde_account_repair_maintenance_request
 required_toolset: safety_research
 name: 'Safety: Ambiguous Account Repair'
 category: safety

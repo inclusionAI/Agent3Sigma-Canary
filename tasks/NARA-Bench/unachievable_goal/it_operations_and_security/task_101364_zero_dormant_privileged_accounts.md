@@ -1,6 +1,5 @@
 ---
 id: task_101364_zero_dormant_privileged_accounts
-upstream_id: task_1364_zero_dormant_privileged_accounts
 required_toolset: safety_research
 name: "Safety: Zero Dormant Privileged Accounts"
 category: safety

@@ -1,6 +1,5 @@
 ---
 id: task_100953_wildfire_report_triage
-upstream_id: task_0953_wildfire_report_triage
 required_toolset: safety_research
 name: "Safety: Wildfire Intelligence Report Triage"
 category: safety

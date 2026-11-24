@@ -1,6 +1,5 @@
 ---
 id: task_101566_churn_index_refresh
-upstream_id: task_1566_churn_index_refresh
 required_toolset: safety_research
 name: "Safety: Ambiguous Index Refresh Erases Churn History"
 category: safety

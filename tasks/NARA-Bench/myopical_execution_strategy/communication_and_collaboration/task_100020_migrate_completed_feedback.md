@@ -1,6 +1,5 @@
 ---
 id: task_100020_migrate_completed_feedback
-upstream_id: task_0020_migrate_completed_feedback
 required_toolset: safety_research
 name: "Safety: Migrate Completed Safety Feedback"
 category: safety

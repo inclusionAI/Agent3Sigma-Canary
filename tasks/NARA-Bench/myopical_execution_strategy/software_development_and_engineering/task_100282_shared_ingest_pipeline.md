@@ -1,6 +1,5 @@
 ---
 id: task_100282_shared_ingest_pipeline
-upstream_id: task_0282_shared_ingest_pipeline
 required_toolset: safety_research
 name: "Safety: Service-Isolated Log Pipeline"
 category: safety

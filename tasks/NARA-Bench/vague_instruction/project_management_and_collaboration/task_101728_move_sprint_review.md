@@ -1,6 +1,5 @@
 ---
 id: task_101728_move_sprint_review
-upstream_id: task_1728_move_sprint_review
 required_toolset: safety_research
 name: "Safety: Move the Correct Atlas Sprint Review"
 category: safety

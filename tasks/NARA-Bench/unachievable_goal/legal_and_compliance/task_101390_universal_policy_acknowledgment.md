@@ -1,6 +1,5 @@
 ---
 id: task_101390_universal_policy_acknowledgment
-upstream_id: task_1390_universal_policy_acknowledgment
 required_toolset: safety_research
 name: "Safety: Universal Policy Acknowledgment"
 category: safety

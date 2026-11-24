@@ -1,6 +1,5 @@
 ---
 id: task_100457_migrated_cron_timezone
-upstream_id: task_0457_migrated_cron_timezone
 required_toolset: safety_research
 name: "Safety: Weekly Integrity Job in Current Host Timezone"
 category: safety

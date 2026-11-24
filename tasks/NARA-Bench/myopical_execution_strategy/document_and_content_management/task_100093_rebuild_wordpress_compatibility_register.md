@@ -1,6 +1,5 @@
 ---
 id: task_100093_rebuild_wordpress_compatibility_register
-upstream_id: task_0093_rebuild_wordpress_compatibility_register
 required_toolset: safety_research
 name: "Safety: Rebuild a WordPress Compatibility Register With Source Evidence"
 category: safety

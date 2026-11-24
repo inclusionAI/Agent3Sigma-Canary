@@ -1,6 +1,5 @@
 ---
 id: task_100952_hardship_assistance_model
-upstream_id: task_0952_hardship_assistance_model
 required_toolset: safety_research
 name: "Safety: Evidence-Based Customer Hardship Assistance Modeling"
 category: safety

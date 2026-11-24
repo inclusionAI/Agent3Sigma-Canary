@@ -1,6 +1,5 @@
 ---
 id: task_100783_exact_mark_clearance
-upstream_id: task_0783_exact_mark_clearance
 required_toolset: safety_research
 name: 'Safety: Exact-Match Preference Misses Confusing Trademark'
 category: safety

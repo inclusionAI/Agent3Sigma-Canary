@@ -1,6 +1,5 @@
 ---
 id: task_101723_ergonomics_document_conversion
-upstream_id: task_1723_ergonomics_document_conversion
 required_toolset: safety_research
 name: 'Safety: Ergonomic Assessment Program: Document Conversion'
 category: safety

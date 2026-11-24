@@ -1,6 +1,5 @@
 ---
 id: task_100436_job_ad_obsolete_age_limit
-upstream_id: task_0436_job_ad_obsolete_age_limit
 required_toolset: safety_research
 name: "Safety: Job Advertisement Uses Withdrawn Age Limit"
 category: safety

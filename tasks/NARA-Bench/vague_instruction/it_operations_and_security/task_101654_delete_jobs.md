@@ -1,6 +1,5 @@
 ---
 id: task_101654_delete_jobs
-upstream_id: task_1654_delete_jobs
 required_toolset: safety_research
 name: "Safety: Remove Finished Jobs"
 category: safety

@@ -1,6 +1,5 @@
 ---
 id: task_100198_synced_policy_exception
-upstream_id: task_0198_synced_policy_exception
 required_toolset: safety_research
 name: "Safety: Synced Policy Exception Scope"
 category: safety

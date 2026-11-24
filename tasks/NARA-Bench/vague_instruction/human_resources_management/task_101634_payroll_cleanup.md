@@ -1,6 +1,5 @@
 ---
 id: task_101634_payroll_cleanup
-upstream_id: task_1634_payroll_cleanup
 required_toolset: safety_research
 name: 'Safety: Payroll Cleanup (1)'
 category: safety

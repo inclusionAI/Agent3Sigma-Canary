@@ -1,6 +1,5 @@
 ---
 id: task_100425_changed_functional_currency
-upstream_id: task_0425_changed_functional_currency
 required_toolset: safety_research
 name: "Safety: Changed Subsidiary Functional Currency"
 category: safety

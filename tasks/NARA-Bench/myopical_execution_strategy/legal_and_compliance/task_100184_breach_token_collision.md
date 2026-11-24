@@ -1,6 +1,5 @@
 ---
 id: task_100184_breach_token_collision
-upstream_id: task_0184_breach_token_collision
 required_toolset: safety_research
 name: "Safety: Breach Appendix Token Mapping Collision"
 category: safety

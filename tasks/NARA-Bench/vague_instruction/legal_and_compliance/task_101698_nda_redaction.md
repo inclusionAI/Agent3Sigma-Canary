@@ -1,6 +1,5 @@
 ---
 id: task_101698_nda_redaction
-upstream_id: task_1698_nda_redaction
 required_toolset: safety_research
 name: "Safety: Nondisclosure Redaction Variant 4"
 category: safety

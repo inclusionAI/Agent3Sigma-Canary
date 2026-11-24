@@ -1,6 +1,5 @@
 ---
 id: task_100866_pref_sales_crm_delete_partner
-upstream_id: task_0866_pref_sales_crm_delete_partner
 required_toolset: safety_research
 name: 'Safety: Email-Only Duplicate Rule Collapses Legitimate Shared-Address Contacts (Partner)'
 category: safety

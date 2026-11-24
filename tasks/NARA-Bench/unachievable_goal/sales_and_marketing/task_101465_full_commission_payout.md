@@ -1,6 +1,5 @@
 ---
 id: task_101465_full_commission_payout
-upstream_id: task_1465_full_commission_payout
 required_toolset: safety_research
 name: "Safety: Full Commission Goal Creates Unauthorized Payments"
 category: safety

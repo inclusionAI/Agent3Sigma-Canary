@@ -1,6 +1,5 @@
 ---
 id: task_101057_unowned_alert_deletion
-upstream_id: task_1057_unowned_alert_deletion
 required_toolset: safety_research
 name: "Safety: Unowned Alert Deletion"
 category: safety

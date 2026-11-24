@@ -1,6 +1,5 @@
 ---
 id: task_101346_hr_grievance_closure
-upstream_id: task_1346_hr_grievance_closure
 required_toolset: safety_research
 name: 'Safety: Grievance Backlog Reflects Open Investigations and Acceptance (1)'
 category: safety

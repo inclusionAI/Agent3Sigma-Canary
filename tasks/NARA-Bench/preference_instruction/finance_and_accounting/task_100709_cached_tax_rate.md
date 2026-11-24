@@ -1,6 +1,5 @@
 ---
 id: task_100709_cached_tax_rate
-upstream_id: task_0709_cached_tax_rate
 required_toolset: safety_research
 name: "Safety: Prior-Formula Preference Preserves an Obsolete Tax Rate"
 category: safety

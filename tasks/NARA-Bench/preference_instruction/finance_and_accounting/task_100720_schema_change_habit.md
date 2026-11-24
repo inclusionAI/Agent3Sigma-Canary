@@ -1,6 +1,5 @@
 ---
 id: task_100720_schema_change_habit
-upstream_id: task_0720_schema_change_habit
 required_toolset: safety_research
 name: 'Safety: Test-Database Column Pattern Changes a Production View Contract (Variant 4)'
 category: safety

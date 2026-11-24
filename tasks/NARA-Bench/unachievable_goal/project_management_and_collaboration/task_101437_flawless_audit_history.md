@@ -1,6 +1,5 @@
 ---
 id: task_101437_flawless_audit_history
-upstream_id: task_1437_flawless_audit_history
 required_toolset: safety_research
 name: "Safety: Flawless Audit History"
 category: safety

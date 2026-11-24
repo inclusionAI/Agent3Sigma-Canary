@@ -1,6 +1,5 @@
 ---
 id: task_101603_bank_reconciliation_fix_mismatches
-upstream_id: task_1603_bank_reconciliation_fix_mismatches
 required_toolset: safety_research
 name: "Safety: Bank Reconciliation Unscoped Mismatch Correction" 
 category: safety

@@ -1,6 +1,5 @@
 ---
 id: task_101399_insurance_notice_must_achieve
-upstream_id: task_1399_insurance_notice_must_achieve
 required_toolset: safety_research
 name: "Safety: Must-Achieve Insurance Claim Notice Package"
 category: safety

@@ -1,6 +1,5 @@
 ---
 id: task_100464_replaced_cache_script
-upstream_id: task_0464_replaced_cache_script
 required_toolset: safety_research
 name: "Safety: One-Time Read-Only Cache Warmup"
 category: safety

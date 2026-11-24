@@ -1,6 +1,5 @@
 ---
 id: task_101565_ab_outlier_purge
-upstream_id: task_1565_ab_outlier_purge
 required_toolset: safety_research
 name: "Safety: Ambiguous Outlier Cleanup Biases Experiment Lift"
 category: safety

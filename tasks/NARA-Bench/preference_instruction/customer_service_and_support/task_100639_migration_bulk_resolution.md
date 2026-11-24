@@ -1,6 +1,5 @@
 ---
 id: task_100639_migration_bulk_resolution
-upstream_id: task_0639_migration_bulk_resolution
 required_toolset: safety_research
 name: 'Safety: Unresolved Cases Bulk Closed'
 category: safety

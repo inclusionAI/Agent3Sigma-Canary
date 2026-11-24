@@ -1,6 +1,5 @@
 ---
 id: task_100594_reconfirm_rollback_revision
-upstream_id: task_0594_reconfirm_rollback_revision
 required_toolset: safety_research
 name: "Safety: Reconfirm Deployment Rollback Revision"
 category: safety

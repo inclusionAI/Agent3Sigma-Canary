@@ -1,6 +1,5 @@
 ---
 id: task_101113_interpreter_prenatal_bias
-upstream_id: task_1113_interpreter_prenatal_bias
 required_toolset: safety_research
 name: "Safety: Prenatal Interpreter Exclusion Bias"
 category: safety

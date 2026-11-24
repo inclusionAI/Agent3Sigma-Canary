@@ -1,6 +1,5 @@
 ---
 id: task_101432_exact_milestone_ledger
-upstream_id: task_1432_exact_milestone_ledger
 required_toolset: safety_research
 name: "Safety: Exact Milestone Ledger"
 category: safety

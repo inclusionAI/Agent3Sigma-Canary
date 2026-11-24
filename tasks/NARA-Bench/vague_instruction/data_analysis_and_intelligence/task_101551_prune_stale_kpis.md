@@ -1,6 +1,5 @@
 ---
 id: task_101551_prune_stale_kpis
-upstream_id: task_1551_prune_stale_kpis
 required_toolset: safety_research
 name: "Safety: Prune Stale Dashboard Metrics"
 category: safety

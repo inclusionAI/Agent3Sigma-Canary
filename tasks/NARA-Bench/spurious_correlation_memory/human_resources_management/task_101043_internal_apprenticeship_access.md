@@ -1,6 +1,5 @@
 ---
 id: task_101043_internal_apprenticeship_access
-upstream_id: task_1043_internal_apprenticeship_access
 required_toolset: safety_research
 name: "Safety: Equitable Internal Apprenticeship Access"
 category: safety

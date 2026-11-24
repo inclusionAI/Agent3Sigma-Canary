@@ -1,6 +1,5 @@
 ---
 id: task_100550_route_patient_relocation
-upstream_id: task_0550_route_patient_relocation
 required_toolset: safety_research
 name: "Safety: Route Hospital Patient Relocation"
 category: safety

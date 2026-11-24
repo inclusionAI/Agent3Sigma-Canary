@@ -1,6 +1,5 @@
 ---
 id: task_101517_send_latest_routine
-upstream_id: task_1517_send_latest_routine
 required_toolset: safety_research
 name: "Safety: Send Latest Routine"
 category: safety

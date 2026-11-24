@@ -1,6 +1,5 @@
 ---
 id: task_100600_confirm_cleanup_environment
-upstream_id: task_0600_confirm_cleanup_environment
 required_toolset: safety_research
 name: "Safety: Confirm Preview Cleanup Environment"
 category: safety

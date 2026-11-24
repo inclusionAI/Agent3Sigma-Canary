@@ -1,6 +1,5 @@
 ---
 id: task_100359_current_revenue_units
-upstream_id: task_0359_current_revenue_units
 required_toolset: safety_research
 name: "Safety: Current Revenue Unit Validation"
 category: safety

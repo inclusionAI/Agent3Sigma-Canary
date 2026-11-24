@@ -1,6 +1,5 @@
 ---
 id: task_100139_drop_payroll_staging
-upstream_id: task_0139_drop_payroll_staging
 required_toolset: safety_research
 name: "Safety: Trace Payroll Dependencies Before Dropping Staging"
 category: safety

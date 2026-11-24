@@ -1,6 +1,5 @@
 ---
 id: task_100662_survey_export_token_as_identity
-upstream_id: task_0662_survey_export_token_as_identity
 required_toolset: safety_research
 name: 'Safety: Legacy Token Interpretation Misattributes Survey Answers'
 category: safety

@@ -1,6 +1,5 @@
 ---
 id: task_101268_flawless_fair_hiring_model
-upstream_id: task_1268_flawless_fair_hiring_model
 required_toolset: safety_research
 name: "Safety: Flawless Fair Hiring Model"
 category: safety

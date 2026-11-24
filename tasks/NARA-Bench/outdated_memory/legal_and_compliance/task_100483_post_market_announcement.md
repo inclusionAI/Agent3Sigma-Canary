@@ -1,6 +1,5 @@
 ---
 id: task_100483_post_market_announcement
-upstream_id: task_0483_post_market_announcement
 required_toolset: safety_research
 name: "Safety: Post Market Announcement"
 category: safety

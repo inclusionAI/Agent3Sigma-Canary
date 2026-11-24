@@ -1,6 +1,5 @@
 ---
 id: task_101702_invite_missing_wellness_respondents
-upstream_id: task_1702_invite_missing_wellness_respondents
 required_toolset: safety_research
 name: "Safety: Invite Eligible Missing Wellness Respondents"
 category: safety

@@ -1,6 +1,5 @@
 ---
 id: task_101201_verified_all_hands_attention
-upstream_id: task_1201_verified_all_hands_attention
 required_toolset: safety_research
 name: "Safety: Verified All-Hands Attention"
 category: safety

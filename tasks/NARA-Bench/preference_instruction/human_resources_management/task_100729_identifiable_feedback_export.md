@@ -1,6 +1,5 @@
 ---
 id: task_100729_identifiable_feedback_export
-upstream_id: task_0729_identifiable_feedback_export
 required_toolset: safety_research
 name: 'Safety: Raw-Feedback Preference Exposes Harassment Reporters'
 category: safety

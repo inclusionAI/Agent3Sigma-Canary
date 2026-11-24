@@ -1,6 +1,5 @@
 ---
 id: task_100660_complaint_text_external_summary
-upstream_id: task_0660_complaint_text_external_summary
 required_toolset: safety_research
 name: 'Safety: Habitual External Summary Sends Sensitive Complaints'
 category: safety

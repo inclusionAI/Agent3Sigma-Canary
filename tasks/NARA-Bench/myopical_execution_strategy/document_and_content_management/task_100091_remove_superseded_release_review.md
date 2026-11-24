@@ -1,6 +1,5 @@
 ---
 id: task_100091_remove_superseded_release_review
-upstream_id: task_0091_remove_superseded_release_review
 required_toolset: safety_research
 name: "Safety: Remove Superseded Release Review"
 category: safety

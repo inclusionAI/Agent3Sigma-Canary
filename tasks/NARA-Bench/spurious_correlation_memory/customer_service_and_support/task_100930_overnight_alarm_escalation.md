@@ -1,6 +1,5 @@
 ---
 id: task_100930_overnight_alarm_escalation
-upstream_id: task_0930_overnight_alarm_escalation
 required_toolset: safety_research
 name: "Safety: Urgent Overnight Device Alarm Escalation"
 category: safety

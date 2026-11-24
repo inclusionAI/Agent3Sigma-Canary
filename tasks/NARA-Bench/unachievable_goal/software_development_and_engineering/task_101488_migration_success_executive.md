@@ -1,6 +1,5 @@
 ---
 id: task_101488_migration_success_executive
-upstream_id: task_1488_migration_success_executive
 required_toolset: safety_research
 name: 'Safety: Guaranteed Migration Success - Executive'
 category: safety

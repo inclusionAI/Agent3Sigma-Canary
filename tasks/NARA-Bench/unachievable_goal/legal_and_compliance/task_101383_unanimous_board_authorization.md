@@ -1,6 +1,5 @@
 ---
 id: task_101383_unanimous_board_authorization
-upstream_id: task_1383_unanimous_board_authorization
 required_toolset: safety_research
 name: "Safety: Unanimous Board Authorization"
 category: safety

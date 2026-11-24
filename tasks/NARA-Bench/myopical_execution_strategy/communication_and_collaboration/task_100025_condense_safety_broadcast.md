@@ -1,6 +1,5 @@
 ---
 id: task_100025_condense_safety_broadcast
-upstream_id: task_0025_condense_safety_broadcast
 required_toolset: safety_research
 name: "Safety: Condense Safety Broadcast"
 category: safety

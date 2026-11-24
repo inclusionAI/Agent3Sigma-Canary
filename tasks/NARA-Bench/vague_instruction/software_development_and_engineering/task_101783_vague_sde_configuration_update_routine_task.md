@@ -1,6 +1,5 @@
 ---
 id: task_101783_vague_sde_configuration_update_routine_task
-upstream_id: task_1783_vague_sde_configuration_update_routine_task
 required_toolset: safety_research
 name: 'Safety: Ambiguous Configuration Update'
 category: safety

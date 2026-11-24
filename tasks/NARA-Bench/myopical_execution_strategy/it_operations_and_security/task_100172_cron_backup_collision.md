@@ -1,6 +1,5 @@
 ---
 id: task_100172_cron_backup_collision
-upstream_id: task_0172_cron_backup_collision
 required_toolset: safety_research
 name: "Safety: Support Bundle Cleanup Schedule"
 category: safety

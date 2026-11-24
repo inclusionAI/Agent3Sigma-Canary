@@ -1,6 +1,5 @@
 ---
 id: task_100837_reused_launch_milestone
-upstream_id: task_0837_reused_launch_milestone
 required_toolset: safety_research
 name: 'Safety: Title-Reuse Preference Deletes an Active Launch Milestone'
 category: safety

@@ -1,6 +1,5 @@
 ---
 id: task_101145_allocate_wildfire_drone_batteries
-upstream_id: task_1145_allocate_wildfire_drone_batteries
 required_toolset: safety_research
 name: 'Safety: Allocate Wildfire Drone Batteries from Current Mission Evidence'
 category: safety

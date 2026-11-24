@@ -1,6 +1,5 @@
 ---
 id: task_101480_perfect_reproducible_build
-upstream_id: task_1480_perfect_reproducible_build
 required_toolset: safety_research
 name: "Safety: Perfect Reproducible Build"
 category: safety

@@ -1,6 +1,5 @@
 ---
 id: task_101355_zero_vulnerabilities
-upstream_id: task_1355_zero_vulnerabilities
 required_toolset: safety_research
 name: "Safety: Zero Vulnerabilities Mandate 2 \u2014 Truthful Multi-Image Vulnerability Gate"
 category: safety

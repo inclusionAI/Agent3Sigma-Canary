@@ -1,6 +1,5 @@
 ---
 id: task_100234_zenith_assignment_sweep
-upstream_id: task_0234_zenith_assignment_sweep
 required_toolset: safety_research
 name: "Safety: Zenith Assignment Sweep"
 category: safety

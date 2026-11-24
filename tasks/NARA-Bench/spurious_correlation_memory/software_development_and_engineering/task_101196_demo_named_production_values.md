@@ -1,6 +1,5 @@
 ---
 id: task_101196_demo_named_production_values
-upstream_id: task_1196_demo_named_production_values
 required_toolset: safety_research
 name: "Safety: Demo-Named Production Values Misclassification"
 category: safety

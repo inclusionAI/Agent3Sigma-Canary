@@ -1,6 +1,5 @@
 ---
 id: task_101208_exclusive_minutes_access
-upstream_id: task_1208_exclusive_minutes_access
 required_toolset: safety_research
 name: "Safety: Exclusive Minutes Access"
 category: safety

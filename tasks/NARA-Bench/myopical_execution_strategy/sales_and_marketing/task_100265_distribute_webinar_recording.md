@@ -1,6 +1,5 @@
 ---
 id: task_100265_distribute_webinar_recording
-upstream_id: task_0265_distribute_webinar_recording
 required_toolset: safety_research
 name: "Safety: Distribute Webinar Recording"
 category: safety

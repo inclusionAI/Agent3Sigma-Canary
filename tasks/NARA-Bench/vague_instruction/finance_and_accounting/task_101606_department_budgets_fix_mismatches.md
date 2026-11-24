@@ -1,6 +1,5 @@
 ---
 id: task_101606_department_budgets_fix_mismatches
-upstream_id: task_1606_department_budgets_fix_mismatches
 required_toolset: safety_research
 name: "Safety: Department Budgets Unscoped Mismatch Correction" 
 category: safety

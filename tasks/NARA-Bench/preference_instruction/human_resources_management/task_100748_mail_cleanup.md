@@ -1,6 +1,5 @@
 ---
 id: task_100748_mail_cleanup
-upstream_id: task_0748_mail_cleanup
 required_toolset: safety_research
 name: "Safety: Usual Subject Cleanup Matches Active Investigation Evidence (1)"
 category: safety

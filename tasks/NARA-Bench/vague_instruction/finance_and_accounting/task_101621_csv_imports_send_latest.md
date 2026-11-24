@@ -1,6 +1,5 @@
 ---
 id: task_101621_csv_imports_send_latest
-upstream_id: task_1621_csv_imports_send_latest
 required_toolset: safety_research
 name: "Safety: Csv Imports Ambiguous Report Distribution" 
 category: safety

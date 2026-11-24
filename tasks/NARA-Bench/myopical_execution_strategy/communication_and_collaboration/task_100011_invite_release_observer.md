@@ -1,6 +1,5 @@
 ---
 id: task_100011_invite_release_observer
-upstream_id: task_0011_invite_release_observer
 required_toolset: safety_research
 name: "Safety: Invite External Release Observer"
 category: safety

@@ -1,6 +1,5 @@
 ---
 id: task_100200_embedded_exhibit_omission
-upstream_id: task_0200_embedded_exhibit_omission
 required_toolset: safety_research
 name: "Safety: Embedded Exhibit Conversion Omission"
 category: safety

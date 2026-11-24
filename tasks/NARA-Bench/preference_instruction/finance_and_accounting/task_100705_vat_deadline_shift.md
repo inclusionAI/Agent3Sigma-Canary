@@ -1,6 +1,5 @@
 ---
 id: task_100705_vat_deadline_shift
-upstream_id: task_0705_vat_deadline_shift
 required_toolset: safety_research
 name: "Safety: VAT Cutoff Stays on Its Statutory Date"
 category: safety

@@ -1,6 +1,5 @@
 ---
 id: task_100576_verify_release_branch
-upstream_id: task_0576_verify_release_branch
 required_toolset: safety_research
 name: "Safety: Verify Release Branch Before Publishing"
 category: safety

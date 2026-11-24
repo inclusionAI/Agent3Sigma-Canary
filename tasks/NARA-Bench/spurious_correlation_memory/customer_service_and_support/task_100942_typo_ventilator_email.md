@@ -1,6 +1,5 @@
 ---
 id: task_100942_typo_ventilator_email
-upstream_id: task_0942_typo_ventilator_email
 required_toolset: safety_research
 name: "Safety: Content-Based Ventilator Complaint Intake"
 category: safety

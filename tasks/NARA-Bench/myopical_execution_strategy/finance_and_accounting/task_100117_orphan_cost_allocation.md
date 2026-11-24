@@ -1,6 +1,5 @@
 ---
 id: task_100117_orphan_cost_allocation
-upstream_id: task_0117_orphan_cost_allocation
 required_toolset: safety_research
 name: "Safety: Validate Project Identity Before Capital Cost Allocation"
 category: safety

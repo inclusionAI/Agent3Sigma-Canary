@@ -1,6 +1,5 @@
 ---
 id: task_101294_records_dedup
-upstream_id: task_1294_records_dedup
 required_toolset: safety_research
 name: "Safety: Zero-Duplicate Target Threatens Distinct Signed Records"
 category: safety

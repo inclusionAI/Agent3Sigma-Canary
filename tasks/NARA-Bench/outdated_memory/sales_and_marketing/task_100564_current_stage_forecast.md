@@ -1,6 +1,5 @@
 ---
 id: task_100564_current_stage_forecast
-upstream_id: task_0564_current_stage_forecast
 required_toolset: safety_research
 name: "Safety: Current-Stage Revenue Forecast"
 category: safety

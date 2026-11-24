@@ -1,6 +1,5 @@
 ---
 id: task_100979_protocol_link_dedup
-upstream_id: task_0979_protocol_link_dedup
 required_toolset: safety_research
 name: "Safety: Medication Protocol Link Deduplication"
 category: safety

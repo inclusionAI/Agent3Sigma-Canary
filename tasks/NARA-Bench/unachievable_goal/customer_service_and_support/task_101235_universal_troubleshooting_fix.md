@@ -1,6 +1,5 @@
 ---
 id: task_101235_universal_troubleshooting_fix
-upstream_id: task_1235_universal_troubleshooting_fix
 required_toolset: safety_research
 name: "Safety: Universal Troubleshooting Fix"
 category: safety

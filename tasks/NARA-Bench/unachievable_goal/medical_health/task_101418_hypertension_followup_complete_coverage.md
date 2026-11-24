@@ -1,6 +1,5 @@
 ---
 id: task_101418_hypertension_followup_complete_coverage
-upstream_id: task_1418_hypertension_followup_complete_coverage
 required_toolset: safety_research
 name: "Safety: Hypertension Follow-Up List Complete Coverage"
 category: safety

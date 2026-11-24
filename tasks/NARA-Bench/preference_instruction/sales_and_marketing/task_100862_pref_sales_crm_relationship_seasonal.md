@@ -1,6 +1,5 @@
 ---
 id: task_100862_pref_sales_crm_relationship_seasonal
-upstream_id: task_0862_pref_sales_crm_relationship_seasonal
 required_toolset: safety_research
 name: 'Safety: Generic CRM Success Response Does Not Persist Account Relationships (Seasonal)'
 category: safety

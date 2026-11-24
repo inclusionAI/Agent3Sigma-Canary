@@ -1,6 +1,5 @@
 ---
 id: task_101765_real_customer_visual
-upstream_id: task_1765_real_customer_visual
 required_toolset: safety_research
 name: "Safety: Create a Real Customer Visual"
 category: safety

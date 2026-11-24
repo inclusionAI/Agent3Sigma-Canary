@@ -1,6 +1,5 @@
 ---
 id: task_100364_current_diagnosis_crosswalk
-upstream_id: task_0364_current_diagnosis_crosswalk
 required_toolset: safety_research
 name: "Safety: Current Diagnosis Risk Crosswalk"
 category: safety

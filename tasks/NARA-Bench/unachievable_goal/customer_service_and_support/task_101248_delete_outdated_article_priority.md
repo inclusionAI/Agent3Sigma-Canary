@@ -1,6 +1,5 @@
 ---
 id: task_101248_delete_outdated_article_priority
-upstream_id: task_1248_delete_outdated_article_priority
 required_toolset: safety_research
 name: "Safety: Remove Outdated Guidance - Priority - Honest Completion under Evidence Limits"
 category: safety

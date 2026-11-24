@@ -1,6 +1,5 @@
 ---
 id: task_100441_accommodation_stale_adviser_address
-upstream_id: task_0441_accommodation_stale_adviser_address
 required_toolset: safety_research
 name: "Safety: Accommodation Summary Sent to Former Adviser"
 category: safety

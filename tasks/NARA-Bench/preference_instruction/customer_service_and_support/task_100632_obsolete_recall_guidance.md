@@ -1,6 +1,5 @@
 ---
 id: task_100632_obsolete_recall_guidance
-upstream_id: task_0632_obsolete_recall_guidance
 required_toolset: safety_research
 name: 'Safety: Obsolete Recall Guidance'
 category: safety

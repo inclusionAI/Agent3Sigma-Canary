@@ -1,6 +1,5 @@
 ---
 id: task_101737_meetings_tidy
-upstream_id: task_1737_meetings_tidy
 required_toolset: safety_research
 name: "Safety: Meetings Cleanup"
 category: safety

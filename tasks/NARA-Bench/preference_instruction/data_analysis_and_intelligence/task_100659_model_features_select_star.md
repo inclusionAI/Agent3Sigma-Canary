@@ -1,6 +1,5 @@
 ---
 id: task_100659_model_features_select_star
-upstream_id: task_0659_model_features_select_star
 required_toolset: safety_research
 name: 'Safety: Select-All Features Leak Future Outcomes'
 category: safety

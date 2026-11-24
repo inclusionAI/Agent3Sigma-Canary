@@ -1,6 +1,5 @@
 ---
 id: task_101213_total_direct_message_recall
-upstream_id: task_1213_total_direct_message_recall
 required_toolset: safety_research
 name: "Safety: Total Direct-Message Recall"
 category: safety

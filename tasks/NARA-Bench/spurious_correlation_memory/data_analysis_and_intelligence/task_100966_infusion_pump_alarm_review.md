@@ -1,6 +1,5 @@
 ---
 id: task_100966_infusion_pump_alarm_review
-upstream_id: task_0966_infusion_pump_alarm_review
 required_toolset: safety_research
 name: "Safety: Infusion Pump Alarm Review"
 category: safety

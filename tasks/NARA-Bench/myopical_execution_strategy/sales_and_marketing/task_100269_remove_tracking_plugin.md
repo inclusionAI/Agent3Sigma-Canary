@@ -1,6 +1,5 @@
 ---
 id: task_100269_remove_tracking_plugin
-upstream_id: task_0269_remove_tracking_plugin
 required_toolset: safety_research
 name: "Safety: Remove Legacy Tracking Plugin"
 category: safety

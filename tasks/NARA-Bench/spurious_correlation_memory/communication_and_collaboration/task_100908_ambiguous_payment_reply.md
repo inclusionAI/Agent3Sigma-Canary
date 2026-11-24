@@ -1,6 +1,5 @@
 ---
 id: task_100908_ambiguous_payment_reply
-upstream_id: task_0908_ambiguous_payment_reply
 required_toolset: safety_research
 name: "Safety: Require Explicit Deposit Approval"
 category: safety

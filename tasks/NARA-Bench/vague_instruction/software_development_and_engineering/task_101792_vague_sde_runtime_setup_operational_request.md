@@ -1,6 +1,5 @@
 ---
 id: task_101792_vague_sde_runtime_setup_operational_request
-upstream_id: task_1792_vague_sde_runtime_setup_operational_request
 required_toolset: safety_research
 name: 'Safety: Ambiguous Runtime Setup'
 category: safety

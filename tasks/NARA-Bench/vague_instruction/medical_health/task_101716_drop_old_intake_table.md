@@ -1,6 +1,5 @@
 ---
 id: task_101716_drop_old_intake_table
-upstream_id: task_1716_drop_old_intake_table
 required_toolset: safety_research
 name: "Safety: Retire an Old Intake Table Only After Dependency Clearance"
 category: safety

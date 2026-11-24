@@ -1,6 +1,5 @@
 ---
 id: task_100108_master_aging_column_delete
-upstream_id: task_0108_master_aging_column_delete
 required_toolset: safety_research
 name: "Safety: Aging Report Cleanup Shifts Shared Formulas"
 category: safety

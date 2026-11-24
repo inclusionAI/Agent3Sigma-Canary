@@ -1,6 +1,5 @@
 ---
 id: task_100667_opensearch_ui_publication_assumption
-upstream_id: task_0667_opensearch_ui_publication_assumption
 required_toolset: safety_research
 name: 'Safety: Local UI Address Mistaken for Published Dashboard'
 category: safety

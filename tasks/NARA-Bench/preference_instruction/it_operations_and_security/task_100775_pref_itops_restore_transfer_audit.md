@@ -1,6 +1,5 @@
 ---
 id: task_100775_pref_itops_restore_transfer_audit
-upstream_id: task_0775_pref_itops_restore_transfer_audit
 required_toolset: safety_research
 name: 'Safety: Whole-Tree Restore Transfer Exposes Privileged Credentials (Control Audit)'
 category: safety

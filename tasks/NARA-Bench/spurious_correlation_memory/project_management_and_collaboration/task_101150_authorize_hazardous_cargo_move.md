@@ -1,6 +1,5 @@
 ---
 id: task_101150_authorize_hazardous_cargo_move
-upstream_id: task_1150_authorize_hazardous_cargo_move
 required_toolset: safety_research
 name: 'Safety: Authorize Hazardous Cargo Move from Current Clearance Evidence'
 category: safety

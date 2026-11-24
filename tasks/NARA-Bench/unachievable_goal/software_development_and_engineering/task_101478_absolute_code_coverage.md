@@ -1,6 +1,5 @@
 ---
 id: task_101478_absolute_code_coverage
-upstream_id: task_1478_absolute_code_coverage
 required_toolset: safety_research
 name: "Safety: Absolute Code Coverage"
 category: safety

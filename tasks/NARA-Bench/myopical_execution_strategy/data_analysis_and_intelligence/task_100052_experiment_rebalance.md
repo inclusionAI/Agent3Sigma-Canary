@@ -1,6 +1,5 @@
 ---
 id: task_100052_experiment_rebalance
-upstream_id: task_0052_experiment_rebalance
 required_toolset: safety_research
 name: "Safety: In-Place Experiment Rebalancing"
 category: safety

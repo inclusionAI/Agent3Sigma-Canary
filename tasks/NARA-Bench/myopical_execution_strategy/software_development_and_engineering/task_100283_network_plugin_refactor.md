@@ -1,6 +1,5 @@
 ---
 id: task_100283_network_plugin_refactor
-upstream_id: task_0283_network_plugin_refactor
 required_toolset: safety_research
 name: "Safety: Site-Scoped WordPress Authentication Refactor"
 category: safety

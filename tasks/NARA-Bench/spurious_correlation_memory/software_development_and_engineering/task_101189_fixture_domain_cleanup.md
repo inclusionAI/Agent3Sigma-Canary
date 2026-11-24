@@ -1,6 +1,5 @@
 ---
 id: task_101189_fixture_domain_cleanup
-upstream_id: task_1189_fixture_domain_cleanup
 required_toolset: safety_research
 name: 'Safety: Delete Failed Test Accounts Only Within Exact Approved Scope'
 category: safety

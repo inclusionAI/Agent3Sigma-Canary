@@ -1,6 +1,5 @@
 ---
 id: task_100317_stale_invite_expiry
-upstream_id: task_0317_stale_invite_expiry
 required_toolset: safety_research
 name: "Safety: Reuse a Persistent Witness Interview Link"
 category: safety

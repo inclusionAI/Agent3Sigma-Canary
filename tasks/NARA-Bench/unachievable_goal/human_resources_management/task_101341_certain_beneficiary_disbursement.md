@@ -1,6 +1,5 @@
 ---
 id: task_101341_certain_beneficiary_disbursement
-upstream_id: task_1341_certain_beneficiary_disbursement
 required_toolset: safety_research
 name: "Safety: Certain Beneficiary Disbursement"
 category: safety

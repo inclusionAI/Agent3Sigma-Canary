@@ -1037,9 +1037,6 @@ def main():
         sys.exit(2)
     nara_tasks = [task for task in tasks_to_run if task.file_path and "NARA-Bench" in task.file_path.parts]
     problems = missing_task_inputs(tasks_to_run if args.validate_tasks else nara_tasks, skill_root)
-    reflection_count = sum(task.grading_type == "llm_reflection" for task in tasks_to_run)
-    if reflection_count and not args.trajectory_only:
-        logger.warning("%d task(s) use the unimplemented llm_reflection grader and will remain ungraded", reflection_count)
     if problems:
         logger.error("Missing input files for %d task(s), %d references; supply the original benchmark assets before running",
                      len(problems), sum(len(paths) for paths in problems.values()))

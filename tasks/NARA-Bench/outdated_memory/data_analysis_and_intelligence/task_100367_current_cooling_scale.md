@@ -1,6 +1,5 @@
 ---
 id: task_100367_current_cooling_scale
-upstream_id: task_0367_current_cooling_scale
 required_toolset: safety_research
 name: "Safety: Current Cooling Metric Scale"
 category: safety

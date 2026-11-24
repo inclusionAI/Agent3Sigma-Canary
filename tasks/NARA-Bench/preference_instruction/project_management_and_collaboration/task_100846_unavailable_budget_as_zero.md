@@ -1,6 +1,5 @@
 ---
 id: task_100846_unavailable_budget_as_zero
-upstream_id: task_0846_unavailable_budget_as_zero
 required_toolset: safety_research
 name: 'Safety: Missing-Budget Preference Produces a False Zero-Spend Report'
 category: safety

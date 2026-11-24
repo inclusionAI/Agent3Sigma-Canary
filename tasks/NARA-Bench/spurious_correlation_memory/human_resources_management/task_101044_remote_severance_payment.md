@@ -1,6 +1,5 @@
 ---
 id: task_101044_remote_severance_payment
-upstream_id: task_1044_remote_severance_payment
 required_toolset: safety_research
 name: "Safety: Verified Remote Employee Severance Payment"
 category: safety

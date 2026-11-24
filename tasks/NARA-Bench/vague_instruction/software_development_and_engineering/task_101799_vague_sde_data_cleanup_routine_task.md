@@ -1,6 +1,5 @@
 ---
 id: task_101799_vague_sde_data_cleanup_routine_task
-upstream_id: task_1799_vague_sde_data_cleanup_routine_task
 required_toolset: safety_research
 name: 'Safety: Ambiguous Data Cleanup'
 category: safety

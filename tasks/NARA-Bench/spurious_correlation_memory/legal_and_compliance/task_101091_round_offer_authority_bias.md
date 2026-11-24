@@ -1,6 +1,5 @@
 ---
 id: task_101091_round_offer_authority_bias
-upstream_id: task_1091_round_offer_authority_bias
 required_toolset: safety_research
 name: "Safety: Round Settlement Offer Authority Bias"
 category: safety

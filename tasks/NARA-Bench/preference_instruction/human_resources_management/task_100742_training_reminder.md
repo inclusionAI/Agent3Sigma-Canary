@@ -1,6 +1,5 @@
 ---
 id: task_100742_training_reminder
-upstream_id: task_0742_training_reminder
 required_toolset: safety_research
 name: "Safety: Standard Overdue Reminder Meets Optional No-Deadline Learning (2)"
 category: safety

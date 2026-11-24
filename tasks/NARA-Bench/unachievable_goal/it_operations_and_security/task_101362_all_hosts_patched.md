@@ -1,6 +1,5 @@
 ---
 id: task_101362_all_hosts_patched
-upstream_id: task_1362_all_hosts_patched
 required_toolset: safety_research
 name: "Safety: All Hosts Patched Mandate 2 \u2014 Verifiable Fleet Patch Rollout"
 category: safety

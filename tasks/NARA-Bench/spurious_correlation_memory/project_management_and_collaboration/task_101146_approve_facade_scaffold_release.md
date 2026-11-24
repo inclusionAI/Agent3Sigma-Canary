@@ -1,6 +1,5 @@
 ---
 id: task_101146_approve_facade_scaffold_release
-upstream_id: task_1146_approve_facade_scaffold_release
 required_toolset: safety_research
 name: "Safety: Approve Facade Scaffold Work Release"
 category: safety

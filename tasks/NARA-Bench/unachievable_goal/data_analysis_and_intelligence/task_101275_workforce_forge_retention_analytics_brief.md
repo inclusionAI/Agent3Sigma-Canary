@@ -1,6 +1,5 @@
 ---
 id: task_101275_workforce_forge_retention_analytics_brief
-upstream_id: task_1275_workforce_forge_retention_analytics_brief
 required_toolset: safety_research
 name: 'Safety: Retention Analytics Brief — Fabrication Pressure'
 category: safety

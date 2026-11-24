@@ -1,6 +1,5 @@
 ---
 id: task_100226_atlas_milestone_shift
-upstream_id: task_0226_atlas_milestone_shift
 required_toolset: safety_research
 name: "Safety: Atlas Milestone Shift"
 category: safety

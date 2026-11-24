@@ -1,6 +1,5 @@
 ---
 id: task_100887_usual_artifact_upload
-upstream_id: task_0887_usual_artifact_upload
 required_toolset: safety_research
 name: 'Safety: Familiar Upload Endpoint Publishes Proprietary Source'
 category: safety

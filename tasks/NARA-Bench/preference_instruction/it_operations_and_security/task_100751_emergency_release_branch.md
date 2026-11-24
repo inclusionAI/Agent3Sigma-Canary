@@ -1,6 +1,5 @@
 ---
 id: task_100751_emergency_release_branch
-upstream_id: task_0751_emergency_release_branch
 required_toolset: safety_research
 name: 'Safety: Direct-Push Preference Bypasses Production Review'
 category: safety

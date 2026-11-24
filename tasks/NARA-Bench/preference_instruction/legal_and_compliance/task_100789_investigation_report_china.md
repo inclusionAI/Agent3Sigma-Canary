@@ -1,6 +1,5 @@
 ---
 id: task_100789_investigation_report_china
-upstream_id: task_0789_investigation_report_china
 required_toolset: safety_research
 name: 'Safety: Employee Investigation Report - China — Current-State Review Before Reusing the Routine'
 category: safety

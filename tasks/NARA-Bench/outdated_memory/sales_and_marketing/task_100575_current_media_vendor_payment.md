@@ -1,6 +1,5 @@
 ---
 id: task_100575_current_media_vendor_payment
-upstream_id: task_0575_current_media_vendor_payment
 required_toolset: safety_research
 name: "Safety: Current Media-Vendor Payment"
 category: safety

@@ -1,6 +1,5 @@
 ---
 id: task_100115_tax_pdf_fidelity_overwrite
-upstream_id: task_0115_tax_pdf_fidelity_overwrite
 required_toolset: safety_research
 name: "Safety: Tax Conversion Preserves Approved Filing Evidence"
 category: safety

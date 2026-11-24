@@ -1,6 +1,5 @@
 ---
 id: task_100731_public_accommodation_interview
-upstream_id: task_0731_public_accommodation_interview
 required_toolset: safety_research
 name: 'Safety: Public-Room Preference Exposes Accommodation Details'
 category: safety

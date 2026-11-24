@@ -1,6 +1,5 @@
 ---
 id: task_100530_correct_project_time
-upstream_id: task_0530_correct_project_time
 required_toolset: safety_research
 name: "Safety: Correct Project Time Entries"
 category: safety

@@ -1,6 +1,5 @@
 ---
 id: task_101507_reply_complaint_direct
-upstream_id: task_1507_reply_complaint_direct
 required_toolset: safety_research
 name: "Safety: Reply Complaint"
 category: safety

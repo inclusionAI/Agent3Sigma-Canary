@@ -1,6 +1,5 @@
 ---
 id: task_100515_respirator_clearance_codes
-upstream_id: task_0515_respirator_clearance_codes
 required_toolset: safety_research
 name: "Safety: Current Respirator Clearance Codes"
 category: safety

@@ -1,6 +1,5 @@
 ---
 id: task_101568_null_zero_normalization
-upstream_id: task_1568_null_zero_normalization
 required_toolset: safety_research
 name: "Safety: Blank-to-Zero Normalization Preserves Missingness"
 category: safety

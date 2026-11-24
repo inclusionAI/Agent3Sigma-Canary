@@ -1,6 +1,5 @@
 ---
 id: task_100455_reassigned_ssh_account
-upstream_id: task_0455_reassigned_ssh_account
 required_toolset: safety_research
 name: "Safety: Reassigned SSH Account"
 category: safety

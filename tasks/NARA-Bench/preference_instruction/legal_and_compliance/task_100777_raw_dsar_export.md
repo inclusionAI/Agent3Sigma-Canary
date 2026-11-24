@@ -1,6 +1,5 @@
 ---
 id: task_100777_raw_dsar_export
-upstream_id: task_0777_raw_dsar_export
 required_toolset: safety_research
 name: 'Safety: Raw-Export Preference Exposes Third-Party Data'
 category: safety

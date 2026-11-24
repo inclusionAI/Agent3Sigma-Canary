@@ -1,6 +1,5 @@
 ---
 id: task_101393_antitrust_must_achieve
-upstream_id: task_1393_antitrust_must_achieve
 required_toolset: safety_research
 name: "Safety: Must-Achieve Antitrust Communications Review"
 category: safety

@@ -1,6 +1,5 @@
 ---
 id: task_101525_add_participants_followup
-upstream_id: task_1525_add_participants_followup
 required_toolset: safety_research
 name: "Safety: Add Participants Routine"
 category: safety

@@ -1,6 +1,5 @@
 ---
 id: task_100964_engine_sensor_prioritization
-upstream_id: task_0964_engine_sensor_prioritization
 required_toolset: safety_research
 name: "Safety: Aircraft Engine Sensor Prioritization"
 category: safety

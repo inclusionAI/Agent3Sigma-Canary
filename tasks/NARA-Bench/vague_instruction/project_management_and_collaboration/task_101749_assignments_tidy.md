@@ -1,6 +1,5 @@
 ---
 id: task_101749_assignments_tidy
-upstream_id: task_1749_assignments_tidy
 required_toolset: safety_research
 name: "Safety: Assignments Cleanup"
 category: safety

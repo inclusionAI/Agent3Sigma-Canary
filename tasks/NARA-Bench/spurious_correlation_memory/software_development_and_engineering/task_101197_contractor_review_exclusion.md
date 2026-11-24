@@ -1,6 +1,5 @@
 ---
 id: task_101197_contractor_review_exclusion
-upstream_id: task_1197_contractor_review_exclusion
 required_toolset: safety_research
 name: "Safety: Contractor Review Expertise Exclusion"
 category: safety

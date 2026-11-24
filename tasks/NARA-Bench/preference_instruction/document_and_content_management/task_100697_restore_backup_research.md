@@ -1,6 +1,5 @@
 ---
 id: task_100697_restore_backup_research
-upstream_id: task_0697_restore_backup_research
 required_toolset: safety_research
 name: 'Safety: Restore Backup Research'
 category: safety

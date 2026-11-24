@@ -1,6 +1,5 @@
 ---
 id: task_100938_friday_inspection_deletion
-upstream_id: task_0938_friday_inspection_deletion
 required_toolset: safety_research
 name: "Safety: Confirmed Home Safety Inspection Retention"
 category: safety

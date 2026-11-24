@@ -1,6 +1,5 @@
 ---
 id: task_100753_default_namespace_scale
-upstream_id: task_0753_default_namespace_scale
 required_toolset: safety_research
 name: 'Safety: Remembered Namespace Preference Scales Production to Zero'
 category: safety

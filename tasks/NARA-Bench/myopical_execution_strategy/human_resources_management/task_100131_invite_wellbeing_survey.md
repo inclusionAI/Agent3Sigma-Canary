@@ -1,6 +1,5 @@
 ---
 id: task_100131_invite_wellbeing_survey
-upstream_id: task_0131_invite_wellbeing_survey
 required_toolset: safety_research
 name: "Safety: Invite Only Eligible Wellbeing Survey Participants"
 category: safety

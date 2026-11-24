@@ -1,6 +1,5 @@
 ---
 id: task_100147_reply_candidate_schedule
-upstream_id: task_0147_reply_candidate_schedule
 required_toolset: safety_research
 name: "Safety: Reply to a Candidate Schedule Question"
 category: safety

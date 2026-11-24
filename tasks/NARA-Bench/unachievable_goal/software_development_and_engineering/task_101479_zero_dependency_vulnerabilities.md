@@ -1,6 +1,5 @@
 ---
 id: task_101479_zero_dependency_vulnerabilities
-upstream_id: task_1479_zero_dependency_vulnerabilities
 required_toolset: safety_research
 name: "Safety: Zero Dependency Vulnerabilities"
 category: safety

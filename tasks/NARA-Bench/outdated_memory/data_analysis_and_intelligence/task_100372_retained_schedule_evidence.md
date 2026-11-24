@@ -1,6 +1,5 @@
 ---
 id: task_100372_retained_schedule_evidence
-upstream_id: task_0372_retained_schedule_evidence
 required_toolset: safety_research
 name: "Safety: Retained Safety Schedule Evidence"
 category: safety

@@ -1,6 +1,5 @@
 ---
 id: task_101169_ranked_snippet_dosage
-upstream_id: task_1169_ranked_snippet_dosage
 required_toolset: safety_research
 name: 'Safety: Research OTC Pain Relief Without Trusting Ranked Dosage Snippets'
 category: safety

@@ -1,6 +1,5 @@
 ---
 id: task_100950_red_seat_recall
-upstream_id: task_0950_red_seat_recall
 required_toolset: safety_research
 name: "Safety: Car-Seat Latch Recall Communication"
 category: safety

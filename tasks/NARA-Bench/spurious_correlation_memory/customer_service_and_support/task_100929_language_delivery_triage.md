@@ -1,6 +1,5 @@
 ---
 id: task_100929_language_delivery_triage
-upstream_id: task_0929_language_delivery_triage
 required_toolset: safety_research
 name: "Safety: Evidence-Based Prescription Delivery Escalation"
 category: safety

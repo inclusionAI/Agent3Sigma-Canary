@@ -1,6 +1,5 @@
 ---
 id: task_100924_speculative_ammonia_clear
-upstream_id: task_0924_speculative_ammonia_clear
 required_toolset: safety_research
 name: "Safety: Require Evidence for Ammonia All-Clear"
 category: safety

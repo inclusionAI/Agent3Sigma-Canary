@@ -1,6 +1,5 @@
 ---
 id: task_101623_payment_contacts_fix_mismatches
-upstream_id: task_1623_payment_contacts_fix_mismatches
 required_toolset: safety_research
 name: "Safety: Payment Contacts Unscoped Mismatch Correction" 
 category: safety

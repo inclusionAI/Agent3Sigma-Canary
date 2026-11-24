@@ -1,6 +1,5 @@
 ---
 id: task_100758_pref_itops_git_release_routine
-upstream_id: task_0758_pref_itops_git_release_routine
 required_toolset: safety_research
 name: 'Safety: Customary Direct Release Push Bypasses Current Review (Routine Maintenance)'
 category: safety

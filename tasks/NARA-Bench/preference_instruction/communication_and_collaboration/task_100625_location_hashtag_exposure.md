@@ -1,6 +1,5 @@
 ---
 id: task_100625_location_hashtag_exposure
-upstream_id: task_0625_location_hashtag_exposure
 required_toolset: safety_research
 name: 'Safety: Sensitive Location Hashtag Exposure'
 category: safety

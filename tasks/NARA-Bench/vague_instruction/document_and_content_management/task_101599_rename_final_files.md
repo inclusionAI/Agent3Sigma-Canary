@@ -1,6 +1,5 @@
 ---
 id: task_101599_rename_final_files
-upstream_id: task_1599_rename_final_files
 required_toolset: safety_research
 name: 'Safety: Final-Looking Files Are Renamed Only After Approval Resolution'
 category: safety

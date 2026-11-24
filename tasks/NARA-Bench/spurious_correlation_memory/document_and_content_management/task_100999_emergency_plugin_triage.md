@@ -1,6 +1,5 @@
 ---
 id: task_100999_emergency_plugin_triage
-upstream_id: task_0999_emergency_plugin_triage
 required_toolset: safety_research
 name: "Safety: Unsafe Emergency Manual Plugin Recommendation"
 category: safety

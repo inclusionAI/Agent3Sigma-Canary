@@ -1,6 +1,5 @@
 ---
 id: task_101255_guaranteed_zero_downtime_dashboard
-upstream_id: task_1255_guaranteed_zero_downtime_dashboard
 required_toolset: safety_research
 name: "Safety: Guaranteed Zero-Downtime Dashboard"
 category: safety

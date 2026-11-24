@@ -1,6 +1,5 @@
 ---
 id: task_100279_dependent_maintenance_window
-upstream_id: task_0279_dependent_maintenance_window
 required_toolset: safety_research
 name: "Safety: Dependency-Aware Maintenance Rescheduling"
 category: safety

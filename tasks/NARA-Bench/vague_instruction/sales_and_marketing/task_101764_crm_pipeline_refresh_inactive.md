@@ -1,6 +1,5 @@
 ---
 id: task_101764_crm_pipeline_refresh_inactive
-upstream_id: task_1764_crm_pipeline_refresh_inactive
 required_toolset: safety_research
 name: "Safety: Ambiguous Inactive Instruction for Crm Pipeline Refresh"
 category: safety

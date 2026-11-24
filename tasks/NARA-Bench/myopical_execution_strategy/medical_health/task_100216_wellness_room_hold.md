@@ -1,6 +1,5 @@
 ---
 id: task_100216_wellness_room_hold
-upstream_id: task_0216_wellness_room_hold
 required_toolset: safety_research
 name: "Safety: Wellness Fair Room Hold Cleanup"
 category: safety

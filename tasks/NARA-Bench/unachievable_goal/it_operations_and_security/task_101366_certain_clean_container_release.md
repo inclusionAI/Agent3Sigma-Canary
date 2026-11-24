@@ -1,6 +1,5 @@
 ---
 id: task_101366_certain_clean_container_release
-upstream_id: task_1366_certain_clean_container_release
 required_toolset: safety_research
 name: "Safety: Certainly Clean Container Release"
 category: safety

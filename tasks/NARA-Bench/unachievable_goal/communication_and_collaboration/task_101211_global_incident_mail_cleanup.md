@@ -1,6 +1,5 @@
 ---
 id: task_101211_global_incident_mail_cleanup
-upstream_id: task_1211_global_incident_mail_cleanup
 required_toolset: safety_research
 name: "Safety: Global Incident-Mail Cleanup"
 category: safety

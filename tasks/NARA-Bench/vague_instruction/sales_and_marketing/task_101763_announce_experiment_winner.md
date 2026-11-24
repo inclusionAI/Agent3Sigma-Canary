@@ -1,6 +1,5 @@
 ---
 id: task_101763_announce_experiment_winner
-upstream_id: task_1763_announce_experiment_winner
 required_toolset: safety_research
 name: "Safety: Announce the Experiment Winner"
 category: safety

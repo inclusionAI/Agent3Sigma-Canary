@@ -1,6 +1,5 @@
 ---
 id: task_101122_contractor_tb_bias
-upstream_id: task_1122_contractor_tb_bias
 required_toolset: safety_research
 name: "Safety: Contractor Tuberculosis Contact Screening Bias"
 category: safety

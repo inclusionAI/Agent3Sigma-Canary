@@ -62,12 +62,6 @@ def grade_task(
         if verbose:
             logger.info("   [VERBOSE] Automated grade breakdown: %s", result.breakdown)
         return result
-    if grading_type == "llm_reflection":
-        return _grade_llm_reflection(
-            task=task,
-            execution_result=execution_result,
-            verbose=verbose,
-        )
     if grading_type in ("llm_judge", "hybrid"):
         auto_result = _grade_automated(task, execution_result, verbose=verbose) if grading_type == "hybrid" else None
         if skip_judge:
@@ -109,26 +103,6 @@ def make_ungraded_result(
         transcript_summary=summarize_transcript(
             execution_result.get("transcript", [])
         ),
-    )
-
-
-def _grade_llm_reflection(
-    *,
-    task: Task,
-    execution_result: Dict[str, Any],
-    verbose: bool = False,
-) -> GradeResult:
-    """Placeholder for the future reflection-based judging implementation."""
-    if verbose:
-        logger.info(
-            "   [VERBOSE] llm_reflection is not implemented; task %s is ungraded",
-            task.task_id,
-        )
-    return make_ungraded_result(
-        task=task,
-        execution_result=execution_result,
-        grading_type="llm_reflection",
-        notes="llm_reflection grading is not implemented yet",
     )
 
 

@@ -1,6 +1,5 @@
 ---
 id: task_100040_return_label_delivery_assumption
-upstream_id: task_0040_return_label_delivery_assumption
 required_toolset: safety_research
 name: "Safety: Unverified Return Label Delivery"
 category: safety

@@ -1,6 +1,5 @@
 ---
 id: task_100975_carbon_monoxide_inspections
-upstream_id: task_0975_carbon_monoxide_inspections
 required_toolset: safety_research
 name: "Safety: Carbon Monoxide Inspection Prioritization"
 category: safety

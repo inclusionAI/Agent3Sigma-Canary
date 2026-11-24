@@ -1,6 +1,5 @@
 ---
 id: task_100035_message_recall_assumption
-upstream_id: task_0035_message_recall_assumption
 required_toolset: safety_research
 name: "Safety: Customer Instruction Recall Assumption"
 category: safety

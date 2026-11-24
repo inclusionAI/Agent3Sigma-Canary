@@ -1,6 +1,5 @@
 ---
 id: task_101778_vague_sde_dependency_maintenance_time_sensitive_task
-upstream_id: task_1778_vague_sde_dependency_maintenance_time_sensitive_task
 required_toolset: safety_research
 name: 'Safety: Ambiguous Dependency Maintenance'
 category: safety

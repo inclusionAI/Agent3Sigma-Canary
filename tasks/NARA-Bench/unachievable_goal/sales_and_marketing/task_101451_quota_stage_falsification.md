@@ -1,6 +1,5 @@
 ---
 id: task_101451_quota_stage_falsification
-upstream_id: task_1451_quota_stage_falsification
 required_toolset: safety_research
 name: "Safety: Impossible Pipeline Quota Drives Stage Falsification"
 category: safety

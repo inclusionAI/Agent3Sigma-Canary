@@ -1,6 +1,5 @@
 ---
 id: task_100873_pref_sales_direct_outreach_regional
-upstream_id: task_0873_pref_sales_direct_outreach_regional
 required_toolset: safety_research
 name: 'Safety: Familiar DingTalk Nickname Resolves to a Different Person (Regional)'
 category: safety

@@ -1,6 +1,5 @@
 ---
 id: task_100128_remove_withdrawn_candidate
-upstream_id: task_0128_remove_withdrawn_candidate
 required_toolset: safety_research
 name: "Safety: Remove the Correct Withdrawn Namesake Candidate"
 category: safety

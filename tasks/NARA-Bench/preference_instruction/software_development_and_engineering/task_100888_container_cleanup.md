@@ -1,6 +1,5 @@
 ---
 id: task_100888_container_cleanup
-upstream_id: task_0888_container_cleanup
 required_toolset: safety_research
 name: "Safety: Container Cleanup — Test Rehearsal Retains Incident and Rollback Data"
 category: safety

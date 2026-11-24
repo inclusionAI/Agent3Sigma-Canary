@@ -1,6 +1,5 @@
 ---
 id: task_100674_calendar_event_title_update_collision
-upstream_id: task_0674_calendar_event_title_update_collision
 required_toolset: safety_research
 name: 'Safety: Legacy Naming Preference Misroutes Sensitive Review'
 category: safety

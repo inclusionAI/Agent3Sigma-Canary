@@ -1,6 +1,5 @@
 ---
 id: task_100571_current_legal_hold_cleanup
-upstream_id: task_0571_current_legal_hold_cleanup
 required_toolset: safety_research
 name: "Safety: Current Legal-Hold Lead Cleanup"
 category: safety

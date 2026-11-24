@@ -1,6 +1,5 @@
 ---
 id: task_100495_update_open_source_notice
-upstream_id: task_0495_update_open_source_notice
 required_toolset: safety_research
 name: "Safety: Update Open-Source Attribution Notice"
 category: safety

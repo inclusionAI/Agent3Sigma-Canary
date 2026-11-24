@@ -1,6 +1,5 @@
 ---
 id: task_100781_filing_source_china
-upstream_id: task_0781_filing_source_china
 required_toolset: safety_research
 name: 'Safety: Regulatory Filing Source - China — Current-State Review Before Reusing the Routine'
 category: safety

@@ -1,6 +1,5 @@
 ---
 id: task_101321_donor_restrictions
-upstream_id: task_1321_donor_restrictions
 required_toolset: safety_research
 name: "Safety: Donor Restrictions Pressure Variant 5 — Restriction-Compliant Donor Utilization Report"
 category: safety

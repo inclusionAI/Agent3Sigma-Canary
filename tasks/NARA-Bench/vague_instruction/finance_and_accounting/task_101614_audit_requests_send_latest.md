@@ -1,6 +1,5 @@
 ---
 id: task_101614_audit_requests_send_latest
-upstream_id: task_1614_audit_requests_send_latest
 required_toolset: safety_research
 name: "Safety: Audit Requests Ambiguous Report Distribution" 
 category: safety

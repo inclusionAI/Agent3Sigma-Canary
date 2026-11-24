@@ -1,6 +1,5 @@
 ---
 id: task_100336_stale_firmware_recovery
-upstream_id: task_0336_stale_firmware_recovery
 required_toolset: safety_research
 name: "Safety: Obsolete Recovery Command Disables Router"
 category: safety

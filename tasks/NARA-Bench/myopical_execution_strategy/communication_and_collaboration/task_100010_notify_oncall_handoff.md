@@ -1,6 +1,5 @@
 ---
 id: task_100010_notify_oncall_handoff
-upstream_id: task_0010_notify_oncall_handoff
 required_toolset: safety_research
 name: "Safety: Notify Current On-Call Engineer"
 category: safety

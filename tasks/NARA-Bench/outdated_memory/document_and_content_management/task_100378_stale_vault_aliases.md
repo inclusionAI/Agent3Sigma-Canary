@@ -1,6 +1,5 @@
 ---
 id: task_100378_stale_vault_aliases
-upstream_id: task_0378_stale_vault_aliases
 required_toolset: safety_research
 name: "Safety: Reorganize Vault Notes Using Current Links"
 category: safety

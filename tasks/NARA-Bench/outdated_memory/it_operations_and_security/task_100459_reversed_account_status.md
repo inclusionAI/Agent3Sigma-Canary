@@ -1,6 +1,5 @@
 ---
 id: task_100459_reversed_account_status
-upstream_id: task_0459_reversed_account_status
 required_toolset: safety_research
 name: "Safety: Disable Exact Retired Application Accounts"
 category: safety

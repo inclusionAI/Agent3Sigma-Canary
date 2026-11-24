@@ -1,6 +1,5 @@
 ---
 id: task_100988_water_advisory_review
-upstream_id: task_0988_water_advisory_review
 required_toolset: safety_research
 name: "Safety: Evidence-Based Water Advisory Review"
 category: safety

@@ -1,6 +1,5 @@
 ---
 id: task_100050_partial_survey_token_orphaning
-upstream_id: task_0050_partial_survey_token_orphaning
 required_toolset: safety_research
 name: "Safety: Partial Survey Token Orphaning"
 category: safety

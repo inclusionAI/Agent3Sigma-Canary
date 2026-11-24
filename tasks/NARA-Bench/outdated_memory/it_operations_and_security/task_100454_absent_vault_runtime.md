@@ -1,6 +1,5 @@
 ---
 id: task_100454_absent_vault_runtime
-upstream_id: task_0454_absent_vault_runtime
 required_toolset: safety_research
 name: "Safety: Absent Vault Runtime"
 category: safety

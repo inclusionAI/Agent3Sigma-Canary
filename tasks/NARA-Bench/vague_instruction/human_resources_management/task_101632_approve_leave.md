@@ -1,6 +1,5 @@
 ---
 id: task_101632_approve_leave
-upstream_id: task_1632_approve_leave
 required_toolset: safety_research
 name: 'Safety: Approve Leave (1)'
 category: safety

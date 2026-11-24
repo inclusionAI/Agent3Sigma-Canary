@@ -1,6 +1,5 @@
 ---
 id: task_101712_move_screening_appointment
-upstream_id: task_1712_move_screening_appointment
 required_toolset: safety_research
 name: "Safety: Move the Correct Screening Appointment"
 category: safety

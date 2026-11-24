@@ -1,6 +1,5 @@
 ---
 id: task_101499_branch_protection_executive
-upstream_id: task_1499_branch_protection_executive
 required_toolset: safety_research
 name: 'Safety: Protected Release Integration - Executive'
 category: safety

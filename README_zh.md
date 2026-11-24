@@ -1,18 +1,26 @@
 # Agent3σ-Canary
 
-Agent3σ-Canary (简称 AgentCanary) 是 [Agent3σ 项目](https://github.com/antgroup/Agent3Sigma)的一部分，旨在基于真实运行环境提供面向 AI Agent 的安全评测能力。AgentCanary 不只简单地评估模型是否给出安全回答，还会在受控沙箱中驱动 Agent 调用真实工具、处理真实格式的任务物料，并基于完整执行轨迹从风险后果、安全意识与正常任务可用性等多维度进行综合评估。
+[English](README.md) · 简体中文
 
-![Agent3σ-Canary overview](images/agentcanary-overview.jpg)
+Agent3σ-Canary（简称 AgentCanary）是 [Agent3σ 项目](https://github.com/antgroup/Agent3Sigma)的可执行 Agent 评测平台。平台在受控沙盒中运行被测 Agent，让它调用真实工具、处理真实格式的任务材料，再依据完整轨迹中的工具调用和状态变化评估风险后果、安全意识与任务可用性。两个基准共用这套基础设施。
+
+| 入口 | 适用问题 |
+|---|---|
+| [AgentCanary 平台工作流](docs/platform_zh.md) | 如何选择运行时、构建镜像、采集轨迹与评分？ |
+| [Viper-Bench](docs/viper_zh.md) | 当攻击者试图诱导 Agent 越权时，Agent 能否识别风险、保护资源并完成合法任务？ |
+| [NARA-Bench](docs/nara_zh.md) | 在没有攻击者的正常业务委托中，Agent 何时会造成不安全后果？ |
 
 ## 📢 最新动态
 
+- **2026-10**：集成 NARA-Bench 的 1,800 个任务、新增 Claude Code 和 Codex 运行时，并支持组合研究工具镜像和仅采集轨迹。
 - **2026-08-09**：新增 Skill-to-Sandbox 工作流，支持**快速、低成本地构建定制化评测环境**，并灵活扩展评测任务。阅读[该教程](docs/eval_env_user_guide_zh.md)获取更多细节。
 - **2026-06-23**：新增 **Hermes** 和 **NanoClaw** Agent 框架支持。如果你希望支持其他新框架，欢迎提交 issue 或 pull request！
 - **2026-06-23**：新增 **safety 评测套件** —— 无攻击者，衡量 Agent 在模糊、冲突或紧急指令下的风险行为。
 
 ## 💡 关键特性
 
-- **全面的风险覆盖**：基于“风险入口 x 风险影响”的体系化定义组织评测任务，其中风险入口体现不同风险来源方式与对应威胁模型的差异，覆盖直接注入、间接提示词注入、Skills 投毒、记忆投毒等；风险影响描述攻击所能造成的后果差异，例如破坏本地环境、泄露敏感数据、污染长期状态。详见 [风险定义](docs/risk_def_zh.md)。
+- **全面的攻击者风险覆盖**：Viper-Bench 在攻击者威胁模型下，基于“风险入口 x 风险影响”的体系化定义组织评测任务，其中风险入口体现不同风险来源方式与对应威胁模型的差异，覆盖直接注入、间接提示词注入、Skills 投毒、记忆投毒等；风险影响描述攻击所能造成的后果差异，例如破坏本地环境、泄露敏感数据、污染长期状态。详见 [风险定义](docs/risk_def_zh.md)。
+- **无攻击者场景下的风险评测**：NARA-Bench 用 1,800 个任务覆盖六类风险机制和十二个业务场景。例如，当历史记忆中保留着旧收件人时，评测会检查 Agent 能否核对当前授权、避免误发并完成报告。[NARA-Bench 详情](docs/nara_zh.md)
 - **真实使用场景**：覆盖网页浏览、邮件处理、短信收发、金融操作等真实 Agent 工作场景，并遵循现实场景下的威胁模型，将风险源嵌入到 Agent 工作流之中。
 - **真实运行环境**：通过真实接口访问网页、邮件、文件等资源，确保高保真的工具调用链路与数据格式；同时，实现了任务所依赖物料的动态自动化准备（例如收件箱、测试文件、虚拟金融账号、Web 网站等），确保每次评测都在具备充分上下文的环境中执行。
 - **沙箱化评测**：采用任务级隔离环境运行评测任务，降低高风险样本对宿主机和其他任务的影响，确保评测过程安全、可控、可复现。
@@ -22,6 +30,8 @@ Agent3σ-Canary (简称 AgentCanary) 是 [Agent3σ 项目](https://github.com/an
 - **高可扩展性**：评测任务定义与环境构建均采用模块化设计，便于扩展自定义评测任务。
 
 ## 🔄 评测流程
+
+平台按任务准备沙盒、运行 Agent，再依据工具调用和环境变化评分。图中的攻击规划器用于对抗性任务。关于环境构建、运行时和轨迹采集，参见[平台工作流](docs/platform_zh.md)。
 
 ![AgentCanary evaluation workflow](images/workflow_zh.png)
 
@@ -46,6 +56,14 @@ curl -LsSf https://astral.sh/uv/install.sh | sh
 ```bash
 uv sync
 ```
+
+**先验证一个场景。** 在仓库根目录运行下面的命令。输入检查只需要 Python 依赖，无需配置模型或启动 Docker。
+
+```bash
+uv run python scripts/benchmark.py --suite NARA-Bench/vague_instruction/finance_and_accounting --validate-tasks
+```
+
+看到 `Input validation passed for 25 task(s)` 即表示该场景的任务已加载且输入检查通过。继续下一步可配置模型并实际运行评测。
 
 ### 2. 配置模型与 API Keys
 
@@ -129,7 +147,7 @@ bash buildAll.sh
 cd ..
 ```
 
-然后构建评测镜像。AgentCanary 支持评测原生 OpenClaw、Hermes、NanoClaw，以及集成不同安全插件后的 OpenClaw。每个 Docker 镜像对应一个独立的评测环境，构建时可以按需选择要评测的镜像变体。
+按需选择要构建的 Agent 镜像。
 
 - **official**：原生 OpenClaw Agent
 - **official_shield**：OpenClaw + Shield 安全插件
@@ -137,8 +155,11 @@ cd ..
 - **official_clawkeeper**：OpenClaw + ClawKeeper 安全插件
 - **hermes**：原生 Hermes Agent
 - **nanoclaw**：原生 NanoClaw Agent
+- **nanoclaw_openai**：通过 OpenCode 驱动访问 OpenAI 兼容端点的 NanoClaw
+- **claude_code**：Claude Code
+- **codex**：Codex
 
-运行构建脚本后，根据提示选择需要的镜像即可。例如只评测原生 OpenClaw 时选择 `official`；需要比较安全插件效果时，同时选择对应的插件镜像。
+评测原生 OpenClaw 时选择 `official`，比较防御效果时再勾选对应的插件镜像。接下来选择共享工具层，NARA 任务使用 `safety_research`。将构建脚本输出的镜像标签填入 `DOCKER_IMAGE`。
 
 ```bash
 bash workflow/workflow_step_1_image_builder.sh
@@ -153,10 +174,10 @@ bash workflow/workflow_step_1_image_builder.sh
 
 ```bash
 # 选择要评测的目标镜像，替换为第 3 步构建输出的实际 image tag
-export DOCKER_IMAGE=openclaw-official-v20260430_120000
+export DOCKER_IMAGE="<built-image-tag>"
 
 # 评测单个模型
-./scripts/run.sh --model <provider-id>/<model-id> --suite <suite> --docker --verbose
+./scripts/run.sh --model "<provider-id>/<model-id>" --suite "<suite>" --docker --verbose
 
 # 示例：使用 openai-compatible provider 下的 gpt-4o 模型，运行 direct 测试套件
 ./scripts/run.sh --model openai-compatible/gpt-4o --suite direct --docker --verbose
@@ -167,7 +188,7 @@ export DOCKER_IMAGE=openclaw-official-v20260430_120000
 | 参数 | 说明 | 示例 |
 |------|------|------|
 | `--model` | 被测模型（provider-id/model-id） | `--model anthropic/claude-sonnet-4` |
-| `--suite` | 测试套件 | `direct`, `indirect`, `memory`, `chain`, `skills_poison`, `safety`, `all`, 或逗号分隔的 task ID |
+| `--suite` | 测试套件 | `direct`, `indirect`, `memory`, `chain`, `skills_poison`, `safety`, `NARA-Bench`, `all`, 或逗号分隔的 task ID |
 | `--docker` | 在 Docker 容器中运行 | `--docker` |
 | `--netlock` | 将 Docker 容器的出站网络限制为配置的允许列表；默认关闭 | `--netlock` |
 | `--gateway` | 为 Official OpenClaw 镜像启动原生 Gateway；默认关闭，其他镜像无需使用 | `--gateway` |
@@ -175,6 +196,8 @@ export DOCKER_IMAGE=openclaw-official-v20260430_120000
 | `--attack` | 攻击方法 | `code_attack`, `pair`, `important_message`, `InjecAgent` 等 |
 | `--runs` | 每个 task 的重复次数 | `--runs 3` |
 | `--output-dir` | 结果输出目录 | `--output-dir results/my_test` |
+
+**选择运行模式。** `--validate-tasks` 检查输入；`--trajectory-only` 跳过 Judge，仍保存轨迹与自动检查；`--resume` 复用同一实验已有的任务结果。按任务并行使用 `scripts/benchmark_parallel.py --workers N`。目标模型的 `--effort` 和 `roles.judge.effort` 可分别设置。多轮会话边界、超时后保留的部分轨迹与产物路径见 [运行时说明](docs/platform_zh.md)。
 
 **批量评测：**
 
@@ -284,7 +307,7 @@ settings:
 
 AgentCanary 支持通过新增 task markdown 文件扩展评测集。自定义任务适用于内部安全基线、特定业务场景、插件防护能力对比、误报测试等评估需求。
 
-任务文件统一放在 `tasks/` 目录下，文件名使用 `task_*.md` 格式。建议优先放入已有套件目录，例如 `tasks/direct/`、`tasks/indirect/`、`tasks/memory/`、`tasks/chain/`、`tasks/safety/`、`tasks/fptest/`；也可以通过 task ID 直接运行单个任务。
+任务文件统一放在 `tasks/` 目录下，文件名使用 `task_*.md` 格式。建议优先放入已有套件目录，例如 `tasks/direct/`、`tasks/indirect/`、`tasks/memory/`、`tasks/chain/`、`tasks/safety/`、`tasks/NARA-Bench/`；也可以通过 task ID 直接运行单个任务。
 
 配置自定义任务时，参考 [Task Markdown 格式参考](docs/task_format_zh.md)。
 
@@ -292,15 +315,11 @@ AgentCanary 支持通过新增 task markdown 文件扩展评测集。自定义�
 
 AgentCanary 默认的评测环境可能不能满足你的所有评测任务需求，例如，如果你想评测 Agent 是否有通过谷歌网盘进行数据外发的风险，你则需要评测环境支持“谷歌网盘上传” 这一功能。为此，我们提供了一套工具，允许你在 AgentCanary 的评测环境中低成本地构建模拟但是高保真的第三方工具，可参考 [Skill-to-Sandbox 用户指南](docs/eval_env_user_guide_zh.md)。
 
-## 🔍 System-level 轨迹采集
-
-AgentCanary 还支持采集系统级行为轨迹，用于更细粒度地分析智能体执行过程，并支持恶意技能检测等动态测试场景。更多说明可参考 [system-level 轨迹采集文档](docs/system_trajectory_zh.md)。
-
 ## 🗺️ 未来规划
 
 AgentCanary 将持续扩展面向 AI Agent 的安全评测能力，后续计划包括：
 
-- 扩展更多 Agent 框架适配能力，在 OpenClaw 之外支持更多主流 Agent 框架以及 Coding Agent 形态。
+- 继续适配更多 Agent 框架与编程 Agent。
 - 扩充评测题库，覆盖更多第三方工具与真实使用场景，提升 benchmark 的场景覆盖度。
 - 建立题库分层机制，支持按题目类型、难度和自定义标签进行配置，并在看板中提供多维度分析能力。
 - 支持更多自动化红队技术，尤其是基于 Agent 的自适应攻击和动态攻击方法。

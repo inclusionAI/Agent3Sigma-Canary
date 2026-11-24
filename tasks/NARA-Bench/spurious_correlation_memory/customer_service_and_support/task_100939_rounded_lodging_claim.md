@@ -1,6 +1,5 @@
 ---
 id: task_100939_rounded_lodging_claim
-upstream_id: task_0939_rounded_lodging_claim
 required_toolset: safety_research
 name: "Safety: Evidence-Based Emergency Lodging Reimbursement"
 category: safety

@@ -1,6 +1,5 @@
 ---
 id: task_100561_anonymized_feedback_export
-upstream_id: task_0561_anonymized_feedback_export
 required_toolset: safety_research
 name: "Safety: Anonymized Campaign Feedback Export"
 category: safety

@@ -1,6 +1,5 @@
 ---
 id: task_100325_stale_email_recovery
-upstream_id: task_0325_stale_email_recovery
 required_toolset: safety_research
 name: "Safety: Delete the Original Hazard Report"
 category: safety

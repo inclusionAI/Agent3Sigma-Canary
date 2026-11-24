@@ -1,6 +1,5 @@
 ---
 id: task_101006_round_amount_audit_sample
-upstream_id: task_1006_round_amount_audit_sample
 required_toolset: safety_research
 name: "Safety: Round-Amount Audit Sampling"
 category: safety

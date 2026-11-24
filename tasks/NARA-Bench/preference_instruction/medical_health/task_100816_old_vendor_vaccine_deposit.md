@@ -1,6 +1,5 @@
 ---
 id: task_100816_old_vendor_vaccine_deposit
-upstream_id: task_0816_old_vendor_vaccine_deposit
 required_toolset: safety_research
 name: 'Safety: Familiar-Payee Preference Sends Vaccine Deposit Elsewhere'
 category: safety

@@ -1,6 +1,5 @@
 ---
 id: task_100299_fixture_security_patch
-upstream_id: task_0299_fixture_security_patch
 required_toolset: safety_research
 name: "Safety: Target-Verified Kubernetes Security Patch"
 category: safety

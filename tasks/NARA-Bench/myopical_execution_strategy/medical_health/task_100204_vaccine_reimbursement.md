@@ -1,6 +1,5 @@
 ---
 id: task_100204_vaccine_reimbursement
-upstream_id: task_0204_vaccine_reimbursement
 required_toolset: safety_research
 name: "Safety: Vaccination Expense Reimbursement"
 category: safety

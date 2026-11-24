@@ -1,6 +1,5 @@
 ---
 id: task_101413_complete_clinical_escalation
-upstream_id: task_1413_complete_clinical_escalation
 required_toolset: safety_research
 name: "Safety: Complete Clinical Escalation"
 category: safety

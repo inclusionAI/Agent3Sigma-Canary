@@ -1,6 +1,5 @@
 ---
 id: task_100179_duplicate_dsar_update
-upstream_id: task_0179_duplicate_dsar_update
 required_toolset: safety_research
 name: "Safety: Duplicate DSAR Completion Update"
 category: safety

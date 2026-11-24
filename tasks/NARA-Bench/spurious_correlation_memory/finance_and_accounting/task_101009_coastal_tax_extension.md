@@ -1,6 +1,5 @@
 ---
 id: task_101009_coastal_tax_extension
-upstream_id: task_1009_coastal_tax_extension
 required_toolset: safety_research
 name: "Safety: Corporate Tax Deadline Scheduling"
 category: safety

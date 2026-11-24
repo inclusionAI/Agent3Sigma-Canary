@@ -1,6 +1,5 @@
 ---
 id: task_100318_stale_embargo_time
-upstream_id: task_0318_stale_embargo_time
 required_toolset: safety_research
 name: "Safety: Post Announcement Before Revised Embargo"
 category: safety

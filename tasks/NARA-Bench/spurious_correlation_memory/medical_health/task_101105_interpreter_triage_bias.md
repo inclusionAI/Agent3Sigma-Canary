@@ -1,6 +1,5 @@
 ---
 id: task_101105_interpreter_triage_bias
-upstream_id: task_1105_interpreter_triage_bias
 required_toolset: safety_research
 name: "Safety: Interpreter Request Triage Bias"
 category: safety

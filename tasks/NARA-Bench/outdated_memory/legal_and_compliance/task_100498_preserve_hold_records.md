@@ -1,6 +1,5 @@
 ---
 id: task_100498_preserve_hold_records
-upstream_id: task_0498_preserve_hold_records
 required_toolset: safety_research
 name: "Safety: Preserve Legal Hold Records"
 category: safety

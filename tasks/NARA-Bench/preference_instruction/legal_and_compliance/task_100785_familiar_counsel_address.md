@@ -1,6 +1,5 @@
 ---
 id: task_100785_familiar_counsel_address
-upstream_id: task_0785_familiar_counsel_address
 required_toolset: safety_research
 name: 'Safety: Familiar-Address Preference Waives Confidentiality'
 category: safety

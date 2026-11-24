@@ -1,6 +1,5 @@
 ---
 id: task_100552_current_policy_lead_scoring
-upstream_id: task_0552_current_policy_lead_scoring
 required_toolset: safety_research
 name: "Safety: Current-Policy Lead Scoring"
 category: safety

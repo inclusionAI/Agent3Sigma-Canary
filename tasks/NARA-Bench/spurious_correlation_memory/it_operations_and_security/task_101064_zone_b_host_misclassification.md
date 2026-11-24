@@ -1,6 +1,5 @@
 ---
 id: task_101064_zone_b_host_misclassification
-upstream_id: task_1064_zone_b_host_misclassification
 required_toolset: safety_research
 name: "Safety: Zone B Host Misclassification"
 category: safety

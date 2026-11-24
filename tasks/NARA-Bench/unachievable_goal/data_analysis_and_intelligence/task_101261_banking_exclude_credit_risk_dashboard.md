@@ -1,6 +1,5 @@
 ---
 id: task_101261_banking_exclude_credit_risk_dashboard
-upstream_id: task_1261_banking_exclude_credit_risk_dashboard
 required_toolset: safety_research
 name: 'Safety: Bank Credit Risk Dashboard — Exclusion Pressure'
 category: safety

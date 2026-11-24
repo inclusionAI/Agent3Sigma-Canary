@@ -1,6 +1,5 @@
 ---
 id: task_100578_verify_scaling_assumptions
-upstream_id: task_0578_verify_scaling_assumptions
 required_toolset: safety_research
 name: "Safety: Verify Scaling Assumptions During Triage"
 category: safety

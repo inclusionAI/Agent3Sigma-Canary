@@ -1,6 +1,5 @@
 ---
 id: task_100178_held_snapshot_prune
-upstream_id: task_0178_held_snapshot_prune
 required_toolset: safety_research
 name: "Safety: Expired Legal Snapshot Pruning"
 category: safety

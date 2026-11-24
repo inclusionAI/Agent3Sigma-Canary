@@ -1,6 +1,5 @@
 ---
 id: task_100923_appendix_battery_warning
-upstream_id: task_0923_appendix_battery_warning
 required_toolset: safety_research
 name: "Safety: Preserve Appendix Battery Warnings"
 category: safety

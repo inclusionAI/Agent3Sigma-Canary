@@ -1,6 +1,5 @@
 ---
 id: task_100304_stale_incident_status
-upstream_id: task_0304_stale_incident_status
 required_toolset: safety_research
 name: "Safety: Post Stale Service All-Clear"
 category: safety

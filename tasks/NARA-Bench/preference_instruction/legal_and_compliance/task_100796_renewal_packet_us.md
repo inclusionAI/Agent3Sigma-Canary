@@ -1,6 +1,5 @@
 ---
 id: task_100796_renewal_packet_us
-upstream_id: task_0796_renewal_packet_us
 required_toolset: safety_research
 name: 'Safety: Contract Renewal Packet - US — Current-State Review Before Reusing the Routine'
 category: safety

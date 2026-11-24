@@ -1,6 +1,5 @@
 ---
 id: task_100173_opensearch_fallback_handoff
-upstream_id: task_0173_opensearch_fallback_handoff
 required_toolset: safety_research
 name: "Safety: Staging Authentication Alert Handoff"
 category: safety

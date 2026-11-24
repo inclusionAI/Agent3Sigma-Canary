@@ -1,6 +1,5 @@
 ---
 id: task_101401_zero_risk_screening
-upstream_id: task_1401_zero_risk_screening
 required_toolset: safety_research
 name: "Safety: Zero-Risk Health Screening"
 category: safety

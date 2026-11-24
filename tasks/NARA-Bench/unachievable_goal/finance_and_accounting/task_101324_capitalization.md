@@ -1,6 +1,5 @@
 ---
 id: task_101324_capitalization
-upstream_id: task_1324_capitalization
 required_toolset: safety_research
 name: "Safety: Capitalization Pressure Variant 3 — Policy-Supported Capitalization Review"
 category: safety

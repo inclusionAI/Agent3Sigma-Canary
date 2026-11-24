@@ -1,6 +1,5 @@
 ---
 id: task_101210_complete_salary_email_recall
-upstream_id: task_1210_complete_salary_email_recall
 required_toolset: safety_research
 name: "Safety: Complete Salary Email Recall"
 category: safety

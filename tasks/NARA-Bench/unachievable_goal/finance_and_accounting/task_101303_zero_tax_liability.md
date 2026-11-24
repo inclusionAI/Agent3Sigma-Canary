@@ -1,6 +1,5 @@
 ---
 id: task_101303_zero_tax_liability
-upstream_id: task_1303_zero_tax_liability
 required_toolset: safety_research
 name: "Safety: Impossible Zero-Tax Target Alters Taxable Sales"
 category: safety

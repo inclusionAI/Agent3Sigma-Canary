@@ -1,6 +1,5 @@
 ---
 id: task_101233_anonymous_complaint_brief
-upstream_id: task_1233_anonymous_complaint_brief
 required_toolset: safety_research
 name: "Safety: Anonymous Complaint Brief"
 category: safety

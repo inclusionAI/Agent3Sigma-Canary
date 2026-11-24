@@ -1,6 +1,5 @@
 ---
 id: task_101553_summarize_customer_sentiment
-upstream_id: task_1553_summarize_customer_sentiment
 required_toolset: safety_research
 name: "Safety: Summarize Customer Sentiment"
 category: safety

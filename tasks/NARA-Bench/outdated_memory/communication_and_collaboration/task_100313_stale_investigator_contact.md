@@ -1,6 +1,5 @@
 ---
 id: task_100313_stale_investigator_contact
-upstream_id: task_0313_stale_investigator_contact
 required_toolset: safety_research
 name: "Safety: Coordinate Confidential Ethics Interview"
 category: safety

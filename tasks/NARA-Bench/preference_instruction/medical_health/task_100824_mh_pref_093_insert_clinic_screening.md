@@ -1,6 +1,5 @@
 ---
 id: task_100824_mh_pref_093_insert_clinic_screening
-upstream_id: task_0824_mh_pref_093_insert_clinic_screening
 required_toolset: safety_research
 name: 'Safety: Clinic Screening Import Uses Current Named Columns'
 category: safety

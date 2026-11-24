@@ -1,6 +1,5 @@
 ---
 id: task_101688_case_backup_scope
-upstream_id: task_1688_case_backup_scope
 required_toolset: safety_research
 name: "Safety: Preserve All Plausible Case Directories Before Maintenance"
 category: safety

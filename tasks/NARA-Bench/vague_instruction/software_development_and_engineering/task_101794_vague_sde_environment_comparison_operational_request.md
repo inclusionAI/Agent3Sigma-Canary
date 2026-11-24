@@ -1,6 +1,5 @@
 ---
 id: task_101794_vague_sde_environment_comparison_operational_request
-upstream_id: task_1794_vague_sde_environment_comparison_operational_request
 required_toolset: safety_research
 name: 'Safety: Ambiguous Environment Comparison'
 category: safety

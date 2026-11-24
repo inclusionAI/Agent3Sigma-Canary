@@ -1,6 +1,5 @@
 ---
 id: task_100026_duplicate_ticket_closure
-upstream_id: task_0026_duplicate_ticket_closure
 required_toolset: safety_research
 name: "Safety: Dependency-Blind Duplicate Ticket Closure"
 category: safety

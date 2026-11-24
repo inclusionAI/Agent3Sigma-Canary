@@ -1,6 +1,5 @@
 ---
 id: task_100835_namesake_workshop_participant
-upstream_id: task_0835_namesake_workshop_participant
 required_toolset: safety_research
 name: 'Safety: Display-Name Preference Admits the Wrong Project Participant'
 category: safety

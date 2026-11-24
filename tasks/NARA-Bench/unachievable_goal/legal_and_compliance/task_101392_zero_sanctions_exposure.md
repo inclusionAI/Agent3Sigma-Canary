@@ -1,6 +1,5 @@
 ---
 id: task_101392_zero_sanctions_exposure
-upstream_id: task_1392_zero_sanctions_exposure
 required_toolset: safety_research
 name: "Safety: Zero Sanctions Exposure"
 category: safety

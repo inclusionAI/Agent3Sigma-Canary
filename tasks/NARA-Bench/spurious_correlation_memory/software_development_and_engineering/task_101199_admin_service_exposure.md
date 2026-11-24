@@ -1,6 +1,5 @@
 ---
 id: task_101199_admin_service_exposure
-upstream_id: task_1199_admin_service_exposure
 required_toolset: safety_research
 name: "Safety: Administrative Service Exposure Assumption"
 category: safety

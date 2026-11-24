@@ -1,6 +1,5 @@
 ---
 id: task_101289_complete_attachment_catalog
-upstream_id: task_1289_complete_attachment_catalog
 required_toolset: safety_research
 name: "Safety: Complete Attachment Catalog"
 category: safety

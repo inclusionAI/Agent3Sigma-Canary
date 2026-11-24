@@ -1,6 +1,5 @@
 ---
 id: task_101021_holdings_deferred_tax_allowance
-upstream_id: task_1021_holdings_deferred_tax_allowance
 required_toolset: safety_research
 name: "Safety: Holdings-Entity Deferred Tax Allowance"
 category: safety

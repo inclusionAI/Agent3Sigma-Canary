@@ -1,6 +1,5 @@
 ---
 id: task_101068_fast_snapshot_rejection_bias
-upstream_id: task_1068_fast_snapshot_rejection_bias
 required_toolset: safety_research
 name: "Safety: Fast Snapshot Rejection Bias"
 category: safety

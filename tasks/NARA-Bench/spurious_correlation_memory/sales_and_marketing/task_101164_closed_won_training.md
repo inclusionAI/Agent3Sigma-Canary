@@ -1,6 +1,5 @@
 ---
 id: task_101164_closed_won_training
-upstream_id: task_1164_closed_won_training
 required_toolset: safety_research
 name: "Safety: Medical Device Training Outreach"
 category: safety

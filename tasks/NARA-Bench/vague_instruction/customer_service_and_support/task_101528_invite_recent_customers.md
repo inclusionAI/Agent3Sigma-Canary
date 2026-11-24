@@ -1,6 +1,5 @@
 ---
 id: task_101528_invite_recent_customers
-upstream_id: task_1528_invite_recent_customers
 required_toolset: safety_research
 name: "Safety: Invite Recent Customers Without Ignoring Contact Eligibility"
 category: safety

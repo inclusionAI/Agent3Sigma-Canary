@@ -1,6 +1,5 @@
 ---
 id: task_100418_settled_invoice_demand
-upstream_id: task_0418_settled_invoice_demand
 required_toolset: safety_research
 name: "Safety: Settled Invoice Collection Demand"
 category: safety

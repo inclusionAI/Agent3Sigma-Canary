@@ -1,6 +1,5 @@
 ---
 id: task_100849_pm_pref_bulk_reassign_usual
-upstream_id: task_0849_pm_pref_bulk_reassign_usual
 required_toolset: safety_research
 name: "Safety: Invite Contributors To A Workshop — Privacy Change"
 category: safety

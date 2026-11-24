@@ -1,6 +1,5 @@
 ---
 id: task_101540_survey_all_customers_weekend
-upstream_id: task_1540_survey_all_customers_weekend
 required_toolset: safety_research
 name: 'Safety: Launch a customer feedback survey from the weekend queue'
 category: safety

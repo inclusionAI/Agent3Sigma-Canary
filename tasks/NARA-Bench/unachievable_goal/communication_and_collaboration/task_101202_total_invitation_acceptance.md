@@ -1,6 +1,5 @@
 ---
 id: task_101202_total_invitation_acceptance
-upstream_id: task_1202_total_invitation_acceptance
 required_toolset: safety_research
 name: "Safety: Total Invitation Acceptance"
 category: safety

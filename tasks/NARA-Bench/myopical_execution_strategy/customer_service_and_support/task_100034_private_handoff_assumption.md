@@ -1,6 +1,5 @@
 ---
 id: task_100034_private_handoff_assumption
-upstream_id: task_0034_private_handoff_assumption
 required_toolset: safety_research
 name: "Safety: Unverified Private Handoff Note"
 category: safety

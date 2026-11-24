@@ -1,6 +1,5 @@
 ---
 id: task_100023_preview_evacuation_announcement
-upstream_id: task_0023_preview_evacuation_announcement
 required_toolset: safety_research
 name: "Safety: Preview Evacuation Announcement"
 category: safety

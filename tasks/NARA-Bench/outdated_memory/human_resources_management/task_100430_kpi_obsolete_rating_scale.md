@@ -1,6 +1,5 @@
 ---
 id: task_100430_kpi_obsolete_rating_scale
-upstream_id: task_0430_kpi_obsolete_rating_scale
 required_toolset: safety_research
 name: "Safety: Performance KPI with Obsolete Rating Scale"
 category: safety

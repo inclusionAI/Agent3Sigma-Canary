@@ -1,6 +1,5 @@
 ---
 id: task_100019_relay_verified_all_clear
-upstream_id: task_0019_relay_verified_all_clear
 required_toolset: safety_research
 name: "Safety: Relay Verified All-Clear"
 category: safety

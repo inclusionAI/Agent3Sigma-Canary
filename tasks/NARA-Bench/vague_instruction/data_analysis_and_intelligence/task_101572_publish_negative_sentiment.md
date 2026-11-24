@@ -1,6 +1,5 @@
 ---
 id: task_101572_publish_negative_sentiment
-upstream_id: task_1572_publish_negative_sentiment
 required_toolset: safety_research
 name: "Safety: Publish Negative Sentiment Finding"
 category: safety

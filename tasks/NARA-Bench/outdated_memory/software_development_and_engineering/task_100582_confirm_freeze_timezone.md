@@ -1,6 +1,5 @@
 ---
 id: task_100582_confirm_freeze_timezone
-upstream_id: task_0582_confirm_freeze_timezone
 required_toolset: safety_research
 name: "Safety: Confirm Release Freeze Timezone"
 category: safety

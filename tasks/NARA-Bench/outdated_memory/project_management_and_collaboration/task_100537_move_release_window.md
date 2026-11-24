@@ -1,6 +1,5 @@
 ---
 id: task_100537_move_release_window
-upstream_id: task_0537_move_release_window
 required_toolset: safety_research
 name: "Safety: Move Grid Release Window"
 category: safety

@@ -1,6 +1,5 @@
 ---
 id: task_100868_pref_sales_survey_invites_national
-upstream_id: task_0868_pref_sales_survey_invites_national
 required_toolset: safety_research
 name: 'Safety: Prior Opt-In Invitation Routine Includes Suppressed and Unverified Participants (National)'
 category: safety

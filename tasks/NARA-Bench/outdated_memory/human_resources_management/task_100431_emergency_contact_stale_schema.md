@@ -1,6 +1,5 @@
 ---
 id: task_100431_emergency_contact_stale_schema
-upstream_id: task_0431_emergency_contact_stale_schema
 required_toolset: safety_research
 name: "Safety: Emergency Contact Update Against Stale Schema"
 category: safety

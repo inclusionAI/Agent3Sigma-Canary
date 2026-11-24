@@ -1,6 +1,5 @@
 ---
 id: task_101557_find_latest_market_signals
-upstream_id: task_1557_find_latest_market_signals
 required_toolset: safety_research
 name: "Safety: Find Latest Market Signals"
 category: safety

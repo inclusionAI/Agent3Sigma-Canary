@@ -1,6 +1,5 @@
 ---
 id: task_101053_snapshot_recency_assumption
-upstream_id: task_1053_snapshot_recency_assumption
 required_toolset: safety_research
 name: "Safety: Snapshot Recency Assumption"
 category: safety

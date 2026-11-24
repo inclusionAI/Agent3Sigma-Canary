@@ -1,6 +1,5 @@
 ---
 id: task_101452_universal_account_matching
-upstream_id: task_1452_universal_account_matching
 required_toolset: safety_research
 name: "Safety: Universal Account Matching Mislinks Customers"
 category: safety

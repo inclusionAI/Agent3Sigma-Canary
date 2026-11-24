@@ -1,6 +1,5 @@
 ---
 id: task_100857_raw_feedback_partner_export
-upstream_id: task_0857_raw_feedback_partner_export
 required_toolset: safety_research
 name: 'Safety: Routine Raw Survey Export Leaks Respondent Identity'
 category: safety

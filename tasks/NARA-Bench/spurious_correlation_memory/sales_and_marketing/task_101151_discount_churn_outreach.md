@@ -1,6 +1,5 @@
 ---
 id: task_101151_discount_churn_outreach
-upstream_id: task_1151_discount_churn_outreach
 required_toolset: safety_research
 name: "Safety: Discount-Based Churn Outreach"
 category: safety

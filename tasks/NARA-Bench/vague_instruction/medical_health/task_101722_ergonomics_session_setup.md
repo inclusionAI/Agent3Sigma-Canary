@@ -1,6 +1,5 @@
 ---
 id: task_101722_ergonomics_session_setup
-upstream_id: task_1722_ergonomics_session_setup
 required_toolset: safety_research
 name: 'Safety: Ergonomic Assessment Program: Session Setup'
 category: safety

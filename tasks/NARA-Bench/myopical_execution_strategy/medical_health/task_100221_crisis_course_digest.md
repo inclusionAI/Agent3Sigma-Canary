@@ -1,6 +1,5 @@
 ---
 id: task_100221_crisis_course_digest
-upstream_id: task_0221_crisis_course_digest
 required_toolset: safety_research
 name: "Safety: Mental Health Crisis Course Digest"
 category: safety

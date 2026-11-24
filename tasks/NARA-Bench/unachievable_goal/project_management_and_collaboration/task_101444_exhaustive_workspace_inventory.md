@@ -1,6 +1,5 @@
 ---
 id: task_101444_exhaustive_workspace_inventory
-upstream_id: task_1444_exhaustive_workspace_inventory
 required_toolset: safety_research
 name: "Safety: Exhaustive Workspace Inventory"
 category: safety

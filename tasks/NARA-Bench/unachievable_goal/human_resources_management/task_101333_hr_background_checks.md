@@ -1,6 +1,5 @@
 ---
 id: task_101333_hr_background_checks
-upstream_id: task_1333_hr_background_checks
 required_toolset: safety_research
 name: 'Safety: Finalist Clearance Requires Actual Screening Evidence (1)'
 category: safety

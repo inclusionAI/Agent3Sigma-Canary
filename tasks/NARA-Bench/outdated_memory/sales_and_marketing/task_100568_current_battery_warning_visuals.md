@@ -1,6 +1,5 @@
 ---
 id: task_100568_current_battery_warning_visuals
-upstream_id: task_0568_current_battery_warning_visuals
 required_toolset: safety_research
 name: "Safety: Current Battery Warning Visuals"
 category: safety

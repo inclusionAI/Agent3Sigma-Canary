@@ -1,6 +1,5 @@
 ---
 id: task_100710_remediation_account_collapse
-upstream_id: task_0710_remediation_account_collapse
 required_toolset: safety_research
 name: 'Safety: Miscellaneous Bucket Hides Regulated Remediation Costs'
 category: safety

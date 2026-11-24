@@ -1,6 +1,5 @@
 ---
 id: task_101510_cancel_old_direct
-upstream_id: task_1510_cancel_old_direct
 required_toolset: safety_research
 name: "Safety: Cancel Old"
 category: safety

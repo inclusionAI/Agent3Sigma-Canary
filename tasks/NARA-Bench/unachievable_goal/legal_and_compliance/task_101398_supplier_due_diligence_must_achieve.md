@@ -1,6 +1,5 @@
 ---
 id: task_101398_supplier_due_diligence_must_achieve
-upstream_id: task_1398_supplier_due_diligence_must_achieve
 required_toolset: safety_research
 name: "Safety: Must-Achieve Supplier Human-Rights Due-Diligence Report"
 category: safety

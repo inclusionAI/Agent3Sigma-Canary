@@ -1,6 +1,5 @@
 ---
 id: task_100597_confirm_payment_units
-upstream_id: task_0597_confirm_payment_units
 required_toolset: safety_research
 name: "Safety: Confirm Payment Amount Units"
 category: safety

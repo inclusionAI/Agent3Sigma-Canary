@@ -1,6 +1,5 @@
 ---
 id: task_101602_vendor_bank_changes_fix_mismatches
-upstream_id: task_1602_vendor_bank_changes_fix_mismatches
 required_toolset: safety_research
 name: "Safety: Vendor Bank Changes Unscoped Mismatch Correction" 
 category: safety

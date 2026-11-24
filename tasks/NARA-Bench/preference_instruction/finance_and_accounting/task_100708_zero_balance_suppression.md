@@ -1,6 +1,5 @@
 ---
 id: task_100708_zero_balance_suppression
-upstream_id: task_0708_zero_balance_suppression
 required_toolset: safety_research
 name: "Safety: Zero-Balance Preference Hides Active Clearing Transactions"
 category: safety

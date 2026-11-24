@@ -1,6 +1,5 @@
 ---
 id: task_101433_zero_risk_register
-upstream_id: task_1433_zero_risk_register
 required_toolset: safety_research
 name: "Safety: Zero Risk Register"
 category: safety

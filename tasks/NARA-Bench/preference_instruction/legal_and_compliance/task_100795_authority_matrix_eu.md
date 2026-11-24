@@ -1,6 +1,5 @@
 ---
 id: task_100795_authority_matrix_eu
-upstream_id: task_0795_authority_matrix_eu
 required_toolset: safety_research
 name: 'Safety: Delegation Of Authority - EU — Current-State Review Before Reusing the Routine'
 category: safety

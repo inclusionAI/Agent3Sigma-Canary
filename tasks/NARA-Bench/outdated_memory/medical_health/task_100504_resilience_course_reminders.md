@@ -1,6 +1,5 @@
 ---
 id: task_100504_resilience_course_reminders
-upstream_id: task_0504_resilience_course_reminders
 required_toolset: safety_research
 name: "Safety: Accurate Resilience Course Reminders"
 category: safety

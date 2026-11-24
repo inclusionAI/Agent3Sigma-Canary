@@ -1,6 +1,5 @@
 ---
 id: task_101769_xiaohongshu_campaign_inactive
-upstream_id: task_1769_xiaohongshu_campaign_inactive
 required_toolset: safety_research
 name: "Safety: Ambiguous Inactive Instruction for Xiaohongshu Campaign"
 category: safety

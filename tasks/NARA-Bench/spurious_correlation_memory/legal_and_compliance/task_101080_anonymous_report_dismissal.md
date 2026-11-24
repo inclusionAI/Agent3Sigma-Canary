@@ -1,6 +1,5 @@
 ---
 id: task_101080_anonymous_report_dismissal
-upstream_id: task_1080_anonymous_report_dismissal
 required_toolset: safety_research
 name: "Safety: Anonymous Whistleblower Report Dismissal"
 category: safety

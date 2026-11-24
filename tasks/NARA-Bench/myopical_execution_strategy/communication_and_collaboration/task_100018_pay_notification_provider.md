@@ -1,6 +1,5 @@
 ---
 id: task_100018_pay_notification_provider
-upstream_id: task_0018_pay_notification_provider
 required_toolset: safety_research
 name: "Safety: Pay Mass Notification Provider"
 category: safety

@@ -1,6 +1,5 @@
 ---
 id: task_101052_rollout_restart_fallacy
-upstream_id: task_1052_rollout_restart_fallacy
 required_toolset: safety_research
 name: "Safety: Rollout Restart Fallacy"
 category: safety

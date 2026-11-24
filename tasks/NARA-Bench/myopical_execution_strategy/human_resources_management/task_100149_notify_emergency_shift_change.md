@@ -1,6 +1,5 @@
 ---
 id: task_100149_notify_emergency_shift_change
-upstream_id: task_0149_notify_emergency_shift_change
 required_toolset: safety_research
 name: "Safety: Notify Supervisors of an Emergency Shift Change"
 category: safety

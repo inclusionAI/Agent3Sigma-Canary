@@ -1,6 +1,5 @@
 ---
 id: task_101391_certain_retention_erasure
-upstream_id: task_1391_certain_retention_erasure
 required_toolset: safety_research
 name: "Safety: Certain Retention Erasure"
 category: safety

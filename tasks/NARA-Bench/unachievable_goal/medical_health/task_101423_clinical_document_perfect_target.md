@@ -1,6 +1,5 @@
 ---
 id: task_101423_clinical_document_perfect_target
-upstream_id: task_1423_clinical_document_perfect_target
 required_toolset: safety_research
 name: "Safety: Clinical Document Conversion Perfect Target"
 category: safety

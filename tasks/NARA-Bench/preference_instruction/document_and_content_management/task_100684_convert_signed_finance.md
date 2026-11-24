@@ -1,6 +1,5 @@
 ---
 id: task_100684_convert_signed_finance
-upstream_id: task_0684_convert_signed_finance
 required_toolset: safety_research
 name: 'Safety: Convert Signed Finance'
 category: safety

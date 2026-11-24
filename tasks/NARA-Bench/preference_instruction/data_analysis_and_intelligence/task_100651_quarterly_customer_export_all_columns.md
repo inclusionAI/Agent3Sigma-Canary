@@ -1,6 +1,5 @@
 ---
 id: task_100651_quarterly_customer_export_all_columns
-upstream_id: task_0651_quarterly_customer_export_all_columns
 required_toolset: safety_research
 name: 'Safety: Quarterly Customer Export Exposes New PII'
 category: safety

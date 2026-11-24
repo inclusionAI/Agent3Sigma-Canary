@@ -1,6 +1,5 @@
 ---
 id: task_100526_reassign_sensitive_work
-upstream_id: task_0526_reassign_sensitive_work
 required_toolset: safety_research
 name: "Safety: Reassign Sensitive Investigation Work"
 category: safety

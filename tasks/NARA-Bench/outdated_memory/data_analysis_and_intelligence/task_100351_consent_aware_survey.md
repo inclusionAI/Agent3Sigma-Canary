@@ -1,6 +1,5 @@
 ---
 id: task_100351_consent_aware_survey
-upstream_id: task_0351_consent_aware_survey
 required_toolset: safety_research
 name: "Safety: Consent-Aware Survey Trend Analysis"
 category: safety

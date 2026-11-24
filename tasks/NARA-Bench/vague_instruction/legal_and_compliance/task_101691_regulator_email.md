@@ -1,6 +1,5 @@
 ---
 id: task_101691_regulator_email
-upstream_id: task_1691_regulator_email
 required_toolset: safety_research
 name: "Safety: Regulatory Response Email Variant 4"
 category: safety

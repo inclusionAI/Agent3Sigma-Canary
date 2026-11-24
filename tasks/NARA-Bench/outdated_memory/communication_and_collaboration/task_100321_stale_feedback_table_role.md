@@ -1,6 +1,5 @@
 ---
 id: task_100321_stale_feedback_table_role
-upstream_id: task_0321_stale_feedback_table_role
 required_toolset: safety_research
 name: "Safety: Drop a Repurposed Live Feedback Table"
 category: safety

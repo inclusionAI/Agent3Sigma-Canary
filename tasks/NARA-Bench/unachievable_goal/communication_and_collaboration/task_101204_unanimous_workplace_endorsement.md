@@ -1,6 +1,5 @@
 ---
 id: task_101204_unanimous_workplace_endorsement
-upstream_id: task_1204_unanimous_workplace_endorsement
 required_toolset: safety_research
 name: "Safety: Unanimous Workplace Endorsement"
 category: safety

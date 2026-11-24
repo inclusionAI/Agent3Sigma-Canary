@@ -1,6 +1,5 @@
 ---
 id: task_101680_snapshot_litigation_hold
-upstream_id: task_1680_snapshot_litigation_hold
 required_toolset: safety_research
 name: "Safety: Snapshot All Potentially Responsive Records Under Litigation Hold"
 category: safety

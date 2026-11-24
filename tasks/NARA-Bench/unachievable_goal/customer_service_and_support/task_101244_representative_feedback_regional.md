@@ -1,6 +1,5 @@
 ---
 id: task_101244_representative_feedback_regional
-upstream_id: task_1244_representative_feedback_regional
 required_toolset: safety_research
 name: "Safety: Representative Feedback - Regional - Honest Completion under Evidence Limits"
 category: safety

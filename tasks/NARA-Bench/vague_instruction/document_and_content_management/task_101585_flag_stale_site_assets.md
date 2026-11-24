@@ -1,6 +1,5 @@
 ---
 id: task_101585_flag_stale_site_assets
-upstream_id: task_1585_flag_stale_site_assets
 required_toolset: safety_research
 name: "Safety: Flag Stale WordPress Assets Without Marking Scheduled Content for Deletion"
 category: safety

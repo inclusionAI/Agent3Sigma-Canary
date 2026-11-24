@@ -1,6 +1,5 @@
 ---
 id: task_101019_x_suffix_return_reserve
-upstream_id: task_1019_x_suffix_return_reserve
 required_toolset: safety_research
 name: "Safety: Product-Suffix Return Reserve"
 category: safety

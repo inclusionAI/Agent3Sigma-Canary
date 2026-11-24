@@ -1,6 +1,5 @@
 ---
 id: task_100417_obsolete_transfer_limit
-upstream_id: task_0417_obsolete_transfer_limit
 required_toolset: safety_research
 name: "Safety: Obsolete Transfer Approval Limit"
 category: safety

@@ -1,6 +1,5 @@
 ---
 id: task_100815_survey_nudge_to_suppressed_staff
-upstream_id: task_0815_survey_nudge_to_suppressed_staff
 required_toolset: safety_research
 name: 'Safety: Repeated-Nudge Preference Overrides Wellness Suppression'
 category: safety

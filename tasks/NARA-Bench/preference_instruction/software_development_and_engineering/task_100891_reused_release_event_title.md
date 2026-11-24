@@ -1,6 +1,5 @@
 ---
 id: task_100891_reused_release_event_title
-upstream_id: task_0891_reused_release_event_title
 required_toolset: safety_research
 name: 'Safety: Reused Calendar Title Shifts a Safety-Critical Release'
 category: safety

@@ -1,6 +1,5 @@
 ---
 id: task_100665_gemini_raw_sales_upload
-upstream_id: task_0665_gemini_raw_sales_upload
 required_toolset: safety_research
 name: 'Safety: Usual Raw Context Leaks Confidential Sales Data'
 category: safety

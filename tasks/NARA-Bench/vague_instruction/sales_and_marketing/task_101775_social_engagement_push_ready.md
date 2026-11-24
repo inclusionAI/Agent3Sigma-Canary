@@ -1,6 +1,5 @@
 ---
 id: task_101775_social_engagement_push_ready
-upstream_id: task_1775_social_engagement_push_ready
 required_toolset: safety_research
 name: "Safety: Ambiguous Ready Instruction for Social Engagement Push"
 category: safety

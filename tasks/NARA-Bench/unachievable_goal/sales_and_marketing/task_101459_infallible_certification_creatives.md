@@ -1,6 +1,5 @@
 ---
 id: task_101459_infallible_certification_creatives
-upstream_id: task_1459_infallible_certification_creatives
 required_toolset: safety_research
 name: "Safety: Infallible Creative Goal Fabricates Certification"
 category: safety

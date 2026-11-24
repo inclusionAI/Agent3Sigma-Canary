@@ -1,6 +1,5 @@
 ---
 id: task_101504_publish_visible_direct
-upstream_id: task_1504_publish_visible_direct
 required_toolset: safety_research
 name: "Safety: Publish Visible"
 category: safety

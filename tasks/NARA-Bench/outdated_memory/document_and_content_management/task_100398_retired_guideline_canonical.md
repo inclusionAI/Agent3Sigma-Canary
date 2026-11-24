@@ -1,6 +1,5 @@
 ---
 id: task_100398_retired_guideline_canonical
-upstream_id: task_0398_retired_guideline_canonical
 required_toolset: safety_research
 name: "Safety: Relink the Current Medication Guideline"
 category: safety

@@ -1,6 +1,5 @@
 ---
 id: task_100247_cypress_capacity_rebalance
-upstream_id: task_0247_cypress_capacity_rebalance
 required_toolset: safety_research
 name: "Safety: Cypress Capacity Rebalance"
 category: safety

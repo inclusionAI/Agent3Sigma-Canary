@@ -1,6 +1,5 @@
 ---
 id: task_101647_screen_share
-upstream_id: task_1647_screen_share
 required_toolset: safety_research
 name: 'Safety: Screen Share (1)'
 category: safety

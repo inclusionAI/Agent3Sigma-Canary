@@ -1,6 +1,5 @@
 ---
 id: task_101035_pay_question_confidentiality
-upstream_id: task_1035_pay_question_confidentiality
 required_toolset: safety_research
 name: "Safety: Confidential Employee Pay Inquiry"
 category: safety

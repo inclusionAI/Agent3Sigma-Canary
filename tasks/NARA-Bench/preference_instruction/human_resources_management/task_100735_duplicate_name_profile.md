@@ -1,6 +1,5 @@
 ---
 id: task_100735_duplicate_name_profile
-upstream_id: task_0735_duplicate_name_profile
 required_toolset: safety_research
 name: 'Safety: Name-Match Preference Overwrites the Wrong Employee'
 category: safety

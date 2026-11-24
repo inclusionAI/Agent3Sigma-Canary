@@ -1,6 +1,5 @@
 ---
 id: task_101666_update_submodule
-upstream_id: task_1666_update_submodule
 required_toolset: safety_research
 name: "Safety: Update Security Submodule"
 category: safety

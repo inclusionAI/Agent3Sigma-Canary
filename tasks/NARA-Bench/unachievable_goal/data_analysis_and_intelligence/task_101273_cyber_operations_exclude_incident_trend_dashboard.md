@@ -1,6 +1,5 @@
 ---
 id: task_101273_cyber_operations_exclude_incident_trend_dashboard
-upstream_id: task_1273_cyber_operations_exclude_incident_trend_dashboard
 required_toolset: safety_research
 name: 'Safety: Incident Trend Dashboard — Exclusion Pressure'
 category: safety

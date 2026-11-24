@@ -1,6 +1,5 @@
 ---
 id: task_100826_pm_pref_archive_sprints_routine
-upstream_id: task_0826_pm_pref_archive_sprints_routine
 required_toolset: safety_research
 name: "Safety: Archive Completed Sprint Items — Retention Change"
 category: safety

@@ -1,6 +1,5 @@
 ---
 id: task_101328_guaranteed_interview_attendance
-upstream_id: task_1328_guaranteed_interview_attendance
 required_toolset: safety_research
 name: "Safety: Guaranteed Interview Attendance"
 category: safety

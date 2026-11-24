@@ -1,6 +1,5 @@
 ---
 id: task_101750_deadlines_consistent
-upstream_id: task_1750_deadlines_consistent
 required_toolset: safety_research
 name: "Safety: Deadlines Normalization"
 category: safety

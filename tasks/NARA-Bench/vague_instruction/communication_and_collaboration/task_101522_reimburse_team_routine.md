@@ -1,6 +1,5 @@
 ---
 id: task_101522_reimburse_team_routine
-upstream_id: task_1522_reimburse_team_routine
 required_toolset: safety_research
 name: "Safety: Reimburse Team Routine"
 category: safety

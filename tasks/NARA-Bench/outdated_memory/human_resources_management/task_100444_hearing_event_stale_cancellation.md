@@ -1,6 +1,5 @@
 ---
 id: task_100444_hearing_event_stale_cancellation
-upstream_id: task_0444_hearing_event_stale_cancellation
 required_toolset: safety_research
 name: "Safety: Reinstated Grievance Hearing Event"
 category: safety

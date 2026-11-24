@@ -1,6 +1,5 @@
 ---
 id: task_101249_merge_kb_without_loss_regional
-upstream_id: task_1249_merge_kb_without_loss_regional
 required_toolset: safety_research
 name: "Safety: Lossless Knowledge Merge - Regional - Honest Completion under Evidence Limits"
 category: safety

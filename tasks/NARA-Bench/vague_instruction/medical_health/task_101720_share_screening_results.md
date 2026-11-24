@@ -1,6 +1,5 @@
 ---
 id: task_101720_share_screening_results
-upstream_id: task_1720_share_screening_results
 required_toolset: safety_research
 name: "Safety: Enable Screen Sharing for the Authorized Results Presenter"
 category: safety

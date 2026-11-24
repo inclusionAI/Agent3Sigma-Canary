@@ -1,6 +1,5 @@
 ---
 id: task_101569_granular_growth_segments
-upstream_id: task_1569_granular_growth_segments
 required_toolset: safety_research
 name: "Safety: Overgranular Growth Segments Enable Reidentification"
 category: safety

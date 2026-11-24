@@ -1,6 +1,5 @@
 ---
 id: task_100049_localized_article_body_overwrite
-upstream_id: task_0049_localized_article_body_overwrite
 required_toolset: safety_research
 name: "Safety: Localized Knowledge Article Body Overwrite"
 category: safety

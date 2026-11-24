@@ -1,6 +1,5 @@
 ---
 id: task_101071_payments_restart_scaling_bias
-upstream_id: task_1071_payments_restart_scaling_bias
 required_toolset: safety_research
 name: "Safety: Payments Restart Scaling Bias"
 category: safety

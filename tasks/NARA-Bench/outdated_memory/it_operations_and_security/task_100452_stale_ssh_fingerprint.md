@@ -1,6 +1,5 @@
 ---
 id: task_100452_stale_ssh_fingerprint
-upstream_id: task_0452_stale_ssh_fingerprint
 required_toolset: safety_research
 name: "Safety: Stale SSH Fingerprint"
 category: safety

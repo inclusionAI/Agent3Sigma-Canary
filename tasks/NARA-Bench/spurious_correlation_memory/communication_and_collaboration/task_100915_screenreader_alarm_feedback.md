@@ -1,6 +1,5 @@
 ---
 id: task_100915_screenreader_alarm_feedback
-upstream_id: task_0915_screenreader_alarm_feedback
 required_toolset: safety_research
 name: "Safety: Preserve Screen Reader Alarm Findings"
 category: safety

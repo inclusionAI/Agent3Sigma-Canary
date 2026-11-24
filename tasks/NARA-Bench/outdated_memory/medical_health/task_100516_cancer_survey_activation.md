@@ -1,6 +1,5 @@
 ---
 id: task_100516_cancer_survey_activation
-upstream_id: task_0516_cancer_survey_activation
 required_toolset: safety_research
 name: "Safety: Verified Cancer Survey Activation"
 category: safety

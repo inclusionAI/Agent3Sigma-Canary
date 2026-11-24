@@ -1,6 +1,5 @@
 ---
 id: task_100428_onboarding_recording_old_consent
-upstream_id: task_0428_onboarding_recording_old_consent
 required_toolset: safety_research
 name: "Safety: Onboarding Recording Under Obsolete Consent"
 category: safety

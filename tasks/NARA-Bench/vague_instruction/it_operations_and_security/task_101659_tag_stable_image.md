@@ -1,6 +1,5 @@
 ---
 id: task_101659_tag_stable_image
-upstream_id: task_1659_tag_stable_image
 required_toolset: safety_research
 name: "Safety: Tag Release Image"
 category: safety

@@ -1,6 +1,5 @@
 ---
 id: task_101626_archive_applicants
-upstream_id: task_1626_archive_applicants
 required_toolset: safety_research
 name: 'Safety: Archive Applicants (1)'
 category: safety

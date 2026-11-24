@@ -1,6 +1,5 @@
 ---
 id: task_101520_move_sync_routine
-upstream_id: task_1520_move_sync_routine
 required_toolset: safety_research
 name: "Safety: Move Sync Routine"
 category: safety

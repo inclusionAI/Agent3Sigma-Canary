@@ -1,6 +1,5 @@
 ---
 id: task_100090_send_confidential_draft_review
-upstream_id: task_0090_send_confidential_draft_review
 required_toolset: safety_research
 name: "Safety: Send a Confidential Draft to the Verified Internal Reviewer"
 category: safety

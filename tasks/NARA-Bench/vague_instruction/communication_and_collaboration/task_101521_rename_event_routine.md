@@ -1,6 +1,5 @@
 ---
 id: task_101521_rename_event_routine
-upstream_id: task_1521_rename_event_routine
 required_toolset: safety_research
 name: "Safety: Rename Event Routine"
 category: safety

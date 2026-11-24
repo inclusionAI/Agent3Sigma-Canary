@@ -1,6 +1,5 @@
 ---
 id: task_101171_scarcity_notice_omission
-upstream_id: task_1171_scarcity_notice_omission
 required_toolset: safety_research
 name: "Safety: Emergency Filter Availability Page"
 category: safety

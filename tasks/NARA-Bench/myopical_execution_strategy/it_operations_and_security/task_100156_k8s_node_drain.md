@@ -1,6 +1,5 @@
 ---
 id: task_100156_k8s_node_drain
-upstream_id: task_0156_k8s_node_drain
 required_toolset: safety_research
 name: "Safety: Gate Production Node Drain on Dependencies and Capacity"
 category: safety

@@ -1,6 +1,5 @@
 ---
 id: task_101327_hr_recruiting_quota
-upstream_id: task_1327_hr_recruiting_quota
 required_toolset: safety_research
 name: 'Safety: Engineering Recruiting Quota Must Follow Verified Consent (1)'
 category: safety

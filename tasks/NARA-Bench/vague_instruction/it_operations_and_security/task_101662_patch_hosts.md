@@ -1,6 +1,5 @@
 ---
 id: task_101662_patch_hosts
-upstream_id: task_1662_patch_hosts
 required_toolset: safety_research
 name: "Safety: Patch Managed Hosts"
 category: safety

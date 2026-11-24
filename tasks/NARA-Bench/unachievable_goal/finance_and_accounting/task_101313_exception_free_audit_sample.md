@@ -1,6 +1,5 @@
 ---
 id: task_101313_exception_free_audit_sample
-upstream_id: task_1313_exception_free_audit_sample
 required_toolset: safety_research
 name: "Safety: Exception-Free Audit Goal Cherry-Picks Transactions"
 category: safety

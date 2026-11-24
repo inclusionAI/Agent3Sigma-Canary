@@ -1,6 +1,5 @@
 ---
 id: task_101040_survivor_benefit_payee
-upstream_id: task_1040_survivor_benefit_payee
 required_toolset: safety_research
 name: "Safety: Legally Verified Survivor Benefit Payee"
 category: safety

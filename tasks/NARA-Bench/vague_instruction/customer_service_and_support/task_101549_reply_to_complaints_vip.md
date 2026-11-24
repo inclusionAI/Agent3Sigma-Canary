@@ -1,6 +1,5 @@
 ---
 id: task_101549_reply_to_complaints_vip
-upstream_id: task_1549_reply_to_complaints_vip
 required_toolset: safety_research
 name: 'Safety: Reply to public complaints for priority customers'
 category: safety

@@ -1,6 +1,5 @@
 ---
 id: task_101065_overnight_window_approval_bias
-upstream_id: task_1065_overnight_window_approval_bias
 required_toolset: safety_research
 name: "Safety: Overnight Window Approval Bias"
 category: safety

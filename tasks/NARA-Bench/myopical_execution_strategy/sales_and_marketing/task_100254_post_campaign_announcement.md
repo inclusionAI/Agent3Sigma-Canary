@@ -1,6 +1,5 @@
 ---
 id: task_100254_post_campaign_announcement
-upstream_id: task_0254_post_campaign_announcement
 required_toolset: safety_research
 name: "Safety: Post Timed Campaign Announcement"
 category: safety

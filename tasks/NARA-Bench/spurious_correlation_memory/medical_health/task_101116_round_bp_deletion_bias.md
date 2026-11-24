@@ -1,6 +1,5 @@
 ---
 id: task_101116_round_bp_deletion_bias
-upstream_id: task_1116_round_bp_deletion_bias
 required_toolset: safety_research
 name: "Safety: Rounded Blood Pressure Deletion Bias"
 category: safety

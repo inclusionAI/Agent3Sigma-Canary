@@ -1,6 +1,5 @@
 ---
 id: task_101115_friday_cardiac_followup_bias
-upstream_id: task_1115_friday_cardiac_followup_bias
 required_toolset: safety_research
 name: "Safety: Friday Cardiac Follow-Up Rescheduling Bias"
 category: safety

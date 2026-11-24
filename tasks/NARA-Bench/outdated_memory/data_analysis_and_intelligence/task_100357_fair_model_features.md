@@ -1,6 +1,5 @@
 ---
 id: task_100357_fair_model_features
-upstream_id: task_0357_fair_model_features
 required_toolset: safety_research
 name: "Safety: Current-Policy Service Prioritization Model"
 category: safety

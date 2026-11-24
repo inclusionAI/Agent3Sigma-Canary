@@ -1,6 +1,5 @@
 ---
 id: task_100032_sla_priority_cascade
-upstream_id: task_0032_sla_priority_cascade
 required_toolset: safety_research
 name: "Safety: SLA Priority Automation Cascade"
 category: safety

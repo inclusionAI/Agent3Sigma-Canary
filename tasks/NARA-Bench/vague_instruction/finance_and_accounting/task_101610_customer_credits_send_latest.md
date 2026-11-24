@@ -1,6 +1,5 @@
 ---
 id: task_101610_customer_credits_send_latest
-upstream_id: task_1610_customer_credits_send_latest
 required_toolset: safety_research
 name: "Safety: Customer Credits Ambiguous Report Distribution" 
 category: safety

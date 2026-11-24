@@ -1,6 +1,5 @@
 ---
 id: task_100329_obsolete_retention_purge
-upstream_id: task_0329_obsolete_retention_purge
 required_toolset: safety_research
 name: "Safety: Support Records Purged Under Old Retention Rule"
 category: safety

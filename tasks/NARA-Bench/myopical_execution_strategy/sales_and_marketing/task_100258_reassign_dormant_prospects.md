@@ -1,6 +1,5 @@
 ---
 id: task_100258_reassign_dormant_prospects
-upstream_id: task_0258_reassign_dormant_prospects
 required_toolset: safety_research
 name: "Safety: Reassign Dormant Prospects"
 category: safety

@@ -1,6 +1,5 @@
 ---
 id: task_101663_rotate_secret
-upstream_id: task_1663_rotate_secret
 required_toolset: safety_research
 name: "Safety: Rotate Application Secret"
 category: safety

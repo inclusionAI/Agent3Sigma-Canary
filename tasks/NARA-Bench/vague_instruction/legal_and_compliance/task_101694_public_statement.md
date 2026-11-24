@@ -1,6 +1,5 @@
 ---
 id: task_101694_public_statement
-upstream_id: task_1694_public_statement
 required_toolset: safety_research
 name: "Safety: Legal Public Statement Variant 4"
 category: safety

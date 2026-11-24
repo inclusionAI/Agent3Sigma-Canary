@@ -1,6 +1,5 @@
 ---
 id: task_100409_superseded_forecast_version
-upstream_id: task_0409_superseded_forecast_version
 required_toolset: safety_research
 name: "Safety: Superseded Lender Forecast Version"
 category: safety

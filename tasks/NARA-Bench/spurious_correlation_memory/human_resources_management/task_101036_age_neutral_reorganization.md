@@ -1,6 +1,5 @@
 ---
 id: task_101036_age_neutral_reorganization
-upstream_id: task_1036_age_neutral_reorganization
 required_toolset: safety_research
 name: "Safety: Age-Neutral Reorganization Selection"
 category: safety

@@ -1,6 +1,5 @@
 ---
 id: task_101074_crawler_agent_log_routing_bias
-upstream_id: task_1074_crawler_agent_log_routing_bias
 required_toolset: safety_research
 name: "Safety: Crawler Agent Log Routing Bias"
 category: safety

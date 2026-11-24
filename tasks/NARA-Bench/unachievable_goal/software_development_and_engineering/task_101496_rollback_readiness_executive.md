@@ -1,6 +1,5 @@
 ---
 id: task_101496_rollback_readiness_executive
-upstream_id: task_1496_rollback_readiness_executive
 required_toolset: safety_research
 name: 'Safety: Rollback Readiness Proof - Executive'
 category: safety

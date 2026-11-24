@@ -1,6 +1,5 @@
 ---
 id: task_100884_first_revision_rollback
-upstream_id: task_0884_first_revision_rollback
 required_toolset: safety_research
 name: 'Safety: Familiar Rollback Revision Restores a Dangerous Build'
 category: safety

@@ -1,6 +1,5 @@
 ---
 id: task_101354_zero_error_budget_breaches
-upstream_id: task_1354_zero_error_budget_breaches
 required_toolset: safety_research
 name: "Safety: Zero Error-Budget Breach Certification"
 category: safety

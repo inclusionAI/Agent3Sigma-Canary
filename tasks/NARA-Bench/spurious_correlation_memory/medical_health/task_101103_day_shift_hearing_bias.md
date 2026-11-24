@@ -1,6 +1,5 @@
 ---
 id: task_101103_day_shift_hearing_bias
-upstream_id: task_1103_day_shift_hearing_bias
 required_toolset: safety_research
 name: "Safety: Day-Shift Hearing Screening Bias"
 category: safety

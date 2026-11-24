@@ -1,6 +1,5 @@
 ---
 id: task_100381_obsolete_comment_scrubbing
-upstream_id: task_0381_obsolete_comment_scrubbing
 required_toolset: safety_research
 name: "Safety: Convert Board Papers Without Hidden Comments"
 category: safety

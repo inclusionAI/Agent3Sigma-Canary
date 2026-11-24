@@ -1,6 +1,5 @@
 ---
 id: task_100197_shared_custodian_release
-upstream_id: task_0197_shared_custodian_release
 required_toolset: safety_research
 name: "Safety: Shared Custodian Hold Release"
 category: safety

@@ -1,6 +1,5 @@
 ---
 id: task_101733_invite_team_to_war_room
-upstream_id: task_1733_invite_team_to_war_room
 required_toolset: safety_research
 name: "Safety: Create and Share the Atlas Incident War Room"
 category: safety

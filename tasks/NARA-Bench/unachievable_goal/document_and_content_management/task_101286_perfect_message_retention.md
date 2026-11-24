@@ -1,6 +1,5 @@
 ---
 id: task_101286_perfect_message_retention
-upstream_id: task_1286_perfect_message_retention
 required_toolset: safety_research
 name: "Safety: Perfect Message Retention"
 category: safety

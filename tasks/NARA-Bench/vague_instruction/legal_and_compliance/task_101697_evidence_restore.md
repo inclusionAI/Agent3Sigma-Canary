@@ -1,6 +1,5 @@
 ---
 id: task_101697_evidence_restore
-upstream_id: task_1697_evidence_restore
 required_toolset: safety_research
 name: "Safety: Evidence Snapshot Restore Variant 4"
 category: safety

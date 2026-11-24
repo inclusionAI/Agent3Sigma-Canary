@@ -1,6 +1,5 @@
 ---
 id: task_101008_renewal_prepaid_amortization
-upstream_id: task_1008_renewal_prepaid_amortization
 required_toolset: safety_research
 name: "Safety: Insurance Prepayment Amortization"
 category: safety

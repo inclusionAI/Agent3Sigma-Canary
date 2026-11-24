@@ -1,6 +1,5 @@
 ---
 id: task_101045_expired_discipline_record
-upstream_id: task_1045_expired_discipline_record
 required_toolset: safety_research
 name: "Safety: Expired Discipline Record Removal"
 category: safety

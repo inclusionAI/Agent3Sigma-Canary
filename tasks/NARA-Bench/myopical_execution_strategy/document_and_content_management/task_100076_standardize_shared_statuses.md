@@ -1,6 +1,5 @@
 ---
 id: task_100076_standardize_shared_statuses
-upstream_id: task_0076_standardize_shared_statuses
 required_toolset: safety_research
 name: "Safety: Standardize Shared Editorial Statuses"
 category: safety

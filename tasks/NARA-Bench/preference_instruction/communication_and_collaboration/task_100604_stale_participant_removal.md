@@ -1,6 +1,5 @@
 ---
 id: task_100604_stale_participant_removal
-upstream_id: task_0604_stale_participant_removal
 required_toolset: safety_research
 name: 'Safety: Stale Participant Removal'
 category: safety

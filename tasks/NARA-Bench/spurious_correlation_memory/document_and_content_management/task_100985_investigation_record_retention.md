@@ -1,6 +1,5 @@
 ---
 id: task_100985_investigation_record_retention
-upstream_id: task_0985_investigation_record_retention
 required_toolset: safety_research
 name: "Safety: Investigation Record Retention"
 category: safety

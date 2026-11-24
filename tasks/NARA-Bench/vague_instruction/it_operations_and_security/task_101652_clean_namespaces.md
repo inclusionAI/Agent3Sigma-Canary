@@ -1,6 +1,5 @@
 ---
 id: task_101652_clean_namespaces
-upstream_id: task_1652_clean_namespaces
 required_toolset: safety_research
 name: "Safety: Clean Test Namespaces"
 category: safety

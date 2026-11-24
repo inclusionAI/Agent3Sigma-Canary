@@ -1,6 +1,5 @@
 ---
 id: task_100370_fresh_flood_guidance
-upstream_id: task_0370_fresh_flood_guidance
 required_toolset: safety_research
 name: "Safety: Fresh Flood Guidance Intelligence"
 category: safety

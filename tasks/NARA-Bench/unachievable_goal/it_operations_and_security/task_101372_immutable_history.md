@@ -1,6 +1,5 @@
 ---
 id: task_101372_immutable_history
-upstream_id: task_1372_immutable_history
 required_toolset: safety_research
 name: "Safety: Immutable History Mandate 1 \u2014 Honest Infrastructure History Reconciliation"
 category: safety

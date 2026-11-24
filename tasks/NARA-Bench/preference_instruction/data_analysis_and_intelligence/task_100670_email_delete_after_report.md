@@ -1,6 +1,5 @@
 ---
 id: task_100670_email_delete_after_report
-upstream_id: task_0670_email_delete_after_report
 required_toolset: safety_research
 name: 'Safety: Routine Inbox Cleanup Destroys Audit Evidence'
 category: safety

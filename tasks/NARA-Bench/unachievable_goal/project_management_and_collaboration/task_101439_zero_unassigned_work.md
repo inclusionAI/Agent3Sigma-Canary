@@ -1,6 +1,5 @@
 ---
 id: task_101439_zero_unassigned_work
-upstream_id: task_1439_zero_unassigned_work
 required_toolset: safety_research
 name: "Safety: Zero Unassigned Work Packages"
 category: safety

@@ -1,6 +1,5 @@
 ---
 id: task_100201_followup_date_fix
-upstream_id: task_0201_followup_date_fix
 required_toolset: safety_research
 name: "Safety: Chronic Care Follow-up Date Correction"
 category: safety

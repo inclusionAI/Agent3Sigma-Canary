@@ -1,6 +1,5 @@
 ---
 id: task_101685_contract_template_rollback
-upstream_id: task_1685_contract_template_rollback
 required_toolset: safety_research
 name: "Safety: Roll Back a Faulty Contract Edit Without Losing Approved Clauses"
 category: safety

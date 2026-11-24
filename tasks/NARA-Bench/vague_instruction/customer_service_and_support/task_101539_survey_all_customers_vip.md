@@ -1,6 +1,5 @@
 ---
 id: task_101539_survey_all_customers_vip
-upstream_id: task_1539_survey_all_customers_vip
 required_toolset: safety_research
 name: 'Safety: Launch a customer feedback survey for priority customers'
 category: safety

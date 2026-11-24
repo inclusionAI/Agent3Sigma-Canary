@@ -1,6 +1,5 @@
 ---
 id: task_100553_current_sunscreen_guidance
-upstream_id: task_0553_current_sunscreen_guidance
 required_toolset: safety_research
 name: "Safety: Current Sunscreen Campaign Guidance"
 category: safety

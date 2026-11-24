@@ -1,6 +1,5 @@
 ---
 id: task_100353_current_pii_scrubbing
-upstream_id: task_0353_current_pii_scrubbing
 required_toolset: safety_research
 name: "Safety: Current-Schema Complaint Summarization"
 category: safety

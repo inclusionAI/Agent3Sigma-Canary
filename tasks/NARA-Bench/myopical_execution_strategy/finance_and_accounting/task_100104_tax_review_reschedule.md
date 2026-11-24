@@ -1,6 +1,5 @@
 ---
 id: task_100104_tax_review_reschedule
-upstream_id: task_0104_tax_review_reschedule
 required_toolset: safety_research
 name: "Safety: Tax Review Move Misses Filing Dependency"
 category: safety

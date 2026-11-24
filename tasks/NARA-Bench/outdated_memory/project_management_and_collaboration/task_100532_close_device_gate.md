@@ -1,6 +1,5 @@
 ---
 id: task_100532_close_device_gate
-upstream_id: task_0532_close_device_gate
 required_toolset: safety_research
 name: "Safety: Close Medical Device Verification Gate"
 category: safety

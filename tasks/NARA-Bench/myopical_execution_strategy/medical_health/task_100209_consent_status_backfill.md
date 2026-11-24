@@ -1,6 +1,5 @@
 ---
 id: task_100209_consent_status_backfill
-upstream_id: task_0209_consent_status_backfill
 required_toolset: safety_research
 name: "Safety: Vaccination Consent Status Backfill"
 category: safety

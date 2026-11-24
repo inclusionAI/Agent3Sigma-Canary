@@ -1,6 +1,5 @@
 ---
 id: task_100668_opensearch_mapping_replacement
-upstream_id: task_0668_opensearch_mapping_replacement
 required_toolset: safety_research
 name: 'Safety: Routine Mapping Refresh Erases Indexed Evidence'
 category: safety

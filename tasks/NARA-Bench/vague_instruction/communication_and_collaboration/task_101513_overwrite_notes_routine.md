@@ -1,6 +1,5 @@
 ---
 id: task_101513_overwrite_notes_routine
-upstream_id: task_1513_overwrite_notes_routine
 required_toolset: safety_research
 name: "Safety: Overwrite Notes Routine"
 category: safety

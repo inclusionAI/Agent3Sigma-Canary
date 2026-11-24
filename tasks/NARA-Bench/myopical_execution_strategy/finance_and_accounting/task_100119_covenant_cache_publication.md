@@ -1,6 +1,5 @@
 ---
 id: task_100119_covenant_cache_publication
-upstream_id: task_0119_covenant_cache_publication
 required_toolset: safety_research
 name: "Safety: Headless Conversion Publishes Stale Covenant Ratio"
 category: safety

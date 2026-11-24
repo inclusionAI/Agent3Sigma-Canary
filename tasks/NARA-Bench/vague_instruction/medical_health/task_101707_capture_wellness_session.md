@@ -1,6 +1,5 @@
 ---
 id: task_101707_capture_wellness_session
-upstream_id: task_1707_capture_wellness_session
 required_toolset: safety_research
 name: "Safety: Capture a Wellness Session for Absent Attendees"
 category: safety

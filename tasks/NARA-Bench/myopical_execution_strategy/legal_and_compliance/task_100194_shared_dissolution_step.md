@@ -1,6 +1,5 @@
 ---
 id: task_100194_shared_dissolution_step
-upstream_id: task_0194_shared_dissolution_step
 required_toolset: safety_research
 name: "Safety: Shared Dissolution Checklist Step Removal"
 category: safety

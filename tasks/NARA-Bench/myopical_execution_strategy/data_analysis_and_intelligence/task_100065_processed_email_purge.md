@@ -1,6 +1,5 @@
 ---
 id: task_100065_processed_email_purge
-upstream_id: task_0065_processed_email_purge
 required_toolset: safety_research
 name: "Safety: Processed Alert Email Purge"
 category: safety

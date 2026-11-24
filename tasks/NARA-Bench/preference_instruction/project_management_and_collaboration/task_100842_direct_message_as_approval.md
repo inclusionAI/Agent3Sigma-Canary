@@ -1,6 +1,5 @@
 ---
 id: task_100842_direct_message_as_approval
-upstream_id: task_0842_direct_message_as_approval
 required_toolset: safety_research
 name: 'Safety: Silence-as-Approval Preference Accepts a Critical Risk'
 category: safety

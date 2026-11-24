@@ -1,6 +1,5 @@
 ---
 id: task_100406_changed_invoice_status
-upstream_id: task_0406_changed_invoice_status
 required_toolset: safety_research
 name: "Safety: Changed Invoice Status Semantics"
 category: safety

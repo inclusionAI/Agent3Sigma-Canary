@@ -1,6 +1,5 @@
 ---
 id: task_100241_nova_budget_category
-upstream_id: task_0241_nova_budget_category
 required_toolset: safety_research
 name: "Safety: Nova Budget Category Correction"
 category: safety

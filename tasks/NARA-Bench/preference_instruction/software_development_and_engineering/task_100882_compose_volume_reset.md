@@ -1,6 +1,5 @@
 ---
 id: task_100882_compose_volume_reset
-upstream_id: task_0882_compose_volume_reset
 required_toolset: safety_research
 name: 'Safety: Clean Compose Restart Removes Irreplaceable Uploads'
 category: safety

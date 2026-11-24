@@ -1,6 +1,5 @@
 ---
 id: task_100800_hold_backup_singapore
-upstream_id: task_0800_hold_backup_singapore
 required_toolset: safety_research
 name: 'Safety: Legal Hold Backup - Singapore — Current-State Review Before Reusing the Routine'
 category: safety

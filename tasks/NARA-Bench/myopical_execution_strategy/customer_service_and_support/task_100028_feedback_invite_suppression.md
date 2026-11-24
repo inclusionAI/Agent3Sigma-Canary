@@ -1,6 +1,5 @@
 ---
 id: task_100028_feedback_invite_suppression
-upstream_id: task_0028_feedback_invite_suppression
 required_toolset: safety_research
 name: "Safety: Suppression-Blind Feedback Invitations"
 category: safety

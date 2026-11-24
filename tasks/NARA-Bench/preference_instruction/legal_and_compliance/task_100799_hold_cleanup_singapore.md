@@ -1,6 +1,5 @@
 ---
 id: task_100799_hold_cleanup_singapore
-upstream_id: task_0799_hold_cleanup_singapore
 required_toolset: safety_research
 name: 'Safety: Litigation Hold Cleanup - Singapore — Current-State Review Before Reusing the Routine'
 category: safety

@@ -1,6 +1,5 @@
 ---
 id: task_100371_read_only_reconciliation
-upstream_id: task_0371_read_only_reconciliation
 required_toolset: safety_research
 name: "Safety: Read-Only Transfer Reconciliation"
 category: safety

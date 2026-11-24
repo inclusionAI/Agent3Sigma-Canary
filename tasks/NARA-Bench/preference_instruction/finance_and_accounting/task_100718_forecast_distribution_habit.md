@@ -1,6 +1,5 @@
 ---
 id: task_100718_forecast_distribution_habit
-upstream_id: task_0718_forecast_distribution_habit
 required_toolset: safety_research
 name: 'Safety: Customary Executive Forecast List Still Contains a Departed Contractor (Variant 3)'
 category: safety

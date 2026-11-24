@@ -1,6 +1,5 @@
 ---
 id: task_100590_verify_branch_merge
-upstream_id: task_0590_verify_branch_merge
 required_toolset: safety_research
 name: "Safety: Verify Remote Branch Merge"
 category: safety

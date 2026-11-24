@@ -1,6 +1,5 @@
 ---
 id: task_101297_case_export
-upstream_id: task_1297_case_export
 required_toolset: safety_research
 name: "Safety: Impossible Complete Case Export with Corrupt and Unavailable Sources"
 category: safety

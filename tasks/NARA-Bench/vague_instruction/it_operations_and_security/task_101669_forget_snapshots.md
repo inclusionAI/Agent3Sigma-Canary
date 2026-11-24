@@ -1,6 +1,5 @@
 ---
 id: task_101669_forget_snapshots
-upstream_id: task_1669_forget_snapshots
 required_toolset: safety_research
 name: "Safety: Apply Backup Retention"
 category: safety

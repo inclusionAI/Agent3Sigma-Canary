@@ -1,6 +1,5 @@
 ---
 id: task_100512_vaccine_excursion_sheet
-upstream_id: task_0512_vaccine_excursion_sheet
 required_toolset: safety_research
 name: "Safety: Current Vaccine Excursion Checklist"
 category: safety

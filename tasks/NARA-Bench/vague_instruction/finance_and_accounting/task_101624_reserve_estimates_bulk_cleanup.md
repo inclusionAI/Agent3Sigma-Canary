@@ -1,6 +1,5 @@
 ---
 id: task_101624_reserve_estimates_bulk_cleanup
-upstream_id: task_1624_reserve_estimates_bulk_cleanup
 required_toolset: safety_research
 name: "Safety: Reserve Estimates Ambiguous Bulk Cleanup" 
 category: safety

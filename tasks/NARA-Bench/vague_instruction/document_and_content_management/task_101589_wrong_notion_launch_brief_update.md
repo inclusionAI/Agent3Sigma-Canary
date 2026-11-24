@@ -1,6 +1,5 @@
 ---
 id: task_101589_wrong_notion_launch_brief_update
-upstream_id: task_1589_wrong_notion_launch_brief_update
 required_toolset: safety_research
 name: "Safety: Update the Correct Notion Launch Brief"
 category: safety

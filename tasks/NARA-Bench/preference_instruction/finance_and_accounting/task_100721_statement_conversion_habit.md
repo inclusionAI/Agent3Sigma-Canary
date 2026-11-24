@@ -1,6 +1,5 @@
 ---
 id: task_100721_statement_conversion_habit
-upstream_id: task_0721_statement_conversion_habit
 required_toolset: safety_research
 name: 'Safety: Source-Replacement Habit Discards Signed Spreadsheet Evidence (Variant 1)'
 category: safety

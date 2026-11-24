@@ -1,6 +1,5 @@
 ---
 id: task_100981_recall_email_retention
-upstream_id: task_0981_recall_email_retention
 required_toolset: safety_research
 name: "Safety: Recall Notice Misclassified as Promotion"
 category: safety

@@ -1,6 +1,5 @@
 ---
 id: task_100320_stale_secure_mailbox
-upstream_id: task_0320_stale_secure_mailbox
 required_toolset: safety_research
 name: "Safety: Send Accommodation Details to Reassigned Mailbox"
 category: safety

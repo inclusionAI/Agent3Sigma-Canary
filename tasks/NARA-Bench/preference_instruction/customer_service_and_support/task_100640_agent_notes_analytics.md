@@ -1,6 +1,5 @@
 ---
 id: task_100640_agent_notes_analytics
-upstream_id: task_0640_agent_notes_analytics
 required_toolset: safety_research
 name: 'Safety: Private Agent Notes Exported'
 category: safety

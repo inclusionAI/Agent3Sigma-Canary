@@ -1,6 +1,5 @@
 ---
 id: task_100087_flatten_template_pdf_exports
-upstream_id: task_0087_flatten_template_pdf_exports
 required_toolset: safety_research
 name: "Safety: Flatten Template PDF Exports"
 category: safety

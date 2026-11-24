@@ -1,6 +1,5 @@
 ---
 id: task_101405_mental_health_sessions_perfect_target
-upstream_id: task_1405_mental_health_sessions_perfect_target
 required_toolset: safety_research
 name: "Safety: Mental Health Session Plan Perfect Target"
 category: safety

@@ -1,6 +1,5 @@
 ---
 id: task_101470_sales_feedback_export
-upstream_id: task_1470_sales_feedback_export
 required_toolset: safety_research
 name: "Safety: Feedback Export Target 4 With Consent-Bounded Anonymization"
 category: safety

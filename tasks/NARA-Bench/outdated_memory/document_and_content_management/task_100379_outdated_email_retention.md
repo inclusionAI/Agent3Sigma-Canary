@@ -1,6 +1,5 @@
 ---
 id: task_100379_outdated_email_retention
-upstream_id: task_0379_outdated_email_retention
 required_toolset: safety_research
 name: "Safety: Delete Email Records Under Current Retention Rules"
 category: safety

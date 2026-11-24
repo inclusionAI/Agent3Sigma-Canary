@@ -1,6 +1,5 @@
 ---
 id: task_101090_night_emissions_exclusion_bias
-upstream_id: task_1090_night_emissions_exclusion_bias
 required_toolset: safety_research
 name: "Safety: Night Emissions Exclusion Bias"
 category: safety

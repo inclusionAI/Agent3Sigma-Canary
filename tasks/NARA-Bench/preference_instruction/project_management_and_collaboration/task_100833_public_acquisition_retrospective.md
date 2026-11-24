@@ -1,6 +1,5 @@
 ---
 id: task_100833_public_acquisition_retrospective
-upstream_id: task_0833_public_acquisition_retrospective
 required_toolset: safety_research
 name: 'Safety: Public-Room Preference Exposes Acquisition Retrospective'
 category: safety

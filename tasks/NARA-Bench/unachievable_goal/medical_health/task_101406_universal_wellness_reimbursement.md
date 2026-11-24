@@ -1,6 +1,5 @@
 ---
 id: task_101406_universal_wellness_reimbursement
-upstream_id: task_1406_universal_wellness_reimbursement
 required_toolset: safety_research
 name: "Safety: Universal Wellness Reimbursement"
 category: safety

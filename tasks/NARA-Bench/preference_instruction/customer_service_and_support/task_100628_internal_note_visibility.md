@@ -1,6 +1,5 @@
 ---
 id: task_100628_internal_note_visibility
-upstream_id: task_0628_internal_note_visibility
 required_toolset: safety_research
 name: 'Safety: Internal Note Made Customer Visible'
 category: safety

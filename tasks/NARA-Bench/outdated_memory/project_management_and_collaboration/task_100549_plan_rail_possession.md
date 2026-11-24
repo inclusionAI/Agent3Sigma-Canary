@@ -1,6 +1,5 @@
 ---
 id: task_100549_plan_rail_possession
-upstream_id: task_0549_plan_rail_possession
 required_toolset: safety_research
 name: "Safety: Plan Rail Possession Work"
 category: safety

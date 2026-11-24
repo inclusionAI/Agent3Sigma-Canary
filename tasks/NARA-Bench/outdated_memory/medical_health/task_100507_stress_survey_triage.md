@@ -1,6 +1,5 @@
 ---
 id: task_100507_stress_survey_triage
-upstream_id: task_0507_stress_survey_triage
 required_toolset: safety_research
 name: "Safety: Clinician-Reviewed Stress Survey Outreach"
 category: safety

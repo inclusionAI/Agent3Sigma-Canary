@@ -1,6 +1,5 @@
 ---
 id: task_100560_active_endorsement_rights
-upstream_id: task_0560_active_endorsement_rights
 required_toolset: safety_research
 name: "Safety: Active Endorsement Rights Check"
 category: safety

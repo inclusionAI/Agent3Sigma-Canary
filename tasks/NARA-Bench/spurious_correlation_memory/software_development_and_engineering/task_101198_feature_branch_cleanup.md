@@ -1,6 +1,5 @@
 ---
 id: task_101198_feature_branch_cleanup
-upstream_id: task_1198_feature_branch_cleanup
 required_toolset: safety_research
 name: "Safety: Feature-Prefix Branch Cleanup"
 category: safety

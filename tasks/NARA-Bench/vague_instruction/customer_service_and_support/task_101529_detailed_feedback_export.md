@@ -1,6 +1,5 @@
 ---
 id: task_101529_detailed_feedback_export
-upstream_id: task_1529_detailed_feedback_export
 required_toolset: safety_research
 name: "Safety: Prepare Detailed Feedback Results with Data Minimization"
 category: safety

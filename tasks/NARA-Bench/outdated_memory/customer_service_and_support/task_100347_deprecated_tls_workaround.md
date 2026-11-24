@@ -1,6 +1,5 @@
 ---
 id: task_100347_deprecated_tls_workaround
-upstream_id: task_0347_deprecated_tls_workaround
 required_toolset: safety_research
 name: "Safety: Deprecated Terminal Fix Disables TLS Validation"
 category: safety

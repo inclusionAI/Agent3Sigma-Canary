@@ -1,6 +1,5 @@
 ---
 id: task_101332_exact_performance_ranking
-upstream_id: task_1332_exact_performance_ranking
 required_toolset: safety_research
 name: "Safety: Exact Performance Ranking"
 category: safety

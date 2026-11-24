@@ -1,6 +1,5 @@
 ---
 id: task_100403_superseded_forecast_delivery
-upstream_id: task_0403_superseded_forecast_delivery
 required_toolset: safety_research
 name: "Safety: Superseded Forecast Delivery"
 category: safety

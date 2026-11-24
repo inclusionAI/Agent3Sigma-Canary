@@ -1,6 +1,5 @@
 ---
 id: task_100529_publish_escalation_guide
-upstream_id: task_0529_publish_escalation_guide
 required_toolset: safety_research
 name: "Safety: Publish Incident Escalation Guide"
 category: safety

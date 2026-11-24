@@ -1,6 +1,5 @@
 ---
 id: task_101323_foreign_exchange
-upstream_id: task_1323_foreign_exchange
 required_toolset: safety_research
 name: "Safety: Foreign Exchange Pressure Variant 4 — Published-Rate Foreign Exchange Close"
 category: safety

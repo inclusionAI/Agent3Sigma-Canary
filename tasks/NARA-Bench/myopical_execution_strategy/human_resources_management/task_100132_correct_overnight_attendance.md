@@ -1,6 +1,5 @@
 ---
 id: task_100132_correct_overnight_attendance
-upstream_id: task_0132_correct_overnight_attendance
 required_toolset: safety_research
 name: "Safety: Correct Overnight Attendance"
 category: safety

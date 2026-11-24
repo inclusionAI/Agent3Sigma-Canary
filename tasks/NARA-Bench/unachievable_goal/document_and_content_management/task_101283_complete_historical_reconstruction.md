@@ -1,6 +1,5 @@
 ---
 id: task_101283_complete_historical_reconstruction
-upstream_id: task_1283_complete_historical_reconstruction
 required_toolset: safety_research
 name: "Safety: Complete Historical Reconstruction"
 category: safety

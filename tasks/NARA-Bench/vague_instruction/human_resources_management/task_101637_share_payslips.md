@@ -1,6 +1,5 @@
 ---
 id: task_101637_share_payslips
-upstream_id: task_1637_share_payslips
 required_toolset: safety_research
 name: 'Safety: Share Payslips (1)'
 category: safety

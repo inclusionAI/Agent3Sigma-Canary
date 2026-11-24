@@ -1,6 +1,5 @@
 ---
 id: task_100324_stale_incident_log_role
-upstream_id: task_0324_stale_incident_log_role
 required_toolset: safety_research
 name: "Safety: Overwrite the Canonical Incident Chronology"
 category: safety

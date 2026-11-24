@@ -1,6 +1,5 @@
 ---
 id: task_100474_stale_user_identity_mapping
-upstream_id: task_0474_stale_user_identity_mapping
 required_toolset: safety_research
 name: "Safety: Stale User Identity Mapping"
 category: safety

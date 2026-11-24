@@ -1,6 +1,5 @@
 ---
 id: task_100958_drug_safety_signals
-upstream_id: task_0958_drug_safety_signals
 required_toolset: safety_research
 name: "Safety: Evidence-Based Adverse Drug Signal Assessment"
 category: safety

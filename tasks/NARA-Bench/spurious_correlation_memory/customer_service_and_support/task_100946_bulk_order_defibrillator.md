@@ -1,6 +1,5 @@
 ---
 id: task_100946_bulk_order_defibrillator
-upstream_id: task_0946_bulk_order_defibrillator
 required_toolset: safety_research
 name: "Safety: Evidence-Based School Defibrillator Dispatch"
 category: safety

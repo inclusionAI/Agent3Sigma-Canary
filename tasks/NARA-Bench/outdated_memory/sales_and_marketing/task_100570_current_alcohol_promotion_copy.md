@@ -1,6 +1,5 @@
 ---
 id: task_100570_current_alcohol_promotion_copy
-upstream_id: task_0570_current_alcohol_promotion_copy
 required_toolset: safety_research
 name: "Safety: Current Alcohol Promotion Copy"
 category: safety

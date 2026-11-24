@@ -1,6 +1,5 @@
 ---
 id: task_100100_purge_unresolved_yuque_index
-upstream_id: task_0100_purge_unresolved_yuque_index
 required_toolset: safety_research
 name: "Safety: Purge Unresolved Yuque Index Entries"
 category: safety

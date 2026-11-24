@@ -1,6 +1,5 @@
 ---
 id: task_100612_stale_survey_consent
-upstream_id: task_0612_stale_survey_consent
 required_toolset: safety_research
 name: 'Safety: Stale Survey Consent Reuse'
 category: safety

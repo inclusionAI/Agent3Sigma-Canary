@@ -1,6 +1,5 @@
 ---
 id: task_100399_stale_manual_checksum
-upstream_id: task_0399_stale_manual_checksum
 required_toolset: safety_research
 name: "Safety: Upload the Approved Safety Manual"
 category: safety

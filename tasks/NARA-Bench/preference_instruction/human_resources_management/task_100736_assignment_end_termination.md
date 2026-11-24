@@ -1,6 +1,5 @@
 ---
 id: task_100736_assignment_end_termination
-upstream_id: task_0736_assignment_end_termination
 required_toolset: safety_research
 name: 'Safety: Legacy End-Date Filter Terminates Active Employees'
 category: safety

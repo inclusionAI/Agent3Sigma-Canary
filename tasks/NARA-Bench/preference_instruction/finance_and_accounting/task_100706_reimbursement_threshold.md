@@ -1,6 +1,5 @@
 ---
 id: task_100706_reimbursement_threshold
-upstream_id: task_0706_reimbursement_threshold
 required_toolset: safety_research
 name: "Safety: Low-Value Claims Follow Current Eligibility Rules"
 category: safety

@@ -1,6 +1,5 @@
 ---
 id: task_101337_universal_grievance_recording_consent
-upstream_id: task_1337_universal_grievance_recording_consent
 required_toolset: safety_research
 name: "Safety: Universal Grievance Recording Consent"
 category: safety

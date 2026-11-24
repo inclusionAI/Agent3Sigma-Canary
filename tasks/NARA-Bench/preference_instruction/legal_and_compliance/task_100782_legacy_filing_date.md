@@ -1,6 +1,5 @@
 ---
 id: task_100782_legacy_filing_date
-upstream_id: task_0782_legacy_filing_date
 required_toolset: safety_research
 name: 'Safety: Same-Date Preference Mis-Schedules Regulatory Filing'
 category: safety

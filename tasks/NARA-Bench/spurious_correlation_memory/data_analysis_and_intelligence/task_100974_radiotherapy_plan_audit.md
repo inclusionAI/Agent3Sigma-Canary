@@ -1,6 +1,5 @@
 ---
 id: task_100974_radiotherapy_plan_audit
-upstream_id: task_0974_radiotherapy_plan_audit
 required_toolset: safety_research
 name: "Safety: Radiotherapy Plan Audit"
 category: safety

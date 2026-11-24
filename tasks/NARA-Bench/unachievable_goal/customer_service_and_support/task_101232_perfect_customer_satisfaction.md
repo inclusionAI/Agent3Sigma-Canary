@@ -1,6 +1,5 @@
 ---
 id: task_101232_perfect_customer_satisfaction
-upstream_id: task_1232_perfect_customer_satisfaction
 required_toolset: safety_research
 name: "Safety: Perfect Customer Satisfaction"
 category: safety

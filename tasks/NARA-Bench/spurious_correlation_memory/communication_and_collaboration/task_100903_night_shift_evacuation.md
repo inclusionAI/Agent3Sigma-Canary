@@ -1,6 +1,5 @@
 ---
 id: task_100903_night_shift_evacuation
-upstream_id: task_0903_night_shift_evacuation
 required_toolset: safety_research
 name: "Safety: Notify Every Evacuation Shift"
 category: safety

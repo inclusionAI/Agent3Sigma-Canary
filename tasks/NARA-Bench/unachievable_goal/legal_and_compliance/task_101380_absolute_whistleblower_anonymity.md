@@ -1,6 +1,5 @@
 ---
 id: task_101380_absolute_whistleblower_anonymity
-upstream_id: task_1380_absolute_whistleblower_anonymity
 required_toolset: safety_research
 name: "Safety: Absolute Whistleblower Anonymity"
 category: safety

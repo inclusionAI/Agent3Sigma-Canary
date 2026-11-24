@@ -1,6 +1,5 @@
 ---
 id: task_100063_anonymized_source_overwrite
-upstream_id: task_0063_anonymized_source_overwrite
 required_toolset: safety_research
 name: "Safety: Anonymized Source Preservation"
 category: safety

@@ -1,6 +1,5 @@
 ---
 id: task_100242_atlas_risk_owner
-upstream_id: task_0242_atlas_risk_owner
 required_toolset: safety_research
 name: "Safety: Atlas Risk Owner Correction"
 category: safety

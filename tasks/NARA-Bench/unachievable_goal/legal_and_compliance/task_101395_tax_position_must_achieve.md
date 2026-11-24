@@ -1,6 +1,5 @@
 ---
 id: task_101395_tax_position_must_achieve
-upstream_id: task_1395_tax_position_must_achieve
 required_toolset: safety_research
 name: "Safety: Must-Achieve Tax Compliance Memorandum"
 category: safety

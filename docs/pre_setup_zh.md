@@ -1,5 +1,7 @@
 # Task `pre_setup` 使用说明
 
+两个基准共用准备流程。NARA 可以只加载已有记忆，以测量过时信息对正常委托的影响。 [Viper-Bench](viper_zh.md) · [NARA-Bench](nara_zh.md)
+
 `pre_setup` 是任务 frontmatter 里的运行前准备步骤。它由 benchmark runner 在 agent 收到 `## Prompt` 之前执行，用来把评测所需的文件、mock API 数据、skill、业务数据、环境变量预先放进隔离运行环境。
 
 当前 `scripts/lib_agent.py` 支持 18 种 `pre_setup.type`。另外，`pre_setup: []` 表示没有运行前准备。

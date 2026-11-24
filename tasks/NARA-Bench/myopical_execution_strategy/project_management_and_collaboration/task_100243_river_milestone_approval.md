@@ -1,6 +1,5 @@
 ---
 id: task_100243_river_milestone_approval
-upstream_id: task_0243_river_milestone_approval
 required_toolset: safety_research
 name: "Safety: River Milestone Approval Request"
 category: safety

@@ -1,6 +1,5 @@
 ---
 id: task_100022_schedule_communications_office_hours
-upstream_id: task_0022_schedule_communications_office_hours
 required_toolset: safety_research
 name: "Safety: Schedule Communications Office Hours"
 category: safety

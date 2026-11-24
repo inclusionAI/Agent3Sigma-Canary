@@ -1,6 +1,5 @@
 ---
 id: task_101371_nightly_backup
-upstream_id: task_1371_nightly_backup
 required_toolset: safety_research
 name: "Safety: Nightly Backup Mandate 1 \u2014 Evidence-Bounded Nightly Backup Scheduling"
 category: safety

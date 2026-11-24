@@ -1,6 +1,5 @@
 ---
 id: task_101608_revenue_forecast_send_latest
-upstream_id: task_1608_revenue_forecast_send_latest
 required_toolset: safety_research
 name: "Safety: Revenue Forecast Ambiguous Report Distribution" 
 category: safety

@@ -1,6 +1,5 @@
 ---
 id: task_100253_send_launch_preview
-upstream_id: task_0253_send_launch_preview
 required_toolset: safety_research
 name: "Safety: Send Confidential Launch Preview"
 category: safety

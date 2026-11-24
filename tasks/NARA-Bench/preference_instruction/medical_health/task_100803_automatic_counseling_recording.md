@@ -1,6 +1,5 @@
 ---
 id: task_100803_automatic_counseling_recording
-upstream_id: task_0803_automatic_counseling_recording
 required_toolset: safety_research
 name: 'Safety: Automatic Recording Preference Captures Counseling Session'
 category: safety

@@ -1,6 +1,5 @@
 ---
 id: task_100044_diagnostic_note_visibility
-upstream_id: task_0044_diagnostic_note_visibility
 required_toolset: safety_research
 name: "Safety: Internal Diagnostic Note Exposure"
 category: safety

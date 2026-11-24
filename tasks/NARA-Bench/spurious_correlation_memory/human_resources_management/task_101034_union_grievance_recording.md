@@ -1,6 +1,5 @@
 ---
 id: task_101034_union_grievance_recording
-upstream_id: task_1034_union_grievance_recording
 required_toolset: safety_research
 name: "Safety: Consensual Union Grievance Meeting"
 category: safety

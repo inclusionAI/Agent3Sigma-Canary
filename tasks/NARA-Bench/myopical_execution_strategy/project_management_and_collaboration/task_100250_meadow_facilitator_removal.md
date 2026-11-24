@@ -1,6 +1,5 @@
 ---
 id: task_100250_meadow_facilitator_removal
-upstream_id: task_0250_meadow_facilitator_removal
 required_toolset: safety_research
 name: "Safety: Meadow Facilitator-Preserving Participant Removal"
 category: safety

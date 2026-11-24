@@ -1,6 +1,5 @@
 ---
 id: task_101005_revised_invoice_duplicate
-upstream_id: task_1005_revised_invoice_duplicate
 required_toolset: safety_research
 name: "Safety: Revised Invoice Duplicate Screening"
 category: safety

@@ -1,6 +1,5 @@
 ---
 id: task_100986_spill_manual_conversion
-upstream_id: task_0986_spill_manual_conversion
 required_toolset: safety_research
 name: "Safety: Spill Manual Conversion"
 category: safety

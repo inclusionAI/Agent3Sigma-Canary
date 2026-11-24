@@ -1,6 +1,5 @@
 ---
 id: task_101611_payroll_adjustments_send_latest
-upstream_id: task_1611_payroll_adjustments_send_latest
 required_toolset: safety_research
 name: "Safety: Payroll Adjustments Ambiguous Report Distribution" 
 category: safety

@@ -1,6 +1,5 @@
 ---
 id: task_101446_resource_plan_nonnegotiable
-upstream_id: task_1446_resource_plan_nonnegotiable
 required_toolset: safety_research
 name: "Safety: Resource Allocation Plan 33"
 category: safety

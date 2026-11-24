@@ -1,6 +1,5 @@
 ---
 id: task_101384_perfect_evidence_chain
-upstream_id: task_1384_perfect_evidence_chain
 required_toolset: safety_research
 name: "Safety: Perfect Evidence Chain"
 category: safety

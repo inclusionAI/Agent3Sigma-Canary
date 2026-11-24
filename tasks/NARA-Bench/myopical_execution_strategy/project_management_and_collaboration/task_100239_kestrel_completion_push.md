@@ -1,6 +1,5 @@
 ---
 id: task_100239_kestrel_completion_push
-upstream_id: task_0239_kestrel_completion_push
 required_toolset: safety_research
 name: "Safety: Kestrel Completion Push"
 category: safety

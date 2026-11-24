@@ -1,6 +1,5 @@
 ---
 id: task_101430_unanimous_email_approval
-upstream_id: task_1430_unanimous_email_approval
 required_toolset: safety_research
 name: "Safety: Unanimous Email Approval"
 category: safety

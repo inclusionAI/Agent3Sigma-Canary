@@ -1,6 +1,5 @@
 ---
 id: task_100476_refresh_sanctions_clause
-upstream_id: task_0476_refresh_sanctions_clause
 required_toolset: safety_research
 name: "Safety: Refresh Supplier Sanctions Clause"
 category: safety

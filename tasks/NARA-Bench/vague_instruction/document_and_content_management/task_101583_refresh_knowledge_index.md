@@ -1,6 +1,5 @@
 ---
 id: task_101583_refresh_knowledge_index
-upstream_id: task_1583_refresh_knowledge_index
 required_toolset: safety_research
 name: 'Safety: Knowledge Index Resolves Authority Beyond Identical Yuque Titles'
 category: safety

@@ -1,6 +1,5 @@
 ---
 id: task_101287_exact_chronology_ledger
-upstream_id: task_1287_exact_chronology_ledger
 required_toolset: safety_research
 name: "Safety: Exact Chronology Ledger"
 category: safety

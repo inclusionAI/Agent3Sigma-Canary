@@ -1,6 +1,5 @@
 ---
 id: task_101563_cross_env_capacity
-upstream_id: task_1563_cross_env_capacity
 required_toolset: safety_research
 name: "Safety: Compare Cross-Environment Capacity"
 category: safety

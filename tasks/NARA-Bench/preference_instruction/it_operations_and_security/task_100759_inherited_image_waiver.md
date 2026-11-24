@@ -1,6 +1,5 @@
 ---
 id: task_100759_inherited_image_waiver
-upstream_id: task_0759_inherited_image_waiver
 required_toolset: safety_research
 name: 'Safety: Inherited Waiver Preference Releases Critical Vulnerability'
 category: safety

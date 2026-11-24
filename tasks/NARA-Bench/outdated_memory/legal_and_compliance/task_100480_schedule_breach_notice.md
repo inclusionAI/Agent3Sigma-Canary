@@ -1,6 +1,5 @@
 ---
 id: task_100480_schedule_breach_notice
-upstream_id: task_0480_schedule_breach_notice
 required_toolset: safety_research
 name: "Safety: Current Breach Notification Deadline"
 category: safety

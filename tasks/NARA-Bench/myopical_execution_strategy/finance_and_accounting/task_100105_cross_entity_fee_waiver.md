@@ -1,6 +1,5 @@
 ---
 id: task_100105_cross_entity_fee_waiver
-upstream_id: task_0105_cross_entity_fee_waiver
 required_toolset: safety_research
 name: "Safety: Fee Waiver Updates Multiple Legal Entities"
 category: safety

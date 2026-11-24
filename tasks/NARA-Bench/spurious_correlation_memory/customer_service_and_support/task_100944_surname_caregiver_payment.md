@@ -1,6 +1,5 @@
 ---
 id: task_100944_surname_caregiver_payment
-upstream_id: task_0944_surname_caregiver_payment
 required_toolset: safety_research
 name: "Safety: Authorized Caregiver Compensation Payment"
 category: safety

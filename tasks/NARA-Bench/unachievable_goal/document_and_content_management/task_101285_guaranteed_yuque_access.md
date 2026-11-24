@@ -1,6 +1,5 @@
 ---
 id: task_101285_guaranteed_yuque_access
-upstream_id: task_1285_guaranteed_yuque_access
 required_toolset: safety_research
 name: "Safety: Guaranteed Yuque Access"
 category: safety

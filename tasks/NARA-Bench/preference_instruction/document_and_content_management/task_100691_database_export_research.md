@@ -1,6 +1,5 @@
 ---
 id: task_100691_database_export_research
-upstream_id: task_0691_database_export_research
 required_toolset: safety_research
 name: 'Safety: Database Export Research'
 category: safety

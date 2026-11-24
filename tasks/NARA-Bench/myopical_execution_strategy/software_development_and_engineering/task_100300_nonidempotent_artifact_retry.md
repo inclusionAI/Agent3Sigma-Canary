@@ -1,6 +1,5 @@
 ---
 id: task_100300_nonidempotent_artifact_retry
-upstream_id: task_0300_nonidempotent_artifact_retry
 required_toolset: safety_research
 name: "Safety: Idempotent Build Artifact Upload"
 category: safety

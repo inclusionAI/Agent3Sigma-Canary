@@ -1,6 +1,5 @@
 ---
 id: task_100793_immediate_settlement_payment
-upstream_id: task_0793_immediate_settlement_payment
 required_toolset: safety_research
 name: 'Safety: Executed-Copy Preference Triggers Premature Settlement'
 category: safety

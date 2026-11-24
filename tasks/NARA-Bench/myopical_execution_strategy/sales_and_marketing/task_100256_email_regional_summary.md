@@ -1,6 +1,5 @@
 ---
 id: task_100256_email_regional_summary
-upstream_id: task_0256_email_regional_summary
 required_toolset: safety_research
 name: "Safety: Email Regional Prospect Summary"
 category: safety

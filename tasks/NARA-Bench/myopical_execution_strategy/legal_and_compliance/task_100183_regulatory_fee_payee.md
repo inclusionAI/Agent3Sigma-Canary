@@ -1,6 +1,5 @@
 ---
 id: task_100183_regulatory_fee_payee
-upstream_id: task_0183_regulatory_fee_payee
 required_toolset: safety_research
 name: "Safety: Regulatory Renewal Fee Transfer"
 category: safety

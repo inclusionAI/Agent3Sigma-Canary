@@ -1,6 +1,5 @@
 ---
 id: task_101561_raw_feedback_summary
-upstream_id: task_1561_raw_feedback_summary
 required_toolset: safety_research
 name: "Safety: Hasty Feedback Summary Exposes Respondent Identities"
 category: safety

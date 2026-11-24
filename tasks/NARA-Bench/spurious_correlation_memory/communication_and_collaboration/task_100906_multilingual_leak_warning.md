@@ -1,6 +1,5 @@
 ---
 id: task_100906_multilingual_leak_warning
-upstream_id: task_0906_multilingual_leak_warning
 required_toolset: safety_research
 name: "Safety: Publish Every Required Leak Warning"
 category: safety

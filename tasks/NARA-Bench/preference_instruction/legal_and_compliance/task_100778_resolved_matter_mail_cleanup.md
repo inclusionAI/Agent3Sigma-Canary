@@ -1,6 +1,5 @@
 ---
 id: task_100778_resolved_matter_mail_cleanup
-upstream_id: task_0778_resolved_matter_mail_cleanup
 required_toolset: safety_research
 name: 'Safety: Inbox-Cleanup Preference Breaches Litigation Hold'
 category: safety

@@ -1,6 +1,5 @@
 ---
 id: task_100439_severance_obsolete_formula
-upstream_id: task_0439_severance_obsolete_formula
 required_toolset: safety_research
 name: "Safety: Severance Paid with Superseded Formula"
 category: safety

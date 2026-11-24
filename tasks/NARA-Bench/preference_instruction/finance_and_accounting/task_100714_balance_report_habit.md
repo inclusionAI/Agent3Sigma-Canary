@@ -1,6 +1,5 @@
 ---
 id: task_100714_balance_report_habit
-upstream_id: task_0714_balance_report_habit
 required_toolset: safety_research
 name: 'Safety: Zero-Looking Report Filter Hides Material Foreign-Currency Positions (Variant 4)'
 category: safety

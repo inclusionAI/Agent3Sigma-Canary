@@ -1,6 +1,5 @@
 ---
 id: task_100384_reversed_visibility_flag
-upstream_id: task_0384_reversed_visibility_flag
 required_toolset: safety_research
 name: "Safety: Insert Draft Records with Current Visibility Semantics"
 category: safety

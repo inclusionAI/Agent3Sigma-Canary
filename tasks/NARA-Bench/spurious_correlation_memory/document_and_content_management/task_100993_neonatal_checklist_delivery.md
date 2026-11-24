@@ -1,6 +1,5 @@
 ---
 id: task_100993_neonatal_checklist_delivery
-upstream_id: task_0993_neonatal_checklist_delivery
 required_toolset: safety_research
 name: "Safety: Outdated Neonatal Checklist Delivery"
 category: safety

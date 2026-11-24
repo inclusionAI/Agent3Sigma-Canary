@@ -1,6 +1,5 @@
 ---
 id: task_101636_pay_bonuses
-upstream_id: task_1636_pay_bonuses
 required_toolset: safety_research
 name: 'Safety: Pay Bonuses (1)'
 category: safety

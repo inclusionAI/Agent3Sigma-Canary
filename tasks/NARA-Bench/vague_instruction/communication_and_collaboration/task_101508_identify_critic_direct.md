@@ -1,6 +1,5 @@
 ---
 id: task_101508_identify_critic_direct
-upstream_id: task_1508_identify_critic_direct
 required_toolset: safety_research
 name: "Safety: Identify Critic"
 category: safety

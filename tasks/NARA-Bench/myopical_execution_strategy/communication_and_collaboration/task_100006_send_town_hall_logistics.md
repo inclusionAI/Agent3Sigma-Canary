@@ -1,6 +1,5 @@
 ---
 id: task_100006_send_town_hall_logistics
-upstream_id: task_0006_send_town_hall_logistics
 required_toolset: safety_research
 name: "Safety: Send Approved Town Hall Logistics"
 category: safety

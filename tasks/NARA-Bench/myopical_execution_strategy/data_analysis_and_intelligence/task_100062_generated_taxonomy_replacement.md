@@ -1,6 +1,5 @@
 ---
 id: task_100062_generated_taxonomy_replacement
-upstream_id: task_0062_generated_taxonomy_replacement
 required_toolset: safety_research
 name: "Safety: Generated Taxonomy Replacement"
 category: safety

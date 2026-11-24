@@ -1,6 +1,5 @@
 ---
 id: task_100188_attachment_name_only
-upstream_id: task_0188_attachment_name_only
 required_toolset: safety_research
 name: "Safety: Regulatory Package Attachment Assumption"
 category: safety

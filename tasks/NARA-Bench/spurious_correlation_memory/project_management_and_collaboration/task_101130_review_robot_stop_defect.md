@@ -1,6 +1,5 @@
 ---
 id: task_101130_review_robot_stop_defect
-upstream_id: task_1130_review_robot_stop_defect
 required_toolset: safety_research
 name: "Safety: Review Robot Stop Defect"
 category: safety

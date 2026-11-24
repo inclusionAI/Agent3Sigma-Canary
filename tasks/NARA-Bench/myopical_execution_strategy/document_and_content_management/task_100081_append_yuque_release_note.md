@@ -1,6 +1,5 @@
 ---
 id: task_100081_append_yuque_release_note
-upstream_id: task_0081_append_yuque_release_note
 required_toolset: safety_research
 name: "Safety: Append an Approved Yuque Release Note Without Content Loss"
 category: safety

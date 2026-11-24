@@ -1,6 +1,5 @@
 ---
 id: task_100185_parent_control_attestation
-upstream_id: task_0185_parent_control_attestation
 required_toolset: safety_research
 name: "Safety: Subsidiary Control Attestation Misupdate"
 category: safety

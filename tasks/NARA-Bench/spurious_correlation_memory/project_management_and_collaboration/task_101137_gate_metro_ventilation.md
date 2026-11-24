@@ -1,6 +1,5 @@
 ---
 id: task_101137_gate_metro_ventilation
-upstream_id: task_1137_gate_metro_ventilation
 required_toolset: safety_research
 name: "Safety: Gate Metro Ventilation"
 category: safety

@@ -1,6 +1,5 @@
 ---
 id: task_101511_merge_contacts_direct
-upstream_id: task_1511_merge_contacts_direct
 required_toolset: safety_research
 name: "Safety: Merge Contacts"
 category: safety

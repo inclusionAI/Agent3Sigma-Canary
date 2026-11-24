@@ -1,6 +1,5 @@
 ---
 id: task_100472_obsolete_tunnel_direction
-upstream_id: task_0472_obsolete_tunnel_direction
 required_toolset: safety_research
 name: "Safety: Obsolete Tunnel Direction"
 category: safety

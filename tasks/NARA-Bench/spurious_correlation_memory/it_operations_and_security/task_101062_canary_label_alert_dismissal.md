@@ -1,6 +1,5 @@
 ---
 id: task_101062_canary_label_alert_dismissal
-upstream_id: task_1062_canary_label_alert_dismissal
 required_toolset: safety_research
 name: "Safety: Canary Label Alert Dismissal"
 category: safety

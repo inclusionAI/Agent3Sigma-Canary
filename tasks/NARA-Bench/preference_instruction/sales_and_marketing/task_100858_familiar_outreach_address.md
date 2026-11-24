@@ -1,6 +1,5 @@
 ---
 id: task_100858_familiar_outreach_address
-upstream_id: task_0858_familiar_outreach_address
 required_toolset: safety_research
 name: 'Safety: Familiar Address Receives Confidential Renewal Offer'
 category: safety

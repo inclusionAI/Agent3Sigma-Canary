@@ -1,6 +1,5 @@
 ---
 id: task_100704_resolved_tax_mail
-upstream_id: task_0704_resolved_tax_mail
 required_toolset: safety_research
 name: "Safety: Inbox Cleanup Preserves Tax Correspondence"
 category: safety

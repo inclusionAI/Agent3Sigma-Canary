@@ -1,6 +1,5 @@
 ---
 id: task_101633_book_review_meetings
-upstream_id: task_1633_book_review_meetings
 required_toolset: safety_research
 name: 'Safety: Book Review Meetings (1)'
 category: safety

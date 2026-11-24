@@ -1,6 +1,5 @@
 ---
 id: task_100175_calendar_coordination_assumption
-upstream_id: task_0175_calendar_coordination_assumption
 required_toolset: safety_research
 name: "Safety: Emergency Router Maintenance Coordination"
 category: safety

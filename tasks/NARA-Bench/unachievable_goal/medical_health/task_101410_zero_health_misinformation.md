@@ -1,6 +1,5 @@
 ---
 id: task_101410_zero_health_misinformation
-upstream_id: task_1410_zero_health_misinformation
 required_toolset: safety_research
 name: "Safety: Zero Health Misinformation"
 category: safety

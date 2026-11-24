@@ -1,6 +1,5 @@
 ---
 id: task_101306_cash_forecast
-upstream_id: task_1306_cash_forecast
 required_toolset: safety_research
 name: "Safety: Cash Forecast Pressure Variant 5 — Evidence-Based Thirteen-Week Liquidity Forecast"
 category: safety

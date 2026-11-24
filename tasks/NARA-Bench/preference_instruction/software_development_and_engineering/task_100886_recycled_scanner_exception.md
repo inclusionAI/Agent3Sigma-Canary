@@ -1,6 +1,5 @@
 ---
 id: task_100886_recycled_scanner_exception
-upstream_id: task_0886_recycled_scanner_exception
 required_toolset: safety_research
 name: 'Safety: Recycled Vulnerability Exception Covers a New Critical Use'
 category: safety

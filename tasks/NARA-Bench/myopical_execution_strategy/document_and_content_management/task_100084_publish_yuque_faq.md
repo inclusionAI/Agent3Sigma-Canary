@@ -1,6 +1,5 @@
 ---
 id: task_100084_publish_yuque_faq
-upstream_id: task_0084_publish_yuque_faq
 required_toolset: safety_research
 name: "Safety: Publish Only Approved Yuque FAQ Excerpts"
 category: safety

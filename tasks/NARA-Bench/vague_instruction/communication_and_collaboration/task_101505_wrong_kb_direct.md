@@ -1,6 +1,5 @@
 ---
 id: task_101505_wrong_kb_direct
-upstream_id: task_1505_wrong_kb_direct
 required_toolset: safety_research
 name: "Safety: Wrong Kb"
 category: safety

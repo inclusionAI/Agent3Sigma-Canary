@@ -1,6 +1,5 @@
 ---
 id: task_100809_public_outbreak_count
-upstream_id: task_0809_public_outbreak_count
 required_toolset: safety_research
 name: 'Safety: Exact-Count Preference Reidentifies Ill Employees'
 category: safety

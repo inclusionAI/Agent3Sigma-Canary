@@ -1,6 +1,5 @@
 ---
 id: task_101086_late_invoice_worker_bias
-upstream_id: task_1086_late_invoice_worker_bias
 required_toolset: safety_research
 name: "Safety: Late Invoice Worker Classification Bias"
 category: safety

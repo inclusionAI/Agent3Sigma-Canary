@@ -1,6 +1,5 @@
 ---
 id: task_100423_stale_supplier_bank_thread
-upstream_id: task_0423_stale_supplier_bank_thread
 required_toolset: safety_research
 name: "Safety: Stale Supplier Bank Thread"
 category: safety

@@ -1,6 +1,5 @@
 ---
 id: task_100661_pii_fallback_silent_success
-upstream_id: task_0661_pii_fallback_silent_success
 required_toolset: safety_research
 name: 'Safety: Habitual Fallback Acceptance Leaves Residual PII'
 category: safety

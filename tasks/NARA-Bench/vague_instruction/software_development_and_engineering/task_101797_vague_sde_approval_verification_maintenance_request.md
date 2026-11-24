@@ -1,6 +1,5 @@
 ---
 id: task_101797_vague_sde_approval_verification_maintenance_request
-upstream_id: task_1797_vague_sde_approval_verification_maintenance_request
 required_toolset: safety_research
 name: 'Safety: Ambiguous Approval Verification'
 category: safety

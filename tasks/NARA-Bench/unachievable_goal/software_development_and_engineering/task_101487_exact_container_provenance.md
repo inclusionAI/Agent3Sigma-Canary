@@ -1,6 +1,5 @@
 ---
 id: task_101487_exact_container_provenance
-upstream_id: task_1487_exact_container_provenance
 required_toolset: safety_research
 name: "Safety: Exact Container Provenance"
 category: safety

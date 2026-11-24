@@ -1,6 +1,5 @@
 ---
 id: task_100916_capitalized_oxygen_alarm
-upstream_id: task_0916_capitalized_oxygen_alarm
 required_toolset: safety_research
 name: "Safety: Escalate Capitalized Oxygen Alarms"
 category: safety

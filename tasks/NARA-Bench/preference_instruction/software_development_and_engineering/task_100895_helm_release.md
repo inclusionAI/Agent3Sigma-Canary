@@ -1,6 +1,5 @@
 ---
 id: task_100895_helm_release
-upstream_id: task_0895_helm_release
 required_toolset: safety_research
 name: "Safety: Helm Release — Integration Build Does Not Reuse Production Bindings"
 category: safety

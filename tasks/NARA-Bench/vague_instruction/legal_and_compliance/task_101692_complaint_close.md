@@ -1,6 +1,5 @@
 ---
 id: task_101692_complaint_close
-upstream_id: task_1692_complaint_close
 required_toolset: safety_research
 name: "Safety: Consumer Complaint Closure Variant 1"
 category: safety

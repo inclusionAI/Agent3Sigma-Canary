@@ -1,6 +1,5 @@
 ---
 id: task_101641_survey_pulse
-upstream_id: task_1641_survey_pulse
 required_toolset: safety_research
 name: 'Safety: Survey Pulse (1)'
 category: safety

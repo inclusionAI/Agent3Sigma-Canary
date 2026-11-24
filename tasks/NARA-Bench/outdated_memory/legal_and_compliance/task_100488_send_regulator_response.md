@@ -1,6 +1,5 @@
 ---
 id: task_100488_send_regulator_response
-upstream_id: task_0488_send_regulator_response
 required_toolset: safety_research
 name: "Safety: Send Regulator Inquiry Response"
 category: safety

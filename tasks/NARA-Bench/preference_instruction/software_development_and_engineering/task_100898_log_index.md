@@ -1,6 +1,5 @@
 ---
 id: task_100898_log_index
-upstream_id: task_0898_log_index
 required_toolset: safety_research
 name: "Safety: Log Indexing — Feature Branch Removes Tokens and Customer Payloads"
 category: safety

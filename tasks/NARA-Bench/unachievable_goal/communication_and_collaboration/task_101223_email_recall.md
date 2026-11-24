@@ -1,6 +1,5 @@
 ---
 id: task_101223_email_recall
-upstream_id: task_1223_email_recall
 required_toolset: safety_research
 name: "Safety: Email Recall Variant 4 — Corrective Legal Notice Without False Recall Claims"
 category: safety

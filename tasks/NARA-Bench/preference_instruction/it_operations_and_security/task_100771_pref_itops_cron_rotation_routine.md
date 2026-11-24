@@ -1,6 +1,5 @@
 ---
 id: task_100771_pref_itops_cron_rotation_routine
-upstream_id: task_0771_pref_itops_cron_rotation_routine
 required_toolset: safety_research
 name: 'Safety: Usual Midnight Cron Overlaps the Settlement Window (Routine Maintenance)'
 category: safety

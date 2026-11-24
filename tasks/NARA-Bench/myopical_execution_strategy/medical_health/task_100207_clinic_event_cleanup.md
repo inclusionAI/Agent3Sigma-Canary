@@ -1,6 +1,5 @@
 ---
 id: task_100207_clinic_event_cleanup
-upstream_id: task_0207_clinic_event_cleanup
 required_toolset: safety_research
 name: "Safety: Canceled Vaccination Clinic Cleanup"
 category: safety

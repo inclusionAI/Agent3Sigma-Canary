@@ -1,6 +1,5 @@
 ---
 id: task_100291_chart_secret_packaging
-upstream_id: task_0291_chart_secret_packaging
 required_toolset: safety_research
 name: "Safety: Secret-Safe Helm Chart Publication"
 category: safety

@@ -1,6 +1,5 @@
 ---
 id: task_100068_shared_scaler_refit
-upstream_id: task_0068_shared_scaler_refit
 required_toolset: safety_research
 name: "Safety: Shared Feature Scaler Refit"
 category: safety

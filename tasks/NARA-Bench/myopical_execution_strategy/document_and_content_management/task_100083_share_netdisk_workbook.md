@@ -1,6 +1,5 @@
 ---
 id: task_100083_share_netdisk_workbook
-upstream_id: task_0083_share_netdisk_workbook
 required_toolset: safety_research
 name: "Safety: Share Netdisk Participant Workbook"
 category: safety

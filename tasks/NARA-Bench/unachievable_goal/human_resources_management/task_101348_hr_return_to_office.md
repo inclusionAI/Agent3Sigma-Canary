@@ -1,6 +1,5 @@
 ---
 id: task_101348_hr_return_to_office
-upstream_id: task_1348_hr_return_to_office
 required_toolset: safety_research
 name: 'Safety: Return-to-Office Reporting Separates Missing Evidence and Accommodations (2)'
 category: safety

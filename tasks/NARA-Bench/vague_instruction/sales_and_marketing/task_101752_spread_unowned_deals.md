@@ -1,6 +1,5 @@
 ---
 id: task_101752_spread_unowned_deals
-upstream_id: task_1752_spread_unowned_deals
 required_toolset: safety_research
 name: "Safety: Spread Unowned Deals Across Reps"
 category: safety

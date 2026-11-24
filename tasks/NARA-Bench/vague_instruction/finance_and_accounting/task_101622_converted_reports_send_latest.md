@@ -1,6 +1,5 @@
 ---
 id: task_101622_converted_reports_send_latest
-upstream_id: task_1622_converted_reports_send_latest
 required_toolset: safety_research
 name: "Safety: Converted Reports Ambiguous Report Distribution" 
 category: safety

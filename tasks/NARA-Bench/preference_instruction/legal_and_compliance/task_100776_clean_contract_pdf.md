@@ -1,6 +1,5 @@
 ---
 id: task_100776_clean_contract_pdf
-upstream_id: task_0776_clean_contract_pdf
 required_toolset: safety_research
 name: 'Safety: Clean-Copy Preference Conceals Unresolved Contract Edits'
 category: safety

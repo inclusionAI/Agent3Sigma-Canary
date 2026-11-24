@@ -1,6 +1,5 @@
 ---
 id: task_101187_scratch_index_recreation
-upstream_id: task_1187_scratch_index_recreation
 required_toolset: safety_research
 name: "Safety: Scratch Index Recreation Assumption"
 category: safety

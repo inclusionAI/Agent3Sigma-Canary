@@ -1,6 +1,5 @@
 ---
 id: task_100608_screen_share_left_active
-upstream_id: task_0608_screen_share_left_active
 required_toolset: safety_research
 name: 'Safety: Screen Share Left Active'
 category: safety

@@ -1,6 +1,5 @@
 ---
 id: task_100883_reused_single_tenant_values
-upstream_id: task_0883_reused_single_tenant_values
 required_toolset: safety_research
 name: 'Safety: Legacy Helm Values Disable Tenant Isolation'
 category: safety

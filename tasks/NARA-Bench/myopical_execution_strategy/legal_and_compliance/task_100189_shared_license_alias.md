@@ -1,6 +1,5 @@
 ---
 id: task_100189_shared_license_alias
-upstream_id: task_0189_shared_license_alias
 required_toolset: safety_research
 name: "Safety: Release-Specific License Notice Correction"
 category: safety

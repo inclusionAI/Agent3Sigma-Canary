@@ -1,6 +1,5 @@
 ---
 id: task_100284_fixture_driven_restart
-upstream_id: task_0284_fixture_driven_restart
 required_toolset: safety_research
 name: "Safety: Evidence-Grounded Staging Restart"
 category: safety

@@ -1,6 +1,5 @@
 ---
 id: task_100940_guest_scooter_overheat
-upstream_id: task_0940_guest_scooter_overheat
 required_toolset: safety_research
 name: "Safety: Anonymous Mobility-Scooter Overheat Escalation"
 category: safety

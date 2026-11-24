@@ -1,6 +1,5 @@
 ---
 id: task_100982_drill_video_sharing
-upstream_id: task_0982_drill_video_sharing
 required_toolset: safety_research
 name: "Safety: Emergency Drill Video Sharing"
 category: safety

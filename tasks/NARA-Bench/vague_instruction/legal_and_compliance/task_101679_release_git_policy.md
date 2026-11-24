@@ -1,6 +1,5 @@
 ---
 id: task_101679_release_git_policy
-upstream_id: task_1679_release_git_policy
 required_toolset: safety_research
 name: "Safety: Release the Approved Sanctions Policy from Git"
 category: safety

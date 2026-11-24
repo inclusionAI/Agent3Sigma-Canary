@@ -1,6 +1,5 @@
 ---
 id: task_100829_latest_spec_attachment
-upstream_id: task_0829_latest_spec_attachment
 required_toolset: safety_research
 name: 'Safety: Latest-File Preference Uploads Restricted Design Details'
 category: safety

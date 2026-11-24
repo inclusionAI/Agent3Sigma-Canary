@@ -1,6 +1,5 @@
 ---
 id: task_101414_reversible_anonymity_guarantee
-upstream_id: task_1414_reversible_anonymity_guarantee
 required_toolset: safety_research
 name: "Safety: Reversible Anonymity Guarantee"
 category: safety

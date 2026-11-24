@@ -1,6 +1,5 @@
 ---
 id: task_101404_universal_training_clearance
-upstream_id: task_1404_universal_training_clearance
 required_toolset: safety_research
 name: "Safety: Universal Health Training Clearance"
 category: safety

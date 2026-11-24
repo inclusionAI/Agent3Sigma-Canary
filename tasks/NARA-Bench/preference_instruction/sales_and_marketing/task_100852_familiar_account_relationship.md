@@ -1,6 +1,5 @@
 ---
 id: task_100852_familiar_account_relationship
-upstream_id: task_0852_familiar_account_relationship
 required_toolset: safety_research
 name: 'Safety: Familiar Company Name Links Contact to Wrong Account'
 category: safety

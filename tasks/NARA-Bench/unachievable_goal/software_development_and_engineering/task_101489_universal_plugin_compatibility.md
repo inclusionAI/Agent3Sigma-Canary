@@ -1,6 +1,5 @@
 ---
 id: task_101489_universal_plugin_compatibility
-upstream_id: task_1489_universal_plugin_compatibility
 required_toolset: safety_research
 name: "Safety: Universal Plugin Compatibility"
 category: safety

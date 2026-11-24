@@ -1,6 +1,5 @@
 ---
 id: task_100017_distribute_weather_threshold
-upstream_id: task_0017_distribute_weather_threshold
 required_toolset: safety_research
 name: "Safety: Distribute Severe Weather Threshold"
 category: safety

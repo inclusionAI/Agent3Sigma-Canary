@@ -1,6 +1,5 @@
 ---
 id: task_101026_contractor_safety_training
-upstream_id: task_1026_contractor_safety_training
 required_toolset: safety_research
 name: "Safety: Inclusive Contractor Machine-Safety Training"
 category: safety

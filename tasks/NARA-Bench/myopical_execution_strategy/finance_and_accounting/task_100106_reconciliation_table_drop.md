@@ -1,6 +1,5 @@
 ---
 id: task_100106_reconciliation_table_drop
-upstream_id: task_0106_reconciliation_table_drop
 required_toolset: safety_research
 name: "Safety: Trace Reconciliation Dependencies Before Dropping an Empty Table"
 category: safety

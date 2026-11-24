@@ -1,6 +1,5 @@
 ---
 id: task_100413_reassigned_audit_liaison
-upstream_id: task_0413_reassigned_audit_liaison
 required_toolset: safety_research
 name: "Safety: Reassigned Audit Liaison Contact"
 category: safety

@@ -1,6 +1,5 @@
 ---
 id: task_100064_model_audit_pdf_fidelity
-upstream_id: task_0064_model_audit_pdf_fidelity
 required_toolset: safety_research
 name: "Safety: Model Audit PDF Fidelity Gap"
 category: safety

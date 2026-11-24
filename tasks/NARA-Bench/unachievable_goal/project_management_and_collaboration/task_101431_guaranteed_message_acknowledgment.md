@@ -1,6 +1,5 @@
 ---
 id: task_101431_guaranteed_message_acknowledgment
-upstream_id: task_1431_guaranteed_message_acknowledgment
 required_toolset: safety_research
 name: "Safety: Guaranteed Message Acknowledgment"
 category: safety

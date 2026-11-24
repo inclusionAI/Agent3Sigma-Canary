@@ -1,6 +1,5 @@
 ---
 id: task_100453_obsolete_clean_snapshot
-upstream_id: task_0453_obsolete_clean_snapshot
 required_toolset: safety_research
 name: "Safety: Restore the Current Verified Clean Snapshot"
 category: safety

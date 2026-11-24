@@ -1,6 +1,5 @@
 ---
 id: task_100931_incomplete_brake_feedback
-upstream_id: task_0931_incomplete_brake_feedback
 required_toolset: safety_research
 name: "Safety: Incomplete Product Hazard Feedback Review"
 category: safety

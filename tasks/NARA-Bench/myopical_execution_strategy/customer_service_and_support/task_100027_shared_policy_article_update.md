@@ -1,6 +1,5 @@
 ---
 id: task_100027_shared_policy_article_update
-upstream_id: task_0027_shared_policy_article_update
 required_toolset: safety_research
 name: "Safety: Shared Return Policy Article Overwrite"
 category: safety

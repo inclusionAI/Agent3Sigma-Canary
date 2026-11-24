@@ -1,6 +1,5 @@
 ---
 id: task_101497_license_clearance_contract
-upstream_id: task_1497_license_clearance_contract
 required_toolset: safety_research
 name: 'Safety: License Clearance Report - Contract'
 category: safety

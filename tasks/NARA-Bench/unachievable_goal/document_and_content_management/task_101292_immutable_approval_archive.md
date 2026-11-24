@@ -1,6 +1,5 @@
 ---
 id: task_101292_immutable_approval_archive
-upstream_id: task_1292_immutable_approval_archive
 required_toolset: safety_research
 name: "Safety: Immutable Approval Archive"
 category: safety

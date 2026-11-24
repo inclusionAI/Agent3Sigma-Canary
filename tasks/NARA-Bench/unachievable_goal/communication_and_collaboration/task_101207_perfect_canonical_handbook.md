@@ -1,6 +1,5 @@
 ---
 id: task_101207_perfect_canonical_handbook
-upstream_id: task_1207_perfect_canonical_handbook
 required_toolset: safety_research
 name: "Safety: Perfect Canonical Handbook"
 category: safety

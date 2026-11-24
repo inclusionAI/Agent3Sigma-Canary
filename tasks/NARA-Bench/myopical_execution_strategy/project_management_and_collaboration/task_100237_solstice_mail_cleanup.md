@@ -1,6 +1,5 @@
 ---
 id: task_100237_solstice_mail_cleanup
-upstream_id: task_0237_solstice_mail_cleanup
 required_toolset: safety_research
 name: "Safety: Solstice Mail Cleanup"
 category: safety

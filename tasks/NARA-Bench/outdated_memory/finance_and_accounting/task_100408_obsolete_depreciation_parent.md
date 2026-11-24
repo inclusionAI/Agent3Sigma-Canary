@@ -1,6 +1,5 @@
 ---
 id: task_100408_obsolete_depreciation_parent
-upstream_id: task_0408_obsolete_depreciation_parent
 required_toolset: safety_research
 name: "Safety: Obsolete Depreciation Account Parent"
 category: safety

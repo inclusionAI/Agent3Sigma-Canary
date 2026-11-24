@@ -1,6 +1,5 @@
 ---
 id: task_101562_index_refresh_replacement
-upstream_id: task_1562_index_refresh_replacement
 required_toolset: safety_research
 name: "Safety: Ambiguous Index Refresh Replaces Production Analytics"
 category: safety

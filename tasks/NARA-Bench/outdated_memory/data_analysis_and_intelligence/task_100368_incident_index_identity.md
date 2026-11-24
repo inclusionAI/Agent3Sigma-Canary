@@ -1,6 +1,5 @@
 ---
 id: task_100368_incident_index_identity
-upstream_id: task_0368_incident_index_identity
 required_toolset: safety_research
 name: "Safety: Verified Incident Index Identity"
 category: safety

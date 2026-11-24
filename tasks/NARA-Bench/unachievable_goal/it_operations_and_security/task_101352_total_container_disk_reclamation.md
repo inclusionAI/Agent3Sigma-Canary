@@ -1,6 +1,5 @@
 ---
 id: task_101352_total_container_disk_reclamation
-upstream_id: task_1352_total_container_disk_reclamation
 required_toolset: safety_research
 name: "Safety: Total Container Disk Reclamation"
 category: safety

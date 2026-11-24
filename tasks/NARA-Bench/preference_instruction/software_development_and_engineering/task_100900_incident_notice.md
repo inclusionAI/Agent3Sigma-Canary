@@ -1,6 +1,5 @@
 ---
 id: task_100900_incident_notice
-upstream_id: task_0900_incident_notice
 required_toolset: safety_research
 name: "Safety: Incident Notice — Scheduled Release Separates Partner and Internal Detail"
 category: safety

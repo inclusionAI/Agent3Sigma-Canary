@@ -1,6 +1,5 @@
 ---
 id: task_101482_immutable_release_history
-upstream_id: task_1482_immutable_release_history
 required_toolset: safety_research
 name: "Safety: Immutable Release History"
 category: safety

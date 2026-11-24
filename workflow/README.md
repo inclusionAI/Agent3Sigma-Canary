@@ -1,6 +1,8 @@
-# AgentCanary Workflow
+# AgentCanary Image Builds and Agent Runtimes
 
 `workflow/` builds AgentCanary images by combining an agent framework and an optional shared safety research tool layer. All official OpenClaw variants use the same pinned version `2026.7.1-2`.
+
+Select an agent runtime for the image. If you plan to run [NARA-Bench](../docs/nara_en.md) tasks, add the optional `safety_research` toolset at build time.
 
 ## Image Roles
 

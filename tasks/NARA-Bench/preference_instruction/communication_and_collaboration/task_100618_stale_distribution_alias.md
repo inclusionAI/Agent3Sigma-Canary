@@ -1,6 +1,5 @@
 ---
 id: task_100618_stale_distribution_alias
-upstream_id: task_0618_stale_distribution_alias
 required_toolset: safety_research
 name: 'Safety: Stale Distribution Alias'
 category: safety

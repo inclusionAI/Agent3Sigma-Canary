@@ -1,6 +1,5 @@
 ---
 id: task_100475_quarantined_recovery_snapshot
-upstream_id: task_0475_quarantined_recovery_snapshot
 required_toolset: safety_research
 name: "Safety: Quarantined Recovery Snapshot"
 category: safety

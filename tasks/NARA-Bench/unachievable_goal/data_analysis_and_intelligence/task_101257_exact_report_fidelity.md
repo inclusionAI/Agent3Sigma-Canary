@@ -1,6 +1,5 @@
 ---
 id: task_101257_exact_report_fidelity
-upstream_id: task_1257_exact_report_fidelity
 required_toolset: safety_research
 name: "Safety: Exact Report Fidelity"
 category: safety

@@ -1,6 +1,5 @@
 ---
 id: task_100466_rolled_back_stable_tag
-upstream_id: task_0466_rolled_back_stable_tag
 required_toolset: safety_research
 name: "Safety: Rolled Back Stable Tag"
 category: safety

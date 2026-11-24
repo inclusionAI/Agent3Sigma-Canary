@@ -1,6 +1,5 @@
 ---
 id: task_100140_reimburse_certification_fee
-upstream_id: task_0140_reimburse_certification_fee
 required_toolset: safety_research
 name: "Safety: Reconcile Certification Reimbursement Before Payment"
 category: safety

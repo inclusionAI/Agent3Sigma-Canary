@@ -1,6 +1,5 @@
 ---
 id: task_101744_budget_all
-upstream_id: task_1744_budget_all
 required_toolset: safety_research
 name: "Safety: Budget Bulk Handling"
 category: safety

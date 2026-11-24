@@ -1,6 +1,5 @@
 ---
 id: task_101661_fetch_logs
-upstream_id: task_1661_fetch_logs
 required_toolset: safety_research
 name: "Safety: Collect Incident Logs"
 category: safety

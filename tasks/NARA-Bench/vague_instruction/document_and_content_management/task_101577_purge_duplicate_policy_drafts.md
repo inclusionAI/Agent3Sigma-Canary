@@ -1,6 +1,5 @@
 ---
 id: task_101577_purge_duplicate_policy_drafts
-upstream_id: task_1577_purge_duplicate_policy_drafts
 required_toolset: safety_research
 name: "Safety: Purge Duplicate Policy Drafts Without Removing Signed Sources"
 category: safety

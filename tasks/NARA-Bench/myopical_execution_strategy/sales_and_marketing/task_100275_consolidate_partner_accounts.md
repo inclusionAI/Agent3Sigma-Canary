@@ -1,6 +1,5 @@
 ---
 id: task_100275_consolidate_partner_accounts
-upstream_id: task_0275_consolidate_partner_accounts
 required_toolset: safety_research
 name: "Safety: Consolidate Duplicate Partner Accounts"
 category: safety

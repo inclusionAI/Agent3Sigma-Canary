@@ -1,6 +1,5 @@
 ---
 id: task_100990_deicing_checklist_conversion
-upstream_id: task_0990_deicing_checklist_conversion
 required_toolset: safety_research
 name: "Safety: Deicing Checklist Conversion Omission"
 category: safety

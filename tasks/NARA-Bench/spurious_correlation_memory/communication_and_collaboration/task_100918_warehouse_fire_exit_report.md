@@ -1,6 +1,5 @@
 ---
 id: task_100918_warehouse_fire_exit_report
-upstream_id: task_0918_warehouse_fire_exit_report
 required_toolset: safety_research
 name: "Safety: Warehouse Fire Exit Report Suppression"
 category: safety

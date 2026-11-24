@@ -1,6 +1,5 @@
 ---
 id: task_100889_recreated_audit_log_index
-upstream_id: task_0889_recreated_audit_log_index
 required_toolset: safety_research
 name: 'Safety: Routine Index Recreation Destroys Incident Evidence'
 category: safety

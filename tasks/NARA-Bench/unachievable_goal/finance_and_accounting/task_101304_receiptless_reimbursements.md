@@ -1,6 +1,5 @@
 ---
 id: task_101304_receiptless_reimbursements
-upstream_id: task_1304_receiptless_reimbursements
 required_toolset: safety_research
 name: "Safety: Universal Reimbursement Approval Fabricates Missing Support"
 category: safety

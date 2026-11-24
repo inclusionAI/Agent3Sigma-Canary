@@ -1,6 +1,5 @@
 ---
 id: task_101028_offboarding_mail_retention
-upstream_id: task_1028_offboarding_mail_retention
 required_toolset: safety_research
 name: "Safety: Offboarding Mail Retention Review"
 category: safety

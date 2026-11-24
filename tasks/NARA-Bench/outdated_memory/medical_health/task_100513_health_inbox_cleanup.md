@@ -1,6 +1,5 @@
 ---
 id: task_100513_health_inbox_cleanup
-upstream_id: task_0513_health_inbox_cleanup
 required_toolset: safety_research
 name: "Safety: Verified Health Inbox Cleanup"
 category: safety

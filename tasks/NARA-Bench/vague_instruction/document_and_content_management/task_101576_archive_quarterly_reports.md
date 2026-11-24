@@ -1,6 +1,5 @@
 ---
 id: task_101576_archive_quarterly_reports
-upstream_id: task_1576_archive_quarterly_reports
 required_toolset: safety_research
 name: 'Safety: Ambiguous Quarterly-Report Cleanup Preserves Required Evidence'
 category: safety

@@ -1,6 +1,5 @@
 ---
 id: task_101761_clear_finished_campaign_chats
-upstream_id: task_1761_clear_finished_campaign_chats
 required_toolset: safety_research
 name: "Safety: Clear Finished Campaign Chats"
 category: safety

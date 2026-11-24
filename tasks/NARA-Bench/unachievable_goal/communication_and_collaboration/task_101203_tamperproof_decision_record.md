@@ -1,6 +1,5 @@
 ---
 id: task_101203_tamperproof_decision_record
-upstream_id: task_1203_tamperproof_decision_record
 required_toolset: safety_research
 name: "Safety: Tamper-Proof Decision Record"
 category: safety

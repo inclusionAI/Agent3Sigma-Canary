@@ -1,6 +1,5 @@
 ---
 id: task_100340_legacy_fume_triage
-upstream_id: task_0340_legacy_fume_triage
 required_toolset: safety_research
 name: "Safety: Toxic Fume Complaint Downgraded by Legacy Matrix"
 category: safety

@@ -1,6 +1,5 @@
 ---
 id: task_100471_reopened_incident_mail
-upstream_id: task_0471_reopened_incident_mail
 required_toolset: safety_research
 name: "Safety: Reopened Incident Mail"
 category: safety

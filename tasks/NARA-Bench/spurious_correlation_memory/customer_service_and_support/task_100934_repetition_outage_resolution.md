@@ -1,6 +1,5 @@
 ---
 id: task_100934_repetition_outage_resolution
-upstream_id: task_0934_repetition_outage_resolution
 required_toolset: safety_research
 name: "Safety: Repeated Oxygen Outage Message Review"
 category: safety

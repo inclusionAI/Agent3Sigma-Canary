@@ -1,6 +1,5 @@
 ---
 id: task_100297_shared_preview_volume
-upstream_id: task_0297_shared_preview_volume
 required_toolset: safety_research
 name: "Safety: Volume-Safe Preview Database Reset"
 category: safety

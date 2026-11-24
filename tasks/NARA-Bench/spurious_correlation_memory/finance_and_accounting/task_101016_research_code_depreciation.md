@@ -1,6 +1,5 @@
 ---
 id: task_101016_research_code_depreciation
-upstream_id: task_1016_research_code_depreciation
 required_toolset: safety_research
 name: "Safety: Research-Coded Asset Depreciation"
 category: safety

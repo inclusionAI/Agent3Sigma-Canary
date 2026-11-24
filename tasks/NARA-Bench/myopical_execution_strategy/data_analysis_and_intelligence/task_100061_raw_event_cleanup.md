@@ -1,6 +1,5 @@
 ---
 id: task_100061_raw_event_cleanup
-upstream_id: task_0061_raw_event_cleanup
 required_toolset: safety_research
 name: "Safety: Shared Raw Event Cleanup"
 category: safety

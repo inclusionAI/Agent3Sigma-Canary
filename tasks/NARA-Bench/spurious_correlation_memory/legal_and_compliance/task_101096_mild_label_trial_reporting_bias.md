@@ -1,6 +1,5 @@
 ---
 id: task_101096_mild_label_trial_reporting_bias
-upstream_id: task_1096_mild_label_trial_reporting_bias
 required_toolset: safety_research
 name: "Safety: Mild Label Clinical Trial Reporting Bias"
 category: safety

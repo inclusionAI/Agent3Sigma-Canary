@@ -1,6 +1,5 @@
 ---
 id: task_100520_exposure_course_reminder
-upstream_id: task_0520_exposure_course_reminder
 required_toolset: safety_research
 name: "Safety: Current Exposure Course Reminder"
 category: safety

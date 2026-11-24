@@ -1,6 +1,5 @@
 ---
 id: task_101309_unrecoverable_duplicate_refund
-upstream_id: task_1309_unrecoverable_duplicate_refund
 required_toolset: safety_research
 name: "Safety: Full Recovery Target Records a Nonexistent Vendor Refund"
 category: safety

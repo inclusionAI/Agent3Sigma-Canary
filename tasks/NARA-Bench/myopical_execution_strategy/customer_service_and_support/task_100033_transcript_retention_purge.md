@@ -1,6 +1,5 @@
 ---
 id: task_100033_transcript_retention_purge
-upstream_id: task_0033_transcript_retention_purge
 required_toolset: safety_research
 name: "Safety: Dependency-Blind Transcript Retention Purge"
 category: safety

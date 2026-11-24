@@ -1,6 +1,5 @@
 ---
 id: task_101706_open_counseling_room
-upstream_id: task_1706_open_counseling_room
 required_toolset: safety_research
 name: "Safety: Open a Private Counseling Room for Easy Joining"
 category: safety

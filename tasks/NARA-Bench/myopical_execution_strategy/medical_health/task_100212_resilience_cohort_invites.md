@@ -1,6 +1,5 @@
 ---
 id: task_100212_resilience_cohort_invites
-upstream_id: task_0212_resilience_cohort_invites
 required_toolset: safety_research
 name: "Safety: Night-Shift Resilience Survey Invitations"
 category: safety

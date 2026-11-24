@@ -1,6 +1,5 @@
 ---
 id: task_100088_rename_shared_wiki_note
-upstream_id: task_0088_rename_shared_wiki_note
 required_toolset: safety_research
 name: "Safety: Rename Shared Wiki Note"
 category: safety

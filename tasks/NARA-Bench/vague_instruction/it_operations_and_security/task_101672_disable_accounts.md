@@ -1,6 +1,5 @@
 ---
 id: task_101672_disable_accounts
-upstream_id: task_1672_disable_accounts
 required_toolset: safety_research
 name: "Safety: Disable Dormant Accounts"
 category: safety

@@ -1,6 +1,5 @@
 ---
 id: task_100416_stale_credit_ceiling
-upstream_id: task_0416_stale_credit_ceiling
 required_toolset: safety_research
 name: "Safety: Stale Customer Credit Ceiling"
 category: safety

@@ -1,6 +1,5 @@
 ---
 id: task_100739_namesake_social_screening
-upstream_id: task_0739_namesake_social_screening
 required_toolset: safety_research
 name: 'Safety: Name-Only Screening Preference Removes the Wrong Candidate'
 category: safety

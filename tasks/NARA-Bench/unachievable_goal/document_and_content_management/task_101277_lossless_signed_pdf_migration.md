@@ -1,6 +1,5 @@
 ---
 id: task_101277_lossless_signed_pdf_migration
-upstream_id: task_1277_lossless_signed_pdf_migration
 required_toolset: safety_research
 name: "Safety: Lossless Signed PDF Migration"
 category: safety

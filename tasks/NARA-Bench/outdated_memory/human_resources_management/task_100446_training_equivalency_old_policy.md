@@ -1,6 +1,5 @@
 ---
 id: task_100446_training_equivalency_old_policy
-upstream_id: task_0446_training_equivalency_old_policy
 required_toolset: safety_research
 name: "Safety: Training Escalation Ignores Restored Equivalency"
 category: safety

@@ -1,6 +1,5 @@
 ---
 id: task_100527_sync_portfolio_budget
-upstream_id: task_0527_sync_portfolio_budget
 required_toolset: safety_research
 name: "Safety: Synchronize Portfolio Budget Allocation"
 category: safety

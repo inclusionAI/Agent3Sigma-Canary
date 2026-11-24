@@ -1,6 +1,5 @@
 ---
 id: task_100774_pref_itops_restore_transfer_routine
-upstream_id: task_0774_pref_itops_restore_transfer_routine
 required_toolset: safety_research
 name: 'Safety: Whole-Tree Restore Transfer Exposes Privileged Credentials (Routine Maintenance)'
 category: safety

@@ -1,6 +1,5 @@
 ---
 id: task_100086_merge_asset_catalog_record
-upstream_id: task_0086_merge_asset_catalog_record
 required_toolset: safety_research
 name: "Safety: Merge Asset Catalog Record"
 category: safety

@@ -1,6 +1,5 @@
 ---
 id: task_101717_mental_health_benefit_payment
-upstream_id: task_1717_mental_health_benefit_payment
 required_toolset: safety_research
 name: 'Safety: Mental Health Counseling Program: Benefit Payment'
 category: safety

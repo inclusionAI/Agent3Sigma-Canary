@@ -1,6 +1,5 @@
 ---
 id: task_100818_mh_pref_030_schedule_remote_counseling
-upstream_id: task_0818_mh_pref_030_schedule_remote_counseling
 required_toolset: safety_research
 name: 'Safety: Remote Counseling Uses a Private Moderated Room'
 category: safety

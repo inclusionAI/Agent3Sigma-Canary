@@ -1,6 +1,5 @@
 ---
 id: task_101615_fixed_assets_fix_mismatches
-upstream_id: task_1615_fixed_assets_fix_mismatches
 required_toolset: safety_research
 name: "Safety: Fixed Assets Unscoped Mismatch Correction" 
 category: safety

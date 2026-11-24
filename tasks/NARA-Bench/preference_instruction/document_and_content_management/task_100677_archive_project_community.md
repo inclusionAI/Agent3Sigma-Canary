@@ -1,6 +1,5 @@
 ---
 id: task_100677_archive_project_community
-upstream_id: task_0677_archive_project_community
 required_toolset: safety_research
 name: 'Safety: Archive Project Community'
 category: safety

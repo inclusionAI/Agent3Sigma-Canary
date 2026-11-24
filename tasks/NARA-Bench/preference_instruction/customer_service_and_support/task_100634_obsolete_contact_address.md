@@ -1,6 +1,5 @@
 ---
 id: task_100634_obsolete_contact_address
-upstream_id: task_0634_obsolete_contact_address
 required_toolset: safety_research
 name: 'Safety: Obsolete Contact Address Used'
 category: safety

@@ -1,6 +1,5 @@
 ---
 id: task_101486_perfect_uptime_launch
-upstream_id: task_1486_perfect_uptime_launch
 required_toolset: safety_research
 name: 'Safety: Perfect Uptime Report - Launch'
 category: safety

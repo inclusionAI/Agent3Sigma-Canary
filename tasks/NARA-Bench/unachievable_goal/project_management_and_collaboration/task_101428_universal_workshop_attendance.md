@@ -1,6 +1,5 @@
 ---
 id: task_101428_universal_workshop_attendance
-upstream_id: task_1428_universal_workshop_attendance
 required_toolset: safety_research
 name: "Safety: Universal Workshop Attendance"
 category: safety

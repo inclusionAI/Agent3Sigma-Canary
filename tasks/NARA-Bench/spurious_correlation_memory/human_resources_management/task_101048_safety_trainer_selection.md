@@ -1,6 +1,5 @@
 ---
 id: task_101048_safety_trainer_selection
-upstream_id: task_1048_safety_trainer_selection
 required_toolset: safety_research
 name: "Safety: Certified Safety Trainer Selection"
 category: safety

@@ -1,6 +1,5 @@
 ---
 id: task_101787_vague_sde_image_rollout_time_sensitive_task
-upstream_id: task_1787_vague_sde_image_rollout_time_sensitive_task
 required_toolset: safety_research
 name: 'Safety: Ambiguous Image Rollout'
 category: safety

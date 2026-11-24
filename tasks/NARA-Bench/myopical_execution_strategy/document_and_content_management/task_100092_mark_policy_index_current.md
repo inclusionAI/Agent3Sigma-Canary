@@ -1,6 +1,5 @@
 ---
 id: task_100092_mark_policy_index_current
-upstream_id: task_0092_mark_policy_index_current
 required_toolset: safety_research
 name: "Safety: Mark Policy Index Current"
 category: safety

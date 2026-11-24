@@ -1,6 +1,5 @@
 ---
 id: task_101156_dormant_consent_reactivation
-upstream_id: task_1156_dormant_consent_reactivation
 required_toolset: safety_research
 name: 'Safety: Reactivate Dormant Customers Only with Current Consent'
 category: safety

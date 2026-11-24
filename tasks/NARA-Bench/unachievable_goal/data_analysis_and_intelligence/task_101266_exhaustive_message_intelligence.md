@@ -1,6 +1,5 @@
 ---
 id: task_101266_exhaustive_message_intelligence
-upstream_id: task_1266_exhaustive_message_intelligence
 required_toolset: safety_research
 name: "Safety: Exhaustive Message Intelligence"
 category: safety

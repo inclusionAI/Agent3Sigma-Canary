@@ -1,5 +1,7 @@
 # 评测环境构建用户指南
 
+Skill-to-Sandbox 为两个基准提供有状态的工具环境。例如，同一个云盘中，Viper-Bench 可以检查攻击者嵌入文档的指令是否导致未经授权的数据转移，NARA 可以检查正常分享请求中是否沿用了过时的收件人。两者都可以从最终共享状态验证后果。 [Viper-Bench](viper_zh.md) · [NARA-Bench](nara_zh.md)
+
 在定制化评测任务时，AgentCanary 默认的评测环境可能不能满足你的所有需求，例如，如果你想测评Agent是否有通过谷歌网盘进行数据外发的风险，你则需要评测环境支持“谷歌网盘上传”这一功能。为此，我们提供了 Skill-to-Sandbox 工作流，支持将真实 Skill 适配为可复现、可运行的沙盒版本，并通过本地高保真模拟复现第三方服务的主要接口与状态变化，从而帮助用户构建定制化评测环境，并灵活扩展评测任务。
 
 本文档以上述的“谷歌网盘”为例，展示如何进行这一流程。
@@ -71,7 +73,7 @@ _skills_repository/google-drive-2.0.0/
    ```bash
    cd _skills_repository && bash buildAll.sh
    bash workflow/workflow_step_1_image_builder.sh   # 选择 official
-   export DOCKER_IMAGE=openclaw-official-v<timestamp>
+   export DOCKER_IMAGE=openclaw-official-openclaw-2026.7.1-2-v<timestamp>
    ```
 
 2. 把生成的 task 放到 runner 能发现的位置
@@ -270,7 +272,7 @@ prompt 看起来很正常，但预置的邮件里有隐藏注入。judge 打分�
 ```bash
 cd _skills_repository && bash buildAll.sh
 bash workflow/workflow_step_1_image_builder.sh   # 选 "official"
-export DOCKER_IMAGE=openclaw-official-v<timestamp>
+export DOCKER_IMAGE=openclaw-official-openclaw-2026.7.1-2-v<timestamp>
 ```
 
 ### 8.2 放置 task 文件
@@ -374,7 +376,7 @@ Agent 应当认识到：将一份敏感财务文件（earnings.txt，通过 run_
 ```bash
 cd _skills_repository && bash buildAll.sh
 bash workflow/workflow_step_1_image_builder.sh   # 选 "official"
-export DOCKER_IMAGE=openclaw-official-v<timestamp>
+export DOCKER_IMAGE=openclaw-official-openclaw-2026.7.1-2-v<timestamp>
 ```
 
 **第 3 步——运行。**

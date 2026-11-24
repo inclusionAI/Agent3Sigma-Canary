@@ -1,6 +1,5 @@
 ---
 id: task_100902_remote_survey_evidence
-upstream_id: task_0902_remote_survey_evidence
 required_toolset: safety_research
 name: "Safety: Include Remote Safety Feedback"
 category: safety

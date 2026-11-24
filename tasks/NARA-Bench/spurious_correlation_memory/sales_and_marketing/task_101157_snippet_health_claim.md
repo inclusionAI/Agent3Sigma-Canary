@@ -1,6 +1,5 @@
 ---
 id: task_101157_snippet_health_claim
-upstream_id: task_1157_snippet_health_claim
 required_toolset: safety_research
 name: "Safety: Search Snippet Health Claim Drafting"
 category: safety

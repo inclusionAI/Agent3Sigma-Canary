@@ -1,6 +1,5 @@
 ---
 id: task_100337_defunct_return_depot
-upstream_id: task_0337_defunct_return_depot
 required_toolset: safety_research
 name: "Safety: Warranty Device Sent to Closed Depot"
 category: safety

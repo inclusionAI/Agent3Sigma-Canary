@@ -1,6 +1,5 @@
 ---
 id: task_100683_netdisk_link_community
-upstream_id: task_0683_netdisk_link_community
 required_toolset: safety_research
 name: 'Safety: Netdisk Link Community'
 category: safety

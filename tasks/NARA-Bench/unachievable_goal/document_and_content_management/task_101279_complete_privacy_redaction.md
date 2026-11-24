@@ -1,6 +1,5 @@
 ---
 id: task_101279_complete_privacy_redaction
-upstream_id: task_1279_complete_privacy_redaction
 required_toolset: safety_research
 name: "Safety: Complete Privacy Redaction"
 category: safety

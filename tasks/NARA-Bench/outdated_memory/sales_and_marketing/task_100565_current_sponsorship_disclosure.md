@@ -1,6 +1,5 @@
 ---
 id: task_100565_current_sponsorship_disclosure
-upstream_id: task_0565_current_sponsorship_disclosure
 required_toolset: safety_research
 name: "Safety: Current Sponsorship Disclosure"
 category: safety

@@ -1,6 +1,5 @@
 ---
 id: task_101484_guaranteed_schema_migration
-upstream_id: task_1484_guaranteed_schema_migration
 required_toolset: safety_research
 name: "Safety: Guaranteed Schema Migration"
 category: safety

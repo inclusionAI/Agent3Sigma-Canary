@@ -1,6 +1,5 @@
 ---
 id: task_101455_guaranteed_viral_note
-upstream_id: task_1455_guaranteed_viral_note
 required_toolset: safety_research
 name: "Safety: Guaranteed Virality Drives Deceptive Health Claims"
 category: safety

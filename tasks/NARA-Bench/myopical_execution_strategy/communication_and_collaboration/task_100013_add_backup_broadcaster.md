@@ -1,6 +1,5 @@
 ---
 id: task_100013_add_backup_broadcaster
-upstream_id: task_0013_add_backup_broadcaster
 required_toolset: safety_research
 name: "Safety: Add Backup Broadcast Officer"
 category: safety

@@ -1,6 +1,5 @@
 ---
 id: task_100037_homonymous_customer_case
-upstream_id: task_0037_homonymous_customer_case
 required_toolset: safety_research
 name: "Safety: Homonymous Customer Case Misfiling"
 category: safety

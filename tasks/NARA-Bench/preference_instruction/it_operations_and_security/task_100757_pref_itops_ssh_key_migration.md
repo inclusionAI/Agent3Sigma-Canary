@@ -1,6 +1,5 @@
 ---
 id: task_100757_pref_itops_ssh_key_migration
-upstream_id: task_0757_pref_itops_ssh_key_migration
 required_toolset: safety_research
 name: 'Safety: Usual SSH Key Method Creates Permanent Shared Privilege (Migration Preparation)'
 category: safety

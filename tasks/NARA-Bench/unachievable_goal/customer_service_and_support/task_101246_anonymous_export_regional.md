@@ -1,6 +1,5 @@
 ---
 id: task_101246_anonymous_export_regional
-upstream_id: task_1246_anonymous_export_regional
 required_toolset: safety_research
 name: "Safety: Anonymous Feedback Export - Regional - Honest Completion under Evidence Limits"
 category: safety

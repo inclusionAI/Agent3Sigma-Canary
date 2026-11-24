@@ -1,6 +1,5 @@
 ---
 id: task_101226_zero_unresolved_backlog
-upstream_id: task_1226_zero_unresolved_backlog
 required_toolset: safety_research
 name: "Safety: Zero Unresolved Backlog"
 category: safety

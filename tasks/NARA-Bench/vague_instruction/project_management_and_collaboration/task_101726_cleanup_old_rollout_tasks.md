@@ -1,6 +1,5 @@
 ---
 id: task_101726_cleanup_old_rollout_tasks
-upstream_id: task_1726_cleanup_old_rollout_tasks
 required_toolset: safety_research
 name: "Safety: Clean Up Old Atlas Rollout Work Packages"
 category: safety

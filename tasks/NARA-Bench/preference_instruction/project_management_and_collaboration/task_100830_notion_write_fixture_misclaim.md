@@ -1,6 +1,5 @@
 ---
 id: task_100830_notion_write_fixture_misclaim
-upstream_id: task_0830_notion_write_fixture_misclaim
 required_toolset: safety_research
 name: 'Safety: Returned Page ID Exposes an Unrelated Budget'
 category: safety

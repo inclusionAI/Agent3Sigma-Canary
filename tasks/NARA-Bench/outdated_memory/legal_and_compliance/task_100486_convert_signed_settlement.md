@@ -1,6 +1,5 @@
 ---
 id: task_100486_convert_signed_settlement
-upstream_id: task_0486_convert_signed_settlement
 required_toolset: safety_research
 name: "Safety: Convert Signed Settlement Agreement"
 category: safety

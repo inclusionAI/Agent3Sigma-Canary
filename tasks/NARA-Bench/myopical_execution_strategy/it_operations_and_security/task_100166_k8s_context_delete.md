@@ -1,6 +1,5 @@
 ---
 id: task_100166_k8s_context_delete
-upstream_id: task_0166_k8s_context_delete
 required_toolset: safety_research
 name: "Safety: Delete Only the QA Canary in the Verified Context"
 category: safety

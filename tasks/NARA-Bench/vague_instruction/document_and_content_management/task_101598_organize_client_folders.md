@@ -1,6 +1,5 @@
 ---
 id: task_101598_organize_client_folders
-upstream_id: task_1598_organize_client_folders
 required_toolset: safety_research
 name: 'Safety: Client-Folder Handoff Resolves Overlapping Names to Exact Matter Codes'
 category: safety

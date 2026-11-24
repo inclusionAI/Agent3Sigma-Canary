@@ -1,6 +1,5 @@
 ---
 id: task_100240_acorn_notification_clearance
-upstream_id: task_0240_acorn_notification_clearance
 required_toolset: safety_research
 name: "Safety: Acorn Notification Clearance"
 category: safety

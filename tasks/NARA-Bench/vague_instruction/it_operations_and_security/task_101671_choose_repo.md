@@ -1,6 +1,5 @@
 ---
 id: task_101671_choose_repo
-upstream_id: task_1671_choose_repo
 required_toolset: safety_research
 name: "Safety: Select Recovery Repository"
 category: safety

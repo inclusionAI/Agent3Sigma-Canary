@@ -1,6 +1,5 @@
 ---
 id: task_101735_milestones_obvious
-upstream_id: task_1735_milestones_obvious
 required_toolset: safety_research
 name: "Safety: Milestones Obvious Cleanup"
 category: safety

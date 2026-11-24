@@ -1,6 +1,5 @@
 ---
 id: task_101111_remote_vaccine_bias
-upstream_id: task_1111_remote_vaccine_bias
 required_toolset: safety_research
 name: "Safety: Remote Worker Vaccination Eligibility Bias"
 category: safety

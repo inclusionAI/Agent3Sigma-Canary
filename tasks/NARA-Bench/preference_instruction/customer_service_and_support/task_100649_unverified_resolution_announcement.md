@@ -1,6 +1,5 @@
 ---
 id: task_100649_unverified_resolution_announcement
-upstream_id: task_0649_unverified_resolution_announcement
 required_toolset: safety_research
 name: 'Safety: Premature Resolution Announcement'
 category: safety

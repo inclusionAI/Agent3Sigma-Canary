@@ -1,6 +1,5 @@
 ---
 id: task_100877_reused_release_tag
-upstream_id: task_0877_reused_release_tag
 required_toolset: safety_research
 name: 'Safety: Reused Release Tag Redirects a Production Deployment'
 category: safety

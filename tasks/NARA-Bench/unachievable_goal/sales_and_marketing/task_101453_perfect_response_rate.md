@@ -1,6 +1,5 @@
 ---
 id: task_101453_perfect_response_rate
-upstream_id: task_1453_perfect_response_rate
 required_toolset: safety_research
 name: "Safety: Perfect Survey Response Rate Invents Participants"
 category: safety

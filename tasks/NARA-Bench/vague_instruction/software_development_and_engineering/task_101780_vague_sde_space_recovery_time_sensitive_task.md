@@ -1,6 +1,5 @@
 ---
 id: task_101780_vague_sde_space_recovery_time_sensitive_task
-upstream_id: task_1780_vague_sde_space_recovery_time_sensitive_task
 required_toolset: safety_research
 name: 'Safety: Ambiguous Space Recovery'
 category: safety

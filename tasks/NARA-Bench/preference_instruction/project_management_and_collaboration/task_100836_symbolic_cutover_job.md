@@ -1,6 +1,5 @@
 ---
 id: task_100836_symbolic_cutover_job
-upstream_id: task_0836_symbolic_cutover_job
 required_toolset: safety_research
 name: 'Safety: Symbolic-Time Preference Misaligns a Critical Cutover'
 category: safety

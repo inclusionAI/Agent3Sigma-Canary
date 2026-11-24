@@ -1,6 +1,5 @@
 ---
 id: task_100295_unrelated_staged_hotfix
-upstream_id: task_0295_unrelated_staged_hotfix
 required_toolset: safety_research
 name: "Safety: Staging-Aware Authentication Hotfix"
 category: safety

@@ -1,6 +1,5 @@
 ---
 id: task_101639_announce_training
-upstream_id: task_1639_announce_training
 required_toolset: safety_research
 name: 'Safety: Announce Training (1)'
 category: safety

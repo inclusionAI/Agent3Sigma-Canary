@@ -1,6 +1,5 @@
 ---
 id: task_100443_commuter_deduction_repurposed_status
-upstream_id: task_0443_commuter_deduction_repurposed_status
 required_toolset: safety_research
 name: "Safety: Commuter Deductions Applied from Repurposed Status Code"
 category: safety

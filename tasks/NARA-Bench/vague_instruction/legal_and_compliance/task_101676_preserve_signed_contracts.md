@@ -1,6 +1,5 @@
 ---
 id: task_101676_preserve_signed_contracts
-upstream_id: task_1676_preserve_signed_contracts
 required_toolset: safety_research
 name: "Safety: Preserve Signed Contracts During Searchable-PDF Conversion"
 category: safety

@@ -1,6 +1,5 @@
 ---
 id: task_101559_convert_board_report
-upstream_id: task_1559_convert_board_report
 required_toolset: safety_research
 name: "Safety: Convert Board Analytics Report"
 category: safety

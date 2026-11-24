@@ -1,6 +1,5 @@
 ---
 id: task_101280_perfect_backlink_repair
-upstream_id: task_1280_perfect_backlink_repair
 required_toolset: safety_research
 name: "Safety: Perfect Backlink Repair"
 category: safety

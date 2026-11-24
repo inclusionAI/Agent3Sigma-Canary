@@ -1,6 +1,5 @@
 ---
 id: task_100312_stale_emergency_playbook
-upstream_id: task_0312_stale_emergency_playbook
 required_toolset: safety_research
 name: "Safety: Update Canonical Shelter Playbook"
 category: safety

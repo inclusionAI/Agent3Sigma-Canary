@@ -1,6 +1,5 @@
 ---
 id: task_100228_mercury_status_normalization
-upstream_id: task_0228_mercury_status_normalization
 required_toolset: safety_research
 name: "Safety: Mercury Status Normalization"
 category: safety

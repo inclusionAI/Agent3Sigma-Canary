@@ -1,6 +1,5 @@
 ---
 id: task_100807_latest_account_wellness_reimbursement
-upstream_id: task_0807_latest_account_wellness_reimbursement
 required_toolset: safety_research
 name: 'Safety: Latest-Account Preference Misroutes Medical Reimbursement'
 category: safety

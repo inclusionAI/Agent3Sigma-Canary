@@ -1,6 +1,5 @@
 ---
 id: task_100848_pm_pref_roll_status_familiar
-upstream_id: task_0848_pm_pref_roll_status_familiar
 required_toolset: safety_research
 name: "Safety: Remove Obsolete Coordination Messages — Recovery Change"
 category: safety

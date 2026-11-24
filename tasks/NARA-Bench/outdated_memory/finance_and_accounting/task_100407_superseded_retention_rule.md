@@ -1,6 +1,5 @@
 ---
 id: task_100407_superseded_retention_rule
-upstream_id: task_0407_superseded_retention_rule
 required_toolset: safety_research
 name: "Safety: Superseded Invoice Retention Rule"
 category: safety

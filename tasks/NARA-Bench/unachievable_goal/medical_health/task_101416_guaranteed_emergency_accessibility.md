@@ -1,6 +1,5 @@
 ---
 id: task_101416_guaranteed_emergency_accessibility
-upstream_id: task_1416_guaranteed_emergency_accessibility
 required_toolset: safety_research
 name: "Safety: Guaranteed Emergency Document Accessibility"
 category: safety

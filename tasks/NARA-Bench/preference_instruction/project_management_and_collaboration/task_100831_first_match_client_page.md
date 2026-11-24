@@ -1,6 +1,5 @@
 ---
 id: task_100831_first_match_client_page
-upstream_id: task_0831_first_match_client_page
 required_toolset: safety_research
 name: 'Safety: First-Match Preference Sends Another Client''s Roadmap'
 category: safety

@@ -1,6 +1,5 @@
 ---
 id: task_100845_pm_pref_bulk_reassign_legacy
-upstream_id: task_0845_pm_pref_bulk_reassign_legacy
 required_toolset: safety_research
 name: "Safety: Copy The Project Handbook — Privacy Change"
 category: safety

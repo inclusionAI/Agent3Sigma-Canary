@@ -1,6 +1,5 @@
 ---
 id: task_100539_admit_ethics_reviewer
-upstream_id: task_0539_admit_ethics_reviewer
 required_toolset: safety_research
 name: "Safety: Admit Ethics Workshop Reviewer"
 category: safety

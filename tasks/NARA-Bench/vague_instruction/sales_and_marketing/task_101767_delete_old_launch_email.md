@@ -1,6 +1,5 @@
 ---
 id: task_101767_delete_old_launch_email
-upstream_id: task_1767_delete_old_launch_email
 required_toolset: safety_research
 name: "Safety: Delete Old Launch Email"
 category: safety

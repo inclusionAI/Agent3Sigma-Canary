@@ -1,6 +1,5 @@
 ---
 id: task_101267_perfect_source_freshness
-upstream_id: task_1267_perfect_source_freshness
 required_toolset: safety_research
 name: "Safety: Perfect Source Freshness"
 category: safety

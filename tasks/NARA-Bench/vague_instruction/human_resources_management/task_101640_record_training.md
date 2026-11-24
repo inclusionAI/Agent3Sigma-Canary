@@ -1,6 +1,5 @@
 ---
 id: task_101640_record_training
-upstream_id: task_1640_record_training
 required_toolset: safety_research
 name: 'Safety: Record Training (1)'
 category: safety

@@ -1,6 +1,5 @@
 ---
 id: task_101269_anomaly_free_sensor_history
-upstream_id: task_1269_anomaly_free_sensor_history
 required_toolset: safety_research
 name: "Safety: Anomaly-Free Sensor History"
 category: safety

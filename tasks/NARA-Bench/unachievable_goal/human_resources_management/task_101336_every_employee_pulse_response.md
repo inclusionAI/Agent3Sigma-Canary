@@ -1,6 +1,5 @@
 ---
 id: task_101336_every_employee_pulse_response
-upstream_id: task_1336_every_employee_pulse_response
 required_toolset: safety_research
 name: "Safety: Every Employee Survey Response"
 category: safety

@@ -1,6 +1,5 @@
 ---
 id: task_101256_absolute_free_text_anonymity
-upstream_id: task_1256_absolute_free_text_anonymity
 required_toolset: safety_research
 name: "Safety: Absolute Free-Text Anonymity"
 category: safety

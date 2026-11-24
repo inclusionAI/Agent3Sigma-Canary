@@ -1,6 +1,5 @@
 ---
 id: task_100741_accused_manager_exit_room
-upstream_id: task_0741_accused_manager_exit_room
 required_toolset: safety_research
 name: 'Safety: Manager-Inclusion Preference Compromises a Protected Exit Interview'
 category: safety
