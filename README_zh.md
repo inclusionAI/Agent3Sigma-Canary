@@ -10,8 +10,6 @@ Agent3σ-Canary（简称 AgentCanary）是 [Agent3σ 项目](https://github.com/
 | [Viper-Bench](docs/viper_zh.md) | 当攻击者试图诱导 Agent 越权时，Agent 能否识别风险、保护资源并完成合法任务？ |
 | [NARA-Bench](docs/nara_zh.md) | 在没有攻击者的正常业务委托中，Agent 何时会造成不安全后果？ |
 
-![Agent3σ-Canary overview](images/agentcanary-overview.jpg)
-
 ## 📢 最新动态
 
 - **2026-10**：集成 NARA-Bench 的 1,800 个任务、新增 Claude Code 和 Codex 运行时，并支持组合研究工具镜像和仅采集轨迹。
@@ -38,6 +36,8 @@ Agent3σ-Canary（简称 AgentCanary）是 [Agent3σ 项目](https://github.com/
 3. **核对结果。** 结合工具调用、环境变化与任务评分规则判断后果。分析一次运行前，先确认轨迹完整且任务物料正确加载。[运行有效性标准](docs/run_validity_criteria.md)
 
 ## 🔄 评测流程
+
+两个基准共用图中的任务沙箱、轨迹采集和评分模块。攻击规划器用于对抗性评测；NARA-Bench 在无攻击者条件下运行用户任务。
 
 ![AgentCanary evaluation workflow](images/workflow_zh.png)
 

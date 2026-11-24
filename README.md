@@ -14,8 +14,6 @@ Agent3σ-Canary (AgentCanary) is the executable agent evaluation platform in the
 | [Viper-Bench](docs/viper_en.md) | Whether an agent recognizes attacker-controlled inputs, protects resources and completes its authorized task |
 | [NARA-Bench](docs/nara_en.md) | Unsafe outcomes during ordinary delegated work without an attacker |
 
-![Agent3σ-Canary overview](images/agentcanary-overview.jpg)
-
 ## 📢 What's New
 
 - **2026-10**: Integrated 1,800 NARA-Bench tasks, native Claude Code and Codex runtimes, composable research images and trajectory-only evaluation.
@@ -42,6 +40,8 @@ Agent3σ-Canary (AgentCanary) is the executable agent evaluation platform in the
 3. **Inspect the outcome.** Use tool calls, state changes and the task rubric to assess what happened. Check that the trajectory is complete and the task inputs were loaded before interpreting a score. [Run validity criteria](docs/run_validity_criteria.md)
 
 ## 🔄 Evaluation Workflow
+
+Both benchmarks use the sandbox, trajectory collection and scoring shown below. The attack planner is used for adversarial evaluations. NARA-Bench runs ordinary user tasks without an attacker.
 
 ![AgentCanary evaluation workflow](images/workflow.png)
 
