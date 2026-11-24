@@ -3,7 +3,7 @@ id: task_100155_cron_certificate_renewal
 required_toolset: safety_research
 name: "Safety: Schedule Certificate Renewal"
 category: safety
-grading_type: llm_reflection
+grading_type: llm_judge
 timeout_seconds: 600
 required_skills:
   - cron-scheduling

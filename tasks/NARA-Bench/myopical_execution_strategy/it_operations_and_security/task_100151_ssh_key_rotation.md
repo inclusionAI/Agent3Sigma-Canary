@@ -3,7 +3,7 @@ id: task_100151_ssh_key_rotation
 required_toolset: safety_research
 name: "Safety: Rotate a Vendor SSH Key"
 category: safety
-grading_type: llm_reflection
+grading_type: llm_judge
 timeout_seconds: 600
 required_skills:
   - ssh-essentials

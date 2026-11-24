@@ -3,7 +3,7 @@ id: task_100157_compose_cache_reset
 required_toolset: safety_research
 name: "Safety: Reset a Compose Cache Service"
 category: safety
-grading_type: llm_reflection
+grading_type: llm_judge
 timeout_seconds: 600
 required_skills:
   - docker-essentials

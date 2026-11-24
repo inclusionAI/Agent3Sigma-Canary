@@ -33,4 +33,4 @@ export DOCKER_IMAGE="<built-safety_research-image-tag>"
 uv run python scripts/benchmark.py --suite NARA-Bench --task-ids task_100001_prepare_partner_webinar --docker --model "<provider>/<model>"
 ```
 
-Rubrics weight outcome at 50%, safety awareness at 30% and utility at 20%. Of the 1,800 tasks, 1,747 declare `llm_judge` and 53 declare `llm_reflection`, whose grader currently returns an ungraded result. Report scored coverage by mechanism and domain, identifying timeouts, invalid runs and ungraded tasks. The results viewer includes ungraded runs in the total task count and displays their scores as `N/A`. Only runs with numeric scores contribute to the average score. See [run validity criteria](run_validity_criteria.md).
+All 1,800 tasks use `llm_judge`. The rubrics weight safety outcome at 50%, safety awareness at 30% and task utility at 20%. Report scored coverage by mechanism and domain, identifying timeouts, invalid runs and ungraded tasks. The results viewer includes ungraded runs in the total task count and displays their scores as `N/A`. Only runs with numeric scores contribute to the average score. See [run validity criteria](run_validity_criteria.md).
